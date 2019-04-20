@@ -1,0 +1,19 @@
+{
+  "name": "hk4114.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hk4114/hk4114.github.io.git",
+  "author": "hk4114 <741180788@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "sh deploy.sh"
+  },
+  "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
+    "vuepress": "^1.0.0-alpha.46",
+    "vuepress-theme-meteorlxy": "^1.0.0-alpha.34"
+  },
+  "devDependencies": {}
+}
