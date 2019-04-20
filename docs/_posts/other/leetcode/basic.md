@@ -2,7 +2,7 @@
 title: LeetCode 题解
 category: other
 tags:
-  - 算法
+  - leetcode
 ---
 
 每周一题 leetcode

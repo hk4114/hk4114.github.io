@@ -42,6 +42,8 @@ vssue-id: 1
 
 - [MDN web 文档](https://developer.mozilla.org/zh-CN/)
 
+- [css-tricks](https://css-tricks.com/)
+
 ### 外语学习
 
 - [程序员英语学习实践经验](https://a-programmers-guide-to-english.harryyu.me/)
