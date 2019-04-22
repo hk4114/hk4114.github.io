@@ -3,6 +3,7 @@ title: LeetCode 题解
 category: other
 tags:
   - leetcode
+vssue-id: 3
 ---
 
 每周一题 leetcode
@@ -148,4 +149,39 @@ var addTwoNumbers = function(l1, l2) {
     }
     return dummyHead.next;
 }
+```
+
+## 4. 罗马数字转整数
+
+:::tip
+输入："III"
+输出：3
+
+输入: "IV"
+输出: 4
+
+输入: "IX"
+输出: 9
+:::
+
+```js
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var romanToInt = function(s) {
+    const m = {
+        I:1,V:5,X:10,L:50,C:100,D:500,M:1000
+    }
+    let ans = 0
+    for(let i=0,l=s.length;i<l;i++){
+        if( i<l-1 && m[s[i]]<m[s[i+1]] ){
+           ans-=m[s[i]]
+        }
+        else{
+            ans+=m[s[i]]
+        }
+    }
+    return ans
+};
 ```
