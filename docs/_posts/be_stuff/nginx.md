@@ -5,20 +5,12 @@ tags:
   - 服务器
   - Nginx
 date: 2019-04-21
-vssue-id: false
+vssue-id: 4
 ---
 
-> Why do i use Nginx?
+Why do i use Nginx? 支持海量高并发;内存消耗少;免费试用可以商业化;配置文件简单。
 
-+ 支持海量高并发
-
-+ 内存消耗少
-
-+ 免费试用可以商业化
-
-+ 配置文件简单
-
-<!--more-->
+<!-- more -->
 
 
 # Nginx 基础
@@ -54,7 +46,7 @@ mkdir app/backup/download/logs/work
 
 ### 2. Nginx安装
 
-:::warnning
+::: warning
 
 Mainline version: 开发版,主要是给广大Nginx爱好者，测试、研究和学习的，但是不建议使用于生产环境。
 
