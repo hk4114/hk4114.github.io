@@ -8,7 +8,7 @@ vssue-id: 3
 
 每周一题 leetcode
 
-<!--more-->
+<!-- more -->
 
 # LeetCode 题解(简单)
 

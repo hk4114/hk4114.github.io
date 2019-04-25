@@ -4,12 +4,14 @@ tags:
   - React
   - FE-frame
 date: 2018-04-06
-title: Hello React
+title: 三分钟react项目初始化
+vssue: false
 ---
 
-如何开始一个react项目。
+如何开始一个react项目
 
-<!--more-->
+<!-- more -->
+
 # react项目初始化配置
 
 >1. create-react-app
@@ -60,4 +62,3 @@ title: Hello React
   cnpm i --save react react-dom
   14. 修改app/index.js
 
-> [demoes](https://github.com/hk4114/LeaningReact)

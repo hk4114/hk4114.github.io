@@ -1,5 +1,5 @@
 ---
-title: python 初始化
+title: python学习(基础)
 category: language
 tags:
   - python
@@ -10,7 +10,7 @@ vssue-id: 1
 
 python 初学
 
-<!--more-->
+<!-- more -->
 
 
 # python hello world

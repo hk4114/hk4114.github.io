@@ -4,12 +4,13 @@ tags:
   - Taro
   - FE-frame
 date: 2019-04-07
-title: Hello Taro
+title: 三分钟 教你完成taro的搭建
+vssue: false
 ---
 
-如何开始一个Taro项目。
+如何开始一个taro项目
 
-<!--more-->
+<!-- more -->
 
 # taro 使用
 
