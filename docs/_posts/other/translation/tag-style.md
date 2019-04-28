@@ -2,8 +2,7 @@
 title: box-shadow和clip-path同时使用的问题
 category: Other
 tags:
-  - CSS
-  - translation
+  - 翻译
 date: 2019-04-21
 vssue-id: 2
 ---
@@ -13,6 +12,7 @@ vssue-id: 2
 解决方法: 包一层`wrap`，使用滤镜`filter:drop-shadow`来实现效果。
 
 <!-- more -->
+
 # [CSS] "box-shadows" 和 "clip-path" 同时使用出现的问题
 
 > Author: [Chris Coyier](https://css-tricks.com/author/chriscoyier/)

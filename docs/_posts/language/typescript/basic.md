@@ -3,9 +3,12 @@ title: TypeScript 基础
 category: language
 tags:
   - typescript
-  - basic
 date: 2019-04-13
+vssue: false
 ---
+
+TS 官方博客阅读笔记
+
 <!-- more -->
 
 ## 运行环境

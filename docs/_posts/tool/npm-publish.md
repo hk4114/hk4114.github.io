@@ -2,13 +2,12 @@
 title: 发布一个NPM包
 category: tool
 tags:
-  - tool
   - npm
-vssue-title: false
+vssue: false
 ---
 
 
-发布一个npm包
+如何发布一个npm包
 
 <!-- more -->
 

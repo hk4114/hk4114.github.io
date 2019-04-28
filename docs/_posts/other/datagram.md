@@ -1,8 +1,6 @@
 ---
 title: 资料包
 category: other
-tags:
-  - datagram
 vssue-id: 1
 ---
 
@@ -69,13 +67,7 @@ vssue-id: 1
 
 - [深入实践 ES6 Proxy & Reflect](https://mp.weixin.qq.com/s/CgTuEkPoRFgDjI3hTEmniw) 
 
-- [彻底终结 Javascript 背后的隐式类型转换](https://mp.weixin.qq.com/s/_29gGqirEpGvHwCXLvHvdg)
-
-- [图解 Map、Reduce 和 Filter 数组方法](https://mp.weixin.qq.com/s/bUQAy7xoJzRpe44sbWT5GA)
-
 - [弹幕不挡人！基于色键技术的纯客户端实时蒙版弹幕](https://mp.weixin.qq.com/s/7xk-DiNdwb5U5lTZCekfrA)
-
-- [TypeScript - 一种思维方式](https://mp.weixin.qq.com/s/cBijEkYSmJVJ03tpTncyNw)
 
 - [从表单抽象到表单中台](https://mp.weixin.qq.com/s/LBmmqTxU82MvVuj_YM0tTQ)
 
@@ -83,13 +75,9 @@ vssue-id: 1
 
 - [深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/8jg4X-cymkIpn0zVaMDf6Q)
 
-- [前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s/wecUdGnuHdZOs3t7zc16jw)
-
 - [全面分析前端的网络请求方式](https://mp.weixin.qq.com/s/LKcEylaxb21_GeCXoGZ8fA)
 
 - [面向复杂场景的高性能表单解决方案(背景篇)](https://mp.weixin.qq.com/s/F0kWGM3OGsnUbBdSGvrZ-g)
-
-- [前端框架Benchmark 2019：Vue表现怎么样？](https://mp.weixin.qq.com/s/pmUHz_eN0a02q0pDIBgwQg)
 
 - [如何更有逼格的用JS控制CSS颜色？](https://mp.weixin.qq.com/s/lYUuQ49lpZxiTGpt3IapaQ)
 
@@ -97,17 +85,7 @@ vssue-id: 1
 
 - [两步获取小程序源码](https://zhuanlan.zhihu.com/p/37667537?utm_source=wechat_session&utm_medium=social&s_s_i=02NqeE7Y2clngEHHmKMR7JCcH7VeG9t2XHgAjv0fuh4%3D&s_r=1)
 
-
-- [面试](https://www.v2ex.com/t/542103)
-
-
 - [插件开发](https://juejin.im/post/5b96586de51d450e7d0984a6)
-
-- [插件开发](https://juejin.im/post/5b45df255188251b1d474860)
-
-- [5分钟多端应用](https://mp.weixin.qq.com/s/4VGoG0RtSEc37OyPkHM1uQ)
-
-- [fetch进阶指南](http://louiszhai.github.io/2016/11/02/fetch/)
 
 - [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
 
@@ -115,4 +93,70 @@ vssue-id: 1
 
 - [小程序登录授权](https://mp.weixin.qq.com/s/Lu9JPVNM92leo96d_KLczA)
 
-- [react hook](https://segmentfault.com/a/1190000016953180)
+
+::: tip webpack 部分
+[Webpack 打包含动态加载的类库](https://mp.weixin.qq.com/s/wLqxG0OR0LFk9o5gXiqtRA)
+
+[webpack loader机制源码解析](https://mp.weixin.qq.com/s/tUw_okkCRnvr3NNEgHk3Ew)
+
+[我的打包我做主——浅析前端构建](https://mp.weixin.qq.com/s/52ja4nEhA4z0LWunxXsjUg)
+:::
+
+::: tip career
+[世界是平的吗？——从不同角度看前端](https://mp.weixin.qq.com/s/PPGw-lVcY2hVUZJMo5Sxkw)
+
+[给2019前端的5个建议](https://mp.weixin.qq.com/s/RE0gVIuRKosH_HhEVS62GQ)
+
+[2019 前端性能优化年度总结 — 第一部分](https://mp.weixin.qq.com/s/RRFFC1M7WwlEliEcQj4tAA)
+
+[2019 前端性能优化年度总结 — 第二部分](https://mp.weixin.qq.com/s/PDBl3xxNcOp2R9W2NHcJcw)
+
+[在淘宝做前端的这三年 — 第一年](https://mp.weixin.qq.com/s/iJEm90JQRnZwOg3zy8SF7w)
+
+[在淘宝做前端的这三年 — 第三年](https://mp.weixin.qq.com/s/bqnLtbbiFa7rlKPyMwb-Fw)
+
+[在阿里云做前端](https://mp.weixin.qq.com/s/16ZPRN2iDVfvgd8hjh7lvQ)
+
+[Airbnb 的“硅谷”产品工程师](https://mp.weixin.qq.com/s/jG9SDXxpJuxoSgqD71N_LQ)
+
+[前端专业方向的尽头](https://mp.weixin.qq.com/s/sDPUu8XZ-fev-dcn3BWgvg)
+
+[设计师的下半场，掌握全链路设计的5个方法](https://mp.weixin.qq.com/s/UGecD5xhXqhWlzPPZeoQ2Q)
+:::
+
+
+::: tip taro
+[Gitter - 高颜值GitHub小程序客户端诞生记](https://mp.weixin.qq.com/s/iiTd2SD17c1DbA4zHRDlBw)
+
+[Taro 多端开发的正确姿势：打造三端统一的网易严选](https://mp.weixin.qq.com/s/zZYQHNS3fBH_PpcNF8T1aQ)
+
+[编写chameleon跨端组件的正确姿势](https://mp.weixin.qq.com/s/J0-8fAmNDpwvr_Hd86SROA)
+:::
+
+::: tip TS
+[TypeScript 和 Babel：一场美丽的结合](https://mp.weixin.qq.com/s/wjleZi1OaTdywuJWuYbtsA)
+
+:::
+
+::: tip Git
+[Git项目管理](https://mp.weixin.qq.com/s/V9oV1AmOv83iBt-6x865kA)
+:::
+
+::: tip Node
+[Node.js 中的依赖管理](https://mp.weixin.qq.com/s/cSHCKRdMPLKyPP_pOH3nkg)
+
+[为什么 Node 是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s/wCrVlFQxj8CLM-0KcQ4ugw)
+:::
+
+::: tip react
+[十个案例学会 React Hooks](https://mp.weixin.qq.com/s/vHzgNqaRiDF9tq3JgW7LxQ)
+
+[深入了解React，从Mixin到HOC再到Hook](https://mp.weixin.qq.com/s/WiRUFWmsq-FSudtSCld6Fg)
+
+[react hook](https://segmentfault.com/a/1190000016953180)
+:::
+
+:: tip vue
+[Vue组件库工程探索与实践之构建工具](https://mp.weixin.qq.com/s/6lCZUw9DcDtOaTN4mHxc2g)
+
+:::

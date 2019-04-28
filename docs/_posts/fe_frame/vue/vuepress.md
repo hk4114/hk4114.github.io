@@ -1,15 +1,9 @@
 ---
 title: Vuepress-Markdown
-category: Vue
+category: FE-frame
 tags:
   - Vue
   - Markdown
-  - FE-frame
-meta:
-  - name: description
-    content: hello
-  - name: keywords
-    content: vuepress SEO
 date: 2019-04-17
 vssue: false
 ---

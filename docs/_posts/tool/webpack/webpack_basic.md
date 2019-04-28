@@ -2,9 +2,9 @@
 title: 构建webpack的环境
 category: tool
 tags:
-  - tool
-  - npm
-vssue-title: false
+  - webpack
+  - 打包工具
+vssue: false
 ---
 
 webpack的使用与常见问题
