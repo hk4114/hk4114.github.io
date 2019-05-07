@@ -94,6 +94,11 @@ vssue-id: 1
 - [小程序登录授权](https://mp.weixin.qq.com/s/Lu9JPVNM92leo96d_KLczA)
 
 
+
+:::git
+[Git项目管理](https://mp.weixin.qq.com/s/V9oV1AmOv83iBt-6x865kA)
+:::
+
 ::: tip webpack 部分
 [Webpack 打包含动态加载的类库](https://mp.weixin.qq.com/s/wLqxG0OR0LFk9o5gXiqtRA)
 
@@ -101,29 +106,6 @@ vssue-id: 1
 
 [我的打包我做主——浅析前端构建](https://mp.weixin.qq.com/s/52ja4nEhA4z0LWunxXsjUg)
 :::
-
-::: tip career
-[世界是平的吗？——从不同角度看前端](https://mp.weixin.qq.com/s/PPGw-lVcY2hVUZJMo5Sxkw)
-
-[给2019前端的5个建议](https://mp.weixin.qq.com/s/RE0gVIuRKosH_HhEVS62GQ)
-
-[2019 前端性能优化年度总结 — 第一部分](https://mp.weixin.qq.com/s/RRFFC1M7WwlEliEcQj4tAA)
-
-[2019 前端性能优化年度总结 — 第二部分](https://mp.weixin.qq.com/s/PDBl3xxNcOp2R9W2NHcJcw)
-
-[在淘宝做前端的这三年 — 第一年](https://mp.weixin.qq.com/s/iJEm90JQRnZwOg3zy8SF7w)
-
-[在淘宝做前端的这三年 — 第三年](https://mp.weixin.qq.com/s/bqnLtbbiFa7rlKPyMwb-Fw)
-
-[在阿里云做前端](https://mp.weixin.qq.com/s/16ZPRN2iDVfvgd8hjh7lvQ)
-
-[Airbnb 的“硅谷”产品工程师](https://mp.weixin.qq.com/s/jG9SDXxpJuxoSgqD71N_LQ)
-
-[前端专业方向的尽头](https://mp.weixin.qq.com/s/sDPUu8XZ-fev-dcn3BWgvg)
-
-[设计师的下半场，掌握全链路设计的5个方法](https://mp.weixin.qq.com/s/UGecD5xhXqhWlzPPZeoQ2Q)
-:::
-
 
 ::: tip taro
 [Gitter - 高颜值GitHub小程序客户端诞生记](https://mp.weixin.qq.com/s/iiTd2SD17c1DbA4zHRDlBw)
@@ -133,30 +115,10 @@ vssue-id: 1
 [编写chameleon跨端组件的正确姿势](https://mp.weixin.qq.com/s/J0-8fAmNDpwvr_Hd86SROA)
 :::
 
-::: tip TS
-[TypeScript 和 Babel：一场美丽的结合](https://mp.weixin.qq.com/s/wjleZi1OaTdywuJWuYbtsA)
-
-:::
-
-::: tip Git
-[Git项目管理](https://mp.weixin.qq.com/s/V9oV1AmOv83iBt-6x865kA)
-:::
-
-::: tip Node
-[Node.js 中的依赖管理](https://mp.weixin.qq.com/s/cSHCKRdMPLKyPP_pOH3nkg)
-
-[为什么 Node 是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s/wCrVlFQxj8CLM-0KcQ4ugw)
-:::
-
 ::: tip react
 [十个案例学会 React Hooks](https://mp.weixin.qq.com/s/vHzgNqaRiDF9tq3JgW7LxQ)
 
 [深入了解React，从Mixin到HOC再到Hook](https://mp.weixin.qq.com/s/WiRUFWmsq-FSudtSCld6Fg)
 
 [react hook](https://segmentfault.com/a/1190000016953180)
-:::
-
-:: tip vue
-[Vue组件库工程探索与实践之构建工具](https://mp.weixin.qq.com/s/6lCZUw9DcDtOaTN4mHxc2g)
-
 :::
