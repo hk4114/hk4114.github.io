@@ -54,18 +54,11 @@ vssue-id: 1
 
 :::
 
-
-- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-
-- [什么是SOLID原则](https://juejin.im/post/5c1f845ee51d4568020a8ba8)
-
 - [浏览器中的画中画模式及其 API](https://mp.weixin.qq.com/s/U8n8pQo06QC5eAvH7cV6SA)
 
 - [剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s/6H8WU6B5p4t2mJKeRaxD1A)
 
 - [基于Redux/Vuex/MobX等库的通用化状态OOP](https://mp.weixin.qq.com/s/ML4aODMXDwfQWlb-EjfXbg)
-
-- [深入实践 ES6 Proxy & Reflect](https://mp.weixin.qq.com/s/CgTuEkPoRFgDjI3hTEmniw) 
 
 - [弹幕不挡人！基于色键技术的纯客户端实时蒙版弹幕](https://mp.weixin.qq.com/s/7xk-DiNdwb5U5lTZCekfrA)
 
@@ -82,8 +75,6 @@ vssue-id: 1
 - [如何更有逼格的用JS控制CSS颜色？](https://mp.weixin.qq.com/s/lYUuQ49lpZxiTGpt3IapaQ)
 
 - [JS如何工作系列文章](https://segmentfault.com/a/1190000018854431)
-
-- [两步获取小程序源码](https://zhuanlan.zhihu.com/p/37667537?utm_source=wechat_session&utm_medium=social&s_s_i=02NqeE7Y2clngEHHmKMR7JCcH7VeG9t2XHgAjv0fuh4%3D&s_r=1)
 
 - [插件开发](https://juejin.im/post/5b96586de51d450e7d0984a6)
 
@@ -122,3 +113,14 @@ vssue-id: 1
 
 [react hook](https://segmentfault.com/a/1190000016953180)
 :::
+
+
+[NodeJS架构 - 单线程事件循环模型](https://segmentfault.com/a/1190000017402133)
+
+[前端也需要好好的精进自己的算法](https://segmentfault.com/a/1190000015849882)
+
+[《Webkit技术内幕》之页面渲染过程](https://segmentfault.com/a/1190000015897539)
+
+[支付](https://www.cnblogs.com/kelly2017/p/7280068.html)
+
+重学前端
