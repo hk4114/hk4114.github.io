@@ -377,3 +377,30 @@ body: new Row(
 ),
 
 ```
+
+## columnWIdget 纵向布局
+
+```js
+body: Center(
+    child: Column(
+    crossAxisAlignment: CrossAxisAlignment.center, // start/center/end
+    mainAxisAlignment: MainAxisAlignment.center,//主轴
+    children: <Widget>[// 默认居中对齐
+      Text("你好"),
+      Text("如果说你喜欢我"),
+      Expanded( // flex-grow:1
+        child: Text("那就告诉我"),
+      ),
+      Text("大家都在干什么"),
+      Text("可别说话了")
+    ],
+  ),
+)
+```
+
+## StackWidget 层叠布局
+
+```
+
+
+```
