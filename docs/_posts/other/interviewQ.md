@@ -67,9 +67,9 @@ function request(options) {
             success: (payload) => {
                 const { code,data } = payload
                 if(code !== "200"){//状态码不对
-                    reject(result.data)
+                    reject(payload.data)
                 }
-                resolve(result)
+                resolve(payload)
             },
             fail: (error) => {
                 wx.hideLoading()
