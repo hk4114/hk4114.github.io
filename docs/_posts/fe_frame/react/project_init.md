@@ -175,3 +175,5 @@ react view -> action(web api) -> dispatch(分发) -> store(根据action更新自
 1. react组件一般不提供方法，而是某种状态机
 2. react组件可以理解为一个纯函数
 3. 单向数据绑定
+
+> 

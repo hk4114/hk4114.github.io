@@ -11,8 +11,6 @@ winter is coming,这威力果然不可小嘘。
 
 > 离职找工作，汇总所有面试的问题
 
-## D1
-
 ### 1. [wx.request](https://developers.weixin.qq.com/miniprogram/dev/api/wx.request.html) 请求拦截与响应拦截
 
 ::: tip 关键词分析
