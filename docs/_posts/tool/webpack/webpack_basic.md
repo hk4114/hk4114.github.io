@@ -3,7 +3,6 @@ title: 构建webpack的环境
 category: tool
 tags:
   - webpack
-  - 打包工具
 vssue: false
 ---
 

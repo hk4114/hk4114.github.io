@@ -2,7 +2,6 @@
 category: FE-frame
 tags:
   - React
-  - FE-frame
 date: 2018-04-06
 title: react hello world
 vssue: false

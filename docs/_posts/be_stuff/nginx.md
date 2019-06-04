@@ -2,7 +2,6 @@
 title: Nginx 基础
 category: be-stuff
 tags:
-  - 服务器
   - Nginx
 date: 2019-04-21
 vssue-id: 4

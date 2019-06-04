@@ -1,8 +1,7 @@
 ---
-category: Taro
+category: FE-frame
 tags:
   - Taro
-  - FE-frame
 date: 2019-04-07
 title: 三分钟 教你完成taro的搭建
 vssue: false

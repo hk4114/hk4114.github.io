@@ -102,3 +102,7 @@ vssue-id: 1
 [Git项目管理](https://mp.weixin.qq.com/s/V9oV1AmOv83iBt-6x865kA)
 
 :::
+
+[如何用 Google Colab 练 Python？](https://sspai.com/post/52980)
+
+[爬取2000篇 Matrix 文章，这是一份可视化踹门教程](https://sspai.com/post/54169)

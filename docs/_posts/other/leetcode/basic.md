@@ -151,7 +151,7 @@ var addTwoNumbers = function(l1, l2) {
 }
 ```
 
-## 4. 罗马数字转整数
+## 5. 罗马数字转整数
 
 :::tip
 输入："III"
@@ -184,4 +184,25 @@ var romanToInt = function(s) {
     }
     return ans
 };
+```
+
+## 6. 数组去重和数组旋转
+```js
+
+let a = [...new Set(arr)]
+
+let a =[]
+for(let i=0,l=arr.length;i<l;i++){
+    if(a.indexOf(arr[i]) == -1){
+        a.push(arr[i])
+    }
+}
+
+// 旋转 [1,2,3,4,5,6] 传入 3/i -> [4,5,6,1,2,3]
+function rotate(arr,i){
+    let l = arr.length
+    let newArr = arr.concat(arr);
+    let num = i % l
+    return newArr.slice(l-num,newArr.length-num)
+}
 ```
