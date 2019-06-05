@@ -54,21 +54,23 @@ vssue-id: 1
 需要整理的文章:
 
 :::
-- [ES NEXT](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651231754&idx=1&sn=0fab4ef809f984554444fb0df6b9c666&chksm=bd494f8e8a3ec698494bc47db371b96fce34626de8e15bad661a43e2b95fed24af9e7a4e7762&scene=0&xtrack=1&key=df7b8dd0b2018f33c05673cdd59fafc4d318fa8435196fa11122bdc51a3944691eb3d2c4f20487a5beb84790a6a6c696928b2b0ac6c212f42e8d5de6c97c07966d0ed19e76f66e57885bab8942db88ea&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=IZM0JXH767yUJKmMTRb/IiqEz/GoVOEjb7b8SIA1fbVpv6bey7F3wyKiOryKMQED)
-
-- [深入实践 ES6 Proxy & Reflect](https://mp.weixin.qq.com/s/CgTuEkPoRFgDjI3hTEmniw)
-
-- [12张图带你理解异步JS](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491390&idx=2&sn=c5625aa2221edd2f6a2a46e32b7b1f61&chksm=f951aa7dce26236b100f666816e63e209e087565025edb653cd587c1176fb49ee87398cd89b9&mpshare=1&scene=1&srcid=&key=899820547a7b892f1f4f5196aebcfb5080959b670d0752c08354207f11f9e99eaf4999eda5bb7c5b97a01b730d7057421c2dc3d4dfd314fd5d681326c35917fe2686a59f241d104e61efe6d77cc80abc&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=F%2BKgirLG1wrB%2FUqrT8vi3fOeorBNd8tKNQ%2FQJchbutTFF9SCzQxPg4QRkFIe5Iaj)
-
-- [拆解 JavaScript 中的异步模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232427&idx=1&sn=84691cca63745d36ac97b959a6fd696c&chksm=bd49412f8a3ec8398eaf2cf7eb43d5ab7ac8a98528d93a4e4a9a81f4763449c656533b0df46b&mpshare=1&scene=1&srcid=&key=c3ff9b054c1d1dbc364935c1040585f6502b2b6b6f6f8a8fcc9c4661314b491c0f587434348fd80edf39b2f7022b20d564f0f5fc2363a4b9267eb07ac03cc52e5c06734648f96bdbe95c4d1f83617034&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv%2BajuezVMkMQfiSpjBkutrBSJ2%2FJVEbsrC7hho1CT6LewLJK4tqr71aP6)
 
 - [前端也需要好好的精进自己的算法](https://segmentfault.com/a/1190000015849882)
 
 - [剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s/6H8WU6B5p4t2mJKeRaxD1A)
 
-- [可能是最被误用的 HTTP 响应头之一 Cache-Control: must-revalidate](https://mp.weixin.qq.com/s/CIEJvoMpsDngIPAIRKnSug)
 
-- [全面分析前端的网络请求方式](https://mp.weixin.qq.com/s/LKcEylaxb21_GeCXoGZ8fA)
+::: tip git
+
+[Git项目管理](https://mp.weixin.qq.com/s/V9oV1AmOv83iBt-6x865kA)
+
+:::
+
+[如何用 Google Colab 练 Python？](https://sspai.com/post/52980)
+
+[爬取2000篇 Matrix 文章，这是一份可视化踹门教程](https://sspai.com/post/54169)
+
+::: tip JS 规范
 
 - [JS如何工作系列文章](https://segmentfault.com/a/1190000018854431)
 
@@ -78,11 +80,28 @@ vssue-id: 1
 
 - [你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 
-- [event loop](https://github.com/aooy/blog/issues/5)
+- [ES NEXT](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651231754&idx=1&sn=0fab4ef809f984554444fb0df6b9c666&chksm=bd494f8e8a3ec698494bc47db371b96fce34626de8e15bad661a43e2b95fed24af9e7a4e7762&scene=0&xtrack=1&key=df7b8dd0b2018f33c05673cdd59fafc4d318fa8435196fa11122bdc51a3944691eb3d2c4f20487a5beb84790a6a6c696928b2b0ac6c212f42e8d5de6c97c07966d0ed19e76f66e57885bab8942db88ea&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=IZM0JXH767yUJKmMTRb/IiqEz/GoVOEjb7b8SIA1fbVpv6bey7F3wyKiOryKMQED)
 
-- [NodeJS架构 - 单线程事件循环模型](https://segmentfault.com/a/1190000017402133)
+- [深入实践 ES6 Proxy & Reflect](https://mp.weixin.qq.com/s/CgTuEkPoRFgDjI3hTEmniw)
 
-- [深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/8jg4X-cymkIpn0zVaMDf6Q)
+- [12张图带你理解异步JS](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491390&idx=2&sn=c5625aa2221edd2f6a2a46e32b7b1f61&chksm=f951aa7dce26236b100f666816e63e209e087565025edb653cd587c1176fb49ee87398cd89b9&mpshare=1&scene=1&srcid=&key=899820547a7b892f1f4f5196aebcfb5080959b670d0752c08354207f11f9e99eaf4999eda5bb7c5b97a01b730d7057421c2dc3d4dfd314fd5d681326c35917fe2686a59f241d104e61efe6d77cc80abc&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=F%2BKgirLG1wrB%2FUqrT8vi3fOeorBNd8tKNQ%2FQJchbutTFF9SCzQxPg4QRkFIe5Iaj)
+
+- [拆解 JavaScript 中的异步模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232427&idx=1&sn=84691cca63745d36ac97b959a6fd696c&chksm=bd49412f8a3ec8398eaf2cf7eb43d5ab7ac8a98528d93a4e4a9a81f4763449c656533b0df46b&mpshare=1&scene=1&srcid=&key=c3ff9b054c1d1dbc364935c1040585f6502b2b6b6f6f8a8fcc9c4661314b491c0f587434348fd80edf39b2f7022b20d564f0f5fc2363a4b9267eb07ac03cc52e5c06734648f96bdbe95c4d1f83617034&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv%2BajuezVMkMQfiSpjBkutrBSJ2%2FJVEbsrC7hho1CT6LewLJK4tqr71aP6)
+
+:::
+
+::: tip webpack
+
+- [浅析前端构建 webpack](https://mp.weixin.qq.com/s/52ja4nEhA4z0LWunxXsjUg)
+
+- [Webpack 是怎样运行的?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232309&idx=1&sn=e6555a6a45ff1af76e9b0f1061499bcb&chksm=bd4941b18a3ec8a7edd3cbfc64bbc60eba7c1fbca7672ba775cc01f016ec2804934285720d7e&scene=0&xtrack=1&key=a90c16d3bbfeedd001e1318af0565600c80fa85ea29bce3e0403c6d00515337bbcebdf347b9284d8743755203984563120eaca116eacd535302843a57bad58c6e758397c62b299fa5ce393eb11f19417&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv%2BajuezVMkMQfiSpjBkutrBSJ2%2FJVEbsrC7hho1CT6LewLJK4tqr71aP6)
+
+:::
+
+
+::: tip 浏览器
+
+- [前端路由原理解析和实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232265&idx=1&sn=a559a97b36f3a6f359cda13c035fc68e&chksm=bd49418d8a3ec89b65cb282b2c1815b1782355f3de2a461c11f6b84d4defff57f39d4ce5a0ad&scene=0&xtrack=1&key=5e53b76d517ba281070a07df69afac3e48828c7e98b4f322d05af8a40c6477f73f81d6312581faac1547c275b97659515bfd1f3304ac06b23b4f0004148ea628faddbec78e9cb7651bc319ba388baac8&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv%2BajuezVMkMQfiSpjBkutrBSJ2%2FJVEbsrC7hho1CT6LewLJK4tqr71aP6)
 
 - [浏览器的 Event Loop](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49&chksm=bd49569d8a3edf8bff6e67a1eff689d1ca26e8289ece27b6cca213250875924a18b3c8abdcd0&scene=0&key=66c7e60d4a7369dbe22019fd1051326a9b2ccce6944e630430246f27f65c709c7e7dfe4b791e0b23add41b3ce7bc2251c62f00e4b0fb6527b14d11f5395fdd1f116e9a4b7390058d2fe6e3ac04a8f14f&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=F%2BKgirLG1wrB%2FUqrT8vi3fOeorBNd8tKNQ%2FQJchbutTFF9SCzQxPg4QRkFIe5Iaj)
 
@@ -96,20 +115,20 @@ vssue-id: 1
 
 - [浏览器中的画中画模式及其 API](https://mp.weixin.qq.com/s/U8n8pQo06QC5eAvH7cV6SA)
 
-- [前端路由原理解析和实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232265&idx=1&sn=a559a97b36f3a6f359cda13c035fc68e&chksm=bd49418d8a3ec89b65cb282b2c1815b1782355f3de2a461c11f6b84d4defff57f39d4ce5a0ad&scene=0&xtrack=1&key=5e53b76d517ba281070a07df69afac3e48828c7e98b4f322d05af8a40c6477f73f81d6312581faac1547c275b97659515bfd1f3304ac06b23b4f0004148ea628faddbec78e9cb7651bc319ba388baac8&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv%2BajuezVMkMQfiSpjBkutrBSJ2%2FJVEbsrC7hho1CT6LewLJK4tqr71aP6)
+- [深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/8jg4X-cymkIpn0zVaMDf6Q)
+:::
 
-- [浅析前端构建 webpack](https://mp.weixin.qq.com/s/52ja4nEhA4z0LWunxXsjUg)
+::: tip nodejs
+- [event loop](https://github.com/aooy/blog/issues/5)
 
-- [Webpack 是怎样运行的?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232309&idx=1&sn=e6555a6a45ff1af76e9b0f1061499bcb&chksm=bd4941b18a3ec8a7edd3cbfc64bbc60eba7c1fbca7672ba775cc01f016ec2804934285720d7e&scene=0&xtrack=1&key=a90c16d3bbfeedd001e1318af0565600c80fa85ea29bce3e0403c6d00515337bbcebdf347b9284d8743755203984563120eaca116eacd535302843a57bad58c6e758397c62b299fa5ce393eb11f19417&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv%2BajuezVMkMQfiSpjBkutrBSJ2%2FJVEbsrC7hho1CT6LewLJK4tqr71aP6)
-
-::: tip git
-
-[Git项目管理](https://mp.weixin.qq.com/s/V9oV1AmOv83iBt-6x865kA)
+- [NodeJS架构 - 单线程事件循环模型](https://segmentfault.com/a/1190000017402133)
 
 :::
 
-[如何用 Google Colab 练 Python？](https://sspai.com/post/52980)
+::: tip request
+- [可能是最被误用的 HTTP 响应头之一 Cache-Control: must-revalidate](https://mp.weixin.qq.com/s/CIEJvoMpsDngIPAIRKnSug)
 
-[爬取2000篇 Matrix 文章，这是一份可视化踹门教程](https://sspai.com/post/54169)
+- [全面分析前端的网络请求方式](https://mp.weixin.qq.com/s/LKcEylaxb21_GeCXoGZ8fA)
+:::
 
 [跟上潮流，把你的React代码从HOC迁移到Hook上](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491401&idx=2&sn=ef7e49d74bb1400a41d5fc43a81b4dd7&chksm=f951aa0ace26231c48c62ec5f4ace6efa54d270402f14a506153d258c5a5b6be31af09071379&mpshare=1&scene=1&srcid=&key=c3ff9b054c1d1dbcddc23d9e5df67fdc80c8ddd72bf4224d9d05987d0a3b7b7c3732a7cb8561e2f85d383e3b88e8875964e29a79bb27407bd7313fd05cd318055e9c2b1385d0d4b036c0209e242d6deb&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv%2BajuezVMkMQfiSpjBkutrBSJ2%2FJVEbsrC7hho1CT6LewLJK4tqr71aP6)
