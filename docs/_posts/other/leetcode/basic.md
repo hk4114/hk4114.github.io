@@ -98,7 +98,17 @@ var twoSum = function(nums, target) {
             if(nums[i]+nums[j] == target)return[i,j]
         }
     }
-};
+}
+
+const twoSum = (arr,aim)=>{
+    let map={}
+    for(let i=0,l=arr.length;i<l;i++){
+        if(map.hasOwnProperty(aim-arr[i])){
+            return [i,map[aim-arr[i]]]
+        }
+        map[arr[i]] = i
+    }
+}
 ```
 
 
