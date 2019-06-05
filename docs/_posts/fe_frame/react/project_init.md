@@ -61,7 +61,7 @@ mkdir project && cd project
 # 初始化
 npm init -y && tsc --init 
 # 安装开发工具
-npm install-D webpack webpack-cli webpack-dev-server
+npm install -D webpack webpack-cli webpack-dev-server
 # 安装react相关
 npm install -S react react-dom
 npm install -D @types/react @types/react-dom
@@ -86,7 +86,7 @@ npm install -D html-webpack-plugin
 ```js
 
 const path = require("path")
-
+const HtmlWebpackPlugin = require("html-webpack-plugin")
 module.exports = {
    entry:{
       app: path.join(__dirname,'./../','src/index.tsx')
@@ -127,7 +127,7 @@ import * as React from 'react'
 import * as ReactDOM from 'react-dom'
 
 const render =()=>{
-   ReactDOM.reader(
+   ReactDOM.render(
       <div>just start</div>,
       document.querySelector('#app')
    )
