@@ -12,7 +12,7 @@ vssue: false
 <details>
     <summary>修改main.dart</summary>
 
-```
+```dart
 // 引入 UI
 import 'package:flutter/material.dart';
 //  入口方法
@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget{
 <details>
     <summary>原本的`main.dart`</summary>
 
-```
+```dart
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -148,7 +148,7 @@ class MyApp extends StatelessWidget{
 </details>
 
 
-```js
+```dart
 // code
 child:Container(
   child: new Text(
@@ -176,7 +176,7 @@ child:Container(
 
 [官方文档](https://flutterchina.club/assets-and-images/)
 
-```
+```dart
 child: new Image.network( // 四种引入形式
   'https://hk4114.github.io/hero.jpg', // path
   fit: BoxFit.scaleDown, // 
@@ -188,7 +188,7 @@ child: new Image.network( // 四种引入形式
 
 ## ListView 组件使用
 
-```js
+```dart
 body: new ListView(
   children: <Widget>[
     // new Image.network('path') // 可以添加任意组件
@@ -230,7 +230,7 @@ body: Center(
 <details>
   <summary>组件式写法</summary>
 
-```
+```dart
 ...
 body: Center(
   child: Container(
@@ -267,7 +267,11 @@ class MyList extends StatelessWidget{
 </details>
 
 ### 动态加载组件内容
-```js
+
+<details>
+  <summary>code</summary>
+
+```dart
 // 1 传参
 void main() => runApp(MyApp(
   // items: List()// 里面可以传参数字 代表长度
@@ -293,9 +297,16 @@ class MyApp extends StatelessWidget{
 }
 ```
 
+</details>
+
+
+
 ### 栅格列表
 
-```
+<details>
+  <summary>code</summary>
+
+```dart
 body: GridView.count(
   padding: const EdgeInsets.all(20.0),
   crossAxisSpacing: 10.0,//网格间距
@@ -327,9 +338,11 @@ body: GridView(
 )
 ```
 
+</details>
+
 ## RowWidget 布局
 
-```
+```dart
 body: new Row(
   children: <Widget>[
     new RaisedButton(
@@ -380,7 +393,7 @@ body: new Row(
 
 ## columnWIdget 纵向布局
 
-```js
+```dart
 body: Center(
     child: Column(
     crossAxisAlignment: CrossAxisAlignment.center, // start/center/end
@@ -400,8 +413,62 @@ body: Center(
 
 ## StackWidget 层叠布局
 
+![image](https://i.bmp.ovh/imgs/2019/06/63979160a5862ca9.png)
+
+<details>
+  <summary>双组件层叠</summary>
+
+```dart
+import "package:flutter/material.dart";
+
+void main()=> runApp(MyApp());
+
+class MyApp extends StatelessWidget{
+  @override
+  Widget build(BuildContext context) {
+
+    var stack = new Stack(
+      alignment: const FractionalOffset(0.5,1), //水平垂直
+      children: <Widget>[
+        new CircleAvatar(
+          backgroundImage: new NetworkImage('https://hk4114.github.io/hero.jpg'),
+          radius: 100.0,
+        ),
+        new Container(
+          decoration: new BoxDecoration(
+            color: Colors.lightBlue
+          ),
+          padding: EdgeInsets.all(5.0), // padding
+          child: Text('huakang try try'),
+        )
+      ],
+      
+    );
+
+    return MaterialApp(
+      title: 'stack widget demo',
+      home: Scaffold(
+        appBar: new AppBar(
+          title: new Text("stack布局"),
+        ),
+        body: Center(
+          child: stack,
+        )
+      )
+    );
+  }
+}
+```
+</details>
+
+## Stack 层叠定位
+
+<details>
+  <summary>code</summary>
+
+```dart
+
+
 ```
 
-
-```
-
+</details>
