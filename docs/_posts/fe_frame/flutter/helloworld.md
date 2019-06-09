@@ -467,8 +467,362 @@ class MyApp extends StatelessWidget{
   <summary>code</summary>
 
 ```dart
-
+var stack = new Stack(
+      alignment: const FractionalOffset(0.5,1), //水平垂直
+      children: <Widget>[
+        new CircleAvatar(
+          backgroundImage: new NetworkImage('https://hk4114.github.io/hero.jpg'),
+          radius: 100.0,
+        ),
+        new Positioned(
+          top: 10.0,
+          left: 10.0,
+          child: new Text("huakang"),
+        ),
+        new Positioned(
+          bottom: 10.0,
+          right: 10.0,
+          child: new Text("hello world"),
+        )
+      ],
+    );
 
 ```
 
 </details>
+
+## 卡片布局 card widget
+
+![image](https://i.bmp.ovh/imgs/2019/06/6365d9227f0af9d7.png)
+
+<details>
+  <summary> code </summary>
+
+```dart
+var card = new Card(
+      child: Column(
+        children: <Widget>[
+          ListTile(
+            title: Text("浙江省杭州市江干区",style: TextStyle(fontWeight:FontWeight.w500)),
+            subtitle: Text("华亢 1373221****"),
+            leading: new Icon(Icons.account_box,color: Colors.lightGreen),
+          ),
+          new Divider(),
+          ListTile(
+            title: Text("浙江省杭州市江干区",style: TextStyle(fontWeight:FontWeight.w500)),
+            subtitle: Text("绝了 1373221****"),
+            leading: new Icon(Icons.account_box,color: Colors.lightGreen),
+          ),
+          new Divider(),
+          ListTile(
+            title: Text("浙江省杭州市江干区",style: TextStyle(fontWeight:FontWeight.w500)),
+            subtitle: Text("咋样 1373221****"),
+            leading: new Icon(Icons.account_box,color: Colors.lightGreen),
+          )
+        ],
+      ),
+    );
+```
+
+</details>
+
+
+## 导航父子页面的跳转
+
+<details>
+  <summary>code</summary>
+
+```dart
+import "package:flutter/material.dart";
+
+void main() {
+  runApp(MaterialApp(
+    title: "导航演示001",
+    home: new FirstScreen(),
+  ));
+}
+
+class FirstScreen extends StatelessWidget{
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('nav'),
+      ),
+      body: Center(
+        child: RaisedButton(
+          child: Text("view good detail"),
+          onPressed: (){
+            Navigator.push(context, MaterialPageRoute(
+              builder: (context)=> new SecondScreen()
+            ));
+          }
+        ),
+      ),
+    );
+  }
+  
+}
+
+class SecondScreen extends StatelessWidget{
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text('huakang tech learning')),
+      body: Center(
+        child:RaisedButton(
+          child: Text('back'),
+          onPressed: (){
+            Navigator.pop(context);
+          },
+        ),
+      ),
+    );
+  }
+}
+```
+
+</details>
+
+## 导航参数传递
+
+::: tip
+
+vscode 插件: awesome flutter snippets
+
+stlss: 生成模板文件
+
+:::
+
+<details>
+  <summary>code</summary>
+
+```dart
+import "package:flutter/material.dart";
+
+// 商品抽象
+class Product{
+  final String title;
+  final String description;
+  Product(this.title,this.description);
+}
+
+void main(){
+  runApp(MaterialApp(
+    title: "导航数据传递阐述和接收",
+    // 传参
+    home: ProductList(
+      // --- 传入 ProductList ---
+      products: List.generate
+      (20,
+      (i)=>Product('样品 $i','这是一个商品编号，编号$i')) // 传入product
+      // --- 传入 ProductList ---
+    )
+  ));
+}
+
+class ProductList extends StatelessWidget {
+  final List<Product> products;
+  // 接参
+  ProductList({Key key,@required this.products}):super(key:key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text('商品列表')),
+      body: ListView.builder(
+        itemCount: products.length,
+        itemBuilder: (context,index){
+          return ListTile(
+            title: Text(products[index].title),
+            onTap:(){
+              Navigator.push(context, 
+              MaterialPageRoute(
+                builder: (context) => ProductDetail(product:products[index])
+              ));
+            }
+          );
+        },
+      )
+    );
+  }
+}
+
+class ProductDetail extends StatelessWidget {
+
+  final Product product;
+
+  ProductDetail({Key key,@required this.product}):super(key:key);
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('${product.title}'),
+      ),
+      body: Center(
+        child: Text('${product.description}'),
+      )
+    );
+  }
+}
+
+```
+
+</details>
+
+## 页面跳转并返回参数
+
+<details>
+  <summary>code</summary>
+
+```dart
+// 1. 异步请求和等待
+// 2. snackbar toast
+// 3. 子页面返回数据
+import 'package:flutter/material.dart';
+
+void main(){
+  runApp(MaterialApp(
+    title: '页面跳转返回参数',
+    home: FirstPage(),
+  ));
+}
+
+
+class FirstPage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("商品详情回单"),
+      ),
+      body: Center(
+          child: RouteButton(),
+      )
+    );
+  }
+}
+
+class RouteButton extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return RaisedButton(
+      onPressed: (){
+        _navigateToDetail(context);
+      },
+      child: Text('进入详情')
+    );
+  }
+
+  _navigateToDetail(BuildContext context) async{
+
+    final result = await Navigator.push(
+      context, 
+      MaterialPageRoute(
+        builder: (context)=>Detail()
+      )
+    );
+    Scaffold.of(context).showSnackBar(SnackBar(content: Text('$result')));
+  }
+}
+
+
+class Detail extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('商品详情'),
+      ),
+      body: Center(
+        child: Column(
+          children: <Widget>[
+            RaisedButton(
+              child: Text('商品详情1'),
+              onPressed: (){
+                Navigator.pop(context,'商品详情1');
+              },
+            ),
+            RaisedButton(
+              child: Text('商品详情2'),
+              onPressed: (){
+                Navigator.pop(context,'商品详情2');
+              },
+            )
+          ],
+        ),
+      )
+    );
+  }
+}
+```
+
+</details>
+
+## 静态资源和项目图片处理
+
+```bash
+# pubspec.yaml  assets
+# root(根目录) mkdir images
+assets:
+  - images/check.jpg
+
+# dart文件中
+Image.asset('images/check.jpg')
+```
+
+
+## flutter打包
+
+|                      文件地址                       |                            作用                            |
+| :-------------------------------------------------: | :--------------------------------------------------------: |
+|        项目根目录/android/app/src/main/res/         |                        更换app图标                         |
+| 项目根目录/android/app/src/main/AndroidManifest.xml | 配置APP的名称(android:label)、图标(android:icon)和系统权限 |
+
+::: tip key生成
+
+Java binary at: G:\AS\jre\bin\java
+
+```bash
+flutter doctor -v # Java binary at: G:\'package name'\jre\bin\java 空格使用单引号包裹 找到文件夹
+keytool -genkey -v -keystore ~/key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key # 盘符
+# right
+G:\AS\jre\bin\keytool -genkey -v -keystore e:/key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key
+
+# key.properties
+storePassword=<password from previous step>    //输入上一步创建KEY时输入的 密钥库 密码
+keyPassword=<password from previous step>    //输入上一步创建KEY时输入的 密钥 密码
+keyAlias=key
+storeFile=<E:/key.jks>    //key.jks的存放路径
+
+# \android\app\build.gradle 在android{这一行前面,加入如下代码
+def keystorePropertiesFile = rootProject.file("key.properties")
+def keystoreProperties = new Properties()
+keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+
+# 把如下代码进行替换
+buildTypes {
+    release {
+        signingConfig signingConfigs.debug
+    }
+}
+# change
+signingConfigs {
+    release {
+        keyAlias keystoreProperties['keyAlias']
+        keyPassword keystoreProperties['keyPassword']
+        storeFile file(keystoreProperties['storeFile'])
+        storePassword keystoreProperties['storePassword']
+    }
+}
+buildTypes {
+    release {
+        signingConfig signingConfigs.release
+    }
+}
+
+# flutter build apk 运行命令
+# flutter install 虚拟机安装应用
+```
+
+:::
