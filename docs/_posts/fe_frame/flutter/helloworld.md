@@ -790,10 +790,21 @@ keytool -genkey -v -keystore ~/key.jks -keyalg RSA -keysize 2048 -validity 10000
 G:\AS\jre\bin\keytool -genkey -v -keystore e:/key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias key
 
 # key.properties
-storePassword=<password from previous step>    //输入上一步创建KEY时输入的 密钥库 密码
-keyPassword=<password from previous step>    //输入上一步创建KEY时输入的 密钥 密码
+#创建KEY时输入的 密钥库 密码
+ 
+storePassword=
+ 
+#创建KEY时输入的 密钥 密码
+ 
+keyPassword=
+ 
+#密钥名称
+ 
 keyAlias=key
-storeFile=<E:/key.jks>    //key.jks的存放路径
+ 
+#签名的存放路径
+ 
+storeFile=G:/key.jks
 
 # \android\app\build.gradle 在android{这一行前面,加入如下代码
 def keystorePropertiesFile = rootProject.file("key.properties")

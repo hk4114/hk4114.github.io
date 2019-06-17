@@ -1,9 +1,9 @@
 ---
-title: ESnext 整理
+title: ES Next 整理
 category: language
 tags:
   - js
-date: 2019-6-4
+date: 2019-6-17
 vssue-id: false
 ---
 
@@ -13,9 +13,10 @@ vssue-id: false
 
 [[toc]]
 
-## ES6
-
 ### let 和 const
+
+
+
 
 ### 箭头函数
 
