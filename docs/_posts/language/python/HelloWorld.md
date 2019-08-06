@@ -1,5 +1,5 @@
 ---
-title: python学习(基础)
+title: python基础
 category: language
 tags:
   - python
@@ -7,7 +7,7 @@ date: 2019-04-17
 vssue-id: 1
 ---
 
-[廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 学习
+环境和基本语法
 
 <!-- more -->
 
@@ -44,4 +44,7 @@ if True:
     print('true')
 else:
     print('false')
+
+exit() 
+# 退出
 ```

@@ -13,10 +13,6 @@ vssue-id: false
 
 [[toc]]
 
-### let 和 const
-
-
-
 
 ### 箭头函数
 
