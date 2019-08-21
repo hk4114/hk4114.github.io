@@ -55,5 +55,6 @@ module.exports = {
     ['@vuepress/google-analytics', {
       'ga': 'UA-138662199-1',
     }],
+    "vuepress-plugin-cat"
   ]
 }
