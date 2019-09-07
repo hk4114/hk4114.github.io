@@ -28,6 +28,7 @@ tsc -V // 查看版本
 ```
 
 <h4>3. 第一个程序</h4>
+
 ```bash
 npm init -y //初始化项目
 tsc --init // create file tsconfig.json TS项目配置文件
@@ -61,6 +62,7 @@ var REN;
     REN["nv"] = "nv";
     REN["yao"] = "yao";
 })(REN || (REN = {}));
+
 ```
 
 2. any

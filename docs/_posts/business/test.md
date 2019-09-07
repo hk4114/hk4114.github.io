@@ -1,6 +1,8 @@
 ---
 title: 渗透测试
-category: other
+category: business
+tags:
+  - 测试
 date: 2019-05-07
 vssue: false
 ---
