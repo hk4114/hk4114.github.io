@@ -1,6 +1,5 @@
 ---
 title: 资料包
-category: other
 vssue-id: 1
 ---
 

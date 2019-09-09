@@ -1,6 +1,6 @@
 ---
 title: 渗透测试
-category: business
+category: 技术项目应用
 tags:
   - 测试
 date: 2019-05-07

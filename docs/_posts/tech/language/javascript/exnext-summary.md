@@ -1,6 +1,6 @@
 ---
 title: ES Next 整理
-category: language
+category: 关于技术
 tags:
   - js
 date: 2019-6-17

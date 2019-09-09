@@ -1,14 +1,11 @@
 ---
 title: window.onload与$(document).ready()
-category: business
+category: 关于技术
 tags:
   - js
 date: 2019-05-07
 vssue: false
 ---
-
-
-<!-- more -->
 
 ### 共同点:
 表面上看都是页面加载时就去执行一个函数或动作。
@@ -26,3 +23,4 @@ $(document).ready()可以同时编写多个，并且都可以得到执行。
 window.onload没有简化写法 ；
 \$(document).ready(function(){})可以简写成$(function(){});
 
+<!-- more -->

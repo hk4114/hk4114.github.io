@@ -1,12 +1,18 @@
 ---
 title: 网页支付（支付宝、微信）
-category: business
+category: 技术项目应用
 tags:
   - pc
-  - 在线支付
+  - 支付
+  - js
 date: 2019-09-07
 vssue: false
 ---
+
+摘要: 
+1. 微信支付
+2. 微信扫码支付
+3. 支付宝支付
 
 
 <!-- more -->
@@ -20,6 +26,7 @@ vssue: false
 ![api.png](https://upload-images.jianshu.io/upload_images/48928-417bc67f0d6e8303.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 3. 页面中引入微信的内置js可以用WeixinJSBridge对象
+
 ```html
 <script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
 ```
@@ -89,7 +96,8 @@ $.ajax({
 利用基于jquery类库的jquery.qrcode.js的 插件绘制二维码展示到页面中。
 
 生成二维码之后设置定时器去查询下订单。订单支付成功之后。跳转window.location.href="回调成功的url,支付成功页面";
-```
+
+```js
 generateQRCode("table",300, 300, erweima);
 // 查询接口
 timer=setInterval(checkorderinfo, 3000); 
@@ -101,7 +109,7 @@ timer=setInterval(checkorderinfo, 3000);
 2. h5浏览器。直接 window.location.href =locationurl;直接可以发起支付宝app去支付。
 3. 支付成功后台设置成功回跳的url.支付成功页面。
 
-```json
+```js
 //在url中携带一些参数
 http://www.xxx.com/shop/pay/xxx.html?
 total_amount=xxx // 支付总金额
