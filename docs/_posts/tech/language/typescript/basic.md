@@ -2,7 +2,7 @@
 title: TypeScript 基础
 category: language
 tags:
-  - typescript
+  - ts
 date: 2019-04-13
 vssue: false
 ---

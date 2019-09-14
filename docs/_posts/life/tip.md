@@ -1,6 +1,6 @@
 ---
 title: 日常小贴士
-category: other
+category: 生活经验
 date: 2018-01-01
 vssue: false
 ---

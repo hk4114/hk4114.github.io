@@ -1,8 +1,9 @@
 ---
 title: LeetCode 题解
-category: other
+category: 关于技术
 tags:
-  - leetcode
+  - 算法
+  - js
 vssue-id: 3
 ---
 

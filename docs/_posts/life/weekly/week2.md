@@ -1,8 +1,7 @@
 ---
 title: ARTS 打卡第二周
-category: other
 tags:
-  - weekly
+  - 周报
 vssue-id: 4
 ---
 

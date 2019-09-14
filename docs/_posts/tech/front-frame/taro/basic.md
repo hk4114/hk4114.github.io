@@ -1,7 +1,8 @@
 ---
-category: FE-frame
+category: 前端框架
 tags:
   - Taro
+  - 从零开始
 date: 2019-04-07
 title: 三分钟 教你完成taro的搭建
 vssue: false

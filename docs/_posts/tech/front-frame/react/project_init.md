@@ -1,7 +1,8 @@
 ---
-category: FE-frame
+category: 前端框架
 tags:
-  - React
+  - react
+  - 从零开始
 date: 2018-04-06
 title: react hello world
 vssue: false

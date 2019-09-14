@@ -1,6 +1,7 @@
 ---
 title: 面试问题汇总
-category: other
+tags:
+  - 面试
 date: 2019-05-07
 vssue: false
 ---
@@ -14,6 +15,7 @@ winter is coming,这威力果然不可小嘘。
 ### 1. [wx.request](https://developers.weixin.qq.com/miniprogram/dev/api/wx.request.html) 请求拦截与响应拦截
 
 ::: tip 关键词分析
+
 拆分成两个问题: 请求拦截与响应拦截
 
 请求拦截：确定是否发送请求

@@ -2,7 +2,7 @@
 title: 如何使用好TypeScript
 category: language
 tags:
-  - typescript
+  - ts
 date: 2019-04-28
 vssue: false
 ---

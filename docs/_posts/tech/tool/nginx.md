@@ -1,6 +1,6 @@
 ---
 title: Nginx 基础
-category: be-stuff
+category: tool
 tags:
   - Nginx
 date: 2019-04-21

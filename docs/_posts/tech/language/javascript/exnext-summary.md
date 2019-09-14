@@ -3,6 +3,7 @@ title: ES Next 整理
 category: 关于技术
 tags:
   - js
+  - ES6
 date: 2019-6-17
 vssue-id: false
 ---

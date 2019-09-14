@@ -31,7 +31,7 @@ Webpack 有一个智能解析器，几乎可以处理任何第三方库，无论
 #### 2. 一个简单的例子
 新建webpack.config.js
 由以下四部分组成: 入口、出口、加载器、插件
-```
+```js
 module.exports = {
     entry: {
         bundle1:'./main1.js',
@@ -70,7 +70,7 @@ module.exports = {
 > 启动本地服务
 1. `cnpm i webpack-dev-server --save-dev`
 2. webpack.config.js
-```
+```js
 devServer:{
     contentBase:'./',
     host:"localhost", // ipconfig
