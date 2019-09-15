@@ -56,14 +56,6 @@ module.exports = {
       'ga': 'UA-138662199-1',
     }],
     "vuepress-plugin-cat",
-    ['container', {
-      type: 'right',
-      defaultTitle: '',
-    }],
-    ['container', {
-      type: 'theorem',
-      before: info => `<div class="theorem"><p class="title">${info}</p>`,
-      after: '</div>',
-    }]
+    'code-switcher'
   ]
 }

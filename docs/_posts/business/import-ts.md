@@ -26,8 +26,41 @@ vssue: false
 1. `npm install --save-dev typescript`
     `npm install --save-dev ts-loader` 如果webpack的版本号是4.0以上，则指定3.5.1，
 
-2. tsconfig.json
-```json
+
+<CodeSwitcher :languages="{js:'JavaScript',ts:'TypeScript',json: 'JSON'}">
+<template v-slot:js>
+
+```js
+// webpack.config.js
+resolve: {
+    extensions: ['.ts', '.js', '.vue', '.json'],
+...
+module: {
+    rules: [ {
+        test: /\.tsx?$/,
+        loader: 'ts-loader',
+        exclude: /node_modules/,
+        options: {
+          appendTsSuffixTo: [/\.vue$/],
+        }
+      },...]
+```
+
+</template>
+<template v-slot:ts>
+
+```ts
+// src/vue-shims.d.ts
+declare module "*.vue" {
+    import Vue from "vue";
+    export default Vue;
+}
+```
+
+</template>
+<template v-slot:json>
+
+```JSON
 {
     "compilerOptions": {
         "outDir": "./built/",
@@ -44,32 +77,13 @@ vssue: false
 }
 ```
 
-3. webpack.config.js
-```js
-resolve: {
-    extensions: ['.ts', '.js', '.vue', '.json'],
-...
-module: {
-    rules: [ {
-        test: /\.tsx?$/,
-        loader: 'ts-loader',
-        exclude: /node_modules/,
-        options: {
-          appendTsSuffixTo: [/\.vue$/],
-        }
-      },...]
+</template>
+</CodeSwitcher>
 
-```
-4. src/vue-shims.d.ts
-```ts
-declare module "*.vue" {
-    import Vue from "vue";
-    export default Vue;
-}
-```
+
 > 到这一阶段，我们可以在`.vue`文件中引入`.ts`文件
 
-5. `npm install vue-property-decorator vue-class-component  -S`
+1. `npm install vue-property-decorator vue-class-component  -S`
 `cnpm install @vue/cli-plugin-typescript -D`
 此时可以直接在`.vue`文件中使用ts了,如果还是不行...就把ts代码拉出来到`xx.ts`里吧，作为后进生需要付出代价的。
 
