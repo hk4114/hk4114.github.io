@@ -27,9 +27,6 @@ vssue: false
     `npm install --save-dev ts-loader` 如果webpack的版本号是4.0以上，则指定3.5.1，
 
 
-<CodeSwitcher :languages="{js:'JavaScript',ts:'TypeScript',json: 'JSON'}">
-<template v-slot:js>
-
 ```js
 // webpack.config.js
 resolve: {
@@ -46,9 +43,6 @@ module: {
       },...]
 ```
 
-</template>
-<template v-slot:ts>
-
 ```ts
 // src/vue-shims.d.ts
 declare module "*.vue" {
@@ -56,9 +50,6 @@ declare module "*.vue" {
     export default Vue;
 }
 ```
-
-</template>
-<template v-slot:json>
 
 ```JSON
 {
@@ -76,10 +67,6 @@ declare module "*.vue" {
     ]
 }
 ```
-
-</template>
-</CodeSwitcher>
-
 
 > 到这一阶段，我们可以在`.vue`文件中引入`.ts`文件
 
