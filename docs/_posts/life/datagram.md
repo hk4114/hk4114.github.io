@@ -51,8 +51,6 @@ vssue-id: 1
 
 - [程序员英语学习实践经验](https://a-programmers-guide-to-english.harryyu.me/)
 
-- [github 英语学习指南](https://www.douban.com/group/topic/138859863/)
-
 - [日语语法指南](https://res.wokanxing.info/jpgramma/)
 
 ::: tip
@@ -63,7 +61,6 @@ vssue-id: 1
 
 - [前端也需要好好的精进自己的算法](https://segmentfault.com/a/1190000015849882)
 
-- [剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s/6H8WU6B5p4t2mJKeRaxD1A)
 
 
 ::: tip git
@@ -112,8 +109,6 @@ vssue-id: 1
 
 - [浏览器的 Event Loop](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49&chksm=bd49569d8a3edf8bff6e67a1eff689d1ca26e8289ece27b6cca213250875924a18b3c8abdcd0&scene=0&key=66c7e60d4a7369dbe22019fd1051326a9b2ccce6944e630430246f27f65c709c7e7dfe4b791e0b23add41b3ce7bc2251c62f00e4b0fb6527b14d11f5395fdd1f116e9a4b7390058d2fe6e3ac04a8f14f&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=F+KgirLG1wrB/UqrT8vi3fOeorBNd8tKNQ/QJchbutTFF9SCzQxPg4QRkFIe5Iaj)
 
-- [详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232551&idx=2&sn=12fff848b62439f0281d24cdc190e2bc&chksm=bd4940a38a3ec9b51ea6daedc7fcc841a98e793c9a522fa819586431ffd331f406fe7de8a21c&mpshare=1&scene=1&srcid=&key=c3ff9b054c1d1dbcffd8afd7617afc79ac3441ea9274278d028fcee17b84f4434a1a57bb0332ceb20bd3dd59f5c304d8e8cc5d86726b1891d0cc6576de85031835585e514cf853e8fd81f51050ff5ef2&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=8T2CH22DzwYKLK1NrikOk9%2BXKdd9591R63SXUXw%2BZyjGJf054VcRwTAYes4BaWtk)
-
 - [Webpack 是怎样运行的?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232309&idx=1&sn=e6555a6a45ff1af76e9b0f1061499bcb&chksm=bd4941b18a3ec8a7edd3cbfc64bbc60eba7c1fbca7672ba775cc01f016ec2804934285720d7e&scene=0&xtrack=1&key=a90c16d3bbfeedd001e1318af0565600c80fa85ea29bce3e0403c6d00515337bbcebdf347b9284d8743755203984563120eaca116eacd535302843a57bad58c6e758397c62b299fa5ce393eb11f19417&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv+ajuezVMkMQfiSpjBkutrBSJ2/JVEbsrC7hho1CT6LewLJK4tqr71aP6)
 
 - [编写更好的 JavaScript 条件式和匹配条件的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232822&idx=1&sn=f951b63d46cbcefa6652c11cfa2335a4&chksm=bd4943b28a3ecaa4f8b2375d852e2de1716d9df656cb0dfdbb38d8d7ef271e49d15bfcabd11c&mpshare=1&scene=1&srcid=&key=e7d10568c579192d22c061e52052a84b5cad70cfdffb620209f10b9854fb75bce26987624654df89018142441ce9cc83f5faf1f5ec7257ac00d6c807390f77a8399760621c5c4d26820fbc323756f9bf&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=T%2FhlqvMrRPBdH9R4NbC5qf98o4pZPR1DBmQj4helw1zbF5p4fGRyAaNbTe9aYi%2Bz)
@@ -121,10 +116,33 @@ vssue-id: 1
 
 - [代码之美，正则之道](https://mp.weixin.qq.com/s/jH6aimCs5LAL5GBe9bu8rg)
 
-- [通过阅读源码提高你的 JavaScript 水平](https://mp.weixin.qq.com/s/bZsURGd-_6vFFmmB7_q8-g)
-
-- [职业思考：技术人需要突破的 10 个困局](https://mp.weixin.qq.com/s/4bniPjbHzqMDFDkxb6_i9Q)
-
-- [js获取剪切板内容，js控制图片粘贴。](https://segmentfault.com/a/1190000004288686)
-
 - [虚拟Dom详解 - (一)](https://segmentfault.com/a/1190000019992100)
+
+- [Tridash 用于前端 Web 开发](https://github.com/alex-gutev/tridash) Tridash 是一种基于绑定的函数响应式编程语言，它以 JavaScript 和 HTML 为目标，可用于前端 Web 开发。Tridash 允许将应用程序指定为一组称为节点的计算实体，每个节点的值依赖于一个或多个节点。当节点的值发生更改时，将自动重新计算取决于其值的节点的值。这更大程度地简化了交互式应用程序的开发，有望在将来编写更强大的应用程序。详情请参考:
+
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js)JavaScript 图表库，可以使用简单的 API 构建交互式图表和可视化。可集成 Vue 、React、Angular，支持 Firefox、Chrome、Safari、Edge、IE 11+
+
+- [Vue PWA：使用 Nuxt 的渐进式 Web 应用程序示例](https://snipcart.com/blog/vue-pwa)这篇文章介绍如何使用 Nuxt 创建自己的 Vue PWA 程序，相关要点：快速回顾渐进式 Web 应用程序；统计数据显示了 PWA 的好处；为什么我们这次要建立一个 Vue PWA；如何创建自己的 Vue PWA。
+
+
+- [为不耐烦的程序员准备的 JavaScript](https://exploringjs.com/impatient-js/toc.html)这是 Axel Rauschmayer 2018 年新书，给想要快速入门 JavaScript 的「不耐烦」新手。
+
+- [如何使用 CSS 混合模式和 SVG 动态更改产品图像的颜色](https://tympanus.net/codrops/2019/09/03/how-to-dynamically-change-the-colors-of-product-images-using-css-blend-mode-and-svg/)本文介绍一种简单的方式，利用 SVG 和 CSS 混合模式动态替换产品图片颜色，阅读原文可以手动调整颜色
+
+
+[大规模应用 TypeScript](https://mp.weixin.qq.com/s/PbF1NTlVsgmrI3ip6bq3Cg)
+
+[浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
+
+[Webpack优化——将你的构建效率提速翻倍](https://mp.weixin.qq.com/s/D8l7e8ijNqw2t6PVixkD_Q)
+
+[Webpack 打包后代码执行时机分析与优化](https://mp.weixin.qq.com/s/S_1Rnuu0SeoAx3w0KvBedw)
+
+[用React Hooks与Web Animation API实现动效组件](https://mp.weixin.qq.com/s/UsCit3TDf224YPQW-4o8dw)
+
+[游戏-斗地主上](https://mp.weixin.qq.com/s/ex5cXp8aedQd_uflsaOHPQ)
+[游戏-斗地主下](https://mp.weixin.qq.com/s/yHvO5vpKghpgyLOO1RGjlw)
+
+[页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s/ptsBQFDNK0aP4dQVylATJA)
+
+[嵌入式图像预览技术：允许人们在延迟加载过程中加载预览图像](https://mp.weixin.qq.com/s/BU-A_Z3NEij8CayZLgGnIg)

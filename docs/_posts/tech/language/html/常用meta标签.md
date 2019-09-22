@@ -43,4 +43,10 @@ vssue: false
     <meta name="x5-page-mode" content="app">
     <!-- windows phone 点击无高光 -->
     <meta name="msapplication-tap-highlight" content="no">
+    <!-- 向搜索引擎说明你的网页的关键词 -->
+    <meta name="keywords" content="" />
+     <!-- 告诉搜索引擎你的站点的主要内容 -->
+    <meta name="description" content=""/>
+    <!-- 告诉搜索引擎你的站点的制作的作者 -->
+    <meta name="author"content="李海英">
 ```

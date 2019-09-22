@@ -331,7 +331,7 @@ server{
    
    - 后端服务的域名为：dev.server.com
 
-```nginx
+```bash
 cd etc/nginx/conf.d
 vim 8001.conf
 
@@ -343,6 +343,12 @@ server {
     }
 }
 ```
+
+<details>
+<img src="./assets/nginx-pic.png" />
+   <summary>图片</summary>
+</details>
+
 fe.server.com访问nginx的fe.server.com属于同源访问，而nginx对服务端转发的请求不会触发浏览器的同源策略。
 
 
