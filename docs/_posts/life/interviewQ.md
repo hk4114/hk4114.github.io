@@ -10,8 +10,6 @@ winter is coming,这威力果然不可小嘘。
 
 <!-- more -->
 
-> 离职找工作，汇总所有面试的问题
-
 ### 1. [wx.request](https://developers.weixin.qq.com/miniprogram/dev/api/wx.request.html) 请求拦截与响应拦截
 
 ::: tip 关键词分析
@@ -108,7 +106,7 @@ function request(options) {
 
 > vue 父组件通过`$refs`获取子组件实例，并调用方法
 
-```vue
+```html
 // 子组件
 <template>
     <div>
@@ -153,7 +151,7 @@ function request(options) {
 
 > 小程序 通过`this.selectComponent`找到子组件实例
 
-```vue
+```html
 // 父组件
 <template>
     <countdown id="countdown" />
@@ -312,14 +310,24 @@ function typeof(v){
 ### 17. 什么是Tree-shaking?CSS可以Tree-shaking吗
 >Tree-shaking是指在打包中去除那些引入了，但是在代码中没有被用到的那些死代码。在webpack中Tree-shaking是通过uglifySPlugin来Tree-shaking->JS。Css需要使用Purify-CSS。
 
+### 18. 发起跨域请求时，如果发生了重定向，是否能拿到origin信息
+> 不能，当请求被转发到一个非同源的站点时，origin会设置为null
+
+### 19. ajaxs是否能拿到302的状态码
+> 不能，302对于ajax是透明的，会被浏览器automatically处理掉，ajax只能拿到转发之后的那个请求结果的响应
+
+### 20. 为什么浏览器地址栏内发起请求可以完成登录授权，但是通过fetch发起请求却无法完成鉴权
+> 地址栏内发起请求，不存在跨域，请求可以完成302跳转的全过程，所以可以完成鉴权
+fetch发起请求会跨域, 导致会发起 `options` 预检请求，对于 `options` 预检请求会响应`405 method not allowed` 也就无法完成302跳转全过程
 
 
+### 21. 跨域情况下cookie 是否会被请求携带
+> 二级域名之间发起请求时,会寻找有没有一级域名下的cookie,如果有就会带上.
 
-
-
-
-
-
+### 22. 描述一下react的虚拟DOM
+1. 创建一棵对象树，用于描述用户界面的外观
+2. 使用DOM APIs(如 document.createElement) 将对象转换为DOM 元素
+3. 页面update 时, 会通过创建描述用户界面的更新状态的新对象树，然后将其与旧对象树进行比较来执行更新
 
 
 
