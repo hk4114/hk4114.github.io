@@ -1,4 +1,5 @@
 ---
+category: tool
 title: 如何写git commit log，提高项目可读性
 tags:
   - git
