@@ -8,3 +8,64 @@ vssue: false
 ---
 vue 权限控制
 https://www.processon.com/view/link/5d270319e4b0d16653fd60b8#map
+
+
+学习目标
+1. 理顺Vue源码整体流程
+2. 调试环境
+3. 数据响应式
+
+
+### 测试环境的搭建
+1. git clone vue
+2. yarn
+3. yarn add rollup global // 纯js打包
+4. 修改脚本 
+```json
+{
+  "script": {
+    "dev": "rollup -w -c scripts/config.js --sourcemap --environment TARGET:web-full-dev"
+  }
+}
+// npm run dev
+```
+5. dist/examples mkdir test/test01.html
+
+```html
+<div id="app"> {{ name }} </div>
+    <script src="../../dist/vue.js"></script>
+    <script>
+    new Vue({
+        el:"#app",
+        data(){
+            return {
+                name: "zhangsan"
+            }
+        }
+    })
+    </script>
+```
+
+
+### 理顺Vue源码整体流程
+入口文件
+
+package.json -> dev -> config.js -> builds
+
+web-full-dev 当前打包版本( 带编译器的完整版本 )
+
+resolve 函数 别名
+
+- entry-runtime-with-compiler.js 入口文件
+扩展覆盖了$mount方法，为了移动端与pc端平台行为不一样: 处理 el 和 template选项,尝试编译他们为render函数
+
+- vue\src\platforms\web\runtime\index.js
+定义了$mount方法，执行mountComponent(this, el, hydrating)
+实现了 __patch__ 打补丁方法
+
+src/core/index.js
+定义全局api
+
+src\core\instance\index.js 构造函数定义点
+
+src\core\instance\init.js 初始化函数的实现
