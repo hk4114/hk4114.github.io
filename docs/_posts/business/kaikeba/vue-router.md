@@ -178,3 +178,11 @@ VueRouter.install = function (_Vue) {
     })
 }
 ```
+
+:::info
+- [前端路由原理解析和实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232265&idx=1&sn=a559a97b36f3a6f359cda13c035fc68e&chksm=bd49418d8a3ec89b65cb282b2c1815b1782355f3de2a461c11f6b84d4defff57f39d4ce5a0ad&scene=0&xtrack=1&key=5e53b76d517ba281070a07df69afac3e48828c7e98b4f322d05af8a40c6477f73f81d6312581faac1547c275b97659515bfd1f3304ac06b23b4f0004148ea628faddbec78e9cb7651bc319ba388baac8&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv+ajuezVMkMQfiSpjBkutrBSJ2/JVEbsrC7hho1CT6LewLJK4tqr71aP6)
+
+- [令人惊叹的前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/FyXGkW5CMbtPX_t0cShgCA)
+
+- [前端路由跳转基本原理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556892&idx=1&sn=5b1da2f8bc5b222d494360795c1277c8&chksm=80255bddb752d2cbc4c113d1b1281d7a6fc571f690137ebc77cc4d83aaa4a10a3cbeffef0f0d&mpshare=1&scene=1&srcid=0822e2jytV46ybkEl7RfcbZ6&sharer_sharetime=1566442603927&sharer_shareid=942f3ad886641dd566149a5fec0397cc&key=2e81df8e5d9650c86f929fca701c534a3a5bf52464c53b4bc6b1d2eb6c8b22c796ddcf3b20fb9c9985594846f5227e5715876bc84a802ec1bd9af20c6020754e1559ad040a3e15fe2b3896cbcffae3b4&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=s38I1ghBxOLt43MGukhVWCm1%2FZN%2Fg9NUVc4TqQ6do1vqQlRt0q6GBb5UL4p6618u)
+:::
