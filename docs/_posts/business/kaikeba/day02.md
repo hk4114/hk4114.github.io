@@ -69,3 +69,59 @@ src/core/index.js
 src\core\instance\index.js 构造函数定义点
 
 src\core\instance\init.js 初始化函数的实现
+
+## React 组件
+- function 组件
+```js
+import React from 'react';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      function component
+    </div>
+  );
+}
+export default App;
+```
+
+- Class 组件
+```js
+import React, { Component } from 'react';
+
+class ClassComponent extends Component {
+    render() {
+        return (
+            <div>
+                class component
+            </div>
+        );
+    }
+}
+
+export default ClassComponent;
+```
+
+
+vue 工作流程
+
+                                                                                          |---------------------------------------------------------> 初始化流程
+new Vue() - init(prop/data/computed准备) -> $mount -> compile() -> render function -> vDOM tree
+                                                                            |------ 访问data等 -> getter - 依赖收集 -> watcher - update(render) -> patch() --> DOM
+                                                                                                
+
+$mount 根组件 有挂载目标
+       子组件 挂载不需要目标 处理在parent实例里
+
+
+compile 编译
+- parse
+- optimize
+- generate
+
+template转换成render函数
+
+patch 打补丁
+- patchVdode
+- updateDOM
