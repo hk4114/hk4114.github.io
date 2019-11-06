@@ -8,6 +8,8 @@ vssue-id: 1
 <!-- more -->
 # 学习资料包
 
+https://gitee.com/huakangkane/course-file.git
+
 ### Vue
 
 - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)

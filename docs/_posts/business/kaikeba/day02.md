@@ -125,3 +125,67 @@ template转换成render函数
 patch 打补丁
 - patchVdode
 - updateDOM
+
+
+### react
+1. context 跨层级通信
+2. 组件复合 composition
+3. 高阶组件HOC
+4. hooks
+
+
+### 使用context
+创建context->获取Provider和Consumer->provider提供值->Consumer消费值
+```js
+//AppContext.js
+import React, { Component } from 'react'
+export const Context = React.createContext()
+export const Provider = Context.Provider
+export const Consumer = Context.Consumer
+```
+
+```js
+//App.js
+import React from 'react';
+import Home from './pages/Home'
+import User from './pages/User'
+
+import { Provider } from './AppContext' //引⼊入Context的 Provider
+
+function App() {
+  return (
+    <div className="app">
+      <Provider value={store}>
+        <Home />
+      </Provider>
+    </div>
+  );
+}
+export default App;
+```
+
+```js
+// /pages/Home.js
+import React, { Component } from 'react'
+import { Consumer } from '../AppContext';
+
+export default class Home extends Component {
+  render() {
+    return (
+      <Consumer>
+        { ctx => <HomeCmp {...ctx} />}
+      </Consumer>
+    )
+  }
+}
+
+function HomeCmp(props) {
+  const { home, user } = props
+  const { isLogin, userName } = user
+  return (
+    <div>
+    { isLogin ? userName : '登录' }
+    </div>
+  )
+}
+```
