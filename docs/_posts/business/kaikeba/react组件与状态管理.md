@@ -135,11 +135,38 @@ export default function FuncCompomnent() {
     )
 }
 ```
+
+### 组件通信
+通过props 传递给子组件，如果父组件传递的是函数，则可以把子组件的信息传入父组件，这种情况叫状态提升。
+
 ### 生命周期
+由于现有react是同步操作，在加载更新大型数据结构和组件时，同步操作，如果在此时对DOM进行交互，比如输入框输入数字，会有界面卡顿的问题，这就引入了react fiber.对耗时长的任务进行分片，执行一段分片完的时候就询问调度模块是否有紧急任务，如果没有就继续执行下面的分片，如果有就执行紧急任务，只不过当前任务会废弃，等待从头再来。
+
+fiber分为两个阶段
+1. 寻找有哪些dom需要更新 [shouldComponentUpdate,getDerivedStateFromProps]
+2. 执行更新 ['componentDidMount','componentDidUpdate','componentWillUnmount']
+
+如果开了异步渲染，并且在[componentWillMount,componentWillRecieveProps,componentWillUpdate]中 AJAX请求的话，那AJAX将被没有意义的调用多次，而且在 willMount 中调用，不管多快也赶不上首次渲染。
+
 引⼊入两个新的⽣生命周期函数：
 - static getDerivedStateFromProps
-getDerivedStateFromProps 会在调用 render 方法之前调用，并且在初始挂载及后续更新时都会被调⽤用。它应返回⼀一个对象来更新 state，如果返回 null 则不更新任何内容。
-请注意，不管原因是什么，都会在每次 渲染前触发此方法。这与UNSAFE_componentWillReceiveProps 形成对比，后者仅在父
-组件重新渲染时触发，⽽而不是在内部调用 setState 时。
 
-getSnapshotBeforeUpdate
+```js
+class xxx extend Component {
+    // 会在调用 render 方法之前调用，并且在初始挂载及后续更新时都会被调用
+    static getDerivedStateFromProps(props, state) {
+        return state // null 则不做更新
+    }
+}
+```
+- getSnapshotBeforeUpdate
+
+```js
+class xxx extend Component {
+    // 在最近一次渲染输出（提交到 DOM 节点）之前调用。它使得组件能在发生更改之前从 DOM 中捕获一些信息（例如，滚动位置）。
+    getSnapshotBeforeUpdate(prevProps, prevState) {
+        return prevState // 返回值将作为参数传递给 componentDidUpdate()。
+    }
+}
+```
+
