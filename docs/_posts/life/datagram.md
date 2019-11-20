@@ -89,16 +89,8 @@ https://gitee.com/huakangkane/course-file.git
 
 - [《Webkit技术内幕》之页面渲染过程](https://segmentfault.com/a/1190000015897539)
 
-- [浏览器中的画中画模式及其 API](https://mp.weixin.qq.com/s/U8n8pQo06QC5eAvH7cV6SA)
-
-- [深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s/8jg4X-cymkIpn0zVaMDf6Q)
-
 - [深入理解浏览器原理](https://mp.weixin.qq.com/s/QqpPGWf3IVEDN1t80CZ06Q)
 :::
-
-
-
-
 
 - [ES6-NEXT](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651231754&idx=1&sn=0fab4ef809f984554444fb0df6b9c666&chksm=bd494f8e8a3ec698494bc47db371b96fce34626de8e15bad661a43e2b95fed24af9e7a4e7762&scene=0&xtrack=1&key=df7b8dd0b2018f33c05673cdd59fafc4d318fa8435196fa11122bdc51a3944691eb3d2c4f20487a5beb84790a6a6c696928b2b0ac6c212f42e8d5de6c97c07966d0ed19e76f66e57885bab8942db88ea&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=IZM0JXH767yUJKmMTRb/IiqEz/GoVOEjb7b8SIA1fbVpv6bey7F3wyKiOryKMQED)
 
@@ -125,7 +117,8 @@ https://gitee.com/huakangkane/course-file.git
 
 - [为不耐烦的程序员准备的 JavaScript](https://exploringjs.com/impatient-js/toc.html)这是 Axel Rauschmayer 2018 年新书，给想要快速入门 JavaScript 的「不耐烦」新手。
 
-- [如何使用 CSS 混合模式和 SVG 动态更改产品图像的颜色](https://tympanus.net/codrops/2019/09/03/how-to-dynamically-change-the-colors-of-product-images-using-css-blend-mode-and-svg/)本文介绍一种简单的方式，利用 SVG 和 CSS 混合模式动态替换产品图片颜色，阅读原文可以手动调整颜色
+- [如何使用 CSS 混合模式和 SVG 动态更改产品图像的颜色](https://tympanus.net/codrops/2019/09/03/how-to-dynamically-change-the-colors-of-product-images-using-css-blend-mode-and-svg/)
+本文介绍一种简单的方式，利用 SVG 和 CSS 混合模式动态替换产品图片颜色，阅读原文可以手动调整颜色
 
 
 [大规模应用 TypeScript](https://mp.weixin.qq.com/s/PbF1NTlVsgmrI3ip6bq3Cg)
@@ -136,20 +129,31 @@ https://gitee.com/huakangkane/course-file.git
 
 [Webpack 打包后代码执行时机分析与优化](https://mp.weixin.qq.com/s/S_1Rnuu0SeoAx3w0KvBedw)
 
-[用React Hooks与Web Animation API实现动效组件](https://mp.weixin.qq.com/s/UsCit3TDf224YPQW-4o8dw)
+[详细preact hook源码逐行解析](https://mp.weixin.qq.com/s/hO3Ig38znAWwScZw-J58Xw)
 
-[游戏-斗地主上](https://mp.weixin.qq.com/s/ex5cXp8aedQd_uflsaOHPQ)
-[游戏-斗地主下](https://mp.weixin.qq.com/s/yHvO5vpKghpgyLOO1RGjlw)
+[(英)在JavaScript中使用查询参数](https://mp.weixin.qq.com/s/-i5PsXG0rksygw6wSHrHgA)
 
-[页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s/ptsBQFDNK0aP4dQVylATJA)
+[轻松 Flutter 入门，秒变大前端](https://mp.weixin.qq.com/s/aAjXsOxRGqSYBDwT9QwAiA)
 
-[嵌入式图像预览技术：允许人们在延迟加载过程中加载预览图像](https://mp.weixin.qq.com/s/BU-A_Z3NEij8CayZLgGnIg)
+[开发一个爆款 VS Code 插件这么简单！](https://mp.weixin.qq.com/s/P28wOWZYHt3rjBl_ay8Piw)
+
+[JS 原生面经从初级到高级](https://juejin.im/post/5daeefc8e51d4524f007fb15)
+
+[30 道 Vue 面试题，内含详细讲解](https://juejin.im/post/5d59f2a451882549be53b170)
+
+[35 道咱们必须要清楚的 React 面试题](https://juejin.im/post/5dc20a4ff265da4d4e30040b?from=singlemessage)
+
+[ TypeScript：拥有超能力的 JavaScript（下）](https://mp.weixin.qq.com/s/iKgvJB54bsb2_dUoRPpR0g)
+
+[TypeScript：拥有超能力的 JavaScript（上）](https://mp.weixin.qq.com/s/XnfOkZHOYtLk2LS-8S8rPw)
 
 ### [ 推荐阅读 ]
 
 [现代 Web 开发的现状与未来](https://zhuanlan.zhihu.com/p/88616149)
 
 [世界上没有技术驱动型公司](https://www.zhihu.com/question/312019918/answer/608965942)
+
+[为什么许多公司都对程序员不太好？](https://mp.weixin.qq.com/s/RMBGRduk8IV0CFMIraAn-A)
 
 toB环境下前端的未来
 以前前端是2C，在整条链路里靠前的位置，而且用户都比较统一，前端出于同理心，出现了页面秒开，无感跳转，feed流等技术。（比较重要）
