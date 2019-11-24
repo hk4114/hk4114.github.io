@@ -147,6 +147,20 @@ https://gitee.com/huakangkane/course-file.git
 
 [TypeScript：拥有超能力的 JavaScript（上）](https://mp.weixin.qq.com/s/XnfOkZHOYtLk2LS-8S8rPw)
 
+[双11模块79.34%的前端代码是怎样智能生成的？](https://mp.weixin.qq.com/s/hl8mPVQi2vV0WSUIOaAhPw)
+
+[基于Vue-SSR优化方案归纳总结](https://mp.weixin.qq.com/s/sS0XSCyNQzcscf0JSXBsTw)
+
+[js与数](https://mp.weixin.qq.com/s/3M96mvdivHQEQZwLjpBd_w)
+
+[react+ts工程化治理实践](https://mp.weixin.qq.com/s/elt3cH-TTDYnI5ZsHAbVYg)
+
+[蚂蚁前端研发最佳实践](https://mp.weixin.qq.com/s/0cMQtOpljIfwx0ACcBpM1A)
+
+[前端智能漫谈-写给前端的AI白皮书](https://mp.weixin.qq.com/s/K7MAceTNiMeVI_vnjET_mg)
+
+[VScode快捷键](https://mp.weixin.qq.com/s/vdtdX_Q02UE4Hwsm5TXNxg)
+
 ### [ 推荐阅读 ]
 
 [现代 Web 开发的现状与未来](https://zhuanlan.zhihu.com/p/88616149)
