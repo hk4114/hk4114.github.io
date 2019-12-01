@@ -63,26 +63,6 @@ https://gitee.com/huakangkane/course-file.git
 
 - [前端也需要好好的精进自己的算法](https://segmentfault.com/a/1190000015849882)
 
-
-
-::: tip git
-
-[Git项目管理](https://mp.weixin.qq.com/s/V9oV1AmOv83iBt-6x865kA)
-
-:::
-
-
-::: tip JS 规范
-
-- [JS如何工作系列文章](https://segmentfault.com/a/1190000018854431)
-
-- [你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-
-- [深入实践 ES6 Proxy & Reflect](https://mp.weixin.qq.com/s/CgTuEkPoRFgDjI3hTEmniw)
-
-:::
-
-
 ::: tip 浏览器
 
 - [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
@@ -92,28 +72,15 @@ https://gitee.com/huakangkane/course-file.git
 - [深入理解浏览器原理](https://mp.weixin.qq.com/s/QqpPGWf3IVEDN1t80CZ06Q)
 :::
 
-- [ES6-NEXT](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651231754&idx=1&sn=0fab4ef809f984554444fb0df6b9c666&chksm=bd494f8e8a3ec698494bc47db371b96fce34626de8e15bad661a43e2b95fed24af9e7a4e7762&scene=0&xtrack=1&key=df7b8dd0b2018f33c05673cdd59fafc4d318fa8435196fa11122bdc51a3944691eb3d2c4f20487a5beb84790a6a6c696928b2b0ac6c212f42e8d5de6c97c07966d0ed19e76f66e57885bab8942db88ea&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=IZM0JXH767yUJKmMTRb/IiqEz/GoVOEjb7b8SIA1fbVpv6bey7F3wyKiOryKMQED)
-
-
-- [JavaScript 究竟是如何工作的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232434&idx=2&sn=8381a154940157f98464e5ede8f2812d&chksm=bd4941368a3ec82019c063defe35e5549c10fe78a1d6acfb258b2111486320572a645b7ac4fb&mpshare=1&scene=1&srcid=&key=3b65dab454ce8e2aab46116f940fba92432ab59b08f3e67af0a561341478b1103a6494df76cf49a0310978a14e7acd5dabaa4bf975491586003d456fd9b8ecaa155d4bd31b60d968ea4ee7ce48725024&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=148TIe3elab%2Bq%2FFkPPAddroRbxESimuqQah0MEJvR26y%2FSsNr01o0h%2FBKmfP9uDl)
-
 - [浏览器的 Event Loop](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49&chksm=bd49569d8a3edf8bff6e67a1eff689d1ca26e8289ece27b6cca213250875924a18b3c8abdcd0&scene=0&key=66c7e60d4a7369dbe22019fd1051326a9b2ccce6944e630430246f27f65c709c7e7dfe4b791e0b23add41b3ce7bc2251c62f00e4b0fb6527b14d11f5395fdd1f116e9a4b7390058d2fe6e3ac04a8f14f&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=F+KgirLG1wrB/UqrT8vi3fOeorBNd8tKNQ/QJchbutTFF9SCzQxPg4QRkFIe5Iaj)
 
-- [Webpack 是怎样运行的?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232309&idx=1&sn=e6555a6a45ff1af76e9b0f1061499bcb&chksm=bd4941b18a3ec8a7edd3cbfc64bbc60eba7c1fbca7672ba775cc01f016ec2804934285720d7e&scene=0&xtrack=1&key=a90c16d3bbfeedd001e1318af0565600c80fa85ea29bce3e0403c6d00515337bbcebdf347b9284d8743755203984563120eaca116eacd535302843a57bad58c6e758397c62b299fa5ce393eb11f19417&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=chJjBdGv+ajuezVMkMQfiSpjBkutrBSJ2/JVEbsrC7hho1CT6LewLJK4tqr71aP6)
-
-- [编写更好的 JavaScript 条件式和匹配条件的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651232822&idx=1&sn=f951b63d46cbcefa6652c11cfa2335a4&chksm=bd4943b28a3ecaa4f8b2375d852e2de1716d9df656cb0dfdbb38d8d7ef271e49d15bfcabd11c&mpshare=1&scene=1&srcid=&key=e7d10568c579192d22c061e52052a84b5cad70cfdffb620209f10b9854fb75bce26987624654df89018142441ce9cc83f5faf1f5ec7257ac00d6c807390f77a8399760621c5c4d26820fbc323756f9bf&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=T%2FhlqvMrRPBdH9R4NbC5qf98o4pZPR1DBmQj4helw1zbF5p4fGRyAaNbTe9aYi%2Bz)
-
-
 - [代码之美，正则之道](https://mp.weixin.qq.com/s/jH6aimCs5LAL5GBe9bu8rg)
-
-- [虚拟Dom详解 - (一)](https://segmentfault.com/a/1190000019992100)
 
 - [Tridash 用于前端 Web 开发](https://github.com/alex-gutev/tridash) Tridash 是一种基于绑定的函数响应式编程语言，它以 JavaScript 和 HTML 为目标，可用于前端 Web 开发。Tridash 允许将应用程序指定为一组称为节点的计算实体，每个节点的值依赖于一个或多个节点。当节点的值发生更改时，将自动重新计算取决于其值的节点的值。这更大程度地简化了交互式应用程序的开发，有望在将来编写更强大的应用程序。详情请参考:
 
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js)JavaScript 图表库，可以使用简单的 API 构建交互式图表和可视化。可集成 Vue 、React、Angular，支持 Firefox、Chrome、Safari、Edge、IE 11+
 
 - [Vue PWA：使用 Nuxt 的渐进式 Web 应用程序示例](https://snipcart.com/blog/vue-pwa)这篇文章介绍如何使用 Nuxt 创建自己的 Vue PWA 程序，相关要点：快速回顾渐进式 Web 应用程序；统计数据显示了 PWA 的好处；为什么我们这次要建立一个 Vue PWA；如何创建自己的 Vue PWA。
-
 
 - [为不耐烦的程序员准备的 JavaScript](https://exploringjs.com/impatient-js/toc.html)这是 Axel Rauschmayer 2018 年新书，给想要快速入门 JavaScript 的「不耐烦」新手。
 
@@ -162,6 +129,8 @@ https://gitee.com/huakangkane/course-file.git
 [VScode快捷键](https://mp.weixin.qq.com/s/vdtdX_Q02UE4Hwsm5TXNxg)
 
 ### [ 推荐阅读 ]
+
+[为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
 
 [现代 Web 开发的现状与未来](https://zhuanlan.zhihu.com/p/88616149)
 
