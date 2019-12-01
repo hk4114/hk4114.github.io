@@ -48,6 +48,6 @@ git commit -m "revert"
 git push origin master
 ```
 
-[diff01.png](./diff01.png)
+[diff01](./diff01.png)
 
-[diff02.png](./diff02.png)
+[diff02](./diff02.png)

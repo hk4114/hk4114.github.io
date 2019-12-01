@@ -72,6 +72,8 @@ https://gitee.com/huakangkane/course-file.git
 - [深入理解浏览器原理](https://mp.weixin.qq.com/s/QqpPGWf3IVEDN1t80CZ06Q)
 :::
 
+- [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
+
 - [浏览器的 Event Loop](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49&chksm=bd49569d8a3edf8bff6e67a1eff689d1ca26e8289ece27b6cca213250875924a18b3c8abdcd0&scene=0&key=66c7e60d4a7369dbe22019fd1051326a9b2ccce6944e630430246f27f65c709c7e7dfe4b791e0b23add41b3ce7bc2251c62f00e4b0fb6527b14d11f5395fdd1f116e9a4b7390058d2fe6e3ac04a8f14f&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=F+KgirLG1wrB/UqrT8vi3fOeorBNd8tKNQ/QJchbutTFF9SCzQxPg4QRkFIe5Iaj)
 
 - [代码之美，正则之道](https://mp.weixin.qq.com/s/jH6aimCs5LAL5GBe9bu8rg)
@@ -127,6 +129,14 @@ https://gitee.com/huakangkane/course-file.git
 [前端智能漫谈-写给前端的AI白皮书](https://mp.weixin.qq.com/s/K7MAceTNiMeVI_vnjET_mg)
 
 [VScode快捷键](https://mp.weixin.qq.com/s/vdtdX_Q02UE4Hwsm5TXNxg)
+
+[使用 Python 和 Scrapy 半小时爬了 10 个在线商店的网页](https://mp.weixin.qq.com/s/6EseDbnolD3aKcfPqLcWMA)
+
+[为什么Vue3.0不再使用defineProperty实现数据监听？](https://mp.weixin.qq.com/s/O8iL4o8oPpqTm4URRveOIA)
+
+[成人网站PornHub技术栈首度公开：我们是如何推动Web发展的？](https://mp.weixin.qq.com/s/qib3o-qWltsn-0myDdsBHw)
+
+
 
 ### [ 推荐阅读 ]
 
