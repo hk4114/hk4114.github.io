@@ -144,7 +144,7 @@ https://gitee.com/huakangkane/course-file.git
 
 [成人网站PornHub技术栈首度公开：我们是如何推动Web发展的？](https://mp.weixin.qq.com/s/qib3o-qWltsn-0myDdsBHw)
 
-
+[白话Session与Cookie：从经营杂货店开始](http://www.jintiankansha.me/t/f8elAqyAi2)
 
 ### [ 推荐阅读 ]
 [DDD：架构思想的旧瓶新酒](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023082&idx=2&sn=f9a4c4a428d333976b1a06f095aced0a&chksm=bdbe9eb98ac917afe1ea543b4c1c5a0aa3ebf4137578d00814cea53d7470d7df7ceade416ce7&mpshare=1&scene=1&srcid=&sharer_sharetime=1576722810026&sharer_shareid=942f3ad886641dd566149a5fec0397cc&key=5873445d5bfd2ebca720513ea19205d8b7302c7b54092b6780988d311dddad56524e7bddd1b784a86c9151fa11b02d7452f8eda80c761e73d376114047d6ea12dfa451ab582b49a8f498c651a6958404&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=Ad7Vq6b1ayKAwgTjyIfNRfo%3D&pass_ticket=Uo9BS73K5eiuLtafKZAG0IC8fOeXd%2FfNLWVBlR3urKP%2FXeRe733L%2BAQ%2Bwh4yfzuv)
