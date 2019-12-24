@@ -28,6 +28,14 @@ https://gitee.com/huakangkane/course-file.git
 
 - [面试集锦](https://yuchengkai.cn/docs/zh/frontend/) 平时看看可以查漏补缺。
 
+- [JS 原生面经从初级到高级](https://juejin.im/post/5daeefc8e51d4524f007fb15)
+
+- [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
+
+- [35 道咱们必须要清楚的 React 面试题](https://juejin.im/post/5dc20a4ff265da4d4e30040b?from=singlemessage)
+
+- [JavaScript 是如何工作的：JavaScript 的内存模型](https://segmentfault.com/a/1190000018854431)
+
 - [数据可视化--墨者学院](https://www.yuque.com/mo-college)
 
 - [小火柴的蓝色理想](http://www.cnblogs.com/xiaohuochai/) 文章既有说效果，也有描述原理。不太更新，但是已有内容已经非常丰富了。
@@ -139,6 +147,13 @@ https://gitee.com/huakangkane/course-file.git
 
 
 ### [ 推荐阅读 ]
+[DDD：架构思想的旧瓶新酒](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023082&idx=2&sn=f9a4c4a428d333976b1a06f095aced0a&chksm=bdbe9eb98ac917afe1ea543b4c1c5a0aa3ebf4137578d00814cea53d7470d7df7ceade416ce7&mpshare=1&scene=1&srcid=&sharer_sharetime=1576722810026&sharer_shareid=942f3ad886641dd566149a5fec0397cc&key=5873445d5bfd2ebca720513ea19205d8b7302c7b54092b6780988d311dddad56524e7bddd1b784a86c9151fa11b02d7452f8eda80c761e73d376114047d6ea12dfa451ab582b49a8f498c651a6958404&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=Ad7Vq6b1ayKAwgTjyIfNRfo%3D&pass_ticket=Uo9BS73K5eiuLtafKZAG0IC8fOeXd%2FfNLWVBlR3urKP%2FXeRe733L%2BAQ%2Bwh4yfzuv)
+
+[你的分层架构还好吗？](https://mp.weixin.qq.com/s?__biz=MjM5Mjg4NDMwMA==&mid=2652977171&idx=1&sn=f2ada22d4526d1cbeb122b9b073eaab3&chksm=bd4aeb308a3d622666392c3a94618d3ce11f5ba3e6ffa416c87df4be99547ca656ab032eb382&mpshare=1&scene=1&srcid=1220ZvlxYkXb7pUEyF2Gamww&sharer_sharetime=1576834620762&sharer_shareid=942f3ad886641dd566149a5fec0397cc&key=5873445d5bfd2ebca12db8238a516de81d8edb038c43264ebd41426b7fb271394628546fa2e0231b0109b30227f1de3dadd805f16226ed52b36df42b09481ea3d6fbd26ca1ca792bcf52dbadd80a2f07&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=AUDqJ6HAUvufGbfqrPKiZPY%3D&pass_ticket=Uo9BS73K5eiuLtafKZAG0IC8fOeXd%2FfNLWVBlR3urKP%2FXeRe733L%2BAQ%2Bwh4yfzuv)
+
+[微服務設計的十個步驟](https://www.ithome.com.tw/voice/134648)
+
+[低代码开发会是未来吗？](https://mp.weixin.qq.com/s/M0vrPskxg0SZeQ6cmso7Qw)
 
 [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
 
@@ -174,3 +189,16 @@ toB环境下前端的未来
 还有一种解法就是企业数字化，涵盖两个部分：
 1. 提供平台和工具 
 2. 提供业务的解决方案
+
+
+### 花边
+
+[互联网人员架构优化指南](https://mp.weixin.qq.com/s/QHxoi5a_GcFBZ2xbI4djbw)
+
+[作为一个策划同行，聊聊网易策划离职风波](https://mp.weixin.qq.com/s/pGIK9zDRT5cenKC77VqZOA)
+
+[如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
+
+[互联网HR：我们是这样裁员的](https://mp.weixin.qq.com/s/2sMcpzD3JgB-pNAzWSqNqw)
+
+[暴力裁员频发，程序员接 offer 前的职位协商如何避坑？](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q)
