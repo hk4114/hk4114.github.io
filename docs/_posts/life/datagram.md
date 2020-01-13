@@ -8,8 +8,6 @@ vssue-id: 1
 <!-- more -->
 # 学习资料包
 
-https://gitee.com/huakangkane/course-file.git
-
 ### Vue
 
 - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
@@ -22,10 +20,6 @@ https://gitee.com/huakangkane/course-file.git
 
 ### 前端技术博客
 
-- [技术胖](https://jspang.com/) 重应用和效果，轻原理，原理需要自己回头找资料、书学习。
-
-- [廖雪峰](https://www.liaoxuefeng.com/) 学习python可以看一波。
-
 - [面试集锦](https://yuchengkai.cn/docs/zh/frontend/) 平时看看可以查漏补缺。
 
 - [JS 原生面经从初级到高级](https://juejin.im/post/5daeefc8e51d4524f007fb15)
@@ -36,19 +30,7 @@ https://gitee.com/huakangkane/course-file.git
 
 - [JavaScript 是如何工作的：JavaScript 的内存模型](https://segmentfault.com/a/1190000018854431)
 
-- [数据可视化--墨者学院](https://www.yuque.com/mo-college)
-
-- [小火柴的蓝色理想](http://www.cnblogs.com/xiaohuochai/) 文章既有说效果，也有描述原理。不太更新，但是已有内容已经非常丰富了。
-
-- [GO 学习资源收集](https://github.com/Unknwon/go-fundamental-programming)
-
 - [GO 小书](https://chai2010.cn/advanced-go-programming-book/)
-
-### 官方文档
-
-- [W3C 移动 Web 应用路线图](https://w3c.github.io/web-roadmaps/mobile/index.zh.html)
-
-- [MDN web 文档](https://developer.mozilla.org/zh-CN/)
 
 ### 外文
 - [css-tricks](https://css-tricks.com/)
@@ -63,11 +45,7 @@ https://gitee.com/huakangkane/course-file.git
 
 - [日语语法指南](https://res.wokanxing.info/jpgramma/)
 
-::: tip
-
-需要整理的文章:
-
-:::
+### 需要整理的文章:
 
 - [前端也需要好好的精进自己的算法](https://segmentfault.com/a/1190000015849882)
 
@@ -85,10 +63,6 @@ https://gitee.com/huakangkane/course-file.git
 - [浏览器的 Event Loop](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49&chksm=bd49569d8a3edf8bff6e67a1eff689d1ca26e8289ece27b6cca213250875924a18b3c8abdcd0&scene=0&key=66c7e60d4a7369dbe22019fd1051326a9b2ccce6944e630430246f27f65c709c7e7dfe4b791e0b23add41b3ce7bc2251c62f00e4b0fb6527b14d11f5395fdd1f116e9a4b7390058d2fe6e3ac04a8f14f&ascene=1&uin=NTY1NTg0Nzc1&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=F+KgirLG1wrB/UqrT8vi3fOeorBNd8tKNQ/QJchbutTFF9SCzQxPg4QRkFIe5Iaj)
 
 - [代码之美，正则之道](https://mp.weixin.qq.com/s/jH6aimCs5LAL5GBe9bu8rg)
-
-- [Tridash 用于前端 Web 开发](https://github.com/alex-gutev/tridash) Tridash 是一种基于绑定的函数响应式编程语言，它以 JavaScript 和 HTML 为目标，可用于前端 Web 开发。Tridash 允许将应用程序指定为一组称为节点的计算实体，每个节点的值依赖于一个或多个节点。当节点的值发生更改时，将自动重新计算取决于其值的节点的值。这更大程度地简化了交互式应用程序的开发，有望在将来编写更强大的应用程序。详情请参考:
-
-- [apexcharts.js](https://github.com/apexcharts/apexcharts.js)JavaScript 图表库，可以使用简单的 API 构建交互式图表和可视化。可集成 Vue 、React、Angular，支持 Firefox、Chrome、Safari、Edge、IE 11+
 
 - [Vue PWA：使用 Nuxt 的渐进式 Web 应用程序示例](https://snipcart.com/blog/vue-pwa)这篇文章介绍如何使用 Nuxt 创建自己的 Vue PWA 程序，相关要点：快速回顾渐进式 Web 应用程序；统计数据显示了 PWA 的好处；为什么我们这次要建立一个 Vue PWA；如何创建自己的 Vue PWA。
 
@@ -155,7 +129,7 @@ https://gitee.com/huakangkane/course-file.git
 
 [低代码开发会是未来吗？](https://mp.weixin.qq.com/s/M0vrPskxg0SZeQ6cmso7Qw)
 
-[为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
+
 
 [现代 Web 开发的现状与未来](https://zhuanlan.zhihu.com/p/88616149)
 
@@ -191,19 +165,6 @@ toB环境下前端的未来
 2. 提供业务的解决方案
 
 
-4. 减少技术名词的出现，至少避免像字典那样带过去
-5. 脉络，上下文，为什么需要这个技术，理解技术出现当下的时空背景
-6. 在工作学习中，遇见的问题都可以当做是成文的灵感
-7. 找资料， 最简单的就是 是什么 怎么用，尽量找有深度的文章，权威性的资料，当前领域的RFC，W3C、ECMA
-8. 开头讲一下协作原因
-9. 从初始状态，那时候没有主角技术x
-10. 铺陈 讲述早期故事
-11. 碰到了什么问题，把问题讲清楚
-12. 开始写各种当时的解法
-13. 写解法之一的 主角技术x 如何解决问题以及和其他方法的差别
-14. 主角技术x 胜出的理由，再重新介绍一次技术x
-15. 结束语与参考资料
-
 ### 花边
 
 [互联网人员架构优化指南](https://mp.weixin.qq.com/s/QHxoi5a_GcFBZ2xbI4djbw)
@@ -215,3 +176,5 @@ toB环境下前端的未来
 [互联网HR：我们是这样裁员的](https://mp.weixin.qq.com/s/2sMcpzD3JgB-pNAzWSqNqw)
 
 [暴力裁员频发，程序员接 offer 前的职位协商如何避坑？](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q)
+
+[为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
