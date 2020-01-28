@@ -24,11 +24,13 @@ vssue-id: 1
 - [css-tricks](https://css-tricks.com/)
 - [smashingmagazine](https://www.smashingmagazine.com/)
 - [logrocket](https://blog.logrocket.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Venture Hacks](https://venturehacks.com/)
 
 ### 外语学习
 - [英语教室](https://site.douban.com/195274/)
 
-:::info hide
+::: info hide
 > 原理与算法
 
 - [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
@@ -40,4 +42,18 @@ vssue-id: 1
 > 其他
 - [开发一个爆款 VS Code 插件这么简单！](https://mp.weixin.qq.com/s/P28wOWZYHt3rjBl_ay8Piw)
 - [使用 Python 和 Scrapy 半小时爬了 10 个在线商店的网页](https://mp.weixin.qq.com/s/6EseDbnolD3aKcfPqLcWMA)
+
+- [nohost — 远程环境配置及抓包调试最佳实践](https://mp.weixin.qq.com/s/pZ-jmFHG5TPwdnct3AWmqQ)
+- [复制黏贴上传图片和跨浏览器自动化测试](https://juejin.im/post/5e0d965ef265da5d597e0fd5)
+- [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
+- [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
+- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 :::
+
+### 花边
+- [互联网人员架构优化指南](https://mp.weixin.qq.com/s/QHxoi5a_GcFBZ2xbI4djbw)
+- [作为一个策划同行，聊聊网易策划离职风波](https://mp.weixin.qq.com/s/pGIK9zDRT5cenKC77VqZOA)
+- [如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
+- [互联网HR：我们是这样裁员的](https://mp.weixin.qq.com/s/2sMcpzD3JgB-pNAzWSqNqw)
+- [暴力裁员频发，程序员接 offer 前的职位协商如何避坑？](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q)
+- [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
