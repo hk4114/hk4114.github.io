@@ -1,6 +1,5 @@
 ---
 title: 资料包
-vssue-id: 1
 ---
 在学习过程中，收集的一些学习资源。
 <!-- more -->
@@ -30,7 +29,13 @@ vssue-id: 1
 ### 外语学习
 - [英语教室](https://site.douban.com/195274/)
 
-::: info hide
+### 常看常新
+- [现代 Web 开发的现状与未来](https://zhuanlan.zhihu.com/p/88616149)
+
+<details>
+    <summary>hide</summary>
+
+::: info
 > 原理与算法
 
 - [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
@@ -49,6 +54,8 @@ vssue-id: 1
 - [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
 - [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 :::
+
+</details>
 
 ### 花边
 - [互联网人员架构优化指南](https://mp.weixin.qq.com/s/QHxoi5a_GcFBZ2xbI4djbw)

@@ -137,7 +137,6 @@ Your browser does not support the video tag.
 #### `progress` 进度条标签
 
 下载进度：<progress value="22" max="100"></progress>
-<progress>
 
 ```html
 下载进度：
