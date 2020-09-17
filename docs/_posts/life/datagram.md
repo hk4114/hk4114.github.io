@@ -18,18 +18,11 @@ title: 资料包
 ### 常看常新
 - [现代 Web 开发的现状与未来](https://zhuanlan.zhihu.com/p/88616149)
 
-<details>
-    <summary>hide</summary>
-
-::: info
-> 其他
 - [开发一个爆款 VS Code 插件这么简单！](https://mp.weixin.qq.com/s/P28wOWZYHt3rjBl_ay8Piw)
 - [10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/ulY4c90Jd6uIOa322pwBhw)
 - [复制黏贴上传图片和跨浏览器自动化测试](https://juejin.im/post/5e0d965ef265da5d597e0fd5)
 - [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
 - [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-:::
-</details>
 
 ### 花边
 - [互联网人员架构优化指南](https://mp.weixin.qq.com/s/QHxoi5a_GcFBZ2xbI4djbw)
