@@ -34,10 +34,15 @@ title: 资料包
 
 
 [为什么这么设计系列文章](https://draven.co/whys-the-design/)
+
 [现代 JavaScript 教程](https://zh.javascript.info/)
 
 ### 前端知识图谱
 - [有人问：学历不好，技术不行，该怎么换工作？我：...](https://mp.weixin.qq.com/s/7r9831Gn_M3BJpvFt74aRA)
+- [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/-Xb3A18sfboVHY8ZHEMVGA)
+- [不写文档你就输了](https://mp.weixin.qq.com/s/zjsujU5hiPg0WUwsYC8P-g)
+- [如何快速识别项目水平？](https://mp.weixin.qq.com/s/V2OP3WUtWl-ZXirH01B6yw)
+- [一位架构师的感悟：过度忙碌使你落后](https://mp.weixin.qq.com/s/uwA5JryExOpUtQ_5AF7bBQ)
 - [浅谈如何搭建知识体系](https://mp.weixin.qq.com/s/E0u7LmT__x4R9mWNxfDDjA)
 - [前端面试路线](https://mp.weixin.qq.com/s/rs2vrGo6i6NcOSIEeQRE4Q)
 - [我的前端知识体系构建 上](https://mp.weixin.qq.com/s/LbPbr_Dk865Yu0YXyCx47A)
@@ -60,12 +65,13 @@ title: 资料包
    3. [写给前端的算法进阶指南，我是如何两个月零基础刷 200 题并进入大厂的](https://mp.weixin.qq.com/s/HK867HIkOlw0mUbPz07RWA)
 5. react
    1. [React Hooks 实践指南](https://mp.weixin.qq.com/s/FpksXaQUv2zplOPvgTh_Hw)
-   2. [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/iB6SjRSdwTe_syhAXezCAg)
-   3. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
-   4. [写React Hooks前必读](https://mp.weixin.qq.com/s/rp3_Grsu4d-Lq6MFqHFCCg)
-   5. [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
-   6. [一起围观由React Hooks防抖引发的面试翻车现场](https://blog.csdn.net/qiwoo_weekly/article/details/105721412)
-   7. [35 道咱们必须要清楚的 React 面试题](https://juejin.im/post/5dc20a4ff265da4d4e30040b?from=singlemessage)
+   2. [前有唐朝人懂 React，后有摸金校尉转行前端](https://mp.weixin.qq.com/s/kqqKxQwvtQme23KUuU-9Hw)
+   3. [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/iB6SjRSdwTe_syhAXezCAg)
+   4. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
+   5. [写React Hooks前必读](https://mp.weixin.qq.com/s/rp3_Grsu4d-Lq6MFqHFCCg)
+   6. [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
+   7. [一起围观由React Hooks防抖引发的面试翻车现场](https://blog.csdn.net/qiwoo_weekly/article/details/105721412)
+   8. [35 道咱们必须要清楚的 React 面试题](https://juejin.im/post/5dc20a4ff265da4d4e30040b?from=singlemessage)
 6. JS
    1. 闭包
    2. 函数节流和防抖
@@ -83,6 +89,9 @@ title: 资料包
    14. [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
    15. [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
    16. [浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
+   17. [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
+   18. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
+   19. [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)
 7. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
@@ -104,6 +113,7 @@ title: 资料包
     9. [10个不那么知名但很实用的Web API](https://mp.weixin.qq.com/s/CcVo2EqwWgtvJ9qRAwerLg)
     10. [浏览器的垃圾回收](https://mp.weixin.qq.com/s/G02qgYGbAxvUeQeQzMBjnA)
     11. [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
+    12. [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
 12. 跨端
 13. 性能优化
     1. [补齐Web前端性能分析的工具盲点](https://mp.weixin.qq.com/s/AQzamMzL3Yw0xN6i4YKY0w)
