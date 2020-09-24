@@ -17,12 +17,11 @@ title: 资料包
 
 ### 常看常新
 - [现代 Web 开发的现状与未来](https://zhuanlan.zhihu.com/p/88616149)
-
 - [开发一个爆款 VS Code 插件这么简单！](https://mp.weixin.qq.com/s/P28wOWZYHt3rjBl_ay8Piw)
 - [10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/ulY4c90Jd6uIOa322pwBhw)
 - [复制黏贴上传图片和跨浏览器自动化测试](https://juejin.im/post/5e0d965ef265da5d597e0fd5)
 - [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
-- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+
 
 ### 花边
 - [互联网人员架构优化指南](https://mp.weixin.qq.com/s/QHxoi5a_GcFBZ2xbI4djbw)
@@ -41,11 +40,23 @@ title: 资料包
 - [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/-Xb3A18sfboVHY8ZHEMVGA)
 - [如何快速识别项目水平？](https://mp.weixin.qq.com/s/V2OP3WUtWl-ZXirH01B6yw)
 - [一位架构师的感悟：过度忙碌使你落后](https://mp.weixin.qq.com/s/uwA5JryExOpUtQ_5AF7bBQ)
+- [阿里高级前端技术专家谈工程师的成长密码](https://mp.weixin.qq.com/s/FszvgWGBq00nLOwdaop_dg)
 - [浅谈如何搭建知识体系](https://mp.weixin.qq.com/s/E0u7LmT__x4R9mWNxfDDjA)
-- [前端面试路线](https://mp.weixin.qq.com/s/rs2vrGo6i6NcOSIEeQRE4Q)
 - [我的前端知识体系构建 上](https://mp.weixin.qq.com/s/LbPbr_Dk865Yu0YXyCx47A)
 - [我的前端知识体系构建 下](https://mp.weixin.qq.com/s/WpuzHt0BTp35qAxCSaavcQ)
 
+- [微信公众号布局](https://github.com/netpi/wechat-layout)
+- [程序员如何优雅的挣零花钱？](http://r.ftqq.com/howto-make-more-money/)
+- [教你如何写初/高级技术岗位简历【赠简历导图】](https://mp.weixin.qq.com/s/2J2mHb4pt2AWg0OYb01OqA)
+
+# 前端面试
+- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+- [前端面试路线](https://mp.weixin.qq.com/s/rs2vrGo6i6NcOSIEeQRE4Q)
+- [张思轶面经](https://github.com/ruralist-siyi/front-end-Web-developer-interview)
+- [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+- [前端面试](https://github.com/zhoushaw/F2E)
+- [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
+- [饿了么Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 
 1. html 
 2. css
@@ -53,6 +64,8 @@ title: 资料包
    2. [一行CSS分别实现10种现代布局？](https://mp.weixin.qq.com/s/QYj7iHg4gnyuOf4Lkf_FBw)
    3. [玩转 CSS 变量](https://mp.weixin.qq.com/s/AjLt8CIo0F6uk56R8JybuQ)
    4. [前端 CSS 常用的几个用法技巧](https://mp.weixin.qq.com/s/xUtONXvw0HfcBBqK87FNsA)
+   5. [css样式学习](https://github.com/chokcoco/iCSS)
+   6. [css样式](https://github.com/QiShaoXuan/css_tricks)
 3. git-flow(git-stash)
    1. [git内部原理解析](https://mp.weixin.qq.com/s/jN-CGrf7oosutxLEvxvWiw)
    2. [Git——分支合并](https://mp.weixin.qq.com/s/yzv2Kh25NPAcTMV91gQi_g)
@@ -61,6 +74,16 @@ title: 资料包
    1. [算法问题](https://mp.weixin.qq.com/s/K0cjb2RCSvAj1jskIXn0tw)
    2. [前端也需要好好的精进自己的算法](https://segmentfault.com/a/1190000015849882)
    3. [写给前端的算法进阶指南，我是如何两个月零基础刷 200 题并进入大厂的](https://mp.weixin.qq.com/s/HK867HIkOlw0mUbPz07RWA)
+   4. [js算法](https://javascript-ds-algorithms-book.firebaseapp.com/) 资源在LearningJavaScriptDataStructuresandAlgorithmsThirdEdition_Code
+   5. [leetcode算法](https://github.com/azl397985856/leetcode)
+   6. [JesseZhao1990算法经验](https://github.com/JesseZhao1990/algorithm)
+   7. [剑指offer算法](https://github.com/HawsteinStudio/jian-zhi-offer)
+   8. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
+   9. [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
+   10. [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
+   11. [图解算法](https://github.com/geekxh/hello-algorithm)
+   12. [大厂算法面经](https://github.com/afatcoder/LeetcodeTop)
+   13. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 5. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
 6. react
@@ -92,6 +115,7 @@ title: 资料包
    17. [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
    18. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
    19. [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)
+   20. [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
 8. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
@@ -123,13 +147,8 @@ title: 资料包
     5. [JS 压缩图片](https://mp.weixin.qq.com/s/baWvRx9GkaM7ru4w6D9f9Q)
 15. 英语学习
     1. [奶爸的英语教室](https://site.douban.com/195274/) 
-
-
-
-
-
-
-
+    2. [高效学习英语](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+    3. [英语学习](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 
 
 
