@@ -49,6 +49,12 @@ title: 资料包
 - [程序员如何优雅的挣零花钱？](http://r.ftqq.com/howto-make-more-money/)
 - [教你如何写初/高级技术岗位简历【赠简历导图】](https://mp.weixin.qq.com/s/2J2mHb4pt2AWg0OYb01OqA)
 
+- [响应式编程在前端领域的应用](https://mp.weixin.qq.com/s/wnh8tYzXC_-zUSH-9ktHxg)
+- [成为最差前端开发的10个建议](https://mp.weixin.qq.com/s/O6L3e84iV2P9up2viyIwwg)
+- [5大法则助你成为更出色的开发者](https://mp.weixin.qq.com/s/gFxEP3X8Bpa-jj2SbrvSiQ)
+- [为什么要前后端分离？各有什么优缺点？](https://mp.weixin.qq.com/s/5M_ZV6sW1RJQG-XNEiwScg)
+- [如何提升职业工作效率](https://mp.weixin.qq.com/s/zH9kFjJQ5zE9mKGEiwEYAA)
+
 # 前端面试
 - [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 - [前端面试路线](https://mp.weixin.qq.com/s/rs2vrGo6i6NcOSIEeQRE4Q)
@@ -66,6 +72,7 @@ title: 资料包
    4. [前端 CSS 常用的几个用法技巧](https://mp.weixin.qq.com/s/xUtONXvw0HfcBBqK87FNsA)
    5. [css样式学习](https://github.com/chokcoco/iCSS)
    6. [css样式](https://github.com/QiShaoXuan/css_tricks)
+   7. [一行代码实现黑暗模式](https://mp.weixin.qq.com/s/pHvG4YAdxoytulGmPvN-oA)
 3. git-flow(git-stash)
    1. [git内部原理解析](https://mp.weixin.qq.com/s/jN-CGrf7oosutxLEvxvWiw)
    2. [Git——分支合并](https://mp.weixin.qq.com/s/yzv2Kh25NPAcTMV91gQi_g)
@@ -84,8 +91,11 @@ title: 资料包
    11. [图解算法](https://github.com/geekxh/hello-algorithm)
    12. [大厂算法面经](https://github.com/afatcoder/LeetcodeTop)
    13. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+   14. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
+   15. [前端算法第三弹](https://mp.weixin.qq.com/s/zvZnRzGCvW6k5v4TkvUNAQ)
 5. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
+   2. [想写好前端，先练好内功](https://mp.weixin.qq.com/s/RrylWXgnEDuuAYZe8gGxpQ)
 6. react
    1. [React Hooks 实践指南](https://mp.weixin.qq.com/s/FpksXaQUv2zplOPvgTh_Hw)
    2. [前有唐朝人懂 React，后有摸金校尉转行前端](https://mp.weixin.qq.com/s/kqqKxQwvtQme23KUuU-9Hw)
@@ -116,11 +126,16 @@ title: 资料包
    18. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
    19. [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)
    20. [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
+   21. [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
 8. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
+   3. [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
+   4. [一篇文章上手Vue3中新增的API](https://mp.weixin.qq.com/s/aAZ_7vzLufDfBAf5mxuY0Q)
+   5. [困扰99%前端程序员的Vue问题，全在这了（含代码）](https://mp.weixin.qq.com/s/PfRUI8gUHo3jZwqRw6ousw)
+   6. [Vue项目从2.5M优化到200kb的全过程](https://mp.weixin.qq.com/s/FRay4O1VAJ9c1RDyvjkzpg)
 9.  nodejs
-   3. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
+   7. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
 10. webpack
 11. 网络协议
     1.  http缓存
@@ -145,10 +160,12 @@ title: 资料包
     3. [H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
     4. [H5 秒开方案大全](https://mp.weixin.qq.com/s/zd9utAa8rA7GjYD_S1bvug)
     5. [JS 压缩图片](https://mp.weixin.qq.com/s/baWvRx9GkaM7ru4w6D9f9Q)
+    6. [V8是怎么提升对象属性访问速度的](https://mp.weixin.qq.com/s/u2sJjrf7v9tq9PxbX7CC2w)
 15. 英语学习
     1. [奶爸的英语教室](https://site.douban.com/195274/) 
     2. [高效学习英语](https://github.com/byoungd/English-level-up-tips-for-Chinese)
     3. [英语学习](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
-
-
-
+16. 经验总结
+    1. [一些建议：给当年刚做程序员的我](https://mp.weixin.qq.com/s/duw_ST4N5igpFdYS66qfXw)
+    2. [我是一位40岁的“老程序员”，我有一些想法](https://mp.weixin.qq.com/s/vpOnI8z8ra15NvErIObysA)
+    3. [不写文档你就输了](https://mp.weixin.qq.com/s/lvEiwS-paIt30DZnf7zQLw)
