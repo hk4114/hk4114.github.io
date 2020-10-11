@@ -6,6 +6,94 @@ tags:
 date: 2019-09-24
 vssue: false
 ---
+## 选择器
+简单选择器：针对某一特征判断是否选中元素。
+复合选择器：连续写在一起的简单选择器，针对元素自身特征选择单个元素。
+复杂选择器：由“（空格）”“ >”“ ~”“ +”“ ||”等符号连接的复合选择器，根据父元素或者前序元素检查单个元素。
+选择器列表：由逗号分隔的复杂选择器，表示“或”的关系。
+## at-rule 
+由一个 @ 关键字和后续的一个区块组成，如果没有区块，则以分号结束。
+
+@charset 用于提示 CSS 文件使用的字符编码方式，它如果被使用，必须出现在最前面。这个规则只在给出语法解析阶段前使用，并不影响页面上的展示效果。
+
+@import 用于引入一个 CSS 文件，除了 @charset 规则不会被引入，@import 可以引入另一个文件的全部内容。
+
+@media 媒体查询
+
+@page page 用于分页媒体访问网页时的表现设置，页面是一种特殊的盒模型结构，除了页面本身，还可以设置它周围的盒。
+
+@ key-frames 定义动画关键帧
+
+@ fontface 定义一种字体
+
+@ namespace 用于跟 XML 命名空间配合的一个规则，表示内部的 CSS 选择器全都带上特定命名空间。
+
+```css
+@charset "utf-8";
+
+@import "mystyle.css";
+@import url("mystyle.css");
+
+@media print {
+    body { font-size: 10pt }
+}
+
+
+@page {
+  size: 8.5in 11in;
+  margin: 10%;
+
+  @top-left {
+    content: "Hamlet";
+  }
+  @top-right {
+    content: "Page " counter(page);
+  }
+}
+
+@font-face {
+  font-family: Gentium;
+  src: url(http://example.com/fonts/Gentium.woff);
+}
+
+p { font-family: Gentium, serif; }
+```
+
+## qualified rule 普通规则
+- 选择器
+- 声明列表
+  - 属性
+  - 值
+    - 值的类型
+    - 函数
+
+CSS 支持一批特定的计算型函数：
+calc() 函数是基本的表达式计算，它支持加减乘除四则运算。在针对维度进行计算时，calc() 函数允许不同单位混合运算，这非常的有用。
+max()
+min()
+clamp()
+toggle() 规则选中多于一个元素时生效，它会在几个值之间来回切换，比如我们要让一个列表项的样式圆点和方点间隔出现，可以使用下面代码：
+attr() 允许 CSS 接受属性值的控制
+```css
+/* 变量 */
+:root {
+  --main-color: #06c;
+  --accent-color: #006;
+}
+/* The rest of the CSS file */
+#foo h1 {
+  color: var(--main-color);
+}
+
+section {
+  float: left;
+  margin: 1em; border: solid 1px;
+  width: calc(100%/3 - 2*1em - 2*1px);
+}
+
+
+ul { list-style-type: toggle(circle, square); }
+```
 
 
 ### 外联样式引入

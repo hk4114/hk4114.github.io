@@ -7,6 +7,60 @@ date: 2019-09-16
 vssue: false
 ---
 
+## 元信息类标签
+head 标签
+本身并不携带任何信息，它主要是作为盛放其它语义类标签的容器使用。
+title 标签
+base 标签
+最多只有一个，它改变全局的链接地址，它是一个非常危险的标签。给页面上所有的 URL 相对地址提供一个基础。
+
+meta 标签
+一般的 meta 标签由 name 和 content 两个属性来定义。name 表示元信息的名，content 则用于表示元信息的值。
+```html
+<meta name=application-name content="lsForums">
+
+简化写法 新增了 charset 属性 描述了 HTML 文档自身的编码形式
+  <meta charset="UTF-8" >
+一般情况下，HTTP 服务端会通过 http 头来指定正确的编码方式，但是有些特殊的情况如使用 file 协议打开一个 HTML 文件，则没有 http 头，这种时候，charset meta 就非常重要了。
+具有 http-equiv 属性的 meta
+具有 http-equiv 属性的 meta 标签，表示执行一个命令，这样的 meta 标签可以不需要 name 属性了
+添加了 content-type 这个 http 头，并且指定了 http 编码方式。
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+name 为 viewport 的 meta
+这类 meta 的 name 属性为 viewport，它的 content 是一个复杂结构，是用逗号分隔的键值对，键值对的格式是 key=value。
+<meta name="viewport" content="width=500, initial-scale=1">
+
+```
+这个标签表示页面所在的 web-application，名为 IsForums。
+除了 content-type，还有以下几种命令：
+content-language 指定内容的语言；
+default-style 指定默认样式表；
+refresh 刷新；
+set-cookie 模拟 http 头 set-cookie，设置 cookie；
+x-ua-compatible 模拟 http 头 x-ua-compatible，声明 ua 兼容性；
+content-security-policy 模拟 http 头 content-security-policy，声明内容安全策略
+
+viewport
+width：页面宽度，可以取值具体的数字，也可以是 device-width，表示跟设备宽度相等。
+height：页面高度，可以取值具体的数字，也可以是 device-height，表示跟设备高度相等。
+initial-scale：初始缩放比例。
+minimum-scale：最小缩放比例。
+maximum-scale：最大缩放比例。
+user-scalable：是否允许用户缩放。
+对于已经做好了移动端适配的网页，应该把用户缩放功能禁止掉，宽度设为设备宽度，一个标准的 meta 如下：
+`<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">`
+
+其它预定义的 meta
+author: 页面作者。
+description：页面描述，这个属性可能被用于搜索引擎或者其它场合。
+generator: 生成页面所使用的工具，主要用于可视化编辑器，如果是手写 HTML 的网页，不需要加这个 meta。
+keywords: 页面关键字，对于 SEO 场景非常关键。referrer: 跳转策略，是一种安全考量。
+theme-color: 页面风格颜色，实际并不会影响页面，但是浏览器可能据此调整页面之外的 UI（如窗口边框或者 tab 的颜色）。
+
+## 替换型媒体标签
+
+## 语义类标签
+
 
 ### HTML 基本结构 
 1. `<!DOCTYPE html>` 命名文档类型;`<!DOCTYPE>` 声明不是 HTML 标签；它是指示 web 浏览器关于页面使用哪个 HTML 版本进行编写的指令。
@@ -154,12 +208,4 @@ Your browser does not support the video tag.
  
 #### wbr元素             
 > 表示软换行;与br元素的区别：br元素表示此处必须换行；wbr表示浏览器窗口或父级元素足够宽时（没必要换行时），不换行，而宽度不够时主动在此处换行。
-
-
-
-
-
-
-
-
 

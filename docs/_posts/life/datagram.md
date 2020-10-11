@@ -127,6 +127,7 @@ title: 资料包
    19. [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)
    20. [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
    21. [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
+   22. [JavaScript 里的奇葩知识](https://mp.weixin.qq.com/s/rQ3bFYxQYDNes1eJWl6zwg)
 8. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
@@ -134,8 +135,10 @@ title: 资料包
    4. [一篇文章上手Vue3中新增的API](https://mp.weixin.qq.com/s/aAZ_7vzLufDfBAf5mxuY0Q)
    5. [困扰99%前端程序员的Vue问题，全在这了（含代码）](https://mp.weixin.qq.com/s/PfRUI8gUHo3jZwqRw6ousw)
    6. [Vue项目从2.5M优化到200kb的全过程](https://mp.weixin.qq.com/s/FRay4O1VAJ9c1RDyvjkzpg)
+   7. [研究Vue源码时发现的一些好玩函数](https://mp.weixin.qq.com/s/cYlHfzUwRqsp3Zz7BKABvg)
+   8. [10个实用技巧让你的 Vue 代码更优雅](https://mp.weixin.qq.com/s/_UUG3_1WJABNP-G9N-GCOw)
 9.  nodejs
-   7. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
+   9. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
 10. webpack
 11. 网络协议
     1.  http缓存
@@ -153,6 +156,7 @@ title: 资料包
     10. [浏览器的垃圾回收](https://mp.weixin.qq.com/s/G02qgYGbAxvUeQeQzMBjnA)
     11. [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
     12. [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
+    13. [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
 13. 跨端
 14. 性能优化
     1. [补齐Web前端性能分析的工具盲点](https://mp.weixin.qq.com/s/AQzamMzL3Yw0xN6i4YKY0w)
@@ -169,3 +173,4 @@ title: 资料包
     1. [一些建议：给当年刚做程序员的我](https://mp.weixin.qq.com/s/duw_ST4N5igpFdYS66qfXw)
     2. [我是一位40岁的“老程序员”，我有一些想法](https://mp.weixin.qq.com/s/vpOnI8z8ra15NvErIObysA)
     3. [不写文档你就输了](https://mp.weixin.qq.com/s/lvEiwS-paIt30DZnf7zQLw)
+    4. [大型前端项目的断点调试共享化和复用化实践](https://mp.weixin.qq.com/s/XfSfwNTniJLke8c9pQ5R4w)
