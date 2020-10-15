@@ -48,11 +48,6 @@ git commit -m "revert"
 git push origin master
 ```
 
-[diff01](./diff01.png)
-
-[diff02](./diff02.png)
-
-
 # git rebase 与 git merge 合并的区别
 > 对于本地的分支或者确定只有一个人使用的远端分支用rebase，其余情况用merge。
 
@@ -64,6 +59,8 @@ git merge  可以保留真实的提交时间等信息，并且不容易出问题
 
 rebase还有一个非常好用的东西叫interactive模式，使用方法是git rebase -i。
 可以实现压缩几个commit，修改commit信息，抛弃某个commit等功能。
+
+### 合并多个commit为一个
 ```sh
 git log
 # HEAD~3 意思是合并最近三次的提交
@@ -73,20 +70,24 @@ git rebase -i HEAD~3 `HEAD~3`
 # 修改this is three commit 的信息
 ```
 
-- 找回丢失的commit节点或分支
+### 找回丢失的commit节点或分支
 ```sh
 git log
-git reflog
-git reset --hard sha
+git reflog # 获取对应commit hash值
+git reset --hard <hash>
 ```
 
-- 获得一个干净的工作空间
+### 获得一个干净的工作空间
 ```sh
 git stash push -u
+# git stash save [massage]
+git stash list
 git stash pop
+# git stash pop stash@{[num]}
+git stash clear
 ```
 
-- 修改最近一个commit
+### 修改最近一个commit
 ```sh
 git log
 git show HEAD
@@ -96,7 +97,7 @@ git commit --amend
 # 也可以使用 git reset HEAD~，然后执行你需要的修改，再commit即可，同上面介绍的命令效果是相同的。
 ```
 
-- 撤销一个合并
+### 撤销一个合并
 如果是一个本地分支，仅需git reset --hard <合并前的SHA1>即可。
 发到线上才发现有bug需要回滚 git revert -m 1 <合并的SHA1>
 但要注意不要在原特性分支继续开发，而应该删除原来的分支，从E’节点拉出新分支做bug修复等。
