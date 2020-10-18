@@ -6,7 +6,6 @@ title: 资料包
 # 学习资料包
 ### 前端技术博客
 - [面试集锦](https://yuchengkai.cn/docs/zh/frontend/) 平时看看可以查漏补缺。
-- [JS 原生面经从初级到高级](https://juejin.im/post/5daeefc8e51d4524f007fb15)
 
 ### 外文
 - [css-tricks](https://css-tricks.com/)
@@ -20,7 +19,7 @@ title: 资料包
 - [开发一个爆款 VS Code 插件这么简单！](https://mp.weixin.qq.com/s/P28wOWZYHt3rjBl_ay8Piw)
 - [10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/ulY4c90Jd6uIOa322pwBhw)
 - [复制黏贴上传图片和跨浏览器自动化测试](https://juejin.im/post/5e0d965ef265da5d597e0fd5)
-- [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
+
 
 
 ### 花边
@@ -96,6 +95,7 @@ title: 资料包
 5. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
    2. [想写好前端，先练好内功](https://mp.weixin.qq.com/s/RrylWXgnEDuuAYZe8gGxpQ)
+   3. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
 6. react
    1. [React Hooks 实践指南](https://mp.weixin.qq.com/s/FpksXaQUv2zplOPvgTh_Hw)
    2. [前有唐朝人懂 React，后有摸金校尉转行前端](https://mp.weixin.qq.com/s/kqqKxQwvtQme23KUuU-9Hw)
@@ -105,6 +105,7 @@ title: 资料包
    6. [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
    7. [一起围观由React Hooks防抖引发的面试翻车现场](https://blog.csdn.net/qiwoo_weekly/article/details/105721412)
    8. [35 道咱们必须要清楚的 React 面试题](https://juejin.im/post/5dc20a4ff265da4d4e30040b?from=singlemessage)
+   9. [【重构】使用Hooks让代码更易于变更](https://mp.weixin.qq.com/s/QCnmGu5nnhTt6_O4Msk_Ow)
 7. JS
    1. 闭包
    2. 函数节流和防抖
@@ -128,6 +129,9 @@ title: 资料包
    20. [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
    21. [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
    22. [JavaScript 里的奇葩知识](https://mp.weixin.qq.com/s/rQ3bFYxQYDNes1eJWl6zwg)
+   23. [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
+   24. [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
+   25. [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
 8. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
@@ -140,9 +144,12 @@ title: 资料包
 9.  nodejs
    9. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
 10. webpack
+    1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
+    2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
 11. 网络协议
     1.  http缓存
     2.  [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
+    3.  [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
 12. 浏览器原理
     1. 浏览器输入url到页面展示发生的整个过程
     2. 浏览器缓存机制
@@ -157,6 +164,7 @@ title: 资料包
     11. [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
     12. [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
     13. [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
+    14. [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
 13. 跨端
 14. 性能优化
     1. [补齐Web前端性能分析的工具盲点](https://mp.weixin.qq.com/s/AQzamMzL3Yw0xN6i4YKY0w)
@@ -174,3 +182,6 @@ title: 资料包
     2. [我是一位40岁的“老程序员”，我有一些想法](https://mp.weixin.qq.com/s/vpOnI8z8ra15NvErIObysA)
     3. [不写文档你就输了](https://mp.weixin.qq.com/s/lvEiwS-paIt30DZnf7zQLw)
     4. [大型前端项目的断点调试共享化和复用化实践](https://mp.weixin.qq.com/s/XfSfwNTniJLke8c9pQ5R4w)
+    5. [你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
+    6. [通过编译器插件实现代码注入](https://mp.weixin.qq.com/s/SoqLNlP1sKDf-0ukWFK50w)
+    7. [在线Excel项目到底有多刺激](https://mp.weixin.qq.com/s/Czf0PqFVNNSc0L9-0Bg3ow)
