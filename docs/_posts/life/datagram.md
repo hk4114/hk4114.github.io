@@ -6,7 +6,10 @@ title: 资料包
 # 学习资料包
 ### 前端技术博客
 - [面试集锦](https://yuchengkai.cn/docs/zh/frontend/) 平时看看可以查漏补缺。
-
+- [lutaonan](https://lutaonan.com/) 
+- [欧雷](https://ourai.ws/)
+- [翁天信](https://www.dandyweng.com/) 
+- [wattenberger](https://wattenberger.com/blog/react-hooks)
 ### 外文
 - [css-tricks](https://css-tricks.com/)
 - [smashingmagazine](https://www.smashingmagazine.com/)
@@ -16,11 +19,7 @@ title: 资料包
 
 ### 常看常新
 - [现代 Web 开发的现状与未来](https://zhuanlan.zhihu.com/p/88616149)
-- [开发一个爆款 VS Code 插件这么简单！](https://mp.weixin.qq.com/s/P28wOWZYHt3rjBl_ay8Piw)
-- [10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/ulY4c90Jd6uIOa322pwBhw)
 - [复制黏贴上传图片和跨浏览器自动化测试](https://juejin.im/post/5e0d965ef265da5d597e0fd5)
-
-
 
 ### 花边
 - [互联网人员架构优化指南](https://mp.weixin.qq.com/s/QHxoi5a_GcFBZ2xbI4djbw)
@@ -29,11 +28,6 @@ title: 资料包
 - [互联网HR：我们是这样裁员的](https://mp.weixin.qq.com/s/2sMcpzD3JgB-pNAzWSqNqw)
 - [暴力裁员频发，程序员接 offer 前的职位协商如何避坑？](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q)
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
-
-
-[为什么这么设计系列文章](https://draven.co/whys-the-design/)
-
-[现代 JavaScript 教程](https://zh.javascript.info/)
 
 ### 前端知识图谱
 - [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/-Xb3A18sfboVHY8ZHEMVGA)
@@ -132,6 +126,8 @@ title: 资料包
    23. [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
    24. [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
    25. [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
+   26. [现代 JavaScript 教程](https://zh.javascript.info/)
+   27. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
 8. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)

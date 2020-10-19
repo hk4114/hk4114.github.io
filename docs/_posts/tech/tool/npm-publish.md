@@ -47,6 +47,18 @@ npm adduser
 npm publish
 ```
 
+### 5. link
+```bash
+git clone
+cd /xxx
+npm i
+npm run build
+npm link
+# target project
+npm link @xxx/xxx # package.json 的包
+```
+
+
 ## 5. README.md
 1. 有什么用?
 2. 为什么创造?
