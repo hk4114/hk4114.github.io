@@ -31,22 +31,15 @@ title: 资料包
 
 ### 前端知识图谱
 - [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/-Xb3A18sfboVHY8ZHEMVGA)
-- [如何快速识别项目水平？](https://mp.weixin.qq.com/s/V2OP3WUtWl-ZXirH01B6yw)
 - [一位架构师的感悟：过度忙碌使你落后](https://mp.weixin.qq.com/s/uwA5JryExOpUtQ_5AF7bBQ)
-- [阿里高级前端技术专家谈工程师的成长密码](https://mp.weixin.qq.com/s/FszvgWGBq00nLOwdaop_dg)
 - [浅谈如何搭建知识体系](https://mp.weixin.qq.com/s/E0u7LmT__x4R9mWNxfDDjA)
-- [我的前端知识体系构建 上](https://mp.weixin.qq.com/s/LbPbr_Dk865Yu0YXyCx47A)
-- [我的前端知识体系构建 下](https://mp.weixin.qq.com/s/WpuzHt0BTp35qAxCSaavcQ)
-
 - [微信公众号布局](https://github.com/netpi/wechat-layout)
 - [程序员如何优雅的挣零花钱？](http://r.ftqq.com/howto-make-more-money/)
-- [教你如何写初/高级技术岗位简历【赠简历导图】](https://mp.weixin.qq.com/s/2J2mHb4pt2AWg0OYb01OqA)
-
 - [响应式编程在前端领域的应用](https://mp.weixin.qq.com/s/wnh8tYzXC_-zUSH-9ktHxg)
-- [成为最差前端开发的10个建议](https://mp.weixin.qq.com/s/O6L3e84iV2P9up2viyIwwg)
 - [5大法则助你成为更出色的开发者](https://mp.weixin.qq.com/s/gFxEP3X8Bpa-jj2SbrvSiQ)
-- [为什么要前后端分离？各有什么优缺点？](https://mp.weixin.qq.com/s/5M_ZV6sW1RJQG-XNEiwScg)
-- [如何提升职业工作效率](https://mp.weixin.qq.com/s/zH9kFjJQ5zE9mKGEiwEYAA)
+
+- [我的前端知识体系构建 上](https://mp.weixin.qq.com/s/LbPbr_Dk865Yu0YXyCx47A)
+- [我的前端知识体系构建 下](https://mp.weixin.qq.com/s/WpuzHt0BTp35qAxCSaavcQ)
 
 # 前端面试
 - [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
@@ -173,11 +166,5 @@ title: 资料包
     1. [奶爸的英语教室](https://site.douban.com/195274/) 
     2. [高效学习英语](https://github.com/byoungd/English-level-up-tips-for-Chinese)
     3. [英语学习](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
-16. 经验总结
-    1. [一些建议：给当年刚做程序员的我](https://mp.weixin.qq.com/s/duw_ST4N5igpFdYS66qfXw)
-    2. [我是一位40岁的“老程序员”，我有一些想法](https://mp.weixin.qq.com/s/vpOnI8z8ra15NvErIObysA)
-    3. [不写文档你就输了](https://mp.weixin.qq.com/s/lvEiwS-paIt30DZnf7zQLw)
-    4. [大型前端项目的断点调试共享化和复用化实践](https://mp.weixin.qq.com/s/XfSfwNTniJLke8c9pQ5R4w)
-    5. [你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
-    6. [通过编译器插件实现代码注入](https://mp.weixin.qq.com/s/SoqLNlP1sKDf-0ukWFK50w)
-    7. [在线Excel项目到底有多刺激](https://mp.weixin.qq.com/s/Czf0PqFVNNSc0L9-0Bg3ow)
+16. 工程化
+    1. [你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
