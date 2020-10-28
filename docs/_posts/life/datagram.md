@@ -31,13 +31,7 @@ title: 资料包
 
 ### 前端知识图谱
 - [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/-Xb3A18sfboVHY8ZHEMVGA)
-- [一位架构师的感悟：过度忙碌使你落后](https://mp.weixin.qq.com/s/uwA5JryExOpUtQ_5AF7bBQ)
-- [浅谈如何搭建知识体系](https://mp.weixin.qq.com/s/E0u7LmT__x4R9mWNxfDDjA)
-- [微信公众号布局](https://github.com/netpi/wechat-layout)
 - [程序员如何优雅的挣零花钱？](http://r.ftqq.com/howto-make-more-money/)
-- [响应式编程在前端领域的应用](https://mp.weixin.qq.com/s/wnh8tYzXC_-zUSH-9ktHxg)
-- [5大法则助你成为更出色的开发者](https://mp.weixin.qq.com/s/gFxEP3X8Bpa-jj2SbrvSiQ)
-
 - [我的前端知识体系构建 上](https://mp.weixin.qq.com/s/LbPbr_Dk865Yu0YXyCx47A)
 - [我的前端知识体系构建 下](https://mp.weixin.qq.com/s/WpuzHt0BTp35qAxCSaavcQ)
 
@@ -50,6 +44,15 @@ title: 资料包
 - [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
 - [饿了么Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 
+[2 年前端 7～9 月面试经历总结](https://mp.weixin.qq.com/s/GCcil3tYcn3HRw81yCTVnw)
+[高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
+[给女朋友写了一份前端学习路线。](https://mp.weixin.qq.com/s/zVRThVRM6DYFcHmCkMkXFQ)
+[前端科普系列-Web：一路前行一路忘川](https://mp.weixin.qq.com/s/q8VYxoMd5Wh_7NNAsiUR8Q)
+[每位前端开发者都应该知道的方法论：JavaScript 中的 DILOS 原则](https://mp.weixin.qq.com/s/RXQSMiYFu7YCuFEG-xXaFw)
+[使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
+[从在线文档各大品类表现不一致的分行逻辑揭秘各异的复制粘贴解析富文本的思路](https://mp.weixin.qq.com/s/FM9wBr1zY98EegAOKI0qQA)
+
+
 1. html 
 2. css
    1. [20个 CSS 快速提升技巧](https://mp.weixin.qq.com/s/IbhE9iYfXsnbKDMMxaeGQg)
@@ -59,6 +62,9 @@ title: 资料包
    5. [css样式学习](https://github.com/chokcoco/iCSS)
    6. [css样式](https://github.com/QiShaoXuan/css_tricks)
    7. [一行代码实现黑暗模式](https://mp.weixin.qq.com/s/pHvG4YAdxoytulGmPvN-oA)
+   8. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
+   9. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
+
 3. git-flow(git-stash)
    1. [git内部原理解析](https://mp.weixin.qq.com/s/jN-CGrf7oosutxLEvxvWiw)
    2. [Git——分支合并](https://mp.weixin.qq.com/s/yzv2Kh25NPAcTMV91gQi_g)
@@ -121,6 +127,9 @@ title: 资料包
    25. [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
    26. [现代 JavaScript 教程](https://zh.javascript.info/)
    27. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
+   28. [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
+   29. [【JS】723- 前端如何优雅的处理类数组对象？](https://mp.weixin.qq.com/s/PslFGKfjleCA-tJt79PzrA)
+   30. [我在阿里写 React，学到了什么？](https://mp.weixin.qq.com/s/1H_1cTeACXdC1o9RAVsekw)
 8. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
@@ -130,8 +139,13 @@ title: 资料包
    6. [Vue项目从2.5M优化到200kb的全过程](https://mp.weixin.qq.com/s/FRay4O1VAJ9c1RDyvjkzpg)
    7. [研究Vue源码时发现的一些好玩函数](https://mp.weixin.qq.com/s/cYlHfzUwRqsp3Zz7BKABvg)
    8. [10个实用技巧让你的 Vue 代码更优雅](https://mp.weixin.qq.com/s/_UUG3_1WJABNP-G9N-GCOw)
+   9. [一文让你30分钟快速掌握Vue3](https://mp.weixin.qq.com/s/tME3wwPXTtv4DTDGLsvtLw)
+   10. [面试官：聊聊对Vue.js框架的理解](https://mp.weixin.qq.com/s/0iciStnbCNM8haGSJbyEQA)
+   11. [研究Vue源码时发现的一些好玩函数](https://mp.weixin.qq.com/s/j3owA3a-s2_6a7Cf-aJ89Q)
+   12. [Vue 超清晰思维导图，带你详细梳理知识点](https://mp.weixin.qq.com/s/hOlq94Cye3ryD5IlZ1T1IA)
+
 9.  nodejs
-   9. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
+   13. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
 10. webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
@@ -154,6 +168,7 @@ title: 资料包
     12. [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
     13. [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
     14. [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
+    15. [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/sOUqz4L4Yp0hoeoPlBbDFQ)
 13. 跨端
 14. 性能优化
     1. [补齐Web前端性能分析的工具盲点](https://mp.weixin.qq.com/s/AQzamMzL3Yw0xN6i4YKY0w)
