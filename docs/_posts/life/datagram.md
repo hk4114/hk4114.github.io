@@ -30,8 +30,6 @@ title: 资料包
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
 
 ### 前端知识图谱
-- [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/-Xb3A18sfboVHY8ZHEMVGA)
-- [程序员如何优雅的挣零花钱？](http://r.ftqq.com/howto-make-more-money/)
 - [我的前端知识体系构建 上](https://mp.weixin.qq.com/s/LbPbr_Dk865Yu0YXyCx47A)
 - [我的前端知识体系构建 下](https://mp.weixin.qq.com/s/WpuzHt0BTp35qAxCSaavcQ)
 
@@ -45,12 +43,15 @@ title: 资料包
 - [饿了么Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 
 [2 年前端 7～9 月面试经历总结](https://mp.weixin.qq.com/s/GCcil3tYcn3HRw81yCTVnw)
+
 [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
-[给女朋友写了一份前端学习路线。](https://mp.weixin.qq.com/s/zVRThVRM6DYFcHmCkMkXFQ)
+
 [前端科普系列-Web：一路前行一路忘川](https://mp.weixin.qq.com/s/q8VYxoMd5Wh_7NNAsiUR8Q)
+
 [每位前端开发者都应该知道的方法论：JavaScript 中的 DILOS 原则](https://mp.weixin.qq.com/s/RXQSMiYFu7YCuFEG-xXaFw)
+
 [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
-[从在线文档各大品类表现不一致的分行逻辑揭秘各异的复制粘贴解析富文本的思路](https://mp.weixin.qq.com/s/FM9wBr1zY98EegAOKI0qQA)
+
 
 
 1. html 
@@ -58,7 +59,6 @@ title: 资料包
    1. [20个 CSS 快速提升技巧](https://mp.weixin.qq.com/s/IbhE9iYfXsnbKDMMxaeGQg)
    2. [一行CSS分别实现10种现代布局？](https://mp.weixin.qq.com/s/QYj7iHg4gnyuOf4Lkf_FBw)
    3. [玩转 CSS 变量](https://mp.weixin.qq.com/s/AjLt8CIo0F6uk56R8JybuQ)
-   4. [前端 CSS 常用的几个用法技巧](https://mp.weixin.qq.com/s/xUtONXvw0HfcBBqK87FNsA)
    5. [css样式学习](https://github.com/chokcoco/iCSS)
    6. [css样式](https://github.com/QiShaoXuan/css_tricks)
    7. [一行代码实现黑暗模式](https://mp.weixin.qq.com/s/pHvG4YAdxoytulGmPvN-oA)
