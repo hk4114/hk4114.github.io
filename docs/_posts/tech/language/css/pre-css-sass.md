@@ -1,8 +1,6 @@
 ---
 title: 前端预处理器sass
-category: 关于技术
-tags:
-  - css
+category: css
 date: 2019-09-10
 vssue: false
 ---

@@ -54,21 +54,13 @@ title: 资料包
 
 
 
-1. html 
+1. html
 2. css
-   1. [20个 CSS 快速提升技巧](https://mp.weixin.qq.com/s/IbhE9iYfXsnbKDMMxaeGQg)
-   2. [一行CSS分别实现10种现代布局？](https://mp.weixin.qq.com/s/QYj7iHg4gnyuOf4Lkf_FBw)
-   3. [玩转 CSS 变量](https://mp.weixin.qq.com/s/AjLt8CIo0F6uk56R8JybuQ)
-   5. [css样式学习](https://github.com/chokcoco/iCSS)
-   6. [css样式](https://github.com/QiShaoXuan/css_tricks)
-   7. [一行代码实现黑暗模式](https://mp.weixin.qq.com/s/pHvG4YAdxoytulGmPvN-oA)
-   8. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-   9. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
-
+   1. [css样式学习](https://github.com/chokcoco/iCSS)
+   2. [css样式](https://github.com/QiShaoXuan/css_tricks)
+   3. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
+   4. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
 3. git-flow(git-stash)
-   1. [git内部原理解析](https://mp.weixin.qq.com/s/jN-CGrf7oosutxLEvxvWiw)
-   2. [Git——分支合并](https://mp.weixin.qq.com/s/yzv2Kh25NPAcTMV91gQi_g)
-   3. [Git实用技巧](https://mp.weixin.qq.com/s/IOF0k648IZGGlj5l9H211w)
 4. 数据结构与算法
    1. [算法问题](https://mp.weixin.qq.com/s/K0cjb2RCSvAj1jskIXn0tw)
    2. [前端也需要好好的精进自己的算法](https://segmentfault.com/a/1190000015849882)
@@ -130,6 +122,7 @@ title: 资料包
    28. [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
    29. [【JS】723- 前端如何优雅的处理类数组对象？](https://mp.weixin.qq.com/s/PslFGKfjleCA-tJt79PzrA)
    30. [我在阿里写 React，学到了什么？](https://mp.weixin.qq.com/s/1H_1cTeACXdC1o9RAVsekw)
+   31. [JavaScript 异常类型到底有几种？](https://mp.weixin.qq.com/s/5GcHKcR08L-u3lmYBWeg2g)
 8. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
@@ -181,5 +174,6 @@ title: 资料包
     1. [奶爸的英语教室](https://site.douban.com/195274/) 
     2. [高效学习英语](https://github.com/byoungd/English-level-up-tips-for-Chinese)
     3. [英语学习](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
-16. 工程化
+16. 项目
     1. [你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
+    2. [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)

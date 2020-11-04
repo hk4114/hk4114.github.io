@@ -1,9 +1,8 @@
 ---
 title: box-shadow和clip-path同时使用的问题
-category: 关于技术
+category: css
 tags:
   - 翻译
-  - css
 date: 2019-04-21
 vssue-id: 2
 ---

@@ -1,8 +1,6 @@
 ---
 title: 自定义“radio”与“checkbox”的样式
-category: 技术项目应用
-tags:
-  - css
+category: css
 date: 2019-05-07
 vssue: false
 ---

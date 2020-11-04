@@ -1,8 +1,6 @@
 ---
 title: css基础
-category: 关于技术
-tags:
-  - css
+category: css
 date: 2019-09-24
 vssue: false
 ---
