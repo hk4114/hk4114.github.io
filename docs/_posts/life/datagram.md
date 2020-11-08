@@ -5,6 +5,9 @@ title: 资料包
 <!-- more -->
 # 学习资料包
 
+## 项目实践
+> [app-ideas](https://github.com/florinpop17/app-ideas)
+
 ## 面试
 > 前端的历史发展 [前端科普系列-Web：一路前行一路忘川](https://mp.weixin.qq.com/s/q8VYxoMd5Wh_7NNAsiUR8Q)
 
