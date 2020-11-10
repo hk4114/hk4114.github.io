@@ -31,6 +31,8 @@ title: 资料包
 - [我的前端知识体系构建 上](https://mp.weixin.qq.com/s/LbPbr_Dk865Yu0YXyCx47A)
 - [我的前端知识体系构建 下](https://mp.weixin.qq.com/s/WpuzHt0BTp35qAxCSaavcQ)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
+- [高级指南](https://github.com/sl1673495/blogs/issues/37)
+- [中级指南](https://github.com/sl1673495/blogs/issues/52)
 
 1. html
 2. css
@@ -40,20 +42,14 @@ title: 资料包
    4. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
    5. [这些功能其实不需要 JS，CSS 就能搞定](https://mp.weixin.qq.com/s/z6hAYAqpjIsGR4F0n1IumQ)
 3. 数据结构与算法
-   1. [前端也需要好好的精进自己的算法](https://segmentfault.com/a/1190000015849882)
-   2. [写给前端的算法进阶指南，我是如何两个月零基础刷 200 题并进入大厂的](https://mp.weixin.qq.com/s/HK867HIkOlw0mUbPz07RWA)
-   3. [js算法](https://javascript-ds-algorithms-book.firebaseapp.com/) 资源在LearningJavaScriptDataStructuresandAlgorithmsThirdEdition_Code
-   4. [leetcode算法](https://github.com/azl397985856/leetcode)
-   5. [JesseZhao1990算法经验](https://github.com/JesseZhao1990/algorithm)
-   6. [剑指offer算法](https://github.com/HawsteinStudio/jian-zhi-offer)
-   7. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
-   8. [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
-   9.  [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
-   10. [图解算法](https://github.com/geekxh/hello-algorithm)
-   11. [大厂算法面经](https://github.com/afatcoder/LeetcodeTop)
-   12. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
-   13. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
-   14. [前端算法第三弹](https://mp.weixin.qq.com/s/zvZnRzGCvW6k5v4TkvUNAQ)
+   1. [js算法](https://javascript-ds-algorithms-book.firebaseapp.com/) 资源在LearningJavaScriptDataStructuresandAlgorithmsThirdEdition_Code
+   2. [leetcode算法](https://github.com/azl397985856/leetcode)
+   3. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
+   4. [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
+   5. [图解算法](https://github.com/geekxh/hello-algorithm)
+   6. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+   7. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
+   8. [算法](https://github.com/sl1673495/leetcode-javascript/issues)
 4. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
    2. [想写好前端，先练好内功](https://mp.weixin.qq.com/s/RrylWXgnEDuuAYZe8gGxpQ)
@@ -70,6 +66,8 @@ title: 资料包
    9. [【重构】使用Hooks让代码更易于变更](https://mp.weixin.qq.com/s/QCnmGu5nnhTt6_O4Msk_Ow)
    10. [我在阿里写 React，学到了什么？](https://mp.weixin.qq.com/s/1H_1cTeACXdC1o9RAVsekw)
    11. [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
+   12. [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
+   13. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
 6. JS
    1. 闭包
    2. 函数节流和防抖
@@ -102,6 +100,9 @@ title: 资料包
    29. [【JS】723- 前端如何优雅的处理类数组对象？](https://mp.weixin.qq.com/s/PslFGKfjleCA-tJt79PzrA)
    30. [JavaScript 异常类型到底有几种？](https://mp.weixin.qq.com/s/5GcHKcR08L-u3lmYBWeg2g)
    31. [每位前端开发者都应该知道的方法论：JavaScript 中的 DILOS 原则](https://mp.weixin.qq.com/s/RXQSMiYFu7YCuFEG-xXaFw)
+   32. [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
+   33. [聊聊 Axios 中值得学习的核心知识点](https://mp.weixin.qq.com/s/KfIbhT5ZubvVzNHEIyiXEA)
+   34. [将伪数组转换为数组的 N 种方案](https://mp.weixin.qq.com/s/8BqfkHb6cjyAY7-qz8pAww)
 7. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
@@ -115,15 +116,19 @@ title: 资料包
    10. [面试官：聊聊对Vue.js框架的理解](https://mp.weixin.qq.com/s/0iciStnbCNM8haGSJbyEQA)
    11. [研究Vue源码时发现的一些好玩函数](https://mp.weixin.qq.com/s/j3owA3a-s2_6a7Cf-aJ89Q)
    12. [Vue 超清晰思维导图，带你详细梳理知识点](https://mp.weixin.qq.com/s/hOlq94Cye3ryD5IlZ1T1IA)
+   13. [import { reactive } from 'vue'](https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw)
 8.  nodejs
-   13. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
+    1. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
+    2. [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
+    3. [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ)
 9.  webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
 10. 网络协议
-    1.  http缓存
-    2.  [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
-    3.  [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
+    1. http缓存
+    2. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
+    3. [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
+    4. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
 11. 浏览器原理
     1. 浏览器输入url到页面展示发生的整个过程
     2. 浏览器缓存机制
@@ -141,6 +146,7 @@ title: 资料包
     14. [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
     15. [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/sOUqz4L4Yp0hoeoPlBbDFQ)
 12. 跨端
+    1. [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/jQyCaFjkzgiGfJkPTtpoaA)
 13. 性能优化
     1. [补齐Web前端性能分析的工具盲点](https://mp.weixin.qq.com/s/AQzamMzL3Yw0xN6i4YKY0w)
     2. [从 10 多秒到 1.05 秒的前端性能优化实践](https://mp.weixin.qq.com/s/9d7e8Bjmw0vpSeIBpQSrGQ)
@@ -148,6 +154,7 @@ title: 资料包
     4. [H5 秒开方案大全](https://mp.weixin.qq.com/s/zd9utAa8rA7GjYD_S1bvug)
     5. [JS 压缩图片](https://mp.weixin.qq.com/s/baWvRx9GkaM7ru4w6D9f9Q)
     6. [V8是怎么提升对象属性访问速度的](https://mp.weixin.qq.com/s/u2sJjrf7v9tq9PxbX7CC2w)
+    7. [2020 年最新 24 条前端性能优化军规](https://mp.weixin.qq.com/s/usdMjbizx_j5TcxgDoA-fw)
 14. [git](https://hk4114.github.io/posts/2019/01/21/git.html)
 15. 英语学习
     1. [奶爸的英语教室](https://site.douban.com/195274/) 
@@ -171,3 +178,7 @@ title: 资料包
 ## 其他
 - [如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
+- [咨询札记（壹）](https://mp.weixin.qq.com/s/85t9cGf34q4jfo9DQUFm6g)
+- [工作之后，越来越不想上班了，为啥？](https://mp.weixin.qq.com/s/2T1ud3vOSTS9PBoISnKu0w)
+- [对我的影响最大的思维方式](https://mp.weixin.qq.com/s/bdzAxGtGscx5HqNFMKHX4Q)
+- [为什么不建议程序员做“外包”？](https://mp.weixin.qq.com/s/yCmKCGCzt7V4I-l6L8lFbg)
