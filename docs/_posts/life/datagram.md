@@ -20,6 +20,7 @@ title: 资料包
 6. [前端面试](https://github.com/zhoushaw/F2E)
 7. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
 8. [ruralist-siyi 面试题](https://github.com/ruralist-siyi/front-end-Web-developer-interview)
+9. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
 
 ### 面试经验
 1. [2 年前端 7～9 月面试经历总结](https://mp.weixin.qq.com/s/GCcil3tYcn3HRw81yCTVnw)
@@ -40,7 +41,6 @@ title: 资料包
    2. [css样式](https://github.com/QiShaoXuan/css_tricks)
    3. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
    4. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-   5. [这些功能其实不需要 JS，CSS 就能搞定](https://mp.weixin.qq.com/s/z6hAYAqpjIsGR4F0n1IumQ)
 3. 数据结构与算法
    1. [js算法](https://javascript-ds-algorithms-book.firebaseapp.com/) 资源在LearningJavaScriptDataStructuresandAlgorithmsThirdEdition_Code
    2. [leetcode算法](https://github.com/azl397985856/leetcode)
@@ -55,8 +55,6 @@ title: 资料包
    2. [想写好前端，先练好内功](https://mp.weixin.qq.com/s/RrylWXgnEDuuAYZe8gGxpQ)
    3. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
 5. react
-   1. [React Hooks 实践指南](https://mp.weixin.qq.com/s/FpksXaQUv2zplOPvgTh_Hw)
-   2. [前有唐朝人懂 React，后有摸金校尉转行前端](https://mp.weixin.qq.com/s/kqqKxQwvtQme23KUuU-9Hw)
    3. [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/iB6SjRSdwTe_syhAXezCAg)
    4. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
    5. [写React Hooks前必读](https://mp.weixin.qq.com/s/rp3_Grsu4d-Lq6MFqHFCCg)
@@ -64,45 +62,48 @@ title: 资料包
    7. [一起围观由React Hooks防抖引发的面试翻车现场](https://blog.csdn.net/qiwoo_weekly/article/details/105721412)
    8. [35 道咱们必须要清楚的 React 面试题](https://juejin.im/post/5dc20a4ff265da4d4e30040b?from=singlemessage)
    9. [【重构】使用Hooks让代码更易于变更](https://mp.weixin.qq.com/s/QCnmGu5nnhTt6_O4Msk_Ow)
-   10. [我在阿里写 React，学到了什么？](https://mp.weixin.qq.com/s/1H_1cTeACXdC1o9RAVsekw)
    11. [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
    12. [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
    13. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
 6. JS
-   1. 闭包
-   2. 函数节流和防抖
-   3. [一文掌握开发利器：正则表达式](https://mp.weixin.qq.com/s/wkCHL_QzAJwWEg9JZaZnCQ)
-   4. [代码之美，正则之道](https://mp.weixin.qq.com/s/jH6aimCs5LAL5GBe9bu8rg)
-   5. [防抖-理解，实践并实现](https://terry-su.github.io/cn/understand-and-make-the-debounce)
-   6. [节流 - 理解，实践与实现](https://terry-su.github.io/cn/understand-and-make-the-throttle)
-   7. [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
-   8. [JavaScript错误处理完全指南](https://mp.weixin.qq.com/s/I9ZrCsoNo7jrOHj8a9UW1A)
-   9. [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
-   10. [JavaScript 是如何工作的：JavaScript 的内存模型](https://segmentfault.com/a/1190000018854431)
-   11. [41个最新的JavaScript开发技巧](https://mp.weixin.qq.com/s/S0xHUMGvSVy0hJLGMf68rA)
-   12. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
-   13. [TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
-   14. [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
-   15. [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
-   16. [浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
-   17. [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
-   18. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
-   19. [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)
-   20. [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
-   21. [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
-   22. [JavaScript 里的奇葩知识](https://mp.weixin.qq.com/s/rQ3bFYxQYDNes1eJWl6zwg)
-   23. [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
-   24. [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
-   25. [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
-   26. [现代 JavaScript 教程](https://zh.javascript.info/)
-   27. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
-   28. [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
-   29. [【JS】723- 前端如何优雅的处理类数组对象？](https://mp.weixin.qq.com/s/PslFGKfjleCA-tJt79PzrA)
-   30. [JavaScript 异常类型到底有几种？](https://mp.weixin.qq.com/s/5GcHKcR08L-u3lmYBWeg2g)
-   31. [每位前端开发者都应该知道的方法论：JavaScript 中的 DILOS 原则](https://mp.weixin.qq.com/s/RXQSMiYFu7YCuFEG-xXaFw)
-   32. [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
-   33. [聊聊 Axios 中值得学习的核心知识点](https://mp.weixin.qq.com/s/KfIbhT5ZubvVzNHEIyiXEA)
-   34. [将伪数组转换为数组的 N 种方案](https://mp.weixin.qq.com/s/8BqfkHb6cjyAY7-qz8pAww)
+   - 基础
+     + [前端如何优雅的处理类数组对象？](https://mp.weixin.qq.com/s/PslFGKfjleCA-tJt79PzrA)
+     + [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
+     + [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
+     + [现代 JavaScript 教程](https://zh.javascript.info/)
+     + [为什么这么设计系列文章](https://draven.co/whys-the-design/)
+     + [JavaScript 是如何工作的：JavaScript 的内存模型](https://segmentfault.com/a/1190000018854431)
+   - **性能优化**
+     + [防抖-理解，实践并实现](https://terry-su.github.io/cn/understand-and-make-the-debounce)
+     + [节流 - 理解，实践与实现](https://terry-su.github.io/cn/understand-and-make-the-throttle)
+   - ES6
+     + [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
+     + [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
+   - 路由
+     + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
+     + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
+   - 捕获报错
+     + [JavaScript 异常类型到底有几种？](https://mp.weixin.qq.com/s/5GcHKcR08L-u3lmYBWeg2g)
+     + [JavaScript错误处理完全指南](https://mp.weixin.qq.com/s/I9ZrCsoNo7jrOHj8a9UW1A)
+     + [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
+   - 编码方法与技巧
+     + [聊聊 Axios 中值得学习的核心知识点](https://mp.weixin.qq.com/s/KfIbhT5ZubvVzNHEIyiXEA)
+     + [JavaScript 里的奇葩知识](https://mp.weixin.qq.com/s/rQ3bFYxQYDNes1eJWl6zwg)
+     + [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
+     + [每位前端开发者都应该知道的方法论：JavaScript 中的 DILOS 原则](https://mp.weixin.qq.com/s/RXQSMiYFu7YCuFEG-xXaFw)
+     + [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
+     + [41个最新的JavaScript开发技巧](https://mp.weixin.qq.com/s/S0xHUMGvSVy0hJLGMf68rA)
+     + [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
+     + [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)         
+   - 正则
+     + [一文掌握开发利器：正则表达式](https://mp.weixin.qq.com/s/wkCHL_QzAJwWEg9JZaZnCQ)
+     + [代码之美，正则之道](https://mp.weixin.qq.com/s/jH6aimCs5LAL5GBe9bu8rg)
+   - TypeScript
+     + [浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
+     + [TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
+     + [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
+     + [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
+     + [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
 7. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
@@ -178,7 +179,3 @@ title: 资料包
 ## 其他
 - [如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
-- [咨询札记（壹）](https://mp.weixin.qq.com/s/85t9cGf34q4jfo9DQUFm6g)
-- [工作之后，越来越不想上班了，为啥？](https://mp.weixin.qq.com/s/2T1ud3vOSTS9PBoISnKu0w)
-- [对我的影响最大的思维方式](https://mp.weixin.qq.com/s/bdzAxGtGscx5HqNFMKHX4Q)
-- [为什么不建议程序员做“外包”？](https://mp.weixin.qq.com/s/yCmKCGCzt7V4I-l6L8lFbg)
