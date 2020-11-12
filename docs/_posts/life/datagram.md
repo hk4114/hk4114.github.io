@@ -67,7 +67,6 @@ title: 资料包
    10. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
 6. JS
    - 基础
-     + [前端如何优雅的处理类数组对象？](https://mp.weixin.qq.com/s/PslFGKfjleCA-tJt79PzrA)
      + [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
      + [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
      + [现代 JavaScript 教程](https://zh.javascript.info/)
