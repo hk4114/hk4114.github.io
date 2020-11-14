@@ -34,6 +34,7 @@ title: 资料包
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 - [高级指南](https://github.com/sl1673495/blogs/issues/37)
 - [中级指南](https://github.com/sl1673495/blogs/issues/52)
+- [思考：前端小白到大神的成长路线](https://mp.weixin.qq.com/s/Vs_OlRRLlNN0FnfV5d4tCA)
 
 1. html
 2. css
@@ -65,6 +66,7 @@ title: 资料包
    8.  [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
    9.  [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
    10. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
+   11. [6个React Hook最佳实践技巧](https://mp.weixin.qq.com/s/QuePT7QnJo1C0HjumjPXgw)
 6. JS
    - 基础
      + [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
@@ -89,9 +91,12 @@ title: 资料包
      + [聊聊 Axios 中值得学习的核心知识点](https://mp.weixin.qq.com/s/KfIbhT5ZubvVzNHEIyiXEA)
      + [JavaScript 里的奇葩知识](https://mp.weixin.qq.com/s/rQ3bFYxQYDNes1eJWl6zwg)
      + [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
+     + [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
      + [每位前端开发者都应该知道的方法论：JavaScript 中的 DILOS 原则](https://mp.weixin.qq.com/s/RXQSMiYFu7YCuFEG-xXaFw)
      + [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
      + [41个最新的JavaScript开发技巧](https://mp.weixin.qq.com/s/S0xHUMGvSVy0hJLGMf68rA)
+     + [这句经常在框架中出现的 JS 代码很有趣！](https://mp.weixin.qq.com/s/jjM93eNQ-9arq_BEapIBrg)
+     + [昨天写了这些骚代码，今天上班差点被同事揍了](https://mp.weixin.qq.com/s/_D6402j-jaqvgDddPUR52Q)
      + [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
      + [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)         
    - 正则
@@ -117,13 +122,15 @@ title: 资料包
    11. [研究Vue源码时发现的一些好玩函数](https://mp.weixin.qq.com/s/j3owA3a-s2_6a7Cf-aJ89Q)
    12. [Vue 超清晰思维导图，带你详细梳理知识点](https://mp.weixin.qq.com/s/hOlq94Cye3ryD5IlZ1T1IA)
    13. [import { reactive } from 'vue'](https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw)
-8.  nodejs
+   14. [「 如何优雅的使用VUE? 」不可不知的VUE实战技巧](https://mp.weixin.qq.com/s/O8zuah7SeRGKhDjm_yR1HQ)
+8. nodejs
     1. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
     2. [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
     3. [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ)
-9.  webpack
+9. webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
+    3. [手把手带你入门前端工程化——超详细教程](https://mp.weixin.qq.com/s/ovsKFbzFFwlPcUTqhF6Okw)
 10. 网络协议
     1. http缓存
     2. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
@@ -145,6 +152,7 @@ title: 资料包
     13. [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
     14. [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
     15. [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/sOUqz4L4Yp0hoeoPlBbDFQ)
+    16. [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig)
 12. 跨端
     1. [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/jQyCaFjkzgiGfJkPTtpoaA)
 13. 性能优化
@@ -178,3 +186,5 @@ title: 资料包
 ## 其他
 - [如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
+- [行业怪现象：前端总是被鄙视，但又十分抢手~](https://mp.weixin.qq.com/s/77PObY1AZR9dz5Zvgh8VJg)
+- [关键时刻，get这项技能，就是生与死的差距！11月，快来浙二免费学本领！](https://mp.weixin.qq.com/s/f-HRL_xxH2FLhYsyRsxqKw)
