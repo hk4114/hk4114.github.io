@@ -11,6 +11,9 @@ title: 资料包
 ## 面试
 > 前端的历史发展 [前端科普系列-Web：一路前行一路忘川](https://mp.weixin.qq.com/s/q8VYxoMd5Wh_7NNAsiUR8Q)
 
+## 键盘指法练习
+> [键盘指法练习](https://www.typingclub.com/) https://www.dazima.cn/flash/127.html
+
 ### 面试题
 1. [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
 2. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
