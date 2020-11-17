@@ -46,8 +46,6 @@ title: 资料包
    3. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
    4. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
 3. 数据结构与算法
-   1. [js算法](https://javascript-ds-algorithms-book.firebaseapp.com/) 资源在LearningJavaScriptDataStructuresandAlgorithmsThirdEdition_Code
-   2. [leetcode算法](https://github.com/azl397985856/leetcode)
    3. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
    4. [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
    5. [图解算法](https://github.com/geekxh/hello-algorithm)
