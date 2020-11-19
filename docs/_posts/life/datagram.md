@@ -46,12 +46,12 @@ title: 资料包
    3. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
    4. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
 3. 数据结构与算法
-   3. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
-   4. [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
-   5. [图解算法](https://github.com/geekxh/hello-algorithm)
-   6. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
-   7. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
-   8. [算法](https://github.com/sl1673495/leetcode-javascript/issues)
+   1. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
+   2. [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
+   3. [图解算法](https://github.com/geekxh/hello-algorithm)
+   4. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+   5. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
+   6. [算法](https://github.com/sl1673495/leetcode-javascript/issues)
 4. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
    2. [想写好前端，先练好内功](https://mp.weixin.qq.com/s/RrylWXgnEDuuAYZe8gGxpQ)
@@ -69,6 +69,10 @@ title: 资料包
    10. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
    11. [6个React Hook最佳实践技巧](https://mp.weixin.qq.com/s/QuePT7QnJo1C0HjumjPXgw)
 6. JS
+   - 捕获报错
+     + [JavaScript 异常类型到底有几种？](https://mp.weixin.qq.com/s/5GcHKcR08L-u3lmYBWeg2g)
+     + [JavaScript错误处理完全指南](https://mp.weixin.qq.com/s/I9ZrCsoNo7jrOHj8a9UW1A)
+     + [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
    - 基础
      + [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
      + [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
@@ -84,10 +88,6 @@ title: 资料包
    - 路由
      + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
      + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
-   - 捕获报错
-     + [JavaScript 异常类型到底有几种？](https://mp.weixin.qq.com/s/5GcHKcR08L-u3lmYBWeg2g)
-     + [JavaScript错误处理完全指南](https://mp.weixin.qq.com/s/I9ZrCsoNo7jrOHj8a9UW1A)
-     + [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
    - 编码方法与技巧
      + [聊聊 Axios 中值得学习的核心知识点](https://mp.weixin.qq.com/s/KfIbhT5ZubvVzNHEIyiXEA)
      + [JavaScript 里的奇葩知识](https://mp.weixin.qq.com/s/rQ3bFYxQYDNes1eJWl6zwg)
@@ -128,7 +128,7 @@ title: 资料包
     1. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
     2. [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
     3. [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ)
-9. webpack
+9.  webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
     3. [手把手带你入门前端工程化——超详细教程](https://mp.weixin.qq.com/s/ovsKFbzFFwlPcUTqhF6Okw)
@@ -187,5 +187,4 @@ title: 资料包
 ## 其他
 - [如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
-- [行业怪现象：前端总是被鄙视，但又十分抢手~](https://mp.weixin.qq.com/s/77PObY1AZR9dz5Zvgh8VJg)
 - [关键时刻，get这项技能，就是生与死的差距！11月，快来浙二免费学本领！](https://mp.weixin.qq.com/s/f-HRL_xxH2FLhYsyRsxqKw)
