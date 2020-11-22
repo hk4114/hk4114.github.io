@@ -24,12 +24,10 @@ title: 资料包
 7. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
 8. [ruralist-siyi 面试题](https://github.com/ruralist-siyi/front-end-Web-developer-interview)
 9. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
+10. [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
 
 ### 面试经验
-1. [2 年前端 7～9 月面试经历总结](https://mp.weixin.qq.com/s/GCcil3tYcn3HRw81yCTVnw)
-2. [前端面试路线](https://mp.weixin.qq.com/s/rs2vrGo6i6NcOSIEeQRE4Q)
-3. [暴力裁员频发，程序员接 offer 前的职位协商如何避坑？](https://mp.weixin.qq.com/s/xbLNcyH8k9AzhRnByGCb1Q)
-4. [总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
+[总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
 
 ## 知识体系
 - [我的前端知识体系构建 上](https://mp.weixin.qq.com/s/LbPbr_Dk865Yu0YXyCx47A)
@@ -45,6 +43,7 @@ title: 资料包
    2. [css样式](https://github.com/QiShaoXuan/css_tricks)
    3. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
    4. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
+   5. [我的codepen](https://codepen.io/hk4114)
 3. 数据结构与算法
    1. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
    2. [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
@@ -52,36 +51,20 @@ title: 资料包
    4. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
    5. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
    6. [算法](https://github.com/sl1673495/leetcode-javascript/issues)
+   7. [开课吧](https://learn.kaikeba.com/catalog/210674?type=1)
+   8. [极客时间 视频课](https://time.geekbang.org/course/detail/100019701-41552)
+   9. [极客时间 专栏](https://time.geekbang.org/column/article/40011)
 4. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
    2. [想写好前端，先练好内功](https://mp.weixin.qq.com/s/RrylWXgnEDuuAYZe8gGxpQ)
    3. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
-5. react
-   1. [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/iB6SjRSdwTe_syhAXezCAg)
-   2. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
-   3. [写React Hooks前必读](https://mp.weixin.qq.com/s/rp3_Grsu4d-Lq6MFqHFCCg)
-   4. [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
-   5. [一起围观由React Hooks防抖引发的面试翻车现场](https://blog.csdn.net/qiwoo_weekly/article/details/105721412)
-   6. [35 道咱们必须要清楚的 React 面试题](https://juejin.im/post/5dc20a4ff265da4d4e30040b?from=singlemessage)
-   7. [【重构】使用Hooks让代码更易于变更](https://mp.weixin.qq.com/s/QCnmGu5nnhTt6_O4Msk_Ow)
-   8.  [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
-   9.  [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
-   10. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
-   11. [6个React Hook最佳实践技巧](https://mp.weixin.qq.com/s/QuePT7QnJo1C0HjumjPXgw)
-6. JS
-   - 捕获报错
-     + [JavaScript 异常类型到底有几种？](https://mp.weixin.qq.com/s/5GcHKcR08L-u3lmYBWeg2g)
-     + [JavaScript错误处理完全指南](https://mp.weixin.qq.com/s/I9ZrCsoNo7jrOHj8a9UW1A)
-     + [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
+5. JS
    - 基础
      + [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
      + [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
      + [现代 JavaScript 教程](https://zh.javascript.info/)
      + [为什么这么设计系列文章](https://draven.co/whys-the-design/)
      + [JavaScript 是如何工作的：JavaScript 的内存模型](https://segmentfault.com/a/1190000018854431)
-   - **性能优化**
-     + [防抖-理解，实践并实现](https://terry-su.github.io/cn/understand-and-make-the-debounce)
-     + [节流 - 理解，实践与实现](https://terry-su.github.io/cn/understand-and-make-the-throttle)
    - ES6
      + [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
      + [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
@@ -109,7 +92,23 @@ title: 资料包
      + [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
      + [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
      + [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
-7. vue
+6. react
+   1. [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/iB6SjRSdwTe_syhAXezCAg)
+   2. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
+   3. [写React Hooks前必读](https://mp.weixin.qq.com/s/rp3_Grsu4d-Lq6MFqHFCCg)
+   4. [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
+   5. [一起围观由React Hooks防抖引发的面试翻车现场](https://blog.csdn.net/qiwoo_weekly/article/details/105721412)
+   6. [35 道咱们必须要清楚的 React 面试题](https://juejin.im/post/5dc20a4ff265da4d4e30040b?from=singlemessage)
+   7. [【重构】使用Hooks让代码更易于变更](https://mp.weixin.qq.com/s/QCnmGu5nnhTt6_O4Msk_Ow)
+   8.  [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
+   9.  [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
+   10. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
+   11. [6个React Hook最佳实践技巧](https://mp.weixin.qq.com/s/QuePT7QnJo1C0HjumjPXgw)
+7. nodejs
+    1. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
+    2. [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
+    3. [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ)
+8. vue
    1. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
    2. [30 道 Vue 面试题，内含详细讲解（涵盖入门到精通，自测 Vue 掌握程度）](https://juejin.im/post/5d59f2a451882549be53b170)
    3. [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
@@ -124,10 +123,7 @@ title: 资料包
    12. [Vue 超清晰思维导图，带你详细梳理知识点](https://mp.weixin.qq.com/s/hOlq94Cye3ryD5IlZ1T1IA)
    13. [import { reactive } from 'vue'](https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw)
    14. [「 如何优雅的使用VUE? 」不可不知的VUE实战技巧](https://mp.weixin.qq.com/s/O8zuah7SeRGKhDjm_yR1HQ)
-8. nodejs
-    1. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
-    2. [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
-    3. [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ)
+   15. [【硬货】vue全家桶+Echarts+百度地图，搭建数据可视化系统](https://mp.weixin.qq.com/s/jjrse-nzMogymz6MaW2obw)
 9.  webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
@@ -164,22 +160,18 @@ title: 资料包
     5. [JS 压缩图片](https://mp.weixin.qq.com/s/baWvRx9GkaM7ru4w6D9f9Q)
     6. [V8是怎么提升对象属性访问速度的](https://mp.weixin.qq.com/s/u2sJjrf7v9tq9PxbX7CC2w)
     7. [2020 年最新 24 条前端性能优化军规](https://mp.weixin.qq.com/s/usdMjbizx_j5TcxgDoA-fw)
-14. [git](https://hk4114.github.io/posts/2019/01/21/git.html)
-15. 英语学习
+14. 英语学习
     1. [奶爸的英语教室](https://site.douban.com/195274/) 
     2. [高效学习英语](https://github.com/byoungd/English-level-up-tips-for-Chinese)
     3. [英语学习](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
-16. 项目
+15. 项目
     1. [你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
     2. [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
 
 ## 博客
-- [lutaonan](https://lutaonan.com/) 
-- [欧雷](https://ourai.ws/)
-- [翁天信](https://www.dandyweng.com/) 
 - [wattenberger](https://wattenberger.com/blog/react-hooks)
 - [css-tricks](https://css-tricks.com/)
-- [smashingmagazine](https://www.smashingmagazine.com/)
+- [smashing magazine](https://www.smashingmagazine.com/)
 - [logrocket](https://blog.logrocket.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Venture Hacks](https://venturehacks.com/)
