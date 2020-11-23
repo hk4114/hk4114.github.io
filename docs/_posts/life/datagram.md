@@ -8,11 +8,11 @@ title: 资料包
 ## 项目实践
 > [app-ideas](https://github.com/florinpop17/app-ideas)
 
-## 面试
-> 前端的历史发展 [前端科普系列-Web：一路前行一路忘川](https://mp.weixin.qq.com/s/q8VYxoMd5Wh_7NNAsiUR8Q)
-
 ## 键盘指法练习
 > [键盘指法练习](https://www.typingclub.com/) https://www.dazima.cn/flash/127.html
+
+## 面试
+> 前端的历史发展 [前端科普系列-Web：一路前行一路忘川](https://mp.weixin.qq.com/s/q8VYxoMd5Wh_7NNAsiUR8Q)
 
 ### 面试题
 1. [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
@@ -76,11 +76,8 @@ title: 资料包
      + [JavaScript 里的奇葩知识](https://mp.weixin.qq.com/s/rQ3bFYxQYDNes1eJWl6zwg)
      + [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
      + [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
-     + [每位前端开发者都应该知道的方法论：JavaScript 中的 DILOS 原则](https://mp.weixin.qq.com/s/RXQSMiYFu7YCuFEG-xXaFw)
      + [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
      + [41个最新的JavaScript开发技巧](https://mp.weixin.qq.com/s/S0xHUMGvSVy0hJLGMf68rA)
-     + [这句经常在框架中出现的 JS 代码很有趣！](https://mp.weixin.qq.com/s/jjM93eNQ-9arq_BEapIBrg)
-     + [昨天写了这些骚代码，今天上班差点被同事揍了](https://mp.weixin.qq.com/s/_D6402j-jaqvgDddPUR52Q)
      + [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
      + [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)         
    - 正则
