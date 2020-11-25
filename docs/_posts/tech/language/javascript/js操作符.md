@@ -74,3 +74,36 @@ const arr = [1,2,3,4,5];
 
 console.log(arr[arr.length - 1])
 ```
+
+### 拓展运算符动态设置对象属性
+```js
+let obj = {A:0,B:1,C:2};
+let b = {...(obj.B ? obj : null)} // {A:0,B:1,C:2}
+b = {...(obj.A ? obj : null)} // {}
+```
+
+### 函数带默认参数时将生成声明作用域
+```js
+var x = 10;
+
+function fn(x = 2, y = function () { return x + 1 }) {
+  
+  var x = 5;
+  return y();
+}
+
+fn();   // 3
+```
+
+### 重复解构对象
+```js
+const obj = {
+  a: {
+    b: 1
+  },
+  c: 2
+};
+
+const { a: { b }, a } = obj;
+// b => 1
+```

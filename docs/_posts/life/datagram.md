@@ -30,12 +30,9 @@ title: 资料包
 [总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
 
 ## 知识体系
-- [我的前端知识体系构建 上](https://mp.weixin.qq.com/s/LbPbr_Dk865Yu0YXyCx47A)
-- [我的前端知识体系构建 下](https://mp.weixin.qq.com/s/WpuzHt0BTp35qAxCSaavcQ)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 - [高级指南](https://github.com/sl1673495/blogs/issues/37)
 - [中级指南](https://github.com/sl1673495/blogs/issues/52)
-- [思考：前端小白到大神的成长路线](https://mp.weixin.qq.com/s/Vs_OlRRLlNN0FnfV5d4tCA)
 
 1. html
 2. css
@@ -44,26 +41,23 @@ title: 资料包
    3. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
    4. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
    5. [我的codepen](https://codepen.io/hk4114)
+   6. [ CSS 奇技淫巧项目](https://juejin.cn/post/6898482129592647693)
+   7. [2020年你不应该错过的CSS新特性 | 超详细指南](https://mp.weixin.qq.com/s/kN7vZQI0CPAPdIGJZqUy1A)
 3. 数据结构与算法
    1. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
-   2. [算法模板顾名思义就是刷题的套路模板](https://github.com/greyireland/algorithm-pattern)
-   3. [图解算法](https://github.com/geekxh/hello-algorithm)
-   4. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
-   5. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
-   6. [算法](https://github.com/sl1673495/leetcode-javascript/issues)
-   7. [开课吧](https://learn.kaikeba.com/catalog/210674?type=1)
-   8. [极客时间 视频课](https://time.geekbang.org/course/detail/100019701-41552)
-   9. [极客时间 专栏](https://time.geekbang.org/column/article/40011)
+   2. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
+   3. [算法](https://github.com/sl1673495/leetcode-javascript/issues)
+   4. [开课吧](https://learn.kaikeba.com/catalog/210674?type=1)
+   5. [极客时间 视频课](https://time.geekbang.org/course/detail/100019701-41552)
+   6. [极客时间 专栏](https://time.geekbang.org/column/article/40011)
 4. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
-   2. [想写好前端，先练好内功](https://mp.weixin.qq.com/s/RrylWXgnEDuuAYZe8gGxpQ)
-   3. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
+   2. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
 5. JS
    - 基础
+     + [现代 JavaScript 教程](https://zh.javascript.info/)
      + [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
      + [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
-     + [现代 JavaScript 教程](https://zh.javascript.info/)
-     + [为什么这么设计系列文章](https://draven.co/whys-the-design/)
      + [JavaScript 是如何工作的：JavaScript 的内存模型](https://segmentfault.com/a/1190000018854431)
    - ES6
      + [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
@@ -72,8 +66,6 @@ title: 资料包
      + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
      + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
    - 编码方法与技巧
-     + [聊聊 Axios 中值得学习的核心知识点](https://mp.weixin.qq.com/s/KfIbhT5ZubvVzNHEIyiXEA)
-     + [JavaScript 里的奇葩知识](https://mp.weixin.qq.com/s/rQ3bFYxQYDNes1eJWl6zwg)
      + [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
      + [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
      + [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
@@ -121,6 +113,7 @@ title: 资料包
    13. [import { reactive } from 'vue'](https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw)
    14. [「 如何优雅的使用VUE? 」不可不知的VUE实战技巧](https://mp.weixin.qq.com/s/O8zuah7SeRGKhDjm_yR1HQ)
    15. [【硬货】vue全家桶+Echarts+百度地图，搭建数据可视化系统](https://mp.weixin.qq.com/s/jjrse-nzMogymz6MaW2obw)
+   16. [Vue.js巧妙运用修饰符，帮你后期维护代码省下大量的时间](https://mp.weixin.qq.com/s/EKmNajAY5Cg-5Y4n-JxqOQ)
 9.  webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
@@ -130,6 +123,7 @@ title: 资料包
     2. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
     3. [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
     4. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
+    5. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
 11. 浏览器原理
     1. 浏览器输入url到页面展示发生的整个过程
     2. 浏览器缓存机制
@@ -147,6 +141,8 @@ title: 资料包
     14. [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
     15. [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/sOUqz4L4Yp0hoeoPlBbDFQ)
     16. [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig)
+    17. [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg)
+    18. [前端 API 请求缓存数据的 5 种方案](https://mp.weixin.qq.com/s/cr40UtTqrgqzjLUdqxE4xw)
 12. 跨端
     1. [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/jQyCaFjkzgiGfJkPTtpoaA)
 13. 性能优化
@@ -157,6 +153,7 @@ title: 资料包
     5. [JS 压缩图片](https://mp.weixin.qq.com/s/baWvRx9GkaM7ru4w6D9f9Q)
     6. [V8是怎么提升对象属性访问速度的](https://mp.weixin.qq.com/s/u2sJjrf7v9tq9PxbX7CC2w)
     7. [2020 年最新 24 条前端性能优化军规](https://mp.weixin.qq.com/s/usdMjbizx_j5TcxgDoA-fw)
+    8. [Web 现代应用程序架构下的性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/qsrwU6bPTVK6JY-czvXhgQ)
 14. 英语学习
     1. [奶爸的英语教室](https://site.douban.com/195274/) 
     2. [高效学习英语](https://github.com/byoungd/English-level-up-tips-for-Chinese)
@@ -164,6 +161,9 @@ title: 资料包
 15. 项目
     1. [你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
     2. [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
+    3. [微服务前端架构实践](https://juejin.cn/post/6897103348227391496)
+    4. [帮你对比多种微前端方案](https://juejin.cn/post/6898268972178178061)
+    5. [微前端究竟是什么，可以带来什么收益](https://mp.weixin.qq.com/s/xhomKaNcCQH1zshV1XO8Kw)
 
 ## 博客
 - [wattenberger](https://wattenberger.com/blog/react-hooks)
