@@ -31,8 +31,6 @@ title: 资料包
 
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
-- [高级指南](https://github.com/sl1673495/blogs/issues/37)
-- [中级指南](https://github.com/sl1673495/blogs/issues/52)
 
 1. html
 2. css
@@ -41,8 +39,6 @@ title: 资料包
    3. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
    4. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
    5. [我的codepen](https://codepen.io/hk4114)
-   6. [ CSS 奇技淫巧项目](https://juejin.cn/post/6898482129592647693)
-   7. [2020年你不应该错过的CSS新特性 | 超详细指南](https://mp.weixin.qq.com/s/kN7vZQI0CPAPdIGJZqUy1A)
 3. 数据结构与算法
    1. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
    2. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
@@ -69,7 +65,6 @@ title: 资料包
      + [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
      + [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
      + [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
-     + [41个最新的JavaScript开发技巧](https://mp.weixin.qq.com/s/S0xHUMGvSVy0hJLGMf68rA)
      + [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
      + [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)         
    - 正则
