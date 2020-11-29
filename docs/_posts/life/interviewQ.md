@@ -10,6 +10,21 @@ winter is coming,这威力果然不可小嘘。
 
 <!-- more -->
 
+## JS基础
+### 1. 原始类型有哪几种？
+八种， undefined,null,bool,string,number,symbol,object,bigint
+如何判断数据类型呢？
+1. typeof 除了 null,输出的是对象。和对象(函数是对象，输出function)
+2. instanceof 是通过原型链判断的，A instanceof B, 在 A 的原型链中层层查找，是否有原型等于 B.prototype，如果一直找到 A 的原型链的顶端 (null; 即Object.prototype.__proto__), 仍然不等于 B.prototype，那么返回 false，否则返回 true。
+3. Object.prototype.toString.call(param)
+4. toString 在业务上被复写？
+```js
+const type = Function.prototype.call.bind(Object.prototype.toString); 
+function getType(val) {
+    return type(val).replace(/\[object (\w+)\]/, "$1").toLowerCase()
+}
+```
+
 ### 1. [wx.request](https://developers.weixin.qq.com/miniprogram/dev/api/wx.request.html) 请求拦截与响应拦截
 
 ::: tip 关键词分析

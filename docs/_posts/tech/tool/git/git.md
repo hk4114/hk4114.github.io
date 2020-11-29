@@ -4,7 +4,7 @@ tags:
 date: 2020-11-8
 title: Git操作整理
 ---
-
+> [Git飞行规则(Flight Rules)](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 # Git操作整理
 
 ## git 常用操作命令
