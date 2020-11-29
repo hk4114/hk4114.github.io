@@ -6,10 +6,6 @@ date: 2019-05-07
 vssue: false
 ---
 
-winter is coming,这威力果然不可小嘘。
-
-<!-- more -->
-
 ## JS基础
 ### 1. 原始类型有哪几种？
 八种， undefined,null,bool,string,number,symbol,object,bigint
