@@ -24,8 +24,6 @@ title: 资料包
 7. [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
 8. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 
-[奇舞周刊第 374 期：用 JS 写一个 JS 解释器](https://mp.weixin.qq.com/s/Xm5pcJ8yrTYPuK8FE-UF2A)
-
 ### 面试经验
 [总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
 
@@ -46,7 +44,6 @@ title: 资料包
    4. [开课吧](https://learn.kaikeba.com/catalog/210674?type=1)
    5. [极客时间 视频课](https://time.geekbang.org/course/detail/100019701-41552)
    6. [极客时间 专栏](https://time.geekbang.org/column/article/40011)
-   7. [图解算法](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) [中文版](https://blog.csdn.net/qq_41664845/article/details/84245520)
 4. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
    2. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
@@ -86,8 +83,7 @@ title: 资料包
    7. [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
    8. [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
    9. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
-   10. [6个React Hook最佳实践技巧](https://mp.weixin.qq.com/s/QuePT7QnJo1C0HjumjPXgw)
-   11. [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ)
+   10. [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ)
 7. nodejs
     1. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
     2. [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
@@ -161,7 +157,6 @@ title: 资料包
     3. [微服务前端架构实践](https://juejin.cn/post/6897103348227391496)
     4. [帮你对比多种微前端方案](https://juejin.cn/post/6898268972178178061)
     5. [微前端究竟是什么，可以带来什么收益](https://mp.weixin.qq.com/s/xhomKaNcCQH1zshV1XO8Kw)
-    6. [前端元编程——使用注解加速你的前端开发](https://mp.weixin.qq.com/s/QR77t4ka9xw3lTxSfQpOWQ)
     7. [谷歌工程师分享前端性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/LDRc1MBCk9HMDMzrLPAiuA)
 
 ## 博客
