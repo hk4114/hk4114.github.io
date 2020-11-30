@@ -78,9 +78,7 @@ title: 资料包
    2. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
    3. [写React Hooks前必读](https://mp.weixin.qq.com/s/rp3_Grsu4d-Lq6MFqHFCCg)
    4. [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
-   5. [一起围观由React Hooks防抖引发的面试翻车现场](https://blog.csdn.net/qiwoo_weekly/article/details/105721412)
    6. [【重构】使用Hooks让代码更易于变更](https://mp.weixin.qq.com/s/QCnmGu5nnhTt6_O4Msk_Ow)
-   7. [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
    8. [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
    9. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
    10. [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ)
@@ -97,7 +95,7 @@ title: 资料包
    6. [Vue项目从2.5M优化到200kb的全过程](https://mp.weixin.qq.com/s/FRay4O1VAJ9c1RDyvjkzpg)
    7. [10个实用技巧让你的 Vue 代码更优雅](https://mp.weixin.qq.com/s/_UUG3_1WJABNP-G9N-GCOw)
    8. [一文让你30分钟快速掌握Vue3](https://mp.weixin.qq.com/s/tME3wwPXTtv4DTDGLsvtLw)
-   9.  [面试官：聊聊对Vue.js框架的理解](https://mp.weixin.qq.com/s/0iciStnbCNM8haGSJbyEQA)
+   9. [面试官：聊聊对Vue.js框架的理解](https://mp.weixin.qq.com/s/0iciStnbCNM8haGSJbyEQA)
    10. [Vue 超清晰思维导图，带你详细梳理知识点](https://mp.weixin.qq.com/s/hOlq94Cye3ryD5IlZ1T1IA)
    11. [import { reactive } from 'vue'](https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw)
    12. [「 如何优雅的使用VUE? 」不可不知的VUE实战技巧](https://mp.weixin.qq.com/s/O8zuah7SeRGKhDjm_yR1HQ)
@@ -157,7 +155,7 @@ title: 资料包
     3. [微服务前端架构实践](https://juejin.cn/post/6897103348227391496)
     4. [帮你对比多种微前端方案](https://juejin.cn/post/6898268972178178061)
     5. [微前端究竟是什么，可以带来什么收益](https://mp.weixin.qq.com/s/xhomKaNcCQH1zshV1XO8Kw)
-    7. [谷歌工程师分享前端性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/LDRc1MBCk9HMDMzrLPAiuA)
+    6. [谷歌工程师分享前端性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/LDRc1MBCk9HMDMzrLPAiuA)
 
 ## 博客
 - [wattenberger](https://wattenberger.com/blog/react-hooks)
@@ -172,3 +170,4 @@ title: 资料包
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
 - [关键时刻，get这项技能，就是生与死的差距！11月，快来浙二免费学本领！](https://mp.weixin.qq.com/s/f-HRL_xxH2FLhYsyRsxqKw)
 - [人才成长攻略](https://my.oschina.net/leejun2005/blog/354001)
+- [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
