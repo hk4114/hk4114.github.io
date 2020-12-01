@@ -1,5 +1,4 @@
 ---
-category: tool
 title: 如何经营好Github账号
 category: 技术
 tags:
