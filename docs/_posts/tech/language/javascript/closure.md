@@ -1,6 +1,6 @@
 ---
 title: 关于闭包
-category: 关于技术
+category: 技术
 tags:
   - js
 date: 2019-6-17

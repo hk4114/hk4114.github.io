@@ -1,6 +1,6 @@
 ---
 title: symbol 笔记
-category: language
+category: 技术
 tags:
   - js
 date: 2019-04-17

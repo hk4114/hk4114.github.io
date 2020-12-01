@@ -1,8 +1,7 @@
 ---
 title: react 基础速通
-category: 技术项目应用
+category: 技术
 tags:
-  - react
   - 开课吧
 date: 2019-10-29
 vssue: false

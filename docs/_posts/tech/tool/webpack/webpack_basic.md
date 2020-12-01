@@ -1,6 +1,6 @@
 ---
 title: 构建webpack的环境
-category: tool
+category: 技术
 tags:
   - webpack
 vssue: false

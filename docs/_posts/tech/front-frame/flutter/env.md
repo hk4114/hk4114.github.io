@@ -1,11 +1,10 @@
 ---
-category: 前端框架
+title: 构建Flutter开发环境
+category: 技术
 tags:
   - Flutter
-  - 从零开始
-date: 2019-04-06
-title: 构建Flutter开发环境
 vssue: false
+date: 2019-04-06
 ---
 
 flutter 环境/开发工具的安装，以及安装过程中遇到的问题。

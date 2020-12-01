@@ -1,6 +1,6 @@
 ---
 title: TS环境安装，已有项目引入typescript
-category: 技术项目应用
+category: 技术
 tags:
   - ts
 date: 2019-09-12

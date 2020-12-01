@@ -1,6 +1,6 @@
 ---
 title: 发布一个NPM包
-category: tool
+category: 技术
 tags:
   - npm
 vssue: false

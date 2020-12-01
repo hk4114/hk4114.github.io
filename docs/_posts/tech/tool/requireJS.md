@@ -1,6 +1,6 @@
 ---
 title: requireJS 重返项目
-category: 技术项目应用
+category: 技术
 tags:
   - js
 date: 2019-05-07

@@ -1,6 +1,6 @@
 ---
 title: python基础
-category: language
+category: 技术
 tags:
   - python
 date: 2019-04-17

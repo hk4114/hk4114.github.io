@@ -1,6 +1,6 @@
 ---
 title: html基础
-category: 关于技术
+category: 技术
 tags:
   - html
 date: 2019-09-16

@@ -1,8 +1,7 @@
 ---
-category: 前端框架
+category: 技术
 tags:
   - react
-  - note
 date: 2019-9-22
 title: react 笔记
 vssue: false

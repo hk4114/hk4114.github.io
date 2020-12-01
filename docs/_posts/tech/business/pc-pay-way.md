@@ -1,6 +1,6 @@
 ---
 title: 网页支付（支付宝、微信）
-category: 技术项目应用
+category: 技术
 tags:
   - pc
   - 支付

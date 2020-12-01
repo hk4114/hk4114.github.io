@@ -1,9 +1,8 @@
 ---
 title: vue 弹窗组件 与渲染函数
-category: 技术项目应用
+category: 技术
 tags:
   - 开课吧
-  - vue
 date: 2019-9-25
 vssue: false
 ---

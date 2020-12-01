@@ -1,6 +1,6 @@
 ---
 title: Vue全家桶和ElementUI开发遇到的问题
-category: 技术项目应用
+category: 技术
 tags:
   - vue
 date: 2019-05-07

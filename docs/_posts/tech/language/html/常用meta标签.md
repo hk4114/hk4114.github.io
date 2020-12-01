@@ -1,6 +1,6 @@
 ---
 title: 常用meta标签汇总
-category: 技术项目应用
+category: 技术
 tags:
   - html
 date: 2019-05-07

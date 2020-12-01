@@ -1,8 +1,6 @@
 ---
 title: 面试问题汇总
-tags:
-    - 算法 
-    - 面试
+category: 面试
 date: 2019-05-07
 vssue: false
 ---

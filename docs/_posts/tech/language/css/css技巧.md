@@ -1,6 +1,8 @@
 ---
 title: css技巧整理
-category: css
+category: 技术
+tags:
+  - css
 date: 2020-11-4
 ---
 

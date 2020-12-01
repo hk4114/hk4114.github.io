@@ -1,9 +1,8 @@
 ---
 title: vuex
-category: 技术项目应用
+category: 技术
 tags:
   - 开课吧
-  - vue
 date: 2019-10-29
 vssue: false
 ---

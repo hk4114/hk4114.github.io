@@ -1,6 +1,6 @@
 ---
 title: FormData对象的作用及用法
-category: 关于技术
+category: 技术
 tags:
   - js
 date: 2019-6-17

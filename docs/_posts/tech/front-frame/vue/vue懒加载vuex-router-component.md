@@ -1,8 +1,7 @@
 ---
 title: SPA使用webpack分离代码实现懒加载
-category: 技术项目应用
+category: 技术
 tags:
-  - webpack
   - vue
 date: 2019-05-07
 vssue: false

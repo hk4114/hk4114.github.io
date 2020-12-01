@@ -1,6 +1,6 @@
 ---
 title: day-pre1
-category: 技术项目应用
+category: 技术
 tags:
   - 开课吧
 date: 2019-9-25

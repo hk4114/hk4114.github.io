@@ -1,8 +1,8 @@
 ---
 title: Vue+TS+elementUI 项目构建
-category: project
+category: 技术
 tags:
-  - 项目总结
+  - vue
 vssue-title: false
 ---
 

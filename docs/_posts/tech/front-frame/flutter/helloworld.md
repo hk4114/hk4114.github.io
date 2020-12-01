@@ -1,11 +1,10 @@
 ---
-category: 前端框架
+title: Flutter学习
+category: 技术
 tags:
   - Flutter
-  - 从零开始
-date: 2019-04-06
-title: Flutter学习
 vssue: false
+date: 2019-04-06
 ---
 
 ## Hello World

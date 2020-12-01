@@ -1,6 +1,6 @@
 ---
 title: TypeScript 基础
-category: language
+category: 技术
 tags:
   - ts
 date: 2019-04-13

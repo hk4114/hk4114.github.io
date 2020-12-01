@@ -1,6 +1,6 @@
 ---
 title: JS实现链式操作
-category: 关于技术
+category: 技术
 tags:
   - js
 date: 2019-9-4

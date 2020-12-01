@@ -1,6 +1,8 @@
 ---
 title: inline-block 元素之间空隙的解决方案
-category: css
+category: 技术
+tags:
+  - css
 date: 2019-05-07
 vssue: false
 ---

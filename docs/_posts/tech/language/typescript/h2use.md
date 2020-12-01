@@ -1,6 +1,6 @@
 ---
 title: 如何使用好TypeScript
-category: language
+category: 技术
 tags:
   - ts
 date: 2019-04-28

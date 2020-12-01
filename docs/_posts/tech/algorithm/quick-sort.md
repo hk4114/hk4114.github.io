@@ -1,9 +1,8 @@
 ---
 title: 快排
-category: 关于技术
+category: 技术
 tags:
   - 算法
-  - js
 date: 2019-09-12
 vssue: false
 ---

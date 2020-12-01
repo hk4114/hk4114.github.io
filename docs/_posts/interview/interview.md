@@ -1,9 +1,6 @@
 ---
 title: 简历模板 - 一份简单粗暴的简历模板
-category: 生活经验
-tags:
-  - 面试
-  - 简历制作
+category: 面试
 date: 2019-05-07
 vssue: false
 ---

@@ -1,8 +1,9 @@
 ---
 title: window.onload与$(document).ready()
-category: 关于技术
+category: 技术
 tags:
   - js
+  - 浏览器
 date: 2019-05-07
 vssue: false
 ---

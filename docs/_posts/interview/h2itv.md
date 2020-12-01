@@ -1,9 +1,6 @@
 ---
 title: 关于面试，程序猿怎么选一家靠谱公司？
-category: 生活经验
-tags:
-  - 面试
-  - 职业规划
+category: 面试
 date: 2019-05-07
 vssue: false
 ---

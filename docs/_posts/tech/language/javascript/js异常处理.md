@@ -1,5 +1,6 @@
 ---
 title: JavaScript异常
+category: 技术
 tags:
   - js
 date: 2020-11-22

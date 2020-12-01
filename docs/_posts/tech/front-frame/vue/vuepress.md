@@ -1,10 +1,8 @@
 ---
 title: Vuepress-Markdown
-category: 技术项目应用
+category: 技术
 tags:
   - Vue
-  - Markdown
-  - 博客
 date: 2019-04-17
 vssue: false
 ---

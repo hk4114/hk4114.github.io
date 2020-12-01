@@ -1,6 +1,6 @@
 ---
 title: Nginx 基础
-category: tool
+category: 技术
 tags:
   - Nginx
 date: 2019-04-21
