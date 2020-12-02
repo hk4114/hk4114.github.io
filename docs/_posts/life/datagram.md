@@ -13,6 +13,7 @@ title: 资料包
 
 ## 面试
 > 前端的历史发展 [前端科普系列-Web：一路前行一路忘川](https://mp.weixin.qq.com/s/q8VYxoMd5Wh_7NNAsiUR8Q)
+> [漫画 | 前端发展史的江湖恩怨情仇](https://mp.weixin.qq.com/s/NsskGw4o-YcdY6yalcZaBQ)
 
 ### 面试题
 1. [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
@@ -52,6 +53,7 @@ title: 资料包
      + [现代 JavaScript 教程](https://zh.javascript.info/)
      + [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
      + [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
+     + [20个常用的JavaScript简写技巧](https://mp.weixin.qq.com/s/mhlXoYdJNSK9-OPNuAC7Tw)
    - ES6
      + [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
      + [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
@@ -101,6 +103,7 @@ title: 资料包
    12. [「 如何优雅的使用VUE? 」不可不知的VUE实战技巧](https://mp.weixin.qq.com/s/O8zuah7SeRGKhDjm_yR1HQ)
    13. [【硬货】vue全家桶+Echarts+百度地图，搭建数据可视化系统](https://mp.weixin.qq.com/s/jjrse-nzMogymz6MaW2obw)
    14. [Vue.js巧妙运用修饰符，帮你后期维护代码省下大量的时间](https://mp.weixin.qq.com/s/EKmNajAY5Cg-5Y4n-JxqOQ)
+   15. [面试官：说说你对vue的理解?](https://mp.weixin.qq.com/s/m9ha9GJyqALrxLtsge8rPQ)
 9.  webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
@@ -156,6 +159,7 @@ title: 资料包
     4. [帮你对比多种微前端方案](https://juejin.cn/post/6898268972178178061)
     5. [微前端究竟是什么，可以带来什么收益](https://mp.weixin.qq.com/s/xhomKaNcCQH1zshV1XO8Kw)
     6. [谷歌工程师分享前端性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/LDRc1MBCk9HMDMzrLPAiuA)
+    7. [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
 
 ## 博客
 - [wattenberger](https://wattenberger.com/blog/react-hooks)
@@ -171,3 +175,8 @@ title: 资料包
 - [关键时刻，get这项技能，就是生与死的差距！11月，快来浙二免费学本领！](https://mp.weixin.qq.com/s/f-HRL_xxH2FLhYsyRsxqKw)
 - [人才成长攻略](https://my.oschina.net/leejun2005/blog/354001)
 - [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
+- [漫画：什么是 “智能供应链” ？ ](https://mp.weixin.qq.com/s/PJfsLhew4n6VdAufhmbyDA)
+- [从破解某设计网站谈前端水印(详细教程)](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
+- [技巧： 根据背景色自适应文本颜色](https://mp.weixin.qq.com/s/dHIc8q9wLaO8BwoTAUQg8Q)
+- [大厂机密！30 个提升团队研发效能的锦囊](https://mp.weixin.qq.com/s/LOyH-Y-GmKJ3GDdqhTvREQ)
+- [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
