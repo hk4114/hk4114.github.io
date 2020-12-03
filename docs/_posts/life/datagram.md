@@ -13,7 +13,6 @@ title: 资料包
 
 ## 面试
 > 前端的历史发展 [前端科普系列-Web：一路前行一路忘川](https://mp.weixin.qq.com/s/q8VYxoMd5Wh_7NNAsiUR8Q)
-> [漫画 | 前端发展史的江湖恩怨情仇](https://mp.weixin.qq.com/s/NsskGw4o-YcdY6yalcZaBQ)
 
 ### 面试题
 1. [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
@@ -53,7 +52,6 @@ title: 资料包
      + [现代 JavaScript 教程](https://zh.javascript.info/)
      + [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
      + [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
-     + [20个常用的JavaScript简写技巧](https://mp.weixin.qq.com/s/mhlXoYdJNSK9-OPNuAC7Tw)
    - ES6
      + [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
      + [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
