@@ -23,6 +23,9 @@ title: 资料包
 6. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
 7. [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
 8. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+9. [手撕吊打面试官系列面试题](https://mp.weixin.qq.com/s/G5u31oCcI0_bfzgjtVG-cA)
+10. [764高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/fvjRtRJKAL3fFMpPoSjnKw)
+11. [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
 
 ### 面试经验
 [总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
@@ -54,6 +57,7 @@ title: 资料包
      + [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
    - ES6
      + [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
+     + [JavaScript代理的惊人力量](https://mp.weixin.qq.com/s/MC8wrFlI5nI3y7fJurBv6A)
      + [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
    - 路由
      + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
@@ -102,6 +106,7 @@ title: 资料包
    13. [【硬货】vue全家桶+Echarts+百度地图，搭建数据可视化系统](https://mp.weixin.qq.com/s/jjrse-nzMogymz6MaW2obw)
    14. [Vue.js巧妙运用修饰符，帮你后期维护代码省下大量的时间](https://mp.weixin.qq.com/s/EKmNajAY5Cg-5Y4n-JxqOQ)
    15. [面试官：说说你对vue的理解?](https://mp.weixin.qq.com/s/m9ha9GJyqALrxLtsge8rPQ)
+   16. [关于 Vue 3.0 你需要了解些什么](https://mp.weixin.qq.com/s/uOV89MDInEROodn51f9e4A)
 9.  webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
@@ -135,6 +140,8 @@ title: 资料包
     18. [前端 API 请求缓存数据的 5 种方案](https://mp.weixin.qq.com/s/cr40UtTqrgqzjLUdqxE4xw)
     19. [chrome 开发者工具——前端实用功能总结](https://mp.weixin.qq.com/s/7zdPznTXk97tbYGMjLH8Pw)
     20. [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
+    21. [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
+    22. [跨域，不止CORS](https://mp.weixin.qq.com/s/6eicCzo0Vm3nGUVAEDZuzA)
 12. 跨端
     1. [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/jQyCaFjkzgiGfJkPTtpoaA)
 13. 性能优化
@@ -174,7 +181,9 @@ title: 资料包
 - [人才成长攻略](https://my.oschina.net/leejun2005/blog/354001)
 - [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
 - [漫画：什么是 “智能供应链” ？ ](https://mp.weixin.qq.com/s/PJfsLhew4n6VdAufhmbyDA)
-- [从破解某设计网站谈前端水印(详细教程)](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
 - [技巧： 根据背景色自适应文本颜色](https://mp.weixin.qq.com/s/dHIc8q9wLaO8BwoTAUQg8Q)
 - [大厂机密！30 个提升团队研发效能的锦囊](https://mp.weixin.qq.com/s/LOyH-Y-GmKJ3GDdqhTvREQ)
 - [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
+- [我从600场技术面试中总结出的5个常见问题](https://mp.weixin.qq.com/s/rLFxzIUzgBCgvFF9p-MqoQ)
+- [科学家总结的四个成功定律](https://mp.weixin.qq.com/s/zJrK2zXUkjpwb6yup5Cy9Q)
+- [比又穷又忙更可怕的，是你30岁还在基层](https://mp.weixin.qq.com/s/2YsYxlF8HL7dwzDnwvV3KQ)
