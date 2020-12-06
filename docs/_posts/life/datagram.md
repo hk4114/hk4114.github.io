@@ -187,3 +187,23 @@ title: 资料包
 - [我从600场技术面试中总结出的5个常见问题](https://mp.weixin.qq.com/s/rLFxzIUzgBCgvFF9p-MqoQ)
 - [科学家总结的四个成功定律](https://mp.weixin.qq.com/s/zJrK2zXUkjpwb6yup5Cy9Q)
 - [比又穷又忙更可怕的，是你30岁还在基层](https://mp.weixin.qq.com/s/2YsYxlF8HL7dwzDnwvV3KQ)
+
+
+## 书单
+- [宝宝的量子物理学绘本](https://book.douban.com/subject/26739913/)
+- [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
+- [程序员代码面试指南](https://book.douban.com/subject/26638586/)
+- [啊哈算法](https://book.douban.com/subject/25894685/)
+- [大话数据结构](https://book.douban.com/subject/6424904/)
+- [剑指offer](https://book.douban.com/subject/25910559/)
+- [图解http](https://book.douban.com/subject/25863515/)
+- [图解TCP/IP](https://book.douban.com/subject/24737674/)
+- [网络是怎样连结的](https://book.douban.com/subject/26941639/)
+- [mySql必知必会](https://book.douban.com/subject/3354490/)
+- [编译原理](https://book.douban.com/subject/3296317/)
+- [数据挖掘导论](https://book.douban.com/subject/5377669/)
+- [人工智能 一种现代的方法](https://book.douban.com/subject/25796281/)
+- [概率论及其应用](https://book.douban.com/subject/25794324/)
+- [线性代数及其应用](https://book.douban.com/subject/1425950/)
+- [线性代数](https://book.douban.com/subject/2016789/)
+- [普林斯顿微积分读本](https://book.douban.com/subject/26899701/)
