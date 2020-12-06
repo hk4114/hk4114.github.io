@@ -142,6 +142,7 @@ title: 资料包
     20. [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
     21. [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
     22. [跨域，不止CORS](https://mp.weixin.qq.com/s/6eicCzo0Vm3nGUVAEDZuzA)
+    23. [怎样创建一个谷歌扩展程序](https://mp.weixin.qq.com/s/WzfVfGJgNAXyLlGaYybQzA)
 12. 跨端
     1. [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/jQyCaFjkzgiGfJkPTtpoaA)
 13. 性能优化
