@@ -5,6 +5,18 @@ title: 资料包
 <!-- more -->
 # 学习资料包
 
+## today todo list
+1. [看小姐姐用动图展示 10 大 Git 命令](https://mp.weixin.qq.com/s/65XK7vpmLhFjQsBB9SBZdA)
+2. [封神之作！Github 84k+点赞！一个手把手教你造轮子的项目！](https://mp.weixin.qq.com/s/P1yTG7Z_TNQtuyDuJrGMrg)
+3. [CSS进阶知识扫盲](https://mp.weixin.qq.com/s/FQHIdC_D3xO_rJllevenaA)
+4. [2020 CSS 现状调查](https://mp.weixin.qq.com/s/9B_xxJh9Lx2t0vssCh5buA)
+5. [如何制作一个组件？论组件化思想](https://mp.weixin.qq.com/s/olD-6Z8uhd3j9PklVZOzdw)
+6. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
+7. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
+8. [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
+9. [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
+10. [现代 JavaScript 教程](https://zh.javascript.info/)
+
 ## 项目实践
 > [app-ideas](https://github.com/florinpop17/app-ideas)
 
@@ -37,8 +49,6 @@ title: 资料包
 2. css
    1. [css样式学习](https://github.com/chokcoco/iCSS)
    2. [css样式](https://github.com/QiShaoXuan/css_tricks)
-   3. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
-   4. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
    5. [我的codepen](https://codepen.io/hk4114)
 3. 数据结构与算法
    1. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
@@ -53,8 +63,6 @@ title: 资料包
 5. JS
    - 基础
      + [现代 JavaScript 教程](https://zh.javascript.info/)
-     + [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
-     + [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
    - ES6
      + [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
      + [JavaScript代理的惊人力量](https://mp.weixin.qq.com/s/MC8wrFlI5nI3y7fJurBv6A)
@@ -143,6 +151,7 @@ title: 资料包
     21. [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
     22. [跨域，不止CORS](https://mp.weixin.qq.com/s/6eicCzo0Vm3nGUVAEDZuzA)
     23. [怎样创建一个谷歌扩展程序](https://mp.weixin.qq.com/s/WzfVfGJgNAXyLlGaYybQzA)
+    24. [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
 12. 跨端
     1. [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/jQyCaFjkzgiGfJkPTtpoaA)
 13. 性能优化
@@ -181,7 +190,6 @@ title: 资料包
 - [人才成长攻略](https://my.oschina.net/leejun2005/blog/354001)
 - [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
 - [大厂机密！30 个提升团队研发效能的锦囊](https://mp.weixin.qq.com/s/LOyH-Y-GmKJ3GDdqhTvREQ)
-- [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
 - [我从600场技术面试中总结出的5个常见问题](https://mp.weixin.qq.com/s/rLFxzIUzgBCgvFF9p-MqoQ)
 
 
