@@ -178,16 +178,11 @@ title: 资料包
 ## 其他
 - [如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
-- [关键时刻，get这项技能，就是生与死的差距！11月，快来浙二免费学本领！](https://mp.weixin.qq.com/s/f-HRL_xxH2FLhYsyRsxqKw)
 - [人才成长攻略](https://my.oschina.net/leejun2005/blog/354001)
 - [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
-- [漫画：什么是 “智能供应链” ？ ](https://mp.weixin.qq.com/s/PJfsLhew4n6VdAufhmbyDA)
-- [技巧： 根据背景色自适应文本颜色](https://mp.weixin.qq.com/s/dHIc8q9wLaO8BwoTAUQg8Q)
 - [大厂机密！30 个提升团队研发效能的锦囊](https://mp.weixin.qq.com/s/LOyH-Y-GmKJ3GDdqhTvREQ)
 - [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
 - [我从600场技术面试中总结出的5个常见问题](https://mp.weixin.qq.com/s/rLFxzIUzgBCgvFF9p-MqoQ)
-- [科学家总结的四个成功定律](https://mp.weixin.qq.com/s/zJrK2zXUkjpwb6yup5Cy9Q)
-- [比又穷又忙更可怕的，是你30岁还在基层](https://mp.weixin.qq.com/s/2YsYxlF8HL7dwzDnwvV3KQ)
 
 
 ## 书单
