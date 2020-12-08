@@ -6,6 +6,8 @@ date: 2020-11-8
 title: Git操作整理
 ---
 > [Git飞行规则(Flight Rules)](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
+> [看小姐姐用动图展示 10 大 Git 命令](https://mp.weixin.qq.com/s/65XK7vpmLhFjQsBB9SBZdA)
+> [gitmagic](https://github.com/blynn/gitmagic/tree/master/zh_cn)
 # Git操作整理
 
 ## git 常用操作命令
@@ -51,7 +53,9 @@ git stash                                # 暂存代码
 git stash pop                            # 弹出暂存代码
 ```
 
-## 配置操作别名
+### 常用命令详解
+
+### 配置操作别名
 对常用git命令配置别名，可以显著提升操作效率。
 ```sh
 git config --global alias.ci commit                 # git commit -> git ci

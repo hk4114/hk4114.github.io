@@ -6,19 +6,13 @@ title: 资料包
 # 学习资料包
 
 ## today todo list
-1. [看小姐姐用动图展示 10 大 Git 命令](https://mp.weixin.qq.com/s/65XK7vpmLhFjQsBB9SBZdA)
-2. [封神之作！Github 84k+点赞！一个手把手教你造轮子的项目！](https://mp.weixin.qq.com/s/P1yTG7Z_TNQtuyDuJrGMrg)
-3. [CSS进阶知识扫盲](https://mp.weixin.qq.com/s/FQHIdC_D3xO_rJllevenaA)
-4. [2020 CSS 现状调查](https://mp.weixin.qq.com/s/9B_xxJh9Lx2t0vssCh5buA)
-5. [如何制作一个组件？论组件化思想](https://mp.weixin.qq.com/s/olD-6Z8uhd3j9PklVZOzdw)
-6. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
-7. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-8. [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
-9. [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
-10. [现代 JavaScript 教程](https://zh.javascript.info/)
+1. [gitmagic](https://github.com/blynn/gitmagic/tree/master/zh_cn)
+2. 
+3. 
 
 ## 项目实践
 > [app-ideas](https://github.com/florinpop17/app-ideas)
+> [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 ## 键盘指法练习
 > [键盘指法练习](https://www.typingclub.com/) https://www.dazima.cn/flash/127.html
@@ -29,15 +23,16 @@ title: 资料包
 ### 面试题
 1. [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
 2. [前端面试](https://github.com/zhoushaw/F2E)
-3. [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-4. [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
-5. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
-6. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
-7. [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
-8. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-9. [手撕吊打面试官系列面试题](https://mp.weixin.qq.com/s/G5u31oCcI0_bfzgjtVG-cA)
-10. [764高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/fvjRtRJKAL3fFMpPoSjnKw)
-11. [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
+3. [前端面试](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+4. [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+5. [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
+6. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
+7. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
+8. [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
+9. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+10. [手撕吊打面试官系列面试题](https://mp.weixin.qq.com/s/G5u31oCcI0_bfzgjtVG-cA)
+11. [764高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/fvjRtRJKAL3fFMpPoSjnKw)
+12. [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
 
 ### 面试经验
 [总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
@@ -183,14 +178,13 @@ title: 资料包
 - [logrocket](https://blog.logrocket.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Venture Hacks](https://venturehacks.com/)
+- [Huli's Blog](https://github.com/aszx87410/blog)
 
 ## 其他
 - [如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
 - [人才成长攻略](https://my.oschina.net/leejun2005/blog/354001)
-- [使用这些思路和技巧，读懂高质量源码再也不难！](https://mp.weixin.qq.com/s/pPOvKaT-SEOwmJcTpMfMPw)
 - [大厂机密！30 个提升团队研发效能的锦囊](https://mp.weixin.qq.com/s/LOyH-Y-GmKJ3GDdqhTvREQ)
-- [我从600场技术面试中总结出的5个常见问题](https://mp.weixin.qq.com/s/rLFxzIUzgBCgvFF9p-MqoQ)
 
 
 ## 书单
