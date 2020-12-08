@@ -14,6 +14,7 @@ title: 资料包
 6. [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ)
 7. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
 8. [怎样创建一个谷歌扩展程序](https://mp.weixin.qq.com/s/WzfVfGJgNAXyLlGaYybQzA)
+9. 极客时间 react
 
 ## 项目实践
 > [app-ideas](https://github.com/florinpop17/app-ideas)
