@@ -53,8 +53,6 @@ git stash                                # 暂存代码
 git stash pop                            # 弹出暂存代码
 ```
 
-### 常用命令详解
-
 ### 配置操作别名
 对常用git命令配置别名，可以显著提升操作效率。
 ```sh
@@ -63,6 +61,67 @@ git config --global alias.co checkout               # git checkout -> git co
 git config --global alias.sh stash                  # git stash -> git sh
 git config --global alias.pop "stash pop"           # git stash pop -> git pop
 ```
+
+## 常用命令详解
+
+### git merge
+> 当前分支 master（main）, 被合并分支 dev。
+
+是将一个分支的修改应用到另一个分支。
+
+|                         |     命令      |                                        场景                                        |
+| :---------------------: | :-----------: | :--------------------------------------------------------------------------------: |
+|   Fast-forward (—ff)    | git merge dev | 当前分支相比于我们要合并的分支没有额外提交，不会创建新的提交，直接合并到当前分支。 |
+| No-fast-foward (—no-ff) | git merge dev |                   有额外提交，在当前活动分支上创建新的 commit。                    |
+
+### git rebase
+git rebase 会将当前分支的提交复制到指定的分支之上。
+
+![git rebase](https://mmbiz.qpic.cn/mmbiz_gif/KmXPKA19gWicpG4ibricDjhseFOGY3Qnc47FiaRJ1xKcJMYB3pBQMgiaLBzK6iaOLbuR4gH7BuBhPiaaiahmookDvqgpiaw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+
+**变基与合并有一个重大的区别**：执行 rebase 的分支总是含有我们想要保留的最新近的修改！这样我们不会遇到任何合并冲突，而且可以保留一个漂亮的、线性的 Git 历史记录。但是 git rebase 在为复制的提交创建新的 hash 时会修改项目的历史记录。
+
+如果在开发一个 feature 分支并且 master 分支已经更新过，那么变基就很好用。你可以在你的分支上获取所有更新，这能防止未来出现合并冲突。
+
+:::tip 交互式变基
+[合并多个commit为一个](#合并多个commit为一个)
+:::
+
+
+### git reset
+当我们不想要之前提交的修改时，就会用到这个命令。
+
+|                         |                        场景                         |
+| :---------------------: | :-------------------------------------------------: |
+| git reset --soft HEAD~2 | 将 HEAD 移至指定的提交,不会移除该提交之后加入的修改 |
+| git reset --hard HEAD~2 |                  再也无需访问它们                   |
+
+
+git reset --soft  Git 保留了 9e78i 和 035cc 引入的修改，只是head改变为ec5be了。
+![git reset --soft](https://mmbiz.qpic.cn/mmbiz_gif/KmXPKA19gWicpG4ibricDjhseFOGY3Qnc478EJlujcsicVPVaJJdS5IJxsWibc4Cx1gHwJfKZiciawXOyv7a00pXlJfFQ/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+
+git reset --hard  Git 丢弃了 9e78i 和 035cc 引入的修改，并将状态重置到了 ec5be 的状态。
+![git reset --hard](https://mmbiz.qpic.cn/mmbiz_gif/KmXPKA19gWicpG4ibricDjhseFOGY3Qnc47LykI1SUAn2jH2ap0PAwrkS56v1cI2iahkgc6xtjzQZxmJZ6XVzGzXTA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+
+
+### git revert
+另一种撤销修改的方法。通过对特定的提交执行还原操作，会创建一个包含已还原修改的新提交。
+
+假设 ec5be 添加了一个 index.js 文件。但之后我们发现其实我们再也不需要由这个提交引入的修改了。那就还原 ec5be 提交吧！
+![git revert](https://mmbiz.qpic.cn/mmbiz_gif/KmXPKA19gWicpG4ibricDjhseFOGY3Qnc47pTrKzKv4jkibqvicsfSAPiaEQsn9sFIxlCo3D2uEXfupoztIpN6lTAgCQ/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+
+提交 9e78i 还原了由提交 ec5be 引入的修改。在撤销特定的提交时，git revert 非常有用，同时也**不会修改分支的历史**。
+
+
+### git cherry-pick
+当一个特定分支包含我们的活动分支需要的某个提交时使用。
+
+对一个提交执行 cherry-pick 时，会在活动分支上创建一个新的提交，其中包含由拣选出来的提交所引入的修改。
+
+假设 dev 分支上的提交 76d12 为 index.js 文件添加了一项修改，而我们希望将其整合到 master 分支中。我们并不想要整个 dev 分支，而只需要这个提交！
+
+![git cherry-pick](https://mmbiz.qpic.cn/mmbiz_gif/KmXPKA19gWicpG4ibricDjhseFOGY3Qnc47AuQfYgNQZReR1KdnSOcYCmRk64Cq7S46cqSiaTuCsKG3w0m8FiagfxFQ/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+
 
 ## git 常见问题以及解决办法
 
