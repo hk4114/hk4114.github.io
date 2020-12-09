@@ -6,18 +6,19 @@ title: 资料包
 # 学习资料包
 
 ## today todo list
-1. [gitmagic](https://github.com/blynn/gitmagic/tree/master/zh_cn)
-2. [前端科普系列-Web：一路前行一路忘川](https://mp.weixin.qq.com/s/q8VYxoMd5Wh_7NNAsiUR8Q)
-3. [前端算法之动态规划](https://mp.weixin.qq.com/s/iiIIstggSZ15xsFDzEndFg)
-4. [ES6之--proxy要这么用](https://mp.weixin.qq.com/s/Pw8mluxbA1_FjG8Wv8qTUg)
-5. [为什么采用Proxy重构响应系统](https://mp.weixin.qq.com/s/r0U_4LJ6UxmDE-iFecF2AQ)
-6. [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ)
-7. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
-8. [怎样创建一个谷歌扩展程序](https://mp.weixin.qq.com/s/WzfVfGJgNAXyLlGaYybQzA)
-9. 极客时间 react
+1. 极客时间 react
+2. js教程
+3. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
+4. [JavaScript代理的惊人力量](https://mp.weixin.qq.com/s/MC8wrFlI5nI3y7fJurBv6A)
+5. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
+6. [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
+7. [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
+8. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
+9. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
 
 ## 项目实践
 > [app-ideas](https://github.com/florinpop17/app-ideas)
+
 > [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 ## 键盘指法练习
@@ -31,13 +32,12 @@ title: 资料包
 3. [前端面试](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 4. [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 5. [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
-6. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
-7. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
-8. [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
-9. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-10. [手撕吊打面试官系列面试题](https://mp.weixin.qq.com/s/G5u31oCcI0_bfzgjtVG-cA)
-11. [764高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/fvjRtRJKAL3fFMpPoSjnKw)
-12. [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
+6. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
+7. [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
+8. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+9.  [手撕吊打面试官系列面试题](https://mp.weixin.qq.com/s/G5u31oCcI0_bfzgjtVG-cA)
+10. [764高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/fvjRtRJKAL3fFMpPoSjnKw)
+11. [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
 
 ### 面试经验
 [总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
@@ -58,19 +58,14 @@ title: 资料包
    5. [极客时间 专栏](https://time.geekbang.org/column/article/40011)
 4. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
-   2. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
 5. JS
    - 基础
      + [现代 JavaScript 教程](https://zh.javascript.info/)
    - ES6
-     + [JavaScript代理的惊人力量](https://mp.weixin.qq.com/s/MC8wrFlI5nI3y7fJurBv6A)
-     + [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
    - 路由
      + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
      + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
    - 编码方法与技巧
-     + [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
-     + [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
      + [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
      + [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
      + [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)         
@@ -91,6 +86,7 @@ title: 资料包
    5. [【重构】使用Hooks让代码更易于变更](https://mp.weixin.qq.com/s/QCnmGu5nnhTt6_O4Msk_Ow)
    6. [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
    7. [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
+   8. [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ)
 7. nodejs
     1. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
     2. [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
@@ -118,10 +114,10 @@ title: 资料包
     4. [一文带你快速上手Rollup](https://mp.weixin.qq.com/s/rlpDRrW_b4lKk0IQarmOjw)
 10. 网络协议
     1. http缓存
-    3. [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
-    4. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
-    5. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
-    6. [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
+    2. [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
+    4. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
+    5. [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
+    6. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
 11. 浏览器原理
     1. 浏览器输入url到页面展示发生的整个过程
     2. 浏览器缓存机制
