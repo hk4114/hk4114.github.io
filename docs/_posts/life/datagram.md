@@ -8,13 +8,17 @@ title: 资料包
 ## today todo list
 1. 极客时间 react
 2. js教程
-3. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
-4. [JavaScript代理的惊人力量](https://mp.weixin.qq.com/s/MC8wrFlI5nI3y7fJurBv6A)
-5. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
-6. [轻松玩转函数式编程](https://mp.weixin.qq.com/s/y_G6YSQkvWZpRP3XJmrIsA)
-7. [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
-8. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
-9. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
+3. [补齐Web前端性能分析的工具盲点](https://mp.weixin.qq.com/s/AQzamMzL3Yw0xN6i4YKY0w)
+4. [chrome 开发者工具——前端实用功能总结](https://mp.weixin.qq.com/s/7zdPznTXk97tbYGMjLH8Pw)
+5. [2020 年最新 24 条前端性能优化军规](https://mp.weixin.qq.com/s/usdMjbizx_j5TcxgDoA-fw)
+6. [H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
+7. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
+8. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+9. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
+10. [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
+11. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
+12. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
+13. [从 10 多秒到 1.05 秒的前端性能优化实践](https://mp.weixin.qq.com/s/9d7e8Bjmw0vpSeIBpQSrGQ)
 
 ## 项目实践
 > [app-ideas](https://github.com/florinpop17/app-ideas)
@@ -34,10 +38,7 @@ title: 资料包
 5. [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
 6. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
 7. [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
-8. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-9.  [手撕吊打面试官系列面试题](https://mp.weixin.qq.com/s/G5u31oCcI0_bfzgjtVG-cA)
-10. [764高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/fvjRtRJKAL3fFMpPoSjnKw)
-11. [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
+8. [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
 
 ### 面试经验
 [总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
@@ -137,22 +138,12 @@ title: 资料包
     16. [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig)
     17. [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg)
     18. [前端 API 请求缓存数据的 5 种方案](https://mp.weixin.qq.com/s/cr40UtTqrgqzjLUdqxE4xw)
-    19. [chrome 开发者工具——前端实用功能总结](https://mp.weixin.qq.com/s/7zdPznTXk97tbYGMjLH8Pw)
     20. [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
     21. [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
     22. [跨域，不止CORS](https://mp.weixin.qq.com/s/6eicCzo0Vm3nGUVAEDZuzA)
     23. [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
 12. 跨端
-    1. [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/jQyCaFjkzgiGfJkPTtpoaA)
 13. 性能优化
-    1. [补齐Web前端性能分析的工具盲点](https://mp.weixin.qq.com/s/AQzamMzL3Yw0xN6i4YKY0w)
-    2. [从 10 多秒到 1.05 秒的前端性能优化实践](https://mp.weixin.qq.com/s/9d7e8Bjmw0vpSeIBpQSrGQ)
-    3. [H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
-    4. [H5 秒开方案大全](https://mp.weixin.qq.com/s/zd9utAa8rA7GjYD_S1bvug)
-    5. [JS 压缩图片](https://mp.weixin.qq.com/s/baWvRx9GkaM7ru4w6D9f9Q)
-    6. [V8是怎么提升对象属性访问速度的](https://mp.weixin.qq.com/s/u2sJjrf7v9tq9PxbX7CC2w)
-    7. [2020 年最新 24 条前端性能优化军规](https://mp.weixin.qq.com/s/usdMjbizx_j5TcxgDoA-fw)
-    8. [Web 现代应用程序架构下的性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/qsrwU6bPTVK6JY-czvXhgQ)
 14. 英语学习
     1. [奶爸的英语教室](https://site.douban.com/195274/) 
     2. [高效学习英语](https://github.com/byoungd/English-level-up-tips-for-Chinese)
@@ -181,6 +172,8 @@ title: 资料包
 - [人才成长攻略](https://my.oschina.net/leejun2005/blog/354001)
 - [大厂机密！30 个提升团队研发效能的锦囊](https://mp.weixin.qq.com/s/LOyH-Y-GmKJ3GDdqhTvREQ)
 
+## delay
+- [JS 压缩图片](https://mp.weixin.qq.com/s/baWvRx9GkaM7ru4w6D9f9Q)
 
 ## 书单
 - [宝宝的量子物理学绘本](https://book.douban.com/subject/26739913/)
