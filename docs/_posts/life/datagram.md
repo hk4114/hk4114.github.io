@@ -8,17 +8,13 @@ title: 资料包
 ## today todo list
 1. 极客时间 react
 2. js教程
-3. [补齐Web前端性能分析的工具盲点](https://mp.weixin.qq.com/s/AQzamMzL3Yw0xN6i4YKY0w)
-4. [chrome 开发者工具——前端实用功能总结](https://mp.weixin.qq.com/s/7zdPznTXk97tbYGMjLH8Pw)
-5. [2020 年最新 24 条前端性能优化军规](https://mp.weixin.qq.com/s/usdMjbizx_j5TcxgDoA-fw)
-6. [H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
-7. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
-8. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-9. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
-10. [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
-11. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
-12. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
-13. [从 10 多秒到 1.05 秒的前端性能优化实践](https://mp.weixin.qq.com/s/9d7e8Bjmw0vpSeIBpQSrGQ)
+3. [H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
+4. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
+5. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+6. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
+7. [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
+8. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
+9. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
 
 ## 项目实践
 > [app-ideas](https://github.com/florinpop17/app-ideas)
