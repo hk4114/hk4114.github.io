@@ -1,103 +1,26 @@
 ---
-title: promise笔记
+title: promise详解
 category: 技术
 tags:
   - js
-date: 2019-6-17
+date: 2020-12-15
 vssue-id: false
 ---
+[Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
 
+[最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw) promise 部分
+
+[promise](https://yuchengkai.cn/docs/frontend/#promise-%E5%AE%9E%E7%8E%B0)
 
 <!-- more -->
 
-> 什么是promise?
+## 关于Promise的理解
+`Promise` 有三种状态:
+- `pending`: 初始状态
+- `fulfilled`: 成功的操作.
+- `rejected`: 失败的操作.
 
-- promise三种状态:pending（进行中）、fulfilled（已成功）和rejected（已失败）。
-- promise对象的状态改变，只有两种可能：从pending变为fulfilled和从pending变为rejected。一旦状态改变，就不会再变，任何时候都可以得到这个结果。
+`rejected` 和 `fulfilled` 一起合称 `settled`。
 
-> 如何使用promise?
+`Promise` 对象用来进行延迟(deferred) 和异步(asynchronous ) 计算。
 
-**首先**，看一段代码，希望会有较为直观的认识。
-```js
-const promise = new Promise(function(res,rej){
-	//随机进行resolve还是reject的准备
-	let itBe = Math.random()>=0.5?1:0;
-	let obj = null;
-	if(itBe === 1){
-		obj = {name:'jojo'}
-	}else{
-		obj = 'jojo!'
-	}
-	console.log('this is promise body')
-	if(typeof obj === 'object'){ //异步操作成功
-		obj.type='resolve'
-		res(obj)
-	}else{
-		obj+=' this is reject'
-		rej(obj)
-	}
-})
-promise.then(function(v){
-	console.log(v) //resolve result
-}).catch(function(v){
-	console.log(v) //reject result
-})
-//可能会出现两种结果
-/**
- * 1. this is promise body
- * 2. {name: "jojo", type: "resolve"}
- */
-
-/**
- * 1. this is promise body
- * 2. jojo! this is reject
- */
-```
-从上面的结果我们可以看出整个promise的运行顺序。先promise内部之后在运行resolve或者reject.
-PS:
-```js
-//以下两张写法结果是一样的
-//then方法可以接受两个回调函数作为参数。第一个接受resolve，第二个接受reject
-promise
-.then(
-  function(value){
-	console.log(value)
-  },
-  function(error){
-	console.log(error)
-  })
-
-promise
-.then(function(value){
-	console.log(value)
-})
-.catch(function(error){
-	console.log(error)
-})
-```
-2. **promise的嵌套**
-```js
-const p1 = new Promise(function (resolve, reject) {
-  setTimeout(() => reject(new Error('fail')), 3000)
-})
-
-const p2 = new Promise(function (resolve, reject) {
-  setTimeout(() => resolve(p1), 1000)
-})
-p2
-.then(result=>console.log(result))
-.catch(error=>console.log(error))
-```
-1. 1s后p2的状态resolve，返回另一个promise--p1
-2. p1在2s之后状态变成reject，导致p2自己的状态无效，由p1决定p2的状态.
-3. 后面的then语句都变成针对p1，触发catch
-
-
-
-4. promise.prototype.all([...])---> 全部resolve则then，返回一个数组
-
-5. promise.prototype.race([...]) ---> 先加载的先返回
-
-[阮一峰 ES6入门](http://es6.ruanyifeng.com/#docs/promise)
-[代码](https://github.com/hk4114/promise_demo)
-https://www.jianshu.com/p/8fcf35b1c0df

@@ -7,26 +7,26 @@ title: 资料包
 
 ## today todo list
 1. js教程
-2. 极客时间/开课吧react
 3. [H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
-4. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
-5. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-6. [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
-7. [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
-8. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
-9. [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
-10. [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
-11. [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
-12. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
-13. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-14. [JavaScript错误处理完全指南](https://mp.weixin.qq.com/s/I9ZrCsoNo7jrOHj8a9UW1A)
-15. 手写Promise
-16. 手写防抖节流
-17. 手写vue响应式
+5. [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
+6. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
+7. [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
+8. [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
+9. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
+10. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
+11. [JavaScript错误处理完全指南](https://mp.weixin.qq.com/s/I9ZrCsoNo7jrOHj8a9UW1A)
+12. 手写防抖节流
+13. 手写promise
+14. 手写vue响应式
 
-- [前端职业规划-写给年轻的前端韭菜们](https://mp.weixin.qq.com/s/BBy5B5rAUByfK7FvUi5qEA)
-- [从DOM到虚拟DOM——前端DOM发展史、性能与产能双赢背后的思考](https://mp.weixin.qq.com/s/bJlyM7wmVFsysVjjy9Fujg)
-- [自从掌握了这 16 个高级搜索技巧，我再也没有解决不了的 bug 了](https://mp.weixin.qq.com/s/KPqT9jxl-NPN5TGxqRPHpg)
+
+- [高频前端开发面试问题及答案整理](https://mp.weixin.qq.com/s/NKNPtwdNVLu4lEcMwRnYyA)
+- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+- [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
+- [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
+- [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
+
+
 
 ## 项目实践
 > [app-ideas](https://github.com/florinpop17/app-ideas)
@@ -40,13 +40,8 @@ title: 资料包
 
 ### 面试题
 1. [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
-2. [前端面试](https://github.com/zhoushaw/F2E)
-3. [前端面试](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
-4. [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-5. [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
-6. [我在近期求职中遇到的前端面试问题及其解法](https://mp.weixin.qq.com/s/vFTAoSDKcjrgf34vRARyKw)
-7. [前端面试题全面整理-带解析](https://mp.weixin.qq.com/s/yMUdKA1xp8dmlJsf4VCMfw)
-8. [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
+2. [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+3. [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
 
 ### 面试经验
 [总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
@@ -62,11 +57,10 @@ title: 资料包
 3. 数据结构与算法
    1. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
    2. [算法](https://github.com/sl1673495/leetcode-javascript/issues)
-   3. [开课吧](https://learn.kaikeba.com/catalog/210674?type=1)
-   4. [极客时间 视频课](https://time.geekbang.org/course/detail/100019701-41552)
-   5. [极客时间 专栏](https://time.geekbang.org/column/article/40011)
+   3. [codewars](https://www.codewars.com/)
 4. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
+   2. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
 5. JS
    - 基础
      + [现代 JavaScript 教程](https://zh.javascript.info/)
