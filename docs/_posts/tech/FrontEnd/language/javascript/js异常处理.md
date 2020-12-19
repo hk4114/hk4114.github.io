@@ -7,6 +7,9 @@ date: 2020-11-22
 vssue-id: false
 ---
 
+- [前端常见的报错以及异常捕获](https://mp.weixin.qq.com/s/FafosfgdvUo4yu5zQ4R-xg)
+
+
 JS异常是什么？有哪些类别？
 
 SyntaxError - 语法错误
