@@ -8,7 +8,7 @@ vssue-id: false
 ---
 
 - [前端常见的报错以及异常捕获](https://mp.weixin.qq.com/s/FafosfgdvUo4yu5zQ4R-xg)
-
+- [JavaScript错误处理完全指南](https://mp.weixin.qq.com/s/I9ZrCsoNo7jrOHj8a9UW1A)
 
 JS异常是什么？有哪些类别？
 

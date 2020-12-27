@@ -1,5 +1,5 @@
 ---
-title: java
+title: java入门
 category: 技术
 tags:
   - java
@@ -7,10 +7,11 @@ date: 2020-12-20
 vssue-id: 1
 ---
 
-
 ## 环境搭建与运行
 
 > [安装地址](https://res001.geekbang.org/tools/jdk-11.0.2_windows-x64_bin.exe)
+
+> [IntelliJ IDEA](https://www.jetbrains.com/zh-cn/idea/download)
 
 ### 开发环境搭建(windows)
 
@@ -20,7 +21,7 @@ vssue-id: 1
    2. 我的电脑 -> 右键属性 -> 高级系统设置 -> 新建系统变量 -> 变量名`JAVA_HOME` 变量值为复制目录
    3. 编辑环境变量 `path`; 新建 `C:\Program Files\Java\jdk-11.0.2\bin`
    4. 查看安装成功（win+r -> cmd）`java -version` `javac -version`
-3. IDE（(IntelliJ IDEA)[https://www.jetbrains.com/zh-cn/idea/download]） 一路默认安装
+3. IDE（） 一路默认安装
 
 ### hello world
 
@@ -49,6 +50,7 @@ Hello World!
 
 ### 基本数据类型
 - 整数类型
+
 | name  | 占用byte |                   值域                   |
 | :---: | :------: | :--------------------------------------: |
 | byte  |    1     |                 -128~127                 |
@@ -57,6 +59,7 @@ Hello World!
 | long  |    8     | -9223372036854774808~9223372036854774807 |
 
 - 浮点类型
+
 |  name  | 占用byte |   值域   |
 | :----: | :------: | :------: |
 | float  |    4     | 值域复杂 |

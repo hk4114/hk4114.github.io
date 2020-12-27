@@ -4,25 +4,6 @@ title: 资料包
 在学习过程中，收集的一些学习资源。
 <!-- more -->
 # 学习资料包
-
-## today todo list
-1. js教程
-3. [H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
-5. [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
-6. [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
-7. [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
-8. [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
-9. [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
-10. [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-11. [JavaScript错误处理完全指南](https://mp.weixin.qq.com/s/I9ZrCsoNo7jrOHj8a9UW1A)
-14. 手写vue响应式
-
-
-- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-- [手撕前端面试代码题](https://mp.weixin.qq.com/s/u5ufZQKLUzP4Uap5_vk30A)
-- [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
-
-
 ## 项目实践
 > [app-ideas](https://github.com/florinpop17/app-ideas)
 
@@ -48,15 +29,8 @@ title: 资料包
 2. css
    1. [css样式学习](https://github.com/chokcoco/iCSS)
    2. [css样式](https://github.com/QiShaoXuan/css_tricks)
-   5. [我的codepen](https://codepen.io/hk4114)
-3. 数据结构与算法
-   1. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
-   2. [算法](https://github.com/sl1673495/leetcode-javascript/issues)
-   3. [codewars](https://www.codewars.com/)
-4. 设计模式
-   1. [设计模式](https://refactoringguru.cn/design-patterns)
-   2. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
-5. JS
+   3. [我的codepen](https://codepen.io/hk4114)
+3. JS
    - 基础
      + [现代 JavaScript 教程](https://zh.javascript.info/)
    - ES6
@@ -76,7 +50,7 @@ title: 资料包
      + [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
      + [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
      + [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
-6. react
+4. react
    1. [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/iB6SjRSdwTe_syhAXezCAg)
    2. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
    3. [写React Hooks前必读](https://mp.weixin.qq.com/s/rp3_Grsu4d-Lq6MFqHFCCg)
@@ -87,11 +61,11 @@ title: 资料包
    8. [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ)
    9. [当我们讨论 hooks 时到底在讨论什么](https://mp.weixin.qq.com/s/gPgFpg7UqLpXm_iz4gWiQQ)
    10. [React 灵魂 23 问，你能答对几个？](https://mp.weixin.qq.com/s/2zB8igYtDNv8ePWQ4lt3Cw)
-7. nodejs
+5. nodejs
     1. [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
     2. [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
     3. [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ)
-8. vue
+6. vue
    1. [【硬货】vue全家桶+Echarts+百度地图，搭建数据可视化系统](https://mp.weixin.qq.com/s/jjrse-nzMogymz6MaW2obw)
    2. [Electron+vue从零开始打造一个本地播放器](https://mp.weixin.qq.com/s/cmVB44Peo5YKjtHO1H42_A)
    3. [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
@@ -105,26 +79,27 @@ title: 资料包
    13. [「 如何优雅的使用VUE? 」不可不知的VUE实战技巧](https://mp.weixin.qq.com/s/O8zuah7SeRGKhDjm_yR1HQ)
    14. [Vue.js巧妙运用修饰符，帮你后期维护代码省下大量的时间](https://mp.weixin.qq.com/s/EKmNajAY5Cg-5Y4n-JxqOQ)
    15. [关于 Vue 3.0 你需要了解些什么](https://mp.weixin.qq.com/s/uOV89MDInEROodn51f9e4A)
-9.  webpack
+7.  webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
     3. [手把手带你入门前端工程化——超详细教程](https://mp.weixin.qq.com/s/ovsKFbzFFwlPcUTqhF6Okw)
     4. [一文带你快速上手Rollup](https://mp.weixin.qq.com/s/rlpDRrW_b4lKk0IQarmOjw)
     5. [实现一个简易的模块打包器](https://mp.weixin.qq.com/s/fkz-aFSKkR_O9hC47eic1g)
-10. 网络协议
+8. 网络协议
     1. http缓存
     2. [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
     3. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
     4. [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
     5. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
     6. [搞懂 HTTP 重定向 - 如何优雅地使用 301](https://mp.weixin.qq.com/s/sy5AVy-QdgtvsFsowW99dw)
-11. 浏览器原理
+    7. [跨域，不止CORS](https://mp.weixin.qq.com/s/6eicCzo0Vm3nGUVAEDZuzA)
+    8. [新的跨域策略：COOP、COEP](https://mp.weixin.qq.com/s/vVX__t_LLUQ8Zp2kPOXKpg)
+9. 浏览器原理
     1. 浏览器输入url到页面展示发生的整个过程
     2. 浏览器缓存机制
     3. [现代浏览器内部揭秘之一](https://mp.weixin.qq.com/s/P61P1gNtZWkiY-rfxoR4BQ)
     4. [现代浏览器内部揭秘之二](https://mp.weixin.qq.com/s/0Hn7Xte09cdIBCnBxi4HBg)
     5. [现代浏览器内部揭秘之三](https://mp.weixin.qq.com/s/vY1rYHwNAFiFQ9CgbKZ14w)
-    6. [新的跨域策略：COOP、COEP](https://mp.weixin.qq.com/s/vVX__t_LLUQ8Zp2kPOXKpg)
     7. [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
     8. [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
     9. [10个不那么知名但很实用的Web API](https://mp.weixin.qq.com/s/CcVo2EqwWgtvJ9qRAwerLg)
@@ -139,16 +114,9 @@ title: 资料包
     18. [前端 API 请求缓存数据的 5 种方案](https://mp.weixin.qq.com/s/cr40UtTqrgqzjLUdqxE4xw)
     19. [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
     20. [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
-    21. [跨域，不止CORS](https://mp.weixin.qq.com/s/6eicCzo0Vm3nGUVAEDZuzA)
-    22. [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
-    23. [File、Blob、dataURL 和 canvas 的应用与转换](https://mp.weixin.qq.com/s/2MVjduB4aK3T4QuFerlXSQ)
-12. 跨端
-13. 性能优化
-14. 英语学习
-    1. [奶爸的英语教室](https://site.douban.com/195274/) 
-    2. [高效学习英语](https://github.com/byoungd/English-level-up-tips-for-Chinese)
-    3. [英语学习](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
-15. 项目
+    21. [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
+    22. [File、Blob、dataURL 和 canvas 的应用与转换](https://mp.weixin.qq.com/s/2MVjduB4aK3T4QuFerlXSQ)
+10. 项目
     1. [你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
     2. [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
     3. [微服务前端架构实践](https://juejin.cn/post/6897103348227391496)
@@ -171,11 +139,35 @@ title: 资料包
 ## 其他
 - [如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
-- [人才成长攻略](https://my.oschina.net/leejun2005/blog/354001)
-- [大厂机密！30 个提升团队研发效能的锦囊](https://mp.weixin.qq.com/s/LOyH-Y-GmKJ3GDdqhTvREQ)
 
-## delay
-- [JS 压缩图片](https://mp.weixin.qq.com/s/baWvRx9GkaM7ru4w6D9f9Q)
+
+1. 指法练习
+2. js异常处理
+3. 手机摄影
+4. 设计数据结构与算法学习计划
+   1. [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
+5. 英语学习计划
+   1. [奶爸的英语教室](https://site.douban.com/195274/) 
+   2. [高效学习英语](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+   3. [英语学习](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+6. 设计模式
+   1. [设计模式](https://refactoringguru.cn/design-patterns)
+   2. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
+
+
+
+整理文章
+1.  [H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
+2.  [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
+3.  [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
+4.  [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
+5.  [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
+6.  [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
+7.  [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
+- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+- [手撕前端面试代码题](https://mp.weixin.qq.com/s/u5ufZQKLUzP4Uap5_vk30A)
+- [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
+
 
 ## 书单
 - [宝宝的量子物理学绘本](https://book.douban.com/subject/26739913/)
