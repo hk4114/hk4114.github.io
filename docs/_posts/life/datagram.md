@@ -145,12 +145,18 @@ title: 资料包
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
 
 ## 书单
++ 入门
+  - [啊哈算法](https://book.douban.com/subject/25894685/)
+  - [大话数据结构](https://book.douban.com/subject/6424904/)
+  - 算法图解
++ 进阶
+  - [剑指offer](https://book.douban.com/subject/25910559/)
+  - [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
+  - 数据结构和算法分析---数据结构与算法Javascript 描述 品 数据结构与算法分析：Java 语言描述面试
+  - 编程珠机
+  - 编程之美
+  - [程序员代码面试指南](https://book.douban.com/subject/26638586/)
 - [宝宝的量子物理学绘本](https://book.douban.com/subject/26739913/)
-- [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
-- [程序员代码面试指南](https://book.douban.com/subject/26638586/)
-- [啊哈算法](https://book.douban.com/subject/25894685/)
-- [大话数据结构](https://book.douban.com/subject/6424904/)
-- [剑指offer](https://book.douban.com/subject/25910559/)
 - [图解http](https://book.douban.com/subject/25863515/)
 - [图解TCP/IP](https://book.douban.com/subject/24737674/)
 - [网络是怎样连结的](https://book.douban.com/subject/26941639/)
