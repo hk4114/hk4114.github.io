@@ -98,6 +98,7 @@ title: 资料包
     6. [搞懂 HTTP 重定向 - 如何优雅地使用 301](https://mp.weixin.qq.com/s/sy5AVy-QdgtvsFsowW99dw)
     7. [跨域，不止CORS](https://mp.weixin.qq.com/s/6eicCzo0Vm3nGUVAEDZuzA)
     8. [新的跨域策略：COOP、COEP](https://mp.weixin.qq.com/s/vVX__t_LLUQ8Zp2kPOXKpg)
+    9. [MDN http 文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 10. 浏览器原理
     1. 浏览器输入url到页面展示发生的整个过程
     2. 浏览器缓存机制
@@ -145,6 +146,8 @@ title: 资料包
 - [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
 
 ## 书单
++ [代码大全（第2版）](https://book.douban.com/subject/1477390/)
++ [鸟哥的Linux私房菜](https://book.douban.com/subject/4889838/) 这本书有很多比较专业的知识，可能会看不懂，暂时略过。这本书的确并不适合初学者，能看多少就看多少吧。
 + 入门
   - [啊哈算法](https://book.douban.com/subject/25894685/)
   - [大话数据结构](https://book.douban.com/subject/6424904/)
@@ -182,3 +185,16 @@ title: 资料包
 - [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 - [手撕前端面试代码题](https://mp.weixin.qq.com/s/u5ufZQKLUzP4Uap5_vk30A)
 - [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
+- [调试前端程序](http://www.igeekbar.com/igeekbar/post/156.htm)
+- [MDN http 文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) 你需要知道 HTTP 协议的几个关键点：
+  1. HTTP 头
+  2. HTTP 的请求方法
+  3. HTTP 的返回码。
+  4. HTTP 的 Cookie、缓存、会话，以及链接管理等等，在 MDN 的这个文档中都有了。
+  5. 对于 HTTP 协议，你不需要知道所有的东西，你只需要了解这个协议的最关键的那些东西就好了。
+
+[猴子都能懂的 Git 入门](https://backlog.com/git-tutorial/cn/)
+
+[GitHub and Git 图文教程](https://github.com/JiapengLi/GitTutorial)
+
+[Git图文教程及详解](https://www.jianshu.com/p/1b65ed31da97)
