@@ -198,3 +198,5 @@ title: 资料包
 [GitHub and Git 图文教程](https://github.com/JiapengLi/GitTutorial)
 
 [Git图文教程及详解](https://www.jianshu.com/p/1b65ed31da97)
+
+[化虚为实，用 Notion 来具体化你的新年目标与项目](https://sspai.com/post/64565)
