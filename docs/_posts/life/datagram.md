@@ -183,8 +183,6 @@ title: 资料包
 6.  [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
 7.  [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
 - [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-- [手撕前端面试代码题](https://mp.weixin.qq.com/s/u5ufZQKLUzP4Uap5_vk30A)
-- [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/z-x8AOs1JoSpmrPExUxDKw)
 - [调试前端程序](http://www.igeekbar.com/igeekbar/post/156.htm)
 - [MDN http 文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) 你需要知道 HTTP 协议的几个关键点：
   1. HTTP 头
@@ -198,5 +196,3 @@ title: 资料包
 [GitHub and Git 图文教程](https://github.com/JiapengLi/GitTutorial)
 
 [Git图文教程及详解](https://www.jianshu.com/p/1b65ed31da97)
-
-[化虚为实，用 Notion 来具体化你的新年目标与项目](https://sspai.com/post/64565)
