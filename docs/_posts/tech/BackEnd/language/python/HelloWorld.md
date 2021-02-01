@@ -17,9 +17,7 @@ vssue-id: 1
 1. [安装地址](https://www.python.org/ftp/python/3.7.0/python-3.7.0-macosx10.9.pkg)
 
 ::: warning 注意
-
 安装时 一定要勾选 `add Python 3.5 to PATH`
-
 :::
 
 2. 执行以下操作:
