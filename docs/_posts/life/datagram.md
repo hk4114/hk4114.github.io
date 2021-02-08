@@ -196,3 +196,17 @@ title: 资料包
 [GitHub and Git 图文教程](https://github.com/JiapengLi/GitTutorial)
 
 [Git图文教程及详解](https://www.jianshu.com/p/1b65ed31da97)
+
+[盘点8个GitHub 上可以赚钱的小程序](https://mp.weixin.qq.com/s/vS2MvpJ9wBxg3OxTYcraOg)
+
+[从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
+
+[揭秘 Vue.js 九个性能优化技巧（黄轶老师写的真的好，不看吃亏）](https://mp.weixin.qq.com/s/a3V4kmgKuY3tkMrdw_SOLw)
+
+[论前端技术和前端工程之辩](https://mp.weixin.qq.com/s/H3loA9HmIYGOUX4_YS-gTA)
+
+[如何写「前端简历」，能敲开字节跳动的大门？](https://mp.weixin.qq.com/s/E3vYXnXFShqQ3g62YXU3Mg)
+
+[API请求失败后发生了什么？](https://mp.weixin.qq.com/s/yMIHCp4QJ93tG34MerIy9Q)
+
+[VS Code 必知必会的 20 个快捷键！](https://mp.weixin.qq.com/s/0ZISK0bYsOrwX453ginUAA)
