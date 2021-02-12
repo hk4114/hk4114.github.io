@@ -77,3 +77,10 @@ bool(0)  # false 非零为True
 ```
 
 ### 变量的定义与常用操作
+
+```python
+bandwidth = 100
+ratio = 8
+
+print(bandwidth/ratio)
+```
