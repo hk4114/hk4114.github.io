@@ -15,6 +15,7 @@ vssue-id: 1
 # python基础
 
 1. [安装地址](https://www.python.org/ftp/python/3.7.0/python-3.7.0-macosx10.9.pkg)
+2. [pychars](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
 
 ::: warning 注意
 安装时 一定要勾选 `add Python 3.5 to PATH`
@@ -46,3 +47,33 @@ else:
 exit() 
 # 退出
 ```
+
+## 基础语法
+
+### 书写规则
+```python
+# simple demo
+import time # 导入时间模块
+
+print(time.time())
+
+if 10-9 > 0:
+    print('10>9')
+```
+
+
+### 基础数据类型
+- 整数 int 8
+- 浮点数 float 8.8
+- 字符串 str "8"
+- 布尔值 bool True False
+
+通过 `type('8')` print `<class 'str'>` 知道数据类型
+
+```python
+int('8') # 8     字符串转数字
+str(8)   # '8'   数字转字符串
+bool(0)  # false 非零为True
+```
+
+### 变量的定义与常用操作
