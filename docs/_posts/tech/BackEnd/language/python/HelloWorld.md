@@ -84,3 +84,8 @@ ratio = 8
 
 print(bandwidth/ratio)
 ```
+
+## 序列
+字符串 "abcd"
+列表 [0, 'abc']
+元祖('abc', 'efg')

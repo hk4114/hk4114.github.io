@@ -202,3 +202,5 @@ title: 资料包
 [如何写「前端简历」，能敲开字节跳动的大门？](https://mp.weixin.qq.com/s/E3vYXnXFShqQ3g62YXU3Mg)
 
 [你不知道的 Proxy](https://mp.weixin.qq.com/s/SN8HqiGA30-IJ7OZ3WMr3g)
+
+[​Web前端剪切板文本分享到文件发送](https://mp.weixin.qq.com/s/TrrxxeGdPsF5wVoGMcuw4w)
