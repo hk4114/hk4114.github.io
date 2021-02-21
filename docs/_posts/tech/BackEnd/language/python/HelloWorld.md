@@ -86,6 +86,72 @@ print(bandwidth/ratio)
 ```
 
 ## 序列
-字符串 "abcd"
-列表 [0, 'abc']
-元祖('abc', 'efg')
+- 字符串 "abcd"
+- 列表 [0, 'abc']
+- 元祖('abc', 'efg')
+
+### 字符串
+
+```python
+chinese_zodiac = "鼠牛虎兔龙蛇马羊猴鸡狗猪"
+
+# 序列切片 ([:])
+print(chinese_zodiac[0:4]) # 鼠牛虎兔
+
+# 序列的连接 (+) 序列 + 序列
+newList = "That's " + chinese_zodiac # That's 鼠牛虎兔龙蛇马羊猴鸡狗猪
+
+# 序列的重复 (*) 序列 * 整数
+new2 = 'ha' * 2 # haha
+
+# 序列的成员关系 (in/not in)  对象 [not] in 序列
+print('狗' in chinese_zodiac) # True
+```
+
+
+### 元祖
+
+```python
+nums = (1, 2, 3, 4, 5, 6, 7)
+num = 4
+# <filter object at 0x031F0D10>
+print(filter(lambda x: x < num, nums))
+
+# [1, 2, 3]
+print(list(filter(lambda x: x < num, nums)))
+
+# 3
+print(len(list(filter(lambda x: x < num, nums))))
+
+zodiac_names = (u'摩羯座', u'水瓶座', u'双鱼座', u'白羊座', u'金牛座', u'双子座',
+               u'巨蟹座', u'狮子座', u'处女座', u'天秤座', u'天蝎座', u'射手座')
+zodiac_days = ((1, 20), (2, 19), (3, 21), (4, 21), (5, 21), (6, 22),
+               (7, 23), (8, 23), (9, 23), (10, 23), (11, 23), (12, 23))
+# (1, 20) > (2, 19) -> 120 > 219 -> false
+
+(mouth, day) = (2, 9)
+zodiac_day = filter(lambda x: x <= (mouth, day), zodiac_days)
+
+zodiac_day_len = len(list(zodiac_day)) % 12
+# 水瓶座
+print(zodiac_names[zodiac_day_len])
+```
+
+### 列表
+
+> 与字符串一样存在 `in`、`not in`、`+`、`*`、`[:]` 操作符
+
+```python
+a_list = ['abc', 'xyz']
+
+a_list.append('x')
+
+print(a_list)
+
+a_list.remove('xyz')
+
+print(a_list)
+
+# True chinese_zodiac 是 数组
+print('狗' in chinese_zodiac)
+```

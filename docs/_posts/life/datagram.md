@@ -191,20 +191,14 @@ title: 资料包
   4. HTTP 的 Cookie、缓存、会话，以及链接管理等等，在 MDN 的这个文档中都有了。
   5. 对于 HTTP 协议，你不需要知道所有的东西，你只需要了解这个协议的最关键的那些东西就好了。
 
-[猴子都能懂的 Git 入门](https://backlog.com/git-tutorial/cn/)
-
-[GitHub and Git 图文教程](https://github.com/JiapengLi/GitTutorial)
-
-[Git图文教程及详解](https://www.jianshu.com/p/1b65ed31da97)
-
 [从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
-
-[如何写「前端简历」，能敲开字节跳动的大门？](https://mp.weixin.qq.com/s/E3vYXnXFShqQ3g62YXU3Mg)
 
 [你不知道的 Proxy](https://mp.weixin.qq.com/s/SN8HqiGA30-IJ7OZ3WMr3g)
 
 [​Web前端剪切板文本分享到文件发送](https://mp.weixin.qq.com/s/TrrxxeGdPsF5wVoGMcuw4w)
+
 ----------------------------------------------------------------------------------------
+
 格式化代码：代码写完的时候格式化一下。
 
 在 Windows 上：Shift + Alt + F
