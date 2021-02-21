@@ -155,3 +155,29 @@ print(a_list)
 # True chinese_zodiac 是 数组
 print('狗' in chinese_zodiac)
 ```
+
+
+## 逻辑
+
+### 条件
+
+```python
+words = input('please input')
+
+if words == 'abc':
+    print('same')
+elif words == 'ddd':
+    print('ddd')
+else:
+    print('not same')
+```
+
+### 循环
+
+```python
+chinese_zodiac = "鼠牛虎兔龙蛇马羊猴鸡狗猪"
+
+prefix = input('please input prefix')
+for i in range(2000, 2022):
+    print('%s, %s 年的生肖是 %s' % (prefix, i, chinese_zodiac[(i-4) % 12]))
+```
