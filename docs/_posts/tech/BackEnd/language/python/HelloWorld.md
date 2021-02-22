@@ -180,4 +180,29 @@ chinese_zodiac = "鼠牛虎兔龙蛇马羊猴鸡狗猪"
 prefix = input('please input prefix')
 for i in range(2000, 2022):
     print('%s, %s 年的生肖是 %s' % (prefix, i, chinese_zodiac[(i-4) % 12]))
+
+num = 5
+while num < 15:
+    if num < 7:
+        print('a %d' % num)
+    elif num == 10:
+        num += 1
+        continue
+    elif num > 13:
+        break
+    else:
+        print('b %d' % num)
+    num += 1
+
+# 判断星座的filter
+int_mouth = int(input('mouth'))
+int_day = int(input('day'))
+
+for zodiac_index in range(len(zodiac_days)):
+    if zodiac_days[zodiac_index] >= (int_mouth, int_day):
+        print(zodiac_names[zodiac_index])
+        break
+    elif int_mouth == 12 and int_day > 23:
+        print(zodiac_names[0])
+        break
 ```
