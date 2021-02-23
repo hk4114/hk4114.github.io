@@ -206,3 +206,40 @@ for zodiac_index in range(len(zodiac_days)):
         print(zodiac_names[0])
         break
 ```
+
+## 字典与映射
+
+> type(x) -> class 'dict'
+
+```python
+dict1 = {
+    'name': 'zhangsan',
+    'sex': 'male',
+    'age': 18
+}
+
+dict1['from'] = 'china'
+
+for each_key in dict1.keys():
+    print('%s is %s' % (each_key, dict1[each_key]))
+```
+
+### 列表推导式和字典推导式
+
+```python
+# 1-10 所有偶数的平方
+alist = []
+for i in range(1, 11):
+    if i % 2 == 0:
+        alist.append(i * i)
+print(alist)
+
+blist = [i*i for i in range(1, 11) if(i % 2) == 0]
+print(blist)
+
+for each_key in dict1.keys():
+    print('%s is %s' % (each_key, dict1[each_key]))
+
+key_count = {i:0 for i in dict1.keys()}
+print(key_count)
+```

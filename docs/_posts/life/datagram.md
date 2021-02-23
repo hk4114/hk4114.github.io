@@ -18,9 +18,13 @@ title: 资料包
 1. [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
 2. [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 3. [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
-
+4. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+5.  [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
+6.  [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
 ### 面试经验
 [总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
+
+[拿了微软、蚂蚁、头条 offer，这就是我面了42场得到的方法论！](https://mp.weixin.qq.com/s/td3dHeZh4tPuMThV-_jsng)
 
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
@@ -29,30 +33,22 @@ title: 资料包
 1. 设计模式
    1. [设计模式](https://refactoringguru.cn/design-patterns)
    2. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
+   3. [浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
 2. html
 3. css
    1. [css样式学习](https://github.com/chokcoco/iCSS)
    2. [css样式](https://github.com/QiShaoXuan/css_tricks)
    3. [我的codepen](https://codepen.io/hk4114)
 4. JS
-   - 基础
-     + [现代 JavaScript 教程](https://zh.javascript.info/)
-   - ES6
    - 路由
      + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
      + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
-   - 编码方法与技巧
-     + [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
-     + [怎样解决 JavaScript 生态中第三方安全性问题](https://mp.weixin.qq.com/s/X-nUnIRmzbj0GXCrrN0SVQ)
-     + [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)         
    - 正则
      + [一文掌握开发利器：正则表达式](https://mp.weixin.qq.com/s/wkCHL_QzAJwWEg9JZaZnCQ)
      + [代码之美，正则之道](https://mp.weixin.qq.com/s/jH6aimCs5LAL5GBe9bu8rg)
    - TypeScript
-     + [浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
      + [TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
      + [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
-     + [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
      + [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
 5. react
    1. [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/iB6SjRSdwTe_syhAXezCAg)
@@ -96,9 +92,6 @@ title: 资料包
     4. [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
     5. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
     6. [搞懂 HTTP 重定向 - 如何优雅地使用 301](https://mp.weixin.qq.com/s/sy5AVy-QdgtvsFsowW99dw)
-    7. [跨域，不止CORS](https://mp.weixin.qq.com/s/6eicCzo0Vm3nGUVAEDZuzA)
-    8. [新的跨域策略：COOP、COEP](https://mp.weixin.qq.com/s/vVX__t_LLUQ8Zp2kPOXKpg)
-    9. [MDN http 文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 10. 浏览器原理
     1. 浏览器输入url到页面展示发生的整个过程
     2. 浏览器缓存机制
@@ -107,7 +100,6 @@ title: 资料包
     5. [现代浏览器内部揭秘之三](https://mp.weixin.qq.com/s/vY1rYHwNAFiFQ9CgbKZ14w)
     6. [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
     7. [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
-    8. [10个不那么知名但很实用的Web API](https://mp.weixin.qq.com/s/CcVo2EqwWgtvJ9qRAwerLg)
     9.  [浏览器的垃圾回收](https://mp.weixin.qq.com/s/G02qgYGbAxvUeQeQzMBjnA)
     10. [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
     11. [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
@@ -131,6 +123,7 @@ title: 资料包
     7. [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
     8. [封装 axios 取消重复请求](https://mp.weixin.qq.com/s/fPuBTZGYQISwVtGxPZYYrQ) 
     9. [clipboard.js 的源码分析](https://mp.weixin.qq.com/s/nsEmDprpeICz_wC3Xu9cPQ)
+    10. [从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
 
 ## 博客
 - [wattenberger](https://wattenberger.com/blog/react-hooks)
@@ -180,22 +173,20 @@ title: 资料包
 3.  [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
 4.  [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
 5.  [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
-6.  [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
-7.  [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-- [调试前端程序](http://www.igeekbar.com/igeekbar/post/156.htm)
-- [MDN http 文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) 你需要知道 HTTP 协议的几个关键点：
-  1. HTTP 头
-  2. HTTP 的请求方法
-  3. HTTP 的返回码。
-  4. HTTP 的 Cookie、缓存、会话，以及链接管理等等，在 MDN 的这个文档中都有了。
-  5. 对于 HTTP 协议，你不需要知道所有的东西，你只需要了解这个协议的最关键的那些东西就好了。
 
-[从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
+[调试前端程序](http://www.igeekbar.com/igeekbar/post/156.htm)
 
 [你不知道的 Proxy](https://mp.weixin.qq.com/s/SN8HqiGA30-IJ7OZ3WMr3g)
 
 [​Web前端剪切板文本分享到文件发送](https://mp.weixin.qq.com/s/TrrxxeGdPsF5wVoGMcuw4w)
+
+::: details 今日整理
+
+- [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
+- [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)
+- [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
+- [10个不那么知名但很实用的Web API](https://mp.weixin.qq.com/s/CcVo2EqwWgtvJ9qRAwerLg)
+:::
 
 ----------------------------------------------------------------------------------------
 
@@ -222,5 +213,12 @@ Ctrl + Alt + Up/Down
 home/end 行首行尾
 
 
+[MDN http 文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) 你需要知道 HTTP 协议的几个关键点：
+1. HTTP 头
+2. HTTP 的请求方法
+3. HTTP 的返回码。
+4. HTTP 的 Cookie、缓存、会话，以及链接管理等等，在 MDN 的这个文档中都有了。
+5. 对于 HTTP 协议，你不需要知道所有的东西，你只需要了解这个协议的最关键的那些东西就好了。
 
+[一文串联 HTTP / [ 0.9 | 1.0 | 1.1 | 2 | 3 ]](https://mp.weixin.qq.com/s/R0dBfnkARzZ91AY27Ba4Sw)
 
