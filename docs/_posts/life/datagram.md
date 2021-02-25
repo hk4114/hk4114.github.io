@@ -180,12 +180,12 @@ title: 资料包
 
 [​Web前端剪切板文本分享到文件发送](https://mp.weixin.qq.com/s/TrrxxeGdPsF5wVoGMcuw4w)
 
-::: details 今日整理
-
+::: tip 今日整理
 - [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
 - [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)
 - [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
 - [10个不那么知名但很实用的Web API](https://mp.weixin.qq.com/s/CcVo2EqwWgtvJ9qRAwerLg)
+
 :::
 
 ----------------------------------------------------------------------------------------
