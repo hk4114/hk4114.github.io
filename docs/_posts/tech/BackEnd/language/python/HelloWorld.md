@@ -243,3 +243,17 @@ for each_key in dict1.keys():
 key_count = {i:0 for i in dict1.keys()}
 print(key_count)
 ```
+
+## 异常
+
+```python
+try:
+    print(1/0)
+except ZeroDivisionError:
+    print('0不能作为除数')
+
+try:
+    print(1/'a')
+except Exception as e:
+    print('%s'%e)
+```
