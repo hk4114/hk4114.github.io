@@ -167,24 +167,34 @@ title: 资料包
 
 
 
-整理文章
-1.  [H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
-2.  [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
-3.  [搞懂Nginx，一篇文章就够了](https://mp.weixin.qq.com/s/M9dUHD1f4fN5BdyHlZxVKg)
-4.  [为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
-5.  [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
+::: tip 今日整理
+[H5 问题](https://mp.weixin.qq.com/s/z3lYucK_ulhtO_mePcVlnA)
+
+[这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
+
+[为什么你老是讲不清楚js的继承模式](https://mp.weixin.qq.com/s/UHjcEltcx6E19oOFb3DbLw)
+
+[轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/MMt9gkMVVzLkAOXUU40MUg)
+
+[一文串联 HTTP / [ 0.9 | 1.0 | 1.1 | 2 | 3 ]](https://mp.weixin.qq.com/s/R0dBfnkARzZ91AY27Ba4Sw)
+
+[赚多少钱才能有100%的财务自由度？](https://mp.weixin.qq.com/s/pNpcLT3wFh9UFRbr7m-fCQ)
+
+[大厂2个Vue实践总结，效率提升80%！](https://mp.weixin.qq.com/s/VG1wcEcnBCSn5hzuAEVu_Q)
+
+[自学转行前端3年经验，终入职阿里！](https://mp.weixin.qq.com/s/FZlfLMWSpIOWSLoLi9uqLQ)
+
+[史上最惨的定投案例，还能赚钱吗？](https://mp.weixin.qq.com/s/gsDzMcc7rN9XaAJ7Z_On7w)
+
+[容易被忽略的5个HTML技巧](https://mp.weixin.qq.com/s/cubl_Wd239uLukRZLPqjiA)
+
+[Serverless 如何在阿里巴巴实现规模化落地？](https://mp.weixin.qq.com/s/i-TzmVUAjPdCEOMTu3cyqw)
 
 [调试前端程序](http://www.igeekbar.com/igeekbar/post/156.htm)
 
 [你不知道的 Proxy](https://mp.weixin.qq.com/s/SN8HqiGA30-IJ7OZ3WMr3g)
 
 [​Web前端剪切板文本分享到文件发送](https://mp.weixin.qq.com/s/TrrxxeGdPsF5wVoGMcuw4w)
-
-::: tip 今日整理
-- [浅谈JavaScript中的AOP和装饰器](https://mp.weixin.qq.com/s/a3-dPLprmYlkUsvUPLlGoQ)
-- [用户行为和函数调用链追踪](https://mp.weixin.qq.com/s/NfaE6sa5Yh_WWJzqf91BVw)
-- [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
-- [10个不那么知名但很实用的Web API](https://mp.weixin.qq.com/s/CcVo2EqwWgtvJ9qRAwerLg)
 
 :::
 
@@ -219,17 +229,3 @@ home/end 行首行尾
 3. HTTP 的返回码。
 4. HTTP 的 Cookie、缓存、会话，以及链接管理等等，在 MDN 的这个文档中都有了。
 5. 对于 HTTP 协议，你不需要知道所有的东西，你只需要了解这个协议的最关键的那些东西就好了。
-
-[一文串联 HTTP / [ 0.9 | 1.0 | 1.1 | 2 | 3 ]](https://mp.weixin.qq.com/s/R0dBfnkARzZ91AY27Ba4Sw)
-
-[赚多少钱才能有100%的财务自由度？](https://mp.weixin.qq.com/s/pNpcLT3wFh9UFRbr7m-fCQ)
-
-[大厂2个Vue实践总结，效率提升80%！](https://mp.weixin.qq.com/s/VG1wcEcnBCSn5hzuAEVu_Q)
-
-[自学转行前端3年经验，终入职阿里！](https://mp.weixin.qq.com/s/FZlfLMWSpIOWSLoLi9uqLQ)
-
-[史上最惨的定投案例，还能赚钱吗？](https://mp.weixin.qq.com/s/gsDzMcc7rN9XaAJ7Z_On7w)
-
-[容易被忽略的5个HTML技巧](https://mp.weixin.qq.com/s/cubl_Wd239uLukRZLPqjiA)
-
-[Serverless 如何在阿里巴巴实现规模化落地？](https://mp.weixin.qq.com/s/i-TzmVUAjPdCEOMTu3cyqw)
