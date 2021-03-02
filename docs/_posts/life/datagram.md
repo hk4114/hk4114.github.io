@@ -178,24 +178,12 @@ title: 资料包
 
 [一文串联 HTTP / [ 0.9 | 1.0 | 1.1 | 2 | 3 ]](https://mp.weixin.qq.com/s/R0dBfnkARzZ91AY27Ba4Sw)
 
-[赚多少钱才能有100%的财务自由度？](https://mp.weixin.qq.com/s/pNpcLT3wFh9UFRbr7m-fCQ)
-
-[大厂2个Vue实践总结，效率提升80%！](https://mp.weixin.qq.com/s/VG1wcEcnBCSn5hzuAEVu_Q)
-
-[自学转行前端3年经验，终入职阿里！](https://mp.weixin.qq.com/s/FZlfLMWSpIOWSLoLi9uqLQ)
-
-[史上最惨的定投案例，还能赚钱吗？](https://mp.weixin.qq.com/s/gsDzMcc7rN9XaAJ7Z_On7w)
-
-[容易被忽略的5个HTML技巧](https://mp.weixin.qq.com/s/cubl_Wd239uLukRZLPqjiA)
-
-[Serverless 如何在阿里巴巴实现规模化落地？](https://mp.weixin.qq.com/s/i-TzmVUAjPdCEOMTu3cyqw)
-
-[调试前端程序](http://www.igeekbar.com/igeekbar/post/156.htm)
-
-[你不知道的 Proxy](https://mp.weixin.qq.com/s/SN8HqiGA30-IJ7OZ3WMr3g)
-
-[​Web前端剪切板文本分享到文件发送](https://mp.weixin.qq.com/s/TrrxxeGdPsF5wVoGMcuw4w)
-
+[MDN http 文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) 你需要知道 HTTP 协议的几个关键点：
+1. HTTP 头
+2. HTTP 的请求方法
+3. HTTP 的返回码。
+4. HTTP 的 Cookie、缓存、会话，以及链接管理等等，在 MDN 的这个文档中都有了。
+5. 对于 HTTP 协议，你不需要知道所有的东西，你只需要了解这个协议的最关键的那些东西就好了。
 :::
 
 ----------------------------------------------------------------------------------------
@@ -223,9 +211,3 @@ Ctrl + Alt + Up/Down
 home/end 行首行尾
 
 
-[MDN http 文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) 你需要知道 HTTP 协议的几个关键点：
-1. HTTP 头
-2. HTTP 的请求方法
-3. HTTP 的返回码。
-4. HTTP 的 Cookie、缓存、会话，以及链接管理等等，在 MDN 的这个文档中都有了。
-5. 对于 HTTP 协议，你不需要知道所有的东西，你只需要了解这个协议的最关键的那些东西就好了。
