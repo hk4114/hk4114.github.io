@@ -169,15 +169,6 @@ title: 资料包
 
 ::: tip 今日整理
 [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
-
-[一文串联 HTTP / [ 0.9 | 1.0 | 1.1 | 2 | 3 ]](https://mp.weixin.qq.com/s/R0dBfnkARzZ91AY27Ba4Sw)
-
-[MDN http 文档](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) 你需要知道 HTTP 协议的几个关键点：
-1. HTTP 头
-2. HTTP 的请求方法
-3. HTTP 的返回码。
-4. HTTP 的 Cookie、缓存、会话，以及链接管理等等，在 MDN 的这个文档中都有了。
-5. 对于 HTTP 协议，你不需要知道所有的东西，你只需要了解这个协议的最关键的那些东西就好了。
 :::
 
 ----------------------------------------------------------------------------------------
