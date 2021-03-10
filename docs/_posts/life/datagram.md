@@ -9,22 +9,10 @@ title: 资料包
 
 > [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
-## 键盘指法练习
-> [键盘指法练习](https://www.typingclub.com/) https://www.dazima.cn/flash/127.html
-
 ## 面试
 
 ### 面试题
 1. [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
-2. [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-3. [30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
-4. [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-5.  [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
-6.  [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-### 面试经验
-[总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
-
-[拿了微软、蚂蚁、头条 offer，这就是我面了42场得到的方法论！](https://mp.weixin.qq.com/s/td3dHeZh4tPuMThV-_jsng)
 
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
@@ -114,11 +102,7 @@ title: 资料包
     20. [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
     21. [File、Blob、dataURL 和 canvas 的应用与转换](https://mp.weixin.qq.com/s/2MVjduB4aK3T4QuFerlXSQ)
 11. 项目
-    1. [你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
     2. [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
-    3. [微服务前端架构实践](https://juejin.cn/post/6897103348227391496)
-    4. [帮你对比多种微前端方案](https://juejin.cn/post/6898268972178178061)
-    5. [微前端究竟是什么，可以带来什么收益](https://mp.weixin.qq.com/s/xhomKaNcCQH1zshV1XO8Kw)
     6. [谷歌工程师分享前端性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/LDRc1MBCk9HMDMzrLPAiuA)
     7. [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
     8. [封装 axios 取消重复请求](https://mp.weixin.qq.com/s/fPuBTZGYQISwVtGxPZYYrQ) 
@@ -169,6 +153,30 @@ title: 资料包
 
 ::: tip 今日整理
 [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
+
+[总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
+
+[拿了微软、蚂蚁、头条 offer，这就是我面了42场得到的方法论！](https://mp.weixin.qq.com/s/td3dHeZh4tPuMThV-_jsng)
+
+[yck面试题](https://github.com/KieSun/fucking-frontend)
+
+[104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
+
+[104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
+
+[最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+
+[30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
+
+[前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+
+[你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
+
+[微服务前端架构实践](https://juejin.cn/post/6897103348227391496)
+
+[帮你对比多种微前端方案](https://juejin.cn/post/6898268972178178061)
+
+[微前端究竟是什么，可以带来什么收益](https://mp.weixin.qq.com/s/xhomKaNcCQH1zshV1XO8Kw)
 :::
 
 ----------------------------------------------------------------------------------------
