@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>复合组件 表单 | kane&#39;s blog</title>
+    <meta name="generator" content="VuePress 1.5.4">
+    <meta name="description" content="Stack">
+    <link rel="preload" href="/assets/css/0.styles.f941341d.css" as="style"><link rel="preload" href="/assets/js/app.6a2c2177.js" as="script"><link rel="preload" href="/assets/js/7.1b8d6ea0.js" as="script"><link rel="preload" href="/assets/js/80.9514da5a.js" as="script"><link rel="prefetch" href="/assets/js/1.ab41063c.js"><link rel="prefetch" href="/assets/js/10.e8c45f44.js"><link rel="prefetch" href="/assets/js/11.638851ee.js"><link rel="prefetch" href="/assets/js/12.a9caa793.js"><link rel="prefetch" href="/assets/js/13.1a82f961.js"><link rel="prefetch" href="/assets/js/14.4df27cc6.js"><link rel="prefetch" href="/assets/js/15.1776f9c5.js"><link rel="prefetch" href="/assets/js/16.6c3fd25d.js"><link rel="prefetch" href="/assets/js/17.58d8267f.js"><link rel="prefetch" href="/assets/js/18.418d2e1d.js"><link rel="prefetch" href="/assets/js/19.5cb5d062.js"><link rel="prefetch" href="/assets/js/20.4640e668.js"><link rel="prefetch" href="/assets/js/21.3cb0d257.js"><link rel="prefetch" href="/assets/js/22.0e50dca4.js"><link rel="prefetch" href="/assets/js/23.cdd36bf0.js"><link rel="prefetch" href="/assets/js/24.376999f8.js"><link rel="prefetch" href="/assets/js/25.5dc2506a.js"><link rel="prefetch" href="/assets/js/26.c9fc2b10.js"><link rel="prefetch" href="/assets/js/27.c13604b3.js"><link rel="prefetch" href="/assets/js/28.79673621.js"><link rel="prefetch" href="/assets/js/29.4bfeec67.js"><link rel="prefetch" href="/assets/js/3.fb9e7e54.js"><link rel="prefetch" href="/assets/js/30.8ccb9f0c.js"><link rel="prefetch" href="/assets/js/31.2fb9a8ad.js"><link rel="prefetch" href="/assets/js/32.8b52276b.js"><link rel="prefetch" href="/assets/js/33.f8db6f91.js"><link rel="prefetch" href="/assets/js/34.8d9c0a54.js"><link rel="prefetch" href="/assets/js/35.a602e6cd.js"><link rel="prefetch" href="/assets/js/36.4a7b54f2.js"><link rel="prefetch" href="/assets/js/37.249f5c2b.js"><link rel="prefetch" href="/assets/js/38.577ae9ba.js"><link rel="prefetch" href="/assets/js/39.494863ee.js"><link rel="prefetch" href="/assets/js/4.aa0c8431.js"><link rel="prefetch" href="/assets/js/40.b16a03ec.js"><link rel="prefetch" href="/assets/js/41.85e982e0.js"><link rel="prefetch" href="/assets/js/42.2eae8a44.js"><link rel="prefetch" href="/assets/js/43.9e08cae0.js"><link rel="prefetch" href="/assets/js/44.2753358b.js"><link rel="prefetch" href="/assets/js/45.edd8fbd2.js"><link rel="prefetch" href="/assets/js/46.8897c496.js"><link rel="prefetch" href="/assets/js/47.9ded5cbb.js"><link rel="prefetch" href="/assets/js/48.1f227840.js"><link rel="prefetch" href="/assets/js/49.75553fe9.js"><link rel="prefetch" href="/assets/js/5.c836cb70.js"><link rel="prefetch" href="/assets/js/50.fb932781.js"><link rel="prefetch" href="/assets/js/51.f9c4e1c1.js"><link rel="prefetch" href="/assets/js/52.bdab9c3c.js"><link rel="prefetch" href="/assets/js/53.48cbad85.js"><link rel="prefetch" href="/assets/js/54.725949e8.js"><link rel="prefetch" href="/assets/js/55.725e0ae9.js"><link rel="prefetch" href="/assets/js/56.c760ec48.js"><link rel="prefetch" href="/assets/js/57.7c9b93d3.js"><link rel="prefetch" href="/assets/js/58.67da48ba.js"><link rel="prefetch" href="/assets/js/59.589ca47e.js"><link rel="prefetch" href="/assets/js/6.4b95b952.js"><link rel="prefetch" href="/assets/js/60.7537c374.js"><link rel="prefetch" href="/assets/js/61.80b28ec0.js"><link rel="prefetch" href="/assets/js/62.f2d09e8e.js"><link rel="prefetch" href="/assets/js/63.b32c867b.js"><link rel="prefetch" href="/assets/js/64.88855d6d.js"><link rel="prefetch" href="/assets/js/65.a5358c00.js"><link rel="prefetch" href="/assets/js/66.e508f49c.js"><link rel="prefetch" href="/assets/js/67.aae7b9cb.js"><link rel="prefetch" href="/assets/js/68.238789d3.js"><link rel="prefetch" href="/assets/js/69.573574c9.js"><link rel="prefetch" href="/assets/js/70.8dd5a8d6.js"><link rel="prefetch" href="/assets/js/71.0e408dd3.js"><link rel="prefetch" href="/assets/js/72.1ddcdbb7.js"><link rel="prefetch" href="/assets/js/73.3c8d91c6.js"><link rel="prefetch" href="/assets/js/74.c9715daf.js"><link rel="prefetch" href="/assets/js/75.5f5c2656.js"><link rel="prefetch" href="/assets/js/76.1fc5aa1a.js"><link rel="prefetch" href="/assets/js/77.c3b3e53e.js"><link rel="prefetch" href="/assets/js/78.c276d18e.js"><link rel="prefetch" href="/assets/js/79.a50291b5.js"><link rel="prefetch" href="/assets/js/8.976e6517.js"><link rel="prefetch" href="/assets/js/81.d6dafffb.js"><link rel="prefetch" href="/assets/js/82.3a7c8a0e.js"><link rel="prefetch" href="/assets/js/83.854b4416.js"><link rel="prefetch" href="/assets/js/84.a45205b7.js"><link rel="prefetch" href="/assets/js/85.a548735a.js"><link rel="prefetch" href="/assets/js/86.a5be3191.js"><link rel="prefetch" href="/assets/js/87.992e30e7.js"><link rel="prefetch" href="/assets/js/88.e8cbde96.js"><link rel="prefetch" href="/assets/js/89.7a067268.js"><link rel="prefetch" href="/assets/js/9.4d972587.js"><link rel="prefetch" href="/assets/js/90.ae4b4fb4.js"><link rel="prefetch" href="/assets/js/91.35b475d1.js"><link rel="prefetch" href="/assets/js/92.0157dcc1.js"><link rel="prefetch" href="/assets/js/93.ebfead3f.js"><link rel="prefetch" href="/assets/js/94.a9c9a894.js"><link rel="prefetch" href="/assets/js/95.1d83cb37.js"><link rel="prefetch" href="/assets/js/96.ddcf4074.js"><link rel="prefetch" href="/assets/js/97.62bc7f95.js"><link rel="prefetch" href="/assets/js/98.2cecd425.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.f941341d.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div id="vuepress-theme-meteorlxy"><header class="header" data-v-7a046aea><div data-v-e4145d0a data-v-7a046aea><nav class="navbar" data-v-e4145d0a><div class="container" data-v-e4145d0a><a href="/" class="router-link-active" data-v-e4145d0a><span class="navbar-site-name" data-v-e4145d0a>
+          kane's blog
+        </span></a> <div class="navbar-toggler" data-v-e4145d0a><svg class="icon" style="font-size:1.2em;" data-v-e4145d0a data-v-e4145d0a><title data-v-e4145d0a data-v-e4145d0a>menu</title><use xlink:href="#icon-menu" data-v-e4145d0a data-v-e4145d0a></use></svg></div> <div class="navbar-links" data-v-e4145d0a><a href="/" class="navbar-link" data-v-e4145d0a>
+            首页
+          </a><a href="/posts/" class="navbar-link router-link-active" data-v-e4145d0a>
+            文章
+          </a></div></div></nav> <div class="navbar-holder" style="display:none;" data-v-e4145d0a></div></div> <div class="banner" data-v-98d6aa8c data-v-7a046aea data-v-7a046aea><div class="container" data-v-98d6aa8c><div class="center" data-v-98d6aa8c><h1 data-v-98d6aa8c data-v-7a046aea>
+          复合组件 表单
+        </h1></div></div></div></header> <div class="container clearfix show-aside" data-v-4dd605a1 data-v-4dd605a1><main class="main" data-v-4dd605a1><div class="post" data-v-4dd605a1 data-v-4dd605a1><section class="post-meta main-div" data-v-4e23451f><section class="post-date clearfix" data-v-4e23451f><span class="create-date" data-v-4e23451f>
+      发布时间 : 2019-09-25
+    </span> <span class="update-date" data-v-4e23451f>
+      最后修改 : 2020-12-01
+    </span></section> <section class="post-links" data-v-4e23451f><a href="/posts/2019/09/25/vue-router.html" class="post-link" data-v-4e23451f>
+      上一篇 : router
+    </a> <a href="/posts/2019/09/25/vue-communicate.html" class="post-link" data-v-4e23451f>
+      下一篇 : 组件通信
+    </a></section></section> <article class="main-div"><div class="post-content content content__default"><h2 id="需求分析"><a href="#需求分析" class="header-anchor">#</a> 需求分析</h2> <ol><li>数据收集: 输入框、select、单选、多选</li> <li>数据校验: 单项校验( form-item )、全局校验( form )</li> <li>提交: 提交事件( form )</li></ol> <h2 id="拆成组件"><a href="#拆成组件" class="header-anchor">#</a> 拆成组件</h2> <ul><li>输入框-&gt;数据的收集 v-model 通知校验</li> <li>表单项 校验 显示label 错误信息的展示</li> <li>表单 提交数据 数据模型持有和传递，规则，provide</li></ul> <h3 id="input-数据收集-通知校验"><a href="#input-数据收集-通知校验" class="header-anchor">#</a> Input 数据收集/通知校验</h3> <div class="language-html extra-class"><pre class="language-html"><code>// Input.vue
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>template</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>pug<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+    .input
+        input( 
+      :type=&quot;type&quot; 
+      :value=&quot;value&quot; 
+      @input=&quot;onInput&quot;
+      v-bind=&quot;$attrs&quot; //- 在jsx中类似jsx={...props} 将placeholder等特性绑定到该组件上
+      )
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>template</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">&gt;</span></span><span class="token script"><span class="token language-javascript">
+    <span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+        inheritAttrs<span class="token operator">:</span> <span class="token boolean">false</span><span class="token punctuation">,</span> <span class="token comment">// 由于使用了 $attrs 特性集 所以placeholder就降级到div上，如果不需要这个效果则需要这个属性</span>
+        props<span class="token operator">:</span> <span class="token punctuation">{</span>
+            type<span class="token operator">:</span> <span class="token punctuation">{</span>
+                type<span class="token operator">:</span> String<span class="token punctuation">,</span>
+                <span class="token keyword">default</span><span class="token operator">:</span> <span class="token string">&quot;text&quot;</span>
+            <span class="token punctuation">}</span><span class="token punctuation">,</span>
+            value<span class="token operator">:</span> <span class="token punctuation">{</span>
+                type<span class="token operator">:</span> String<span class="token punctuation">,</span>
+                <span class="token keyword">default</span><span class="token operator">:</span> <span class="token string">''</span>
+            <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        methods<span class="token operator">:</span> <span class="token punctuation">{</span>
+            <span class="token function">onInput</span><span class="token punctuation">(</span><span class="token parameter">e</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+                <span class="token keyword">const</span> <span class="token punctuation">{</span> value <span class="token punctuation">}</span> <span class="token operator">=</span> e<span class="token punctuation">.</span>target<span class="token punctuation">;</span>
+                <span class="token comment">// 父组件传值</span>
+                <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">$emit</span><span class="token punctuation">(</span><span class="token string">'input'</span><span class="token punctuation">,</span> value<span class="token punctuation">)</span><span class="token punctuation">;</span>
+                <span class="token comment">// 通知校验 由于自己slot上不能绑定事件 只能老爹Index去派发</span>
+                <span class="token keyword">this</span><span class="token punctuation">.</span>$parent<span class="token punctuation">.</span><span class="token function">$emit</span><span class="token punctuation">(</span><span class="token string">'validate'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token punctuation">}</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div><p>在通知校验部分强依赖了$parent，可以通过$dispatch 向上冒泡告诉所有父辈实现功能，但是在vue2.x中已经废弃，所以elementUI或者iView是自己实现的。</p> <div class="language-html extra-class"><pre class="language-html"><code>// index.vue 测试代码
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>template</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>pug<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+    .form-wrap
+        Input( v-model=&quot;model.username&quot; )
+        span {{ model }}
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>template</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">&gt;</span></span><span class="token script"><span class="token language-javascript">
+<span class="token keyword">import</span> Input <span class="token keyword">from</span> <span class="token string">'@/components/form/Input.vue'</span><span class="token punctuation">;</span>
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+    components<span class="token operator">:</span> <span class="token punctuation">{</span>
+        Input
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token function">data</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token punctuation">{</span>
+            model<span class="token operator">:</span> <span class="token punctuation">{</span>
+                username<span class="token operator">:</span> <span class="token string">&quot;zhangsan&quot;</span><span class="token punctuation">,</span>
+                password<span class="token operator">:</span> <span class="token string">&quot;&quot;</span>
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div><h3 id="formitem-label-错误信息-校验"><a href="#formitem-label-错误信息-校验" class="header-anchor">#</a> FormItem label/错误信息/校验</h3> <h4 id="_1-label和错误信息的渲染"><a href="#_1-label和错误信息的渲染" class="header-anchor">#</a> 1. label和错误信息的渲染</h4> <div class="language-html extra-class"><pre class="language-html"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>template</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>pug<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+    .form-item
+        label( v-if=&quot;label&quot; ) {{ label }}
+        slot
+        //- 错误信息
+        .jiaoyan( v-if=&quot;error&quot; ) {{ error }}
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>template</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">&gt;</span></span><span class="token script"><span class="token language-javascript">
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+    props<span class="token operator">:</span> <span class="token punctuation">{</span>
+        label<span class="token operator">:</span> <span class="token punctuation">{</span> <span class="token comment">// 属性，有上一层传递下来</span>
+            type<span class="token operator">:</span> String<span class="token punctuation">,</span>
+            <span class="token keyword">default</span><span class="token operator">:</span> <span class="token string">&quot;&quot;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token function">data</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token punctuation">{</span>
+            error<span class="token operator">:</span> <span class="token string">&quot;&quot;</span> <span class="token comment">// 自己判断报错信息，所以这是状态</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div><div class="language-html extra-class"><pre class="language-html"><code>// index.vue 测试代码
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>template</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>pug<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+    .form-wrap
+        FotmItem( label=&quot;用户名&quot; )
+            Input( v-model=&quot;model.username&quot; )
+        span {{ model }}
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>template</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">&gt;</span></span><span class="token script"><span class="token language-javascript">
+<span class="token keyword">import</span> Input <span class="token keyword">from</span> <span class="token string">'@/components/form/input.vue'</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> FormItem <span class="token keyword">from</span> <span class="token string">'@/components/form/form-item.vue'</span><span class="token punctuation">;</span>
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+    components<span class="token operator">:</span> <span class="token punctuation">{</span>
+        Input<span class="token punctuation">,</span>
+        FormItem
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token function">data</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token punctuation">{</span>
+            model<span class="token operator">:</span> <span class="token punctuation">{</span>
+                username<span class="token operator">:</span> <span class="token string">&quot;zhangsan&quot;</span><span class="token punctuation">,</span>
+                password<span class="token operator">:</span> <span class="token string">&quot;&quot;</span>
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div><h3 id="form-数据格式的持有和传递、校验规则的设置、全局校验"><a href="#form-数据格式的持有和传递、校验规则的设置、全局校验" class="header-anchor">#</a> Form 数据格式的持有和传递、校验规则的设置、全局校验</h3> <h4 id="_1-数据格式的持有、校验规则的设置"><a href="#_1-数据格式的持有、校验规则的设置" class="header-anchor">#</a> 1. 数据格式的持有、校验规则的设置</h4> <div class="language-html extra-class"><pre class="language-html"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>template</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>pug<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+    .from
+        slot
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>template</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">&gt;</span></span><span class="token script"><span class="token language-javascript">
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+    props<span class="token operator">:</span> <span class="token punctuation">{</span>
+        model<span class="token operator">:</span> <span class="token punctuation">{</span>
+            type<span class="token operator">:</span> Object<span class="token punctuation">,</span>
+            required<span class="token operator">:</span> <span class="token boolean">true</span>
+        <span class="token punctuation">}</span><span class="token punctuation">,</span>
+        rules<span class="token operator">:</span> <span class="token punctuation">{</span>
+            type<span class="token operator">:</span> Object
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div><div class="language-html extra-class"><pre class="language-html"><code>// index.vue 测试代码
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>template</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>pug<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+    .form-wrap
+        Form(:model=&quot;model&quot; :rules=&quot;rules&quot;)
+            FotmItem( label=&quot;用户名&quot; )
+                Input( v-model=&quot;model.username&quot; )
+            FotmItem( label=&quot;密码&quot; )
+                Input( v-model=&quot;model.password&quot; )
+        span {{ model }}
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>template</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">&gt;</span></span><span class="token script"><span class="token language-javascript">
+<span class="token keyword">import</span> Input <span class="token keyword">from</span> <span class="token string">'@/components/form/input.vue'</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> FormItem <span class="token keyword">from</span> <span class="token string">'@/components/form/form-item.vue'</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> Form <span class="token keyword">from</span> <span class="token string">'@/components/form/form.vue'</span><span class="token punctuation">;</span>
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+    components<span class="token operator">:</span> <span class="token punctuation">{</span>
+        Input<span class="token punctuation">,</span>
+        FormItem<span class="token punctuation">,</span>
+        Form
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token function">data</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token punctuation">{</span>
+            model<span class="token operator">:</span> <span class="token punctuation">{</span>
+                username<span class="token operator">:</span> <span class="token string">&quot;zhangsan&quot;</span><span class="token punctuation">,</span>
+                password<span class="token operator">:</span> <span class="token string">&quot;&quot;</span>
+            <span class="token punctuation">}</span><span class="token punctuation">,</span>
+            rules<span class="token operator">:</span><span class="token punctuation">{</span>
+                username<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token punctuation">{</span>
+                    required<span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+                    message<span class="token operator">:</span> <span class="token string">'用户名必填'</span>
+                <span class="token punctuation">}</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
+                password<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token punctuation">{</span>
+                    required<span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+                    message<span class="token operator">:</span> <span class="token string">'密码必填'</span>
+                <span class="token punctuation">}</span><span class="token punctuation">]</span>
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div><h4 id="_2-校验"><a href="#_2-校验" class="header-anchor">#</a> 2. 校验</h4> <p>虽然数据通过props绑定在form中，但是实际校验是表单项完成的，需要通过form的provide传值</p> <div class="language-js extra-class"><pre class="language-js"><code><span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+  <span class="token comment">// code</span>
+    <span class="token function">provide</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token punctuation">{</span>
+            form<span class="token operator">:</span> <span class="token keyword">this</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    methods<span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token function">validate</span><span class="token punctuation">(</span><span class="token parameter">cb</span><span class="token punctuation">)</span><span class="token punctuation">{</span> <span class="token comment">// 全局校验</span>
+            <span class="token comment">// 1. 获取校验项 </span>
+            <span class="token keyword">const</span> tasks <span class="token operator">=</span> <span class="token keyword">this</span><span class="token punctuation">.</span>$children<span class="token punctuation">.</span><span class="token function">filter</span><span class="token punctuation">(</span><span class="token parameter">v</span><span class="token operator">=&gt;</span>v<span class="token punctuation">.</span>prop<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token parameter">v</span><span class="token operator">=&gt;</span>v<span class="token punctuation">.</span><span class="token function">validate</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            Promise<span class="token punctuation">.</span><span class="token function">all</span><span class="token punctuation">(</span> tasks <span class="token punctuation">)</span>
+            <span class="token punctuation">.</span><span class="token function">then</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token function">cb</span><span class="token punctuation">(</span><span class="token boolean">true</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+            <span class="token punctuation">.</span><span class="token function">catch</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token function">cb</span><span class="token punctuation">(</span><span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+<span class="token punctuation">}</span>
+</code></pre></div><p>表单项的校验,表单通过inject取到值和规则.</p> <div class="language-js extra-class"><pre class="language-js"><code><span class="token comment">// npm i async-validator -D</span>
+<span class="token keyword">import</span> Schema <span class="token keyword">from</span> <span class="token string">'async-validator'</span><span class="token punctuation">;</span>
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+    inject<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token string">'form'</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
+    <span class="token function">mounted</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token comment">// 由于校验是 this.$parent派发 也就是说得我监听</span>
+        <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">$on</span><span class="token punctuation">(</span><span class="token string">'validate'</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">=&gt;</span><span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">validate</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    methods<span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token function">validate</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+            <span class="token comment">// 校验</span>
+            <span class="token comment">// 1. 获取数值和规则</span>
+            <span class="token keyword">const</span> value <span class="token operator">=</span> <span class="token keyword">this</span><span class="token punctuation">.</span>form<span class="token punctuation">.</span>model<span class="token punctuation">[</span><span class="token keyword">this</span><span class="token punctuation">.</span>prop<span class="token punctuation">]</span><span class="token punctuation">;</span>
+            <span class="token keyword">const</span> rule <span class="token operator">=</span> <span class="token keyword">this</span><span class="token punctuation">.</span>form<span class="token punctuation">.</span>rules<span class="token punctuation">[</span><span class="token keyword">this</span><span class="token punctuation">.</span>prop<span class="token punctuation">]</span><span class="token punctuation">;</span>
+            <span class="token comment">// 2. 创建校验规则</span>
+            <span class="token keyword">const</span> schema <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Schema</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+                <span class="token punctuation">[</span><span class="token keyword">this</span><span class="token punctuation">.</span>prop<span class="token punctuation">]</span><span class="token operator">:</span> rule
+            <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+            <span class="token comment">// 校验返回 promise 这样 form就能使用实例的方法并返回结果了</span>
+            <span class="token keyword">return</span> schema<span class="token punctuation">.</span><span class="token function">validate</span><span class="token punctuation">(</span><span class="token punctuation">{</span> <span class="token punctuation">[</span><span class="token keyword">this</span><span class="token punctuation">.</span>prop<span class="token punctuation">]</span><span class="token operator">:</span> value <span class="token punctuation">}</span><span class="token punctuation">,</span> <span class="token parameter">errors</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+                <span class="token keyword">if</span><span class="token punctuation">(</span>errors<span class="token punctuation">)</span><span class="token punctuation">{</span>
+                    <span class="token keyword">this</span><span class="token punctuation">.</span>error <span class="token operator">=</span> errors<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">.</span>message<span class="token punctuation">;</span>
+                <span class="token punctuation">}</span><span class="token keyword">else</span><span class="token punctuation">{</span>
+                    <span class="token keyword">this</span><span class="token punctuation">.</span>error <span class="token operator">=</span> <span class="token string">''</span><span class="token punctuation">;</span>
+                <span class="token punctuation">}</span>
+            <span class="token punctuation">}</span><span class="token punctuation">)</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+<span class="token punctuation">}</span>
+</code></pre></div><div class="language-html extra-class"><pre class="language-html"><code><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>template</span> <span class="token attr-name">lang</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">&quot;</span>pug<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+    //- index.vue 测试代码
+    .form-wrap
+        Form(:model=&quot;model&quot; :rules=&quot;rules&quot; ref=&quot;loginForm&quot; )
+            FormItem( label=&quot;用户名&quot; prop=&quot;username&quot;)
+                Input( :value.sync=&quot;model.username&quot; placeholder=&quot;请输入用户名&quot;)
+            FormItem( label=&quot;密码&quot; prop=&quot;password&quot;)
+                Input( type=&quot;password&quot; v-model=&quot;model.password&quot; placeholder=&quot;请输入密码&quot; )
+            FormItem
+                button(@click=&quot;submit&quot;) Submit
+        span {{ model }}
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>template</span><span class="token punctuation">&gt;</span></span>
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>script</span><span class="token punctuation">&gt;</span></span><span class="token script"><span class="token language-javascript">
+<span class="token keyword">import</span> Input <span class="token keyword">from</span> <span class="token string">'@/components/form/input.vue'</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> FormItem <span class="token keyword">from</span> <span class="token string">'@/components/form/form-item.vue'</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> Form <span class="token keyword">from</span> <span class="token string">'@/components/form/form.vue'</span><span class="token punctuation">;</span>
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+    components<span class="token operator">:</span> <span class="token punctuation">{</span>
+        Input<span class="token punctuation">,</span>
+        FormItem<span class="token punctuation">,</span>
+        Form
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    <span class="token function">data</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token keyword">return</span> <span class="token punctuation">{</span>
+            model<span class="token operator">:</span> <span class="token punctuation">{</span>
+                username<span class="token operator">:</span> <span class="token string">&quot;zhangsan&quot;</span><span class="token punctuation">,</span>
+                password<span class="token operator">:</span> <span class="token string">&quot;&quot;</span>
+            <span class="token punctuation">}</span><span class="token punctuation">,</span>
+            rules<span class="token operator">:</span><span class="token punctuation">{</span>
+                username<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token punctuation">{</span>
+                    required<span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+                    message<span class="token operator">:</span> <span class="token string">'用户名必填'</span>
+                <span class="token punctuation">}</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
+                password<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token punctuation">{</span>
+                    required<span class="token operator">:</span> <span class="token boolean">true</span><span class="token punctuation">,</span>
+                    message<span class="token operator">:</span> <span class="token string">'密码必填'</span>
+                <span class="token punctuation">}</span><span class="token punctuation">]</span>
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    methods<span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token function">submit</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+            <span class="token keyword">this</span><span class="token punctuation">.</span>$refs<span class="token punctuation">.</span>loginForm<span class="token punctuation">.</span><span class="token function">validate</span><span class="token punctuation">(</span><span class="token parameter">isValidate</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+                <span class="token keyword">if</span><span class="token punctuation">(</span>isValidate<span class="token punctuation">)</span><span class="token punctuation">{</span>
+                    <span class="token function">alert</span><span class="token punctuation">(</span><span class="token string">'login...'</span><span class="token punctuation">)</span>
+                <span class="token punctuation">}</span><span class="token keyword">else</span><span class="token punctuation">{</span>
+                    <span class="token function">alert</span><span class="token punctuation">(</span><span class="token string">'sb'</span><span class="token punctuation">)</span>
+                <span class="token punctuation">}</span>
+            <span class="token punctuation">}</span><span class="token punctuation">)</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">,</span>
+<span class="token punctuation">}</span>
+</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>script</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div><p>ps:
+Q: v-model与.sync的区别，和使用场景？
+A:
+v-model -&gt; 默认展开
+<code>Input( :value=&quot;username&quot; @input=&quot;username=$event&quot; )</code>
+但是可以控制 控制能力在子组件</p> <div class="language-js extra-class"><pre class="language-js"><code><span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+  model<span class="token operator">:</span> <span class="token punctuation">{</span>
+    prop<span class="token operator">:</span> <span class="token string">'checked'</span><span class="token punctuation">,</span>
+    event<span class="token operator">:</span> <span class="token string">'change'</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+<span class="token comment">// 子组件这么设置 会导致上级使用v-model时行为变化</span>
+<span class="token function">Children</span><span class="token punctuation">(</span> <span class="token operator">:</span>checked <span class="token operator">=</span> <span class="token string">&quot;model.remember&quot;</span> @change<span class="token operator">=</span><span class="token string">&quot;model.remember = $event&quot;</span><span class="token punctuation">)</span>
+</code></pre></div><p>.sync 会用在自定义组件上 控制能力在老爹。.sync什么时候用？子组件想要修改父组件传递的属性</p> <div class="language-pug extra-class"><pre class="language-pug"><code><span class="token tag">Input<span class="token attributes"><span class="token punctuation">(</span> :value.<span class="token attr-name">sync</span> <span class="token punctuation">=</span> <span class="token attr-value"><span class="token string">&quot;model.username&quot;</span></span><span class="token punctuation">)</span></span></span>
+<span class="token punctuation">||</span>
+<span class="token tag">Input<span class="token attributes"><span class="token punctuation">(</span> :<span class="token attr-name">foo</span> <span class="token punctuation">=</span> <span class="token attr-value"><span class="token string">&quot;model.username&quot;</span> @update<span class="token operator">:</span>foo<span class="token operator">=</span><span class="token string">&quot; username=$event &quot;</span></span><span class="token punctuation">)</span></span></span>
+</code></pre></div><p>还需要<code>input( @input=&quot;$emit('update:foo',$event)&quot; )</code></p></div></article> <section class="post-meta main-div" data-v-4e23451f><section class="post-date clearfix" data-v-4e23451f><span class="create-date" data-v-4e23451f>
+      发布时间 : 2019-09-25
+    </span> <span class="update-date" data-v-4e23451f>
+      最后修改 : 2020-12-01
+    </span></section> <section class="post-links" data-v-4e23451f><a href="/posts/2019/09/25/vue-router.html" class="post-link" data-v-4e23451f>
+      上一篇 : router
+    </a> <a href="/posts/2019/09/25/vue-communicate.html" class="post-link" data-v-4e23451f>
+      下一篇 : 组件通信
+    </a></section></section> <!----></div></main> <aside class="aside" data-v-4dd605a1><div class="info-card main-div" data-v-9d847660 data-v-4dd605a1><div class="info-card-header" data-v-9d847660><img src="/hero.jpg" alt="kane hua" class="info-avatar" data-v-9d847660></div> <div class="info-card-body" data-v-9d847660><section class="info-nickname" data-v-9d847660>
+      kane hua
+    </section> <section class="info-desc" data-v-9d847660>Consume deliberately.<br/>Take in information over affirmation</section> <section class="info-contact" data-v-9d847660><section data-v-9d847660><span title="HangZhou,China" data-v-9d847660 data-v-9d847660><svg class="icon" style="font-size:1em;" data-v-9d847660 data-v-9d847660><title data-v-9d847660 data-v-9d847660>HangZhou,China</title><use xlink:href="#icon-location" data-v-9d847660 data-v-9d847660></use></svg><span class="info-text" data-v-9d847660 data-v-9d847660>
+          HangZhou,China
+        </span></span></section> <!----> <section data-v-9d847660><a href="mailto:huakanelogger@gmail.com" title="huakanelogger@gmail.com" data-v-9d847660 data-v-9d847660><svg class="icon" style="font-size:1em;" data-v-9d847660 data-v-9d847660><title data-v-9d847660 data-v-9d847660>huakanelogger@gmail.com</title><use xlink:href="#icon-email" data-v-9d847660 data-v-9d847660></use></svg><span class="info-text" data-v-9d847660 data-v-9d847660>
+          huakanelogger@gmail.com
+        </span></a></section></section></div> <div class="info-card-footer" data-v-9d847660><section class="info-sns clearfix" data-v-9d847660><a href="https://www.linkedin.com/in/%E4%BA%A2-%E5%8D%8E-564976181/" target="_blank" class="sns-link" data-v-9d847660><span title="LinkedIn: 华亢" class="sns-icon" data-v-9d847660 data-v-9d847660><svg class="icon" style="font-size:1.5em;" data-v-9d847660 data-v-9d847660><title data-v-9d847660 data-v-9d847660>LinkedIn: 华亢</title><use xlink:href="#icon-linkedin" data-v-9d847660 data-v-9d847660></use></svg></span></a><a href="https://github.com/hk4114" target="_blank" class="sns-link" data-v-9d847660><span title="GitHub: hk4114" class="sns-icon" data-v-9d847660 data-v-9d847660><svg class="icon" style="font-size:1.5em;" data-v-9d847660 data-v-9d847660><title data-v-9d847660 data-v-9d847660>GitHub: hk4114</title><use xlink:href="#icon-github" data-v-9d847660 data-v-9d847660></use></svg></span></a></section></div></div> <div class="post-nav-card main-div" style="position:relative;top:0;width:0px;" data-v-4dd605a1><div class="post-nav-contents"><svg class="icon"><title>book</title><use xlink:href="#icon-book"></use></svg> <span>文章目录</span> <div class="post-nav-toc"><ul><li><a href="/posts/2019/09/25/vue-form.html#需求分析">需求分析</a></li><li><a href="/posts/2019/09/25/vue-form.html#拆成组件">拆成组件</a><ul><li><a href="/posts/2019/09/25/vue-form.html#input-数据收集-通知校验">Input 数据收集/通知校验</a></li><li><a href="/posts/2019/09/25/vue-form.html#formitem-label-错误信息-校验">FormItem label/错误信息/校验</a></li><li><a href="/posts/2019/09/25/vue-form.html#form-数据格式的持有和传递、校验规则的设置、全局校验">Form 数据格式的持有和传递、校验规则的设置、全局校验</a></li></ul></li></ul></div></div> <!----></div></aside></div> <footer class="footer" data-v-1375e54c><p class="footer-sns-links" data-v-1375e54c><a href="https://www.linkedin.com/in/%E4%BA%A2-%E5%8D%8E-564976181/" target="_blank" class="sns-link" data-v-1375e54c><span title="LinkedIn: 华亢" class="sns-icon" data-v-1375e54c data-v-1375e54c><svg class="icon" style="font-size:25px;" data-v-1375e54c data-v-1375e54c><title data-v-1375e54c data-v-1375e54c>LinkedIn: 华亢</title><use xlink:href="#icon-linkedin" data-v-1375e54c data-v-1375e54c></use></svg></span></a><a href="https://github.com/hk4114" target="_blank" class="sns-link" data-v-1375e54c><span title="GitHub: hk4114" class="sns-icon" data-v-1375e54c data-v-1375e54c><svg class="icon" style="font-size:25px;" data-v-1375e54c data-v-1375e54c><title data-v-1375e54c data-v-1375e54c>GitHub: hk4114</title><use xlink:href="#icon-github" data-v-1375e54c data-v-1375e54c></use></svg></span></a></p> <p class="footer-text" data-v-1375e54c><span data-v-1375e54c>Powered by </span> <a href="https://github.com/vuejs/vuepress" target="_blank" data-v-1375e54c>
+      VuePress
+    </a> <span data-v-1375e54c> | </span> <a href="https://github.com/meteorlxy/vuepress-theme-meteorlxy" target="_blank" data-v-1375e54c>
+        meteorlxy
+      </a></p> <!----></footer></div><div class="global-ui"><!----><!----><div class="cat-container" data-v-a13867c0><canvas id="vuepress-cat" width="280" height="250" class="live2d" data-v-a13867c0></canvas></div></div></div>
+    <script src="/assets/js/app.6a2c2177.js" defer></script><script src="/assets/js/7.1b8d6ea0.js" defer></script><script src="/assets/js/80.9514da5a.js" defer></script>
+  </body>
+</html>
