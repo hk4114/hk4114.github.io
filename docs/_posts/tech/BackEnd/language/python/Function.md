@@ -57,3 +57,72 @@ with open('sanguo_name.txt') as f:
 name_sorted = sorted(name_dict.items(), key=lambda item: item[1], reverse=True)
 print(name_sorted[0:10])
 ```
+
+## 函数的可变长参数
+
+```python
+def func(a, b, c):
+    print('a= %s' % a)
+    print('b= %s' % b)
+    print('c= %s' % c)
+
+
+func(1, 2, 3)
+# 关键字传参
+func(1, c=2, b=3)
+
+# 取得参数的个数 参数前加*就是可变长参数
+def howLong(f, *o):
+    return len(o) + 1
+
+
+print(howLong(2, 4, 6))
+
+# 函数作用域内修改全局变量
+var1 = 123
+
+def func_test():
+    global var1
+    var1 = 456
+
+func_test()
+print(var1)
+# 456
+```
+
+## 函数的迭代器与生成器
+
+```python
+list1 = [1, 2, 3]
+# 迭代器
+it = iter(list1)
+print(next(it)) # 1
+print(next(it)) # 2
+print(next(it)) # 3
+
+# 生成器 yield
+def frange(start, end, step):
+    x = start
+    while x < end:
+        yield x
+        x += step
+
+
+for i in frange(10, 20, 0.5):
+    print(i)
+```
+
+
+## lambda 表达式
+
+一般用在
+
+```python
+def true():
+    return True
+
+lambda : True
+
+def add(x,y): return x+y
+lambda x,y: x+y
+```
