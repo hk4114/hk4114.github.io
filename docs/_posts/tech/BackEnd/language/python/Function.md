@@ -126,3 +126,132 @@ lambda : True
 def add(x,y): return x+y
 lambda x,y: x+y
 ```
+
+
+## 内置函数
+
+> 通过 `help()` 和官方文档了解函数
+
+```python
+a = [1, 2, 3, 4, 5]
+# [3, 4, 5]
+print(list(filter(lambda x: x > 2, a)))
+
+# [5, 6, 7, 8, 9]
+print(list(map(lambda x: x+4, a)))
+
+b = [100, 99, 98]
+# [101, 101, 101]
+print(list(map(lambda x,y: x+y, a, b)))
+
+import functools
+print(functools.reduce(lambda x, y: x + y, [2, 3, 4], 1))
+
+# [(1, 4), (2, 5), (3, 6)] 矩阵转换
+print(list(zip((1, 2, 3), (4, 5, 6))))
+
+# value key 转换
+dicta = {"a": "aa", "b": "bb"}
+dictb = zip(dicta.values(), dicta.keys())
+print(dict(dictb))
+```
+
+
+## 闭包
+
+```python
+# closure
+def sum(a):
+    def add(b):
+        return a + b
+    return add
+
+print(sum(2)(4))
+
+def counter():
+    cnt = [0]
+
+    def add():
+        cnt[0] += 1
+        return cnt[0]
+    return add
+
+
+num1 = counter()
+
+print(num1())
+print(num1())
+
+
+#  a * x + b  其中 a, b 固定， x 会不同
+def a_line(a, b):
+    # return lambda x: a * x + b
+    def arg_y(x):
+        return a * x + b
+
+    return arg_y
+
+
+line1 = a_line(2, 5)
+print(line1(10))
+```
+
+
+## 装饰器
+
+```python
+import time
+
+
+def timer(func):
+    def wrapper():
+        start_time = time.time()
+        func()
+        stop_time = time.time()
+        print('函数运行了 %s' % (stop_time - start_time))
+
+    return wrapper
+
+
+@timer
+def i_can_sleep():
+    time.sleep(3)
+
+
+i_can_sleep()
+```
+
+### 装饰器传参
+```python
+def tips(func):
+    def inner(a, b):
+        print('start')
+        func(a, b)
+        print('stop')
+        
+    return inner
+
+
+@tips
+def add(a, b):
+    print(a, b)
+
+
+def new_tips(argv):
+    def tips(func):
+        def inner(a, b):
+            print('start %s %s' %(argv, func.__name__))
+            func(a, b)
+            print('stop')
+        return inner
+    return tips
+
+
+@new_tips('sub')
+def sub(a, b):
+    print(a, b)
+
+
+sub(10, 7)
+```
+

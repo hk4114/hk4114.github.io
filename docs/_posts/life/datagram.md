@@ -166,17 +166,7 @@ title: 资料包
 
 [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 
-[30秒面试](https://github.com/30-seconds/30-seconds-of-interviews)
-
 [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-
-[你必须知道的11个微前端框架](https://mp.weixin.qq.com/s/gtyD1v6UiIWyDV949KePVQ)
-
-[微服务前端架构实践](https://juejin.cn/post/6897103348227391496)
-
-[帮你对比多种微前端方案](https://juejin.cn/post/6898268972178178061)
-
-[微前端究竟是什么，可以带来什么收益](https://mp.weixin.qq.com/s/xhomKaNcCQH1zshV1XO8Kw)
 :::
 
 ----------------------------------------------------------------------------------------
@@ -204,3 +194,24 @@ Ctrl + Alt + Up/Down
 home/end 行首行尾
 
 
+[javascript-questions](https://github.com/lydiahallie/javascript-questions)
+
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+[前端面试手书](https://yangshun.github.io/front-end-interview-handbook/)
+
+[30-seconds-of-code](https://www.30secondsofcode.org/)
+
+[30-seconds-of-interviews](https://30secondsofinterviews.org/)
+
+[一套标准的前端代码工作流](https://mp.weixin.qq.com/s/hjRMks1VDQ9lVpw1_xcA0g)
+
+[知乎高赞 | 做前端的你有没有觉得很吃力？](https://mp.weixin.qq.com/s/H84PG0c017PF9zhK_QqxAQ)
+
+[这份前端实践指南太牛逼了！全是干货，做业务必备！](https://mp.weixin.qq.com/s/xpcZlmtmVab461cvbsDx5Q)
+
+[请来了字节资深面试官告诉你为什么三月是个跳槽好时机](https://mp.weixin.qq.com/s/qshedIGwiAvR2FLYucZjWg)
+
+[CORS 完全手册之为什么会发生CORS 错误？](https://mp.weixin.qq.com/s/81B5IKF00uJPKH_iYFQqWw)
+
+[CORS 完全手册之如何解决CORS 问题？](https://mp.weixin.qq.com/s/CAxvFT3gfZAPyeIoFjbU3Q)
