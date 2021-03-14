@@ -1,5 +1,5 @@
 ---
-title: python基础
+title: python 基础
 category: 技术
 tags:
   - python

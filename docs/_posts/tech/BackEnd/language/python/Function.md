@@ -1,5 +1,5 @@
 ---
-title: 函数
+title: python 函数
 category: 技术
 tags:
   - python

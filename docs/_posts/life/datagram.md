@@ -167,6 +167,31 @@ title: 资料包
 [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 
 [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+
+[javascript-questions](https://github.com/lydiahallie/javascript-questions)
+
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+[前端面试手书](https://yangshun.github.io/front-end-interview-handbook/)
+
+[30-seconds-of-code](https://www.30secondsofcode.org/)
+
+[30-seconds-of-interviews](https://30secondsofinterviews.org/)
+
+[一套标准的前端代码工作流](https://mp.weixin.qq.com/s/hjRMks1VDQ9lVpw1_xcA0g)
+
+[知乎高赞 | 做前端的你有没有觉得很吃力？](https://mp.weixin.qq.com/s/H84PG0c017PF9zhK_QqxAQ)
+
+[这份前端实践指南太牛逼了！全是干货，做业务必备！](https://mp.weixin.qq.com/s/xpcZlmtmVab461cvbsDx5Q)
+
+[请来了字节资深面试官告诉你为什么三月是个跳槽好时机](https://mp.weixin.qq.com/s/qshedIGwiAvR2FLYucZjWg)
+
+[CORS 完全手册之为什么会发生CORS 错误？](https://mp.weixin.qq.com/s/81B5IKF00uJPKH_iYFQqWw)
+
+[CORS 完全手册之如何解决CORS 问题？](https://mp.weixin.qq.com/s/CAxvFT3gfZAPyeIoFjbU3Q)
+
+[为什么太急的面试最好不要接；小公司不适合做绩效考核，及更多职场洞察](https://www.linkedin.com/pulse/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%AA%E6%80%A5%E7%9A%84%E9%9D%A2%E8%AF%95%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E6%8E%A5%E5%B0%8F%E5%85%AC%E5%8F%B8%E4%B8%8D%E9%80%82%E5%90%88%E5%81%9A%E7%BB%A9%E6%95%88%E8%80%83%E6%A0%B8%E5%8F%8A%E6%9B%B4%E5%A4%9A%E8%81%8C%E5%9C%BA%E6%B4%9E%E5%AF%9F-%E4%BB%8A%E6%97%A5%E5%BF%85%E8%AF%BB-%E9%A2%86%E8%8B%B1)
+
 :::
 
 ----------------------------------------------------------------------------------------
@@ -194,24 +219,3 @@ Ctrl + Alt + Up/Down
 home/end 行首行尾
 
 
-[javascript-questions](https://github.com/lydiahallie/javascript-questions)
-
-[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-
-[前端面试手书](https://yangshun.github.io/front-end-interview-handbook/)
-
-[30-seconds-of-code](https://www.30secondsofcode.org/)
-
-[30-seconds-of-interviews](https://30secondsofinterviews.org/)
-
-[一套标准的前端代码工作流](https://mp.weixin.qq.com/s/hjRMks1VDQ9lVpw1_xcA0g)
-
-[知乎高赞 | 做前端的你有没有觉得很吃力？](https://mp.weixin.qq.com/s/H84PG0c017PF9zhK_QqxAQ)
-
-[这份前端实践指南太牛逼了！全是干货，做业务必备！](https://mp.weixin.qq.com/s/xpcZlmtmVab461cvbsDx5Q)
-
-[请来了字节资深面试官告诉你为什么三月是个跳槽好时机](https://mp.weixin.qq.com/s/qshedIGwiAvR2FLYucZjWg)
-
-[CORS 完全手册之为什么会发生CORS 错误？](https://mp.weixin.qq.com/s/81B5IKF00uJPKH_iYFQqWw)
-
-[CORS 完全手册之如何解决CORS 问题？](https://mp.weixin.qq.com/s/CAxvFT3gfZAPyeIoFjbU3Q)

@@ -1,5 +1,5 @@
 ---
-title: 文件的输入与输出
+title: python 文件的输入与输出
 category: 技术
 tags:
   - python
