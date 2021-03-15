@@ -154,10 +154,6 @@ title: 资料包
 ::: tip 今日整理
 [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
 
-[总结整理的面试与简历](https://www.yuque.com/huakang/gp5uuq)
-
-[拿了微软、蚂蚁、头条 offer，这就是我面了42场得到的方法论！](https://mp.weixin.qq.com/s/td3dHeZh4tPuMThV-_jsng)
-
 [yck面试题](https://github.com/KieSun/fucking-frontend)
 
 [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
@@ -178,19 +174,9 @@ title: 资料包
 
 [30-seconds-of-interviews](https://30secondsofinterviews.org/)
 
-[一套标准的前端代码工作流](https://mp.weixin.qq.com/s/hjRMks1VDQ9lVpw1_xcA0g)
-
-[知乎高赞 | 做前端的你有没有觉得很吃力？](https://mp.weixin.qq.com/s/H84PG0c017PF9zhK_QqxAQ)
-
-[这份前端实践指南太牛逼了！全是干货，做业务必备！](https://mp.weixin.qq.com/s/xpcZlmtmVab461cvbsDx5Q)
-
-[请来了字节资深面试官告诉你为什么三月是个跳槽好时机](https://mp.weixin.qq.com/s/qshedIGwiAvR2FLYucZjWg)
-
 [CORS 完全手册之为什么会发生CORS 错误？](https://mp.weixin.qq.com/s/81B5IKF00uJPKH_iYFQqWw)
 
 [CORS 完全手册之如何解决CORS 问题？](https://mp.weixin.qq.com/s/CAxvFT3gfZAPyeIoFjbU3Q)
-
-[为什么太急的面试最好不要接；小公司不适合做绩效考核，及更多职场洞察](https://www.linkedin.com/pulse/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%AA%E6%80%A5%E7%9A%84%E9%9D%A2%E8%AF%95%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E6%8E%A5%E5%B0%8F%E5%85%AC%E5%8F%B8%E4%B8%8D%E9%80%82%E5%90%88%E5%81%9A%E7%BB%A9%E6%95%88%E8%80%83%E6%A0%B8%E5%8F%8A%E6%9B%B4%E5%A4%9A%E8%81%8C%E5%9C%BA%E6%B4%9E%E5%AF%9F-%E4%BB%8A%E6%97%A5%E5%BF%85%E8%AF%BB-%E9%A2%86%E8%8B%B1)
 
 :::
 
