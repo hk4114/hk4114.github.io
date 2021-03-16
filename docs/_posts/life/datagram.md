@@ -62,11 +62,12 @@ title: 资料包
    6. [一篇文章上手Vue3中新增的API](https://mp.weixin.qq.com/s/aAZ_7vzLufDfBAf5mxuY0Q)
    7. [Vue项目从2.5M优化到200kb的全过程](https://mp.weixin.qq.com/s/FRay4O1VAJ9c1RDyvjkzpg)
    8. [一文让你30分钟快速掌握Vue3](https://mp.weixin.qq.com/s/tME3wwPXTtv4DTDGLsvtLw)
-   9.  [面试官：聊聊对Vue.js框架的理解](https://mp.weixin.qq.com/s/0iciStnbCNM8haGSJbyEQA)
-   10. [import { reactive } from 'vue'](https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw)
-   11. [「 如何优雅的使用VUE? 」不可不知的VUE实战技巧](https://mp.weixin.qq.com/s/O8zuah7SeRGKhDjm_yR1HQ)
-   12. [Vue.js巧妙运用修饰符，帮你后期维护代码省下大量的时间](https://mp.weixin.qq.com/s/EKmNajAY5Cg-5Y4n-JxqOQ)
-   13. [关于 Vue 3.0 你需要了解些什么](https://mp.weixin.qq.com/s/uOV89MDInEROodn51f9e4A)
+   9. [面试官问 Vue 性能优化，我该怎么回答](https://mp.weixin.qq.com/s/uJ5-O4d4DqR2sIQzDqKVQw)
+   10. [面试官：聊聊对Vue.js框架的理解](https://mp.weixin.qq.com/s/0iciStnbCNM8haGSJbyEQA)
+   11. [import { reactive } from 'vue'](https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw)
+   12. [「 如何优雅的使用VUE? 」不可不知的VUE实战技巧](https://mp.weixin.qq.com/s/O8zuah7SeRGKhDjm_yR1HQ)
+   13. [Vue.js巧妙运用修饰符，帮你后期维护代码省下大量的时间](https://mp.weixin.qq.com/s/EKmNajAY5Cg-5Y4n-JxqOQ)
+   14. [关于 Vue 3.0 你需要了解些什么](https://mp.weixin.qq.com/s/uOV89MDInEROodn51f9e4A)
 8.  webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
     2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
@@ -88,26 +89,26 @@ title: 资料包
     5. [现代浏览器内部揭秘之三](https://mp.weixin.qq.com/s/vY1rYHwNAFiFQ9CgbKZ14w)
     6. [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
     7. [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
-    9.  [浏览器的垃圾回收](https://mp.weixin.qq.com/s/G02qgYGbAxvUeQeQzMBjnA)
-    10. [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
-    11. [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
-    12. [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
-    13. [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
-    14. [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/sOUqz4L4Yp0hoeoPlBbDFQ)
-    15. [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig)
-    16. [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg)
-    17. [前端 API 请求缓存数据的 5 种方案](https://mp.weixin.qq.com/s/cr40UtTqrgqzjLUdqxE4xw)
-    18. [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
-    19. [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
-    20. [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
-    21. [File、Blob、dataURL 和 canvas 的应用与转换](https://mp.weixin.qq.com/s/2MVjduB4aK3T4QuFerlXSQ)
+    8.  [浏览器的垃圾回收](https://mp.weixin.qq.com/s/G02qgYGbAxvUeQeQzMBjnA)
+    9.  [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
+    10. [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
+    11. [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
+    12. [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
+    13. [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/sOUqz4L4Yp0hoeoPlBbDFQ)
+    14. [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig)
+    15. [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg)
+    16. [前端 API 请求缓存数据的 5 种方案](https://mp.weixin.qq.com/s/cr40UtTqrgqzjLUdqxE4xw)
+    17. [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
+    18. [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
+    19. [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
+    20. [File、Blob、dataURL 和 canvas 的应用与转换](https://mp.weixin.qq.com/s/2MVjduB4aK3T4QuFerlXSQ)
 11. 项目
-    2. [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
-    6. [谷歌工程师分享前端性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/LDRc1MBCk9HMDMzrLPAiuA)
-    7. [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
-    8. [封装 axios 取消重复请求](https://mp.weixin.qq.com/s/fPuBTZGYQISwVtGxPZYYrQ) 
-    9. [clipboard.js 的源码分析](https://mp.weixin.qq.com/s/nsEmDprpeICz_wC3Xu9cPQ)
-    10. [从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
+    1. [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
+    2. [谷歌工程师分享前端性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/LDRc1MBCk9HMDMzrLPAiuA)
+    3. [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
+    4. [封装 axios 取消重复请求](https://mp.weixin.qq.com/s/fPuBTZGYQISwVtGxPZYYrQ) 
+    5. [clipboard.js 的源码分析](https://mp.weixin.qq.com/s/nsEmDprpeICz_wC3Xu9cPQ)
+    6.  [从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
 
 ## 博客
 - [wattenberger](https://wattenberger.com/blog/react-hooks)
@@ -178,6 +179,13 @@ title: 资料包
 
 [CORS 完全手册之如何解决CORS 问题？](https://mp.weixin.qq.com/s/CAxvFT3gfZAPyeIoFjbU3Q)
 
+[读书会|审判苏格拉底，读柏拉图《申辩篇》](https://mp.weixin.qq.com/s/gQO4p2Tnk_Hk9MTVXUpPag)
+
+[前端工程化自学指南，高级前端必备](https://mp.weixin.qq.com/s/wM9IZM_TtO7KeCPm5AsodQ)
+
+[卖鞋月入5万、玩抖音买“大奔”：有些程序员收入靠副业，上班只为自律](https://mp.weixin.qq.com/s/sEznurv4lxSs-E4fiBlV3A)
+
+[芒格：我如何用五个通用观念，解决复杂问题](https://mp.weixin.qq.com/s/ANVur2w_0VfjXK6SBHhV6g)
 :::
 
 ----------------------------------------------------------------------------------------
