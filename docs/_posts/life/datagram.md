@@ -19,25 +19,12 @@ title: 资料包
 
 
 1. 设计模式
-   1. [设计模式](https://refactoringguru.cn/design-patterns)
-   2. [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
-   3. [浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
 2. html
 3. css
-   1. [css样式学习](https://github.com/chokcoco/iCSS)
-   2. [css样式](https://github.com/QiShaoXuan/css_tricks)
-   3. [我的codepen](https://codepen.io/hk4114)
 4. JS
-   - 路由
-     + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
-     + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
    - 正则
      + [一文掌握开发利器：正则表达式](https://mp.weixin.qq.com/s/wkCHL_QzAJwWEg9JZaZnCQ)
      + [代码之美，正则之道](https://mp.weixin.qq.com/s/jH6aimCs5LAL5GBe9bu8rg)
-   - TypeScript
-     + [TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
-     + [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
-     + [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
 5. react
    1. [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/iB6SjRSdwTe_syhAXezCAg)
    2. [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
@@ -153,39 +140,27 @@ title: 资料包
 
 
 ::: tip 今日整理
-[H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
-
-[yck面试题](https://github.com/KieSun/fucking-frontend)
-
 [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
 
 [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
 
 [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 
-[前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+[设计模式](https://refactoringguru.cn/design-patterns)
 
-[javascript-questions](https://github.com/lydiahallie/javascript-questions)
+[细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
 
-[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+[浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
 
-[前端面试手书](https://yangshun.github.io/front-end-interview-handbook/)
+[深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
 
-[30-seconds-of-code](https://www.30secondsofcode.org/)
+[一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
 
-[30-seconds-of-interviews](https://30secondsofinterviews.org/)
+[TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
 
-[CORS 完全手册之为什么会发生CORS 错误？](https://mp.weixin.qq.com/s/81B5IKF00uJPKH_iYFQqWw)
+[你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
 
-[CORS 完全手册之如何解决CORS 问题？](https://mp.weixin.qq.com/s/CAxvFT3gfZAPyeIoFjbU3Q)
-
-[读书会|审判苏格拉底，读柏拉图《申辩篇》](https://mp.weixin.qq.com/s/gQO4p2Tnk_Hk9MTVXUpPag)
-
-[前端工程化自学指南，高级前端必备](https://mp.weixin.qq.com/s/wM9IZM_TtO7KeCPm5AsodQ)
-
-[卖鞋月入5万、玩抖音买“大奔”：有些程序员收入靠副业，上班只为自律](https://mp.weixin.qq.com/s/sEznurv4lxSs-E4fiBlV3A)
-
-[芒格：我如何用五个通用观念，解决复杂问题](https://mp.weixin.qq.com/s/ANVur2w_0VfjXK6SBHhV6g)
+[TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
 :::
 
 ----------------------------------------------------------------------------------------
@@ -212,4 +187,20 @@ Ctrl + Alt + Up/Down
 
 home/end 行首行尾
 
+:::tips
+[H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
 
+[前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+
+[javascript-questions](https://github.com/lydiahallie/javascript-questions)
+
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+[30-seconds-of-code](https://www.30secondsofcode.org/)
+
+[30-seconds-of-interviews](https://30secondsofinterviews.org/)
+
+[yck面试题](https://github.com/KieSun/fucking-frontend)
+
+
+:::
