@@ -18,6 +18,7 @@ vssue: false
 - [极客导航](http://geekdocs.cn/)
 - [设计导航](http://hao.shejidaren.com/)
 - [前端工具](http://frontendtools.com/)
+- [ilxdh](http://ilxdh.com/cat/177)
 
 ### 论坛
 - [豆瓣](https://www.douban.com/)
@@ -52,3 +53,4 @@ vssue: false
 
 ### 查文献
 - [上海数据中心](http://www.sstir.cn/)
+- [发现报告](https://www.fxbaogao.com/)

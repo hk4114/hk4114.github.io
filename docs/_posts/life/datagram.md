@@ -187,7 +187,7 @@ Ctrl + Alt + Up/Down
 
 home/end 行首行尾
 
-:::tips
+::: tip
 [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
 
 [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
@@ -201,6 +201,12 @@ home/end 行首行尾
 [30-seconds-of-interviews](https://30secondsofinterviews.org/)
 
 [yck面试题](https://github.com/KieSun/fucking-frontend)
-
-
 :::
+
+[通过 Windows 10 开始使用 Python](https://docs.microsoft.com/zh-cn/windows/python/)
+
+[google developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+
+[一道面试题让你更加了解事件队列](https://mp.weixin.qq.com/s/FKdbx27jfSlzonpX6RS7Vw)
+
+[JS语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://mp.weixin.qq.com/s/BXw4Bz7S-2yUV8oL2JSHTA)
