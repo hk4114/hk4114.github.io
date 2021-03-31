@@ -11,6 +11,8 @@ vssue-id: 1
 
 <!-- more -->
 
+> [通过 Windows 10 开始使用 Python](https://docs.microsoft.com/zh-cn/windows/python/)
+> [廖雪峰 python](https://www.liaoxuefeng.com/wiki/1016959663602400/1017075323632896)
 
 # python基础
 

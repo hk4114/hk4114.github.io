@@ -105,10 +105,8 @@ title: 资料包
 - [Hacker News](https://news.ycombinator.com/)
 - [Venture Hacks](https://venturehacks.com/)
 - [Huli's Blog](https://github.com/aszx87410/blog)
+- [google developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 
-## 其他
-- [如果有人突然倒地，你敢上前施救吗？心肺复苏视频+图文分解步骤，学起来！](https://mp.weixin.qq.com/s/8ELyr4zDMY2TMppY_4hE_Q)
-- [为什么“剩男”大多因为穷，“剩女”却什么类型都有？](https://mp.weixin.qq.com/s/X8MDST39T2VjwQ-sFJHmIg)
 
 ## 书单
 + [代码大全（第2版）](https://book.douban.com/subject/1477390/)
@@ -140,17 +138,17 @@ title: 资料包
 
 
 ::: tip 今日整理
-[104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
-
-[104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-
-[最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-
 [设计模式](https://refactoringguru.cn/design-patterns)
 
 [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
 
 [浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
+
+[104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
+
+[104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
+
+[最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 
 [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
 
@@ -161,6 +159,10 @@ title: 资料包
 [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
 
 [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
+
+[一道面试题让你更加了解事件队列](https://mp.weixin.qq.com/s/FKdbx27jfSlzonpX6RS7Vw)
+
+[JS语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://mp.weixin.qq.com/s/BXw4Bz7S-2yUV8oL2JSHTA)
 :::
 
 ----------------------------------------------------------------------------------------
@@ -202,11 +204,3 @@ home/end 行首行尾
 
 [yck面试题](https://github.com/KieSun/fucking-frontend)
 :::
-
-[通过 Windows 10 开始使用 Python](https://docs.microsoft.com/zh-cn/windows/python/)
-
-[google developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
-
-[一道面试题让你更加了解事件队列](https://mp.weixin.qq.com/s/FKdbx27jfSlzonpX6RS7Vw)
-
-[JS语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://mp.weixin.qq.com/s/BXw4Bz7S-2yUV8oL2JSHTA)
