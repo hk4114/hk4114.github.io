@@ -163,6 +163,22 @@ title: 资料包
 [一道面试题让你更加了解事件队列](https://mp.weixin.qq.com/s/FKdbx27jfSlzonpX6RS7Vw)
 
 [JS语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://mp.weixin.qq.com/s/BXw4Bz7S-2yUV8oL2JSHTA)
+
+[面试官：说说你对JavaScript中事件循环的理解​](https://mp.weixin.qq.com/s/aeEXHdFr5Y0LR4NXgptAHw)
+
+[17K star 仓库，解决 90% 的大厂基础面试题](https://juejin.cn/post/6947860760840110088)
+
+[JavaScript 复杂判断的更优雅写法](https://mp.weixin.qq.com/s/YdBVplz7bUrcyXrPk5-oVQ)
+
+[双非渣本，如何点亮简历技能进入大厂](https://mp.weixin.qq.com/s/sGjhszeJ2QvYVx3giIRqhQ)
+
+[编写高质量JavaScript模块的4个最佳实践](https://mp.weixin.qq.com/s/fuTdqTgpqA0J3vcFPXrjJA)
+
+[超详细Hexo+Github Page搭建技术博客教程（含SEO优化）](https://mp.weixin.qq.com/s/fTAmZfjpuFc9hdeqgrwmkw)
+
+[程序开发人员缺乏经验的7种表现](https://mp.weixin.qq.com/s/RMImzGZO8X1GSmlc4o69TQ)
+
+[收藏，日常必备的JS工具函数大全](https://mp.weixin.qq.com/s/BRq_QOHu9wWD9q0SkV3txQ)
 :::
 
 ----------------------------------------------------------------------------------------
