@@ -176,9 +176,21 @@ title: 资料包
 
 [超详细Hexo+Github Page搭建技术博客教程（含SEO优化）](https://mp.weixin.qq.com/s/fTAmZfjpuFc9hdeqgrwmkw)
 
-[程序开发人员缺乏经验的7种表现](https://mp.weixin.qq.com/s/RMImzGZO8X1GSmlc4o69TQ)
+[前端应该学习的Token登录认证知识](https://mp.weixin.qq.com/s/req4kwdVPgtBpkx55gBzMg)
 
-[收藏，日常必备的JS工具函数大全](https://mp.weixin.qq.com/s/BRq_QOHu9wWD9q0SkV3txQ)
+[手把手教你用 Github Actions 部署前端项目](https://mp.weixin.qq.com/s/mVOBrF-IHY3VVf9eT0IXKA)
+
+[手把手教你写一个Vue组件发布到npm且可外链引入使用](https://mp.weixin.qq.com/s/hFTzL_TT54NVzV7v5GO8Xg)
+
+[如何打造一款标准的 JS SDK ？](https://mp.weixin.qq.com/s/TCTTf5c01RbVJMnRIwaOIQ)
+
+[前端面经 - 看这篇就够了（笔者靠这个拿到阿里和字节的offer）](https://mp.weixin.qq.com/s/gJQ81EVxjzm10yX_fxAp8w)
+
+[大型前端项目内存优化总结](https://mp.weixin.qq.com/s/_wbP0B3EiTjME9Sg3BXqqA)
+
+[保证看了就会的浏览器帧原理](https://mp.weixin.qq.com/s/k5UoMC2FDIJp3SYl2d05iA)
+
+[「必须收藏」阿里出来的前端架构师，面对烂摊子项目时，究竟是如何突围的？](https://mp.weixin.qq.com/s/MFgfQTutZKKXmoj_uummxA)
 :::
 
 ----------------------------------------------------------------------------------------
