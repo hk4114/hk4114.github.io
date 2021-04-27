@@ -90,9 +90,6 @@ title: 资料包
     19. [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
     20. [File、Blob、dataURL 和 canvas 的应用与转换](https://mp.weixin.qq.com/s/2MVjduB4aK3T4QuFerlXSQ)
 11. 项目
-    1. [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
-    2. [谷歌工程师分享前端性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/LDRc1MBCk9HMDMzrLPAiuA)
-    3. [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
     4. [封装 axios 取消重复请求](https://mp.weixin.qq.com/s/fPuBTZGYQISwVtGxPZYYrQ) 
     5. [clipboard.js 的源码分析](https://mp.weixin.qq.com/s/nsEmDprpeICz_wC3Xu9cPQ)
     6.  [从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
@@ -138,59 +135,54 @@ title: 资料包
 
 
 ::: tip 今日整理
+
+> 前端路由
+
+[深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
+
+[一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
+
+[面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
+
+> 设计模式
+
 [设计模式](https://refactoringguru.cn/design-patterns)
 
 [细数九种常见的设计模式](https://mp.weixin.qq.com/s/WkF4laAY_PuExCjO0xkECw)
 
 [浅析Typescript设计模式](https://mp.weixin.qq.com/s/vZRqWgeT69YAQ2L3brQT-w)
 
-[104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
-
-[104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-
-[最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-
-[深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
-
-[一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
-
-[TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
-
-[你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
+> TS
 
 [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
 
-[一道面试题让你更加了解事件队列](https://mp.weixin.qq.com/s/FKdbx27jfSlzonpX6RS7Vw)
+[你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
 
-[JS语法 ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://mp.weixin.qq.com/s/BXw4Bz7S-2yUV8oL2JSHTA)
+[TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
 
-[面试官：说说你对JavaScript中事件循环的理解​](https://mp.weixin.qq.com/s/aeEXHdFr5Y0LR4NXgptAHw)
+> JS
 
-[17K star 仓库，解决 90% 的大厂基础面试题](https://juejin.cn/post/6947860760840110088)
+[最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 
 [JavaScript 复杂判断的更优雅写法](https://mp.weixin.qq.com/s/YdBVplz7bUrcyXrPk5-oVQ)
 
-[双非渣本，如何点亮简历技能进入大厂](https://mp.weixin.qq.com/s/sGjhszeJ2QvYVx3giIRqhQ)
-
 [编写高质量JavaScript模块的4个最佳实践](https://mp.weixin.qq.com/s/fuTdqTgpqA0J3vcFPXrjJA)
 
-[超详细Hexo+Github Page搭建技术博客教程（含SEO优化）](https://mp.weixin.qq.com/s/fTAmZfjpuFc9hdeqgrwmkw)
+[一道面试题让你更加了解事件队列](https://mp.weixin.qq.com/s/FKdbx27jfSlzonpX6RS7Vw)
 
-[前端应该学习的Token登录认证知识](https://mp.weixin.qq.com/s/req4kwdVPgtBpkx55gBzMg)
+[面试官：说说你对JavaScript中事件循环的理解​](https://mp.weixin.qq.com/s/aeEXHdFr5Y0LR4NXgptAHw)
+
+> 实操
+
+[超详细Hexo+Github Page搭建技术博客教程（含SEO优化）](https://mp.weixin.qq.com/s/fTAmZfjpuFc9hdeqgrwmkw)
 
 [手把手教你用 Github Actions 部署前端项目](https://mp.weixin.qq.com/s/mVOBrF-IHY3VVf9eT0IXKA)
 
 [手把手教你写一个Vue组件发布到npm且可外链引入使用](https://mp.weixin.qq.com/s/hFTzL_TT54NVzV7v5GO8Xg)
 
-[如何打造一款标准的 JS SDK ？](https://mp.weixin.qq.com/s/TCTTf5c01RbVJMnRIwaOIQ)
+[前端应该学习的Token登录认证知识](https://mp.weixin.qq.com/s/req4kwdVPgtBpkx55gBzMg)
 
-[前端面经 - 看这篇就够了（笔者靠这个拿到阿里和字节的offer）](https://mp.weixin.qq.com/s/gJQ81EVxjzm10yX_fxAp8w)
-
-[大型前端项目内存优化总结](https://mp.weixin.qq.com/s/_wbP0B3EiTjME9Sg3BXqqA)
-
-[保证看了就会的浏览器帧原理](https://mp.weixin.qq.com/s/k5UoMC2FDIJp3SYl2d05iA)
-
-[「必须收藏」阿里出来的前端架构师，面对烂摊子项目时，究竟是如何突围的？](https://mp.weixin.qq.com/s/MFgfQTutZKKXmoj_uummxA)
+[常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
 :::
 
 ----------------------------------------------------------------------------------------
@@ -231,4 +223,12 @@ home/end 行首行尾
 [30-seconds-of-interviews](https://30secondsofinterviews.org/)
 
 [yck面试题](https://github.com/KieSun/fucking-frontend)
+
+[104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
+
+[104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
+
+[17K star 仓库，解决 90% 的大厂基础面试题](https://juejin.cn/post/6947860760840110088)
+
+[前端面经 - 看这篇就够了（笔者靠这个拿到阿里和字节的offer）](https://mp.weixin.qq.com/s/gJQ81EVxjzm10yX_fxAp8w)
 :::
