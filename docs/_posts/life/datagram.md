@@ -233,8 +233,6 @@ home/end 行首行尾
 [前端面经 - 看这篇就够了（笔者靠这个拿到阿里和字节的offer）](https://mp.weixin.qq.com/s/gJQ81EVxjzm10yX_fxAp8w)
 :::
 
-https://mp.weixin.qq.com/s/vS5oomFsj_DLtOggJvcUpQ
-
 [一道题引发的一系列思考](https://mp.weixin.qq.com/s/fBG37KI358ubI5hulUwx4w)
 
 [[万字总结] 一文吃透 Webpack 核心原理](https://mp.weixin.qq.com/s/RwPozFB6AEZJYadLSIBxNg)
@@ -252,3 +250,11 @@ https://mp.weixin.qq.com/s/vS5oomFsj_DLtOggJvcUpQ
 [从输入 URL 到展现涉及哪些缓存环节(非常详细)](https://mp.weixin.qq.com/s/ujTbCeM-KtWGNljQr5oB7g)
 
 [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/5ypx39bWK6JO6xPyeBfgMw)
+
+[永远不要选择那些你会打7分的东西](https://mp.weixin.qq.com/s/065cJIJjhqcfVUwwN1dB9g)
+
+[近几年我在职场踩过的坑](https://mp.weixin.qq.com/s/CCwhAOc__oqjg-IohTuVgA)
+
+[大事件的引爆点](https://mp.weixin.qq.com/s/nsIYqRrQgxa8IVlkMLik4A)
+
+[如何结合职业，做资产配置？](https://mp.weixin.qq.com/s/7VlJKxwEpsvXbq55NWulBw)
