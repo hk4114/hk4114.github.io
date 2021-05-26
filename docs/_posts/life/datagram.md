@@ -250,3 +250,14 @@ home/end 行首行尾
 [从输入 URL 到展现涉及哪些缓存环节(非常详细)](https://mp.weixin.qq.com/s/ujTbCeM-KtWGNljQr5oB7g)
 
 [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/5ypx39bWK6JO6xPyeBfgMw)
+
+
+[一文帮你搞定90%的JS手写题](https://mp.weixin.qq.com/s/k_4gRviIUdbQeZx7Rh86qA)
+
+[js 实现 bind 的这五层，你在第几层？](https://mp.weixin.qq.com/s/APgrQ6R6nY8BHSm22xPAhg)
+
+[CSS 实现多行文本“展开收起”](https://mp.weixin.qq.com/s/wDQeq0Tr4rKEInCKJncOhA)
+
+[https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw](https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw)
+
+[如何在30分钟内，判断一家公司的投资价值？](https://mp.weixin.qq.com/s/1AJ50aZsooktn_6-48ikrQ)
