@@ -57,7 +57,6 @@ title: 资料包
    14. [关于 Vue 3.0 你需要了解些什么](https://mp.weixin.qq.com/s/uOV89MDInEROodn51f9e4A)
 8.  webpack
     1. [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
-    2. [webpack4 处理css](https://mp.weixin.qq.com/s/aPjD91juJJLsgiQpG8RVKA)
     3. [手把手带你入门前端工程化——超详细教程](https://mp.weixin.qq.com/s/ovsKFbzFFwlPcUTqhF6Okw)
     4. [一文带你快速上手Rollup](https://mp.weixin.qq.com/s/rlpDRrW_b4lKk0IQarmOjw)
     5. [实现一个简易的模块打包器](https://mp.weixin.qq.com/s/fkz-aFSKkR_O9hC47eic1g)
@@ -237,11 +236,7 @@ home/end 行首行尾
 
 [[万字总结] 一文吃透 Webpack 核心原理](https://mp.weixin.qq.com/s/RwPozFB6AEZJYadLSIBxNg)
 
-[看完尤雨溪338条知乎回答后，我突然找到了前进的方向](https://mp.weixin.qq.com/s/to-Hu8Gr1BBAzOeObeuAPA)
-
 [字节面试官问粉丝，如何实现准时的setTimeout](https://mp.weixin.qq.com/s/ENU93_jSUaAONCkfTQTK-Q)
-
-[一个普通前端程序员走过的路程](https://mp.weixin.qq.com/s/57Y7ymE27UMX5WNwxPEESw)
 
 [Axios 如何实现请求重试？](https://mp.weixin.qq.com/s/JENETARM8hJSqwR80iopvA)
 
@@ -251,13 +246,10 @@ home/end 行首行尾
 
 [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/5ypx39bWK6JO6xPyeBfgMw)
 
-
 [一文帮你搞定90%的JS手写题](https://mp.weixin.qq.com/s/k_4gRviIUdbQeZx7Rh86qA)
 
 [js 实现 bind 的这五层，你在第几层？](https://mp.weixin.qq.com/s/APgrQ6R6nY8BHSm22xPAhg)
 
 [CSS 实现多行文本“展开收起”](https://mp.weixin.qq.com/s/wDQeq0Tr4rKEInCKJncOhA)
 
-[https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw](https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw)
-
-[如何在30分钟内，判断一家公司的投资价值？](https://mp.weixin.qq.com/s/1AJ50aZsooktn_6-48ikrQ)
+[手把手教你写一个脚手架](https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw)
