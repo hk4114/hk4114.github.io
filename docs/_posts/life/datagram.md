@@ -99,6 +99,30 @@ title: 资料包
   + [大文件上传如何做断点续传](https://mp.weixin.qq.com/s/2PtApXggxAcHaLBEZDOuOQ)
   + [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig) 
 
+- 浏览器原理
+  + [从输入 URL 到展现涉及哪些缓存环节(非常详细)](https://mp.weixin.qq.com/s/ujTbCeM-KtWGNljQr5oB7g)
+  + 浏览器输入url到页面展示发生的整个过程
+  + 浏览器缓存机制
+  + [现代浏览器内部揭秘之一](https://mp.weixin.qq.com/s/P61P1gNtZWkiY-rfxoR4BQ)
+  + [现代浏览器内部揭秘之二](https://mp.weixin.qq.com/s/0Hn7Xte09cdIBCnBxi4HBg)
+  + [现代浏览器内部揭秘之三](https://mp.weixin.qq.com/s/vY1rYHwNAFiFQ9CgbKZ14w)
+  + [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
+  + [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
+  + [浏览器的垃圾回收](https://mp.weixin.qq.com/s/G02qgYGbAxvUeQeQzMBjnA)
+  + [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
+  + [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
+  + [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/sOUqz4L4Yp0hoeoPlBbDFQ)
+  + [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg) 
+
+- 前端功能
+  + [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
+  + [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
+  + [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
+  + [前端 API 请求缓存数据的 5 种方案](https://mp.weixin.qq.com/s/cr40UtTqrgqzjLUdqxE4xw)
+  + [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
+  + [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
+  + [File、Blob、dataURL 和 canvas 的应用与转换](https://mp.weixin.qq.com/s/2MVjduB4aK3T4QuFerlXSQ)
+
 1.  网络协议
     1. http缓存
     2. [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
@@ -106,27 +130,6 @@ title: 资料包
     4. [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
     5. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
     6. [搞懂 HTTP 重定向 - 如何优雅地使用 301](https://mp.weixin.qq.com/s/sy5AVy-QdgtvsFsowW99dw)
-2.  浏览器原理
-    1. 浏览器输入url到页面展示发生的整个过程
-    2. [从输入 URL 到展现涉及哪些缓存环节(非常详细)](https://mp.weixin.qq.com/s/ujTbCeM-KtWGNljQr5oB7g)
-    3. 浏览器缓存机制
-    4. [现代浏览器内部揭秘之一](https://mp.weixin.qq.com/s/P61P1gNtZWkiY-rfxoR4BQ)
-    5. [现代浏览器内部揭秘之二](https://mp.weixin.qq.com/s/0Hn7Xte09cdIBCnBxi4HBg)
-    6. [现代浏览器内部揭秘之三](https://mp.weixin.qq.com/s/vY1rYHwNAFiFQ9CgbKZ14w)
-    7. [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
-    8. [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
-    9.  [浏览器的垃圾回收](https://mp.weixin.qq.com/s/G02qgYGbAxvUeQeQzMBjnA)
-    10. [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
-    11. [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
-    12. [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
-    13. [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
-    14. [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/sOUqz4L4Yp0hoeoPlBbDFQ)
-    15. [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg)
-    16. [前端 API 请求缓存数据的 5 种方案](https://mp.weixin.qq.com/s/cr40UtTqrgqzjLUdqxE4xw)
-    17. [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
-    18. [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
-    19. [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
-    20. [File、Blob、dataURL 和 canvas 的应用与转换](https://mp.weixin.qq.com/s/2MVjduB4aK3T4QuFerlXSQ)
 
 ## 博客
 - [wattenberger](https://wattenberger.com/blog/react-hooks)
