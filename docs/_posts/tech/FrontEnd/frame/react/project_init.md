@@ -145,32 +145,3 @@ render()
 2. yarn create umi /# check needed
 3. yarn
 4. yarn start
-
-
-## 使用react的理由/为什么使用框架
-
-> 大家都知道react是facebook开源的前端框架，但是为什么facebook不继续使用jq或者ng，而是选择自己研发一套框架呢？
-
-1. 传统UI操作/DOM API关注太多细节（按钮浮标状态改变，没有及时更新）
-2. 应用程序状态分散在各处，难以追踪和维护
-
-> react 始终整体刷新页面 前状态 -> 后状态
-
-1. 1个新概念(组件)
-2. 4个必须API()
-3. 单向数据流(flux)
-4. 完善的错误提示
-
-> flux架构 单项数据流
-
-传统MVC难以扩展和维护，多个model和多个view之间关系复杂，且双向绑定，难以追踪bug
-
-react view -> action(web api) -> dispatch(分发) -> store(根据action更新自己) -> view(与store绑定)
-
-## 理解 react 组件
-
-> props(外部) + state(内部) = view
-
-1. react组件一般不提供方法，而是某种状态机
-2. react组件可以理解为一个纯函数
-3. 单向数据绑定

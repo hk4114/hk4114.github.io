@@ -9,6 +9,11 @@ title: 资料包
 - [编写高质量JavaScript模块的4个最佳实践](https://mp.weixin.qq.com/s/fuTdqTgpqA0J3vcFPXrjJA)
 - [JavaScript 复杂判断的更优雅写法](https://mp.weixin.qq.com/s/YdBVplz7bUrcyXrPk5-oVQ)
 - [前端进阶必会的22个JavaScript技巧总结](https://mp.weixin.qq.com/s/I4vdREpR7gLBxYUnjWiMmw)
+- [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
+- [如何在30分钟内，判断一家公司的投资价值？](https://mp.weixin.qq.com/s/1AJ50aZsooktn_6-48ikrQ)
+- [问了尤雨溪25个问题后，我的很多想法开始变了](https://mp.weixin.qq.com/s/Dopiz0jgqJiSbhLOLzkQbA)
+- [JS兵法36 计，你会多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496664&idx=1&sn=a9c24e30ef62756813812135b7772a55&source=41#wechat_redirect)
+- [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
 
 
 ## 项目实践 slide project
