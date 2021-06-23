@@ -10,10 +10,11 @@ title: 资料包
 - [JavaScript 复杂判断的更优雅写法](https://mp.weixin.qq.com/s/YdBVplz7bUrcyXrPk5-oVQ)
 - [前端进阶必会的22个JavaScript技巧总结](https://mp.weixin.qq.com/s/I4vdREpR7gLBxYUnjWiMmw)
 - [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
-- [如何在30分钟内，判断一家公司的投资价值？](https://mp.weixin.qq.com/s/1AJ50aZsooktn_6-48ikrQ)
 - [问了尤雨溪25个问题后，我的很多想法开始变了](https://mp.weixin.qq.com/s/Dopiz0jgqJiSbhLOLzkQbA)
 - [JS兵法36 计，你会多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496664&idx=1&sn=a9c24e30ef62756813812135b7772a55&source=41#wechat_redirect)
 - [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
+- [15个前端实用小知识](https://mp.weixin.qq.com/s/IeGHt1e-CuEYBvFPjv1sYw)
+- [::marker 让文字序号更有意思](https://mp.weixin.qq.com/s/NqvffLlo-vTsmbpKff-i_w)
 
 
 ## 项目实践 slide project
@@ -49,13 +50,9 @@ title: 资料包
   + [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ)
   + [React 灵魂 23 问，你能答对几个？](https://mp.weixin.qq.com/s/2zB8igYtDNv8ePWQ4lt3Cw)
   + [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/iB6SjRSdwTe_syhAXezCAg)
-  + [React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
-  + [写React Hooks前必读](https://mp.weixin.qq.com/s/rp3_Grsu4d-Lq6MFqHFCCg)
   + [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
-  + [【重构】使用Hooks让代码更易于变更](https://mp.weixin.qq.com/s/QCnmGu5nnhTt6_O4Msk_Ow)
   + [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
-  + [当我们讨论 hooks 时到底在讨论什么](https://mp.weixin.qq.com/s/gPgFpg7UqLpXm_iz4gWiQQ)
-  + [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)  
+  + [Fiber架构的简单理解与实现](https://mp.weixin.qq.com/s/2-kCdwZkAPWHFVq4KGh4KA)
 
 - vue
   + [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
@@ -130,7 +127,6 @@ title: 资料包
 
 1.  网络协议
     1. http缓存
-    2. [llhttp是如何使Node.js性能翻倍的？](https://zhuanlan.zhihu.com/p/100660049)
     3. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
     4. [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
     5. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)

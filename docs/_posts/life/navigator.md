@@ -9,8 +9,6 @@ vssue: false
 
 
 ### 其他
-- [抽屉](https://dig.chouti.com/)
-- [新浪微博](https://weibo.com/)
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [processon](https://www.processon.com/)
 
