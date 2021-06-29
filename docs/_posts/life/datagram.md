@@ -7,13 +7,10 @@ title: 资料包
 
 ## tip
 - [编写高质量JavaScript模块的4个最佳实践](https://mp.weixin.qq.com/s/fuTdqTgpqA0J3vcFPXrjJA)
-- [JavaScript 复杂判断的更优雅写法](https://mp.weixin.qq.com/s/YdBVplz7bUrcyXrPk5-oVQ)
 - [前端进阶必会的22个JavaScript技巧总结](https://mp.weixin.qq.com/s/I4vdREpR7gLBxYUnjWiMmw)
 - [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
-- [问了尤雨溪25个问题后，我的很多想法开始变了](https://mp.weixin.qq.com/s/Dopiz0jgqJiSbhLOLzkQbA)
 - [JS兵法36 计，你会多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496664&idx=1&sn=a9c24e30ef62756813812135b7772a55&source=41#wechat_redirect)
 - [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
-- [15个前端实用小知识](https://mp.weixin.qq.com/s/IeGHt1e-CuEYBvFPjv1sYw)
 - [::marker 让文字序号更有意思](https://mp.weixin.qq.com/s/NqvffLlo-vTsmbpKff-i_w)
 
 
@@ -120,17 +117,11 @@ title: 资料包
   + [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
   + [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
   + [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
-  + [前端 API 请求缓存数据的 5 种方案](https://mp.weixin.qq.com/s/cr40UtTqrgqzjLUdqxE4xw)
-  + [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
-  + [前端 api 请求缓存方案](https://mp.weixin.qq.com/s/XvODdCP1RDV6gM_TG4WHbg)
-  + [File、Blob、dataURL 和 canvas 的应用与转换](https://mp.weixin.qq.com/s/2MVjduB4aK3T4QuFerlXSQ)
 
 1.  网络协议
-    1. http缓存
-    3. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
-    4. [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
-    5. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
-    6. [搞懂 HTTP 重定向 - 如何优雅地使用 301](https://mp.weixin.qq.com/s/sy5AVy-QdgtvsFsowW99dw)
+    1. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
+    2. [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
+    3. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
 
 ## 博客
 - [wattenberger](https://wattenberger.com/blog/react-hooks)
