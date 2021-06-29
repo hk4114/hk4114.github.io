@@ -6,13 +6,13 @@ title: 资料包
 # 学习资料包
 
 ## tip
+- [CSS 实现多行文本“展开收起”](https://mp.weixin.qq.com/s/wDQeq0Tr4rKEInCKJncOhA)
+- [::marker 让文字序号更有意思](https://mp.weixin.qq.com/s/NqvffLlo-vTsmbpKff-i_w)
 - [编写高质量JavaScript模块的4个最佳实践](https://mp.weixin.qq.com/s/fuTdqTgpqA0J3vcFPXrjJA)
 - [前端进阶必会的22个JavaScript技巧总结](https://mp.weixin.qq.com/s/I4vdREpR7gLBxYUnjWiMmw)
-- [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
 - [JS兵法36 计，你会多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496664&idx=1&sn=a9c24e30ef62756813812135b7772a55&source=41#wechat_redirect)
 - [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
-- [::marker 让文字序号更有意思](https://mp.weixin.qq.com/s/NqvffLlo-vTsmbpKff-i_w)
-
+- [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
 
 ## 项目实践 slide project
 > [app-ideas](https://github.com/florinpop17/app-ideas)
@@ -27,6 +27,8 @@ title: 资料包
 + [手把手教你用 Github Actions 部署前端项目](https://mp.weixin.qq.com/s/mVOBrF-IHY3VVf9eT0IXKA)
 + [手把手教你写一个Vue组件发布到npm且可外链引入使用](https://mp.weixin.qq.com/s/hFTzL_TT54NVzV7v5GO8Xg)
 + [实现一个简易的模块打包器](https://mp.weixin.qq.com/s/fkz-aFSKkR_O9hC47eic1g)
++ [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
++ [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
 
 ## 面试
 - [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
@@ -39,6 +41,7 @@ title: 资料包
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 - [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 - [一文帮你搞定90%的JS手写题](https://mp.weixin.qq.com/s/k_4gRviIUdbQeZx7Rh86qA)
+- [万字长文，522 道腾讯大厂真题汇总！](https://mp.weixin.qq.com/s/LRBrIw2cfVgtlqxRYj0SYQ)
 
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
@@ -70,7 +73,6 @@ title: 资料包
   + [关于 Vue 3.0 你需要了解些什么](https://mp.weixin.qq.com/s/uOV89MDInEROodn51f9e4A) 
 
 - nodejs
-  + [图解Event Loop](https://mp.weixin.qq.com/s/g7ZyyBkD5PKP4j0Hw4eTvw)
   + [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
   + [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ) 
 
@@ -87,7 +89,6 @@ title: 资料包
 
 - Axios
   + [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/5ypx39bWK6JO6xPyeBfgMw)
-  + [封装 axios 取消重复请求](https://mp.weixin.qq.com/s/fPuBTZGYQISwVtGxPZYYrQ)
   + [Axios 如何实现请求重试？](https://mp.weixin.qq.com/s/JENETARM8hJSqwR80iopvA)  
 
 - 源码
@@ -99,24 +100,16 @@ title: 资料包
   + [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig) 
 
 - 浏览器原理
-  + [从输入 URL 到展现涉及哪些缓存环节(非常详细)](https://mp.weixin.qq.com/s/ujTbCeM-KtWGNljQr5oB7g)
-  + 浏览器输入url到页面展示发生的整个过程
-  + 浏览器缓存机制
   + [现代浏览器内部揭秘之一](https://mp.weixin.qq.com/s/P61P1gNtZWkiY-rfxoR4BQ)
   + [现代浏览器内部揭秘之二](https://mp.weixin.qq.com/s/0Hn7Xte09cdIBCnBxi4HBg)
   + [现代浏览器内部揭秘之三](https://mp.weixin.qq.com/s/vY1rYHwNAFiFQ9CgbKZ14w)
   + [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
   + [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
-  + [浏览器的垃圾回收](https://mp.weixin.qq.com/s/G02qgYGbAxvUeQeQzMBjnA)
-  + [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
-  + [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/RCKAhOA9N8L6B0umj_SZVw)
-  + [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/sOUqz4L4Yp0hoeoPlBbDFQ)
   + [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg) 
 
 - 前端功能
   + [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
-  + [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
-  + [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
+
 
 1.  网络协议
     1. [为什么这么设计系列文章](https://draven.co/whys-the-design/)
@@ -165,8 +158,6 @@ home/end 行首行尾
 
 [js 实现 bind 的这五层，你在第几层？](https://mp.weixin.qq.com/s/APgrQ6R6nY8BHSm22xPAhg)
 
-[CSS 实现多行文本“展开收起”](https://mp.weixin.qq.com/s/wDQeq0Tr4rKEInCKJncOhA)
-
 > 设计模式
 
 [设计模式](https://refactoringguru.cn/design-patterns)
@@ -181,15 +172,7 @@ home/end 行首行尾
 
 [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
 
-[TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
-
 > JS
-
-[一道面试题让你更加了解事件队列](https://mp.weixin.qq.com/s/FKdbx27jfSlzonpX6RS7Vw)
-
-[Javascript 非同步& Event Loop！10 分钟轻松图解学习！](https://mp.weixin.qq.com/s/160Klc4OfzF1KOb6picocA)
-
-[面试官：说说你对JavaScript中事件循环的理解​](https://mp.weixin.qq.com/s/aeEXHdFr5Y0LR4NXgptAHw)
 
 [前端应该学习的Token登录认证知识](https://mp.weixin.qq.com/s/req4kwdVPgtBpkx55gBzMg)
 
