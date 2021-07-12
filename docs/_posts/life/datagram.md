@@ -6,18 +6,24 @@ title: 资料包
 # 学习资料包
 
 ## tip
-- [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
-- [CSS 实现多行文本“展开收起”](https://mp.weixin.qq.com/s/wDQeq0Tr4rKEInCKJncOhA)
-- [::marker 让文字序号更有意思](https://mp.weixin.qq.com/s/NqvffLlo-vTsmbpKff-i_w)
-- [编写高质量JavaScript模块的4个最佳实践](https://mp.weixin.qq.com/s/fuTdqTgpqA0J3vcFPXrjJA)
 - [一个帮助我100%拿offer的面试学习法](https://mp.weixin.qq.com/s/zhkT5QnKIsQho7tHyXbhTw)
+
+- [CSS 奇思妙想边框动画](https://mp.weixin.qq.com/s/JAOZ-NZoPnmAhL-9l0WKKQ)
+- [编写高质量JavaScript模块的4个最佳实践](https://mp.weixin.qq.com/s/fuTdqTgpqA0J3vcFPXrjJA)
+- [一文彻底搞懂ES6 Module](https://mp.weixin.qq.com/s/pSTZq3DJBeAA-F8g5nJd8g)
+- [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
+
 - [前端进阶必会的22个JavaScript技巧总结](https://mp.weixin.qq.com/s/I4vdREpR7gLBxYUnjWiMmw)
 - [JS兵法36 计，你会多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496664&idx=1&sn=a9c24e30ef62756813812135b7772a55&source=41#wechat_redirect)
 - [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
-- [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
+
 - [从微服务到微前端：浅谈微前端的设计思想](https://mp.weixin.qq.com/s/AeYoSEsAAr40LKqaB-GrjQ)
-- [CSS 奇思妙想边框动画](https://mp.weixin.qq.com/s/JAOZ-NZoPnmAhL-9l0WKKQ)
 - [深入理解Decorator](https://mp.weixin.qq.com/s/H6IU3Apfe-a3EdzH5cxZrQ)
+
+- [推荐 18 个终端命令行工具](https://mp.weixin.qq.com/s/Ii4E66yzBxG7-8_YYgJypQ)
+- [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A)
+
+- [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
 
 ## 项目实践 slide project
 > [app-ideas](https://github.com/florinpop17/app-ideas)
@@ -36,19 +42,18 @@ title: 资料包
 + [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
 
 ## 面试
-- [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
-- [面试题](https://github.com/KieSun/fucking-frontend)
-- [前端每日面试问题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+
 - [前端面经 - 看这篇就够了（笔者靠这个拿到阿里和字节的offer）](https://mp.weixin.qq.com/s/gJQ81EVxjzm10yX_fxAp8w)
+- [万字长文，522 道腾讯大厂真题汇总！](https://mp.weixin.qq.com/s/LRBrIw2cfVgtlqxRYj0SYQ)
+- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
+- [一文帮你搞定90%的JS手写题](https://mp.weixin.qq.com/s/k_4gRviIUdbQeZx7Rh86qA)
+- [js 实现 bind 的这五层，你在第几层？](https://mp.weixin.qq.com/s/APgrQ6R6nY8BHSm22xPAhg)
+- [字节面试官问粉丝，如何实现准时的setTimeout](https://mp.weixin.qq.com/s/ENU93_jSUaAONCkfTQTK-Q)
+- [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
 - [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
 - [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
 - [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
-- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-- [一文帮你搞定90%的JS手写题](https://mp.weixin.qq.com/s/k_4gRviIUdbQeZx7Rh86qA)
-- [万字长文，522 道腾讯大厂真题汇总！](https://mp.weixin.qq.com/s/LRBrIw2cfVgtlqxRYj0SYQ)
-- [js 实现 bind 的这五层，你在第几层？](https://mp.weixin.qq.com/s/APgrQ6R6nY8BHSm22xPAhg)
-- [字节面试官问粉丝，如何实现准时的setTimeout](https://mp.weixin.qq.com/s/ENU93_jSUaAONCkfTQTK-Q)
 
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
