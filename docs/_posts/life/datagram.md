@@ -4,25 +4,15 @@ title: 资料包
 在学习过程中，收集的一些学习资源。
 <!-- more -->
 # 学习资料包
-
 ## tip
-- [一个帮助我100%拿offer的面试学习法](https://mp.weixin.qq.com/s/zhkT5QnKIsQho7tHyXbhTw)
-
-- [CSS 奇思妙想边框动画](https://mp.weixin.qq.com/s/JAOZ-NZoPnmAhL-9l0WKKQ)
-- [编写高质量JavaScript模块的4个最佳实践](https://mp.weixin.qq.com/s/fuTdqTgpqA0J3vcFPXrjJA)
-- [一文彻底搞懂ES6 Module](https://mp.weixin.qq.com/s/pSTZq3DJBeAA-F8g5nJd8g)
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
-
 - [前端进阶必会的22个JavaScript技巧总结](https://mp.weixin.qq.com/s/I4vdREpR7gLBxYUnjWiMmw)
 - [JS兵法36 计，你会多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496664&idx=1&sn=a9c24e30ef62756813812135b7772a55&source=41#wechat_redirect)
 - [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
-
 - [从微服务到微前端：浅谈微前端的设计思想](https://mp.weixin.qq.com/s/AeYoSEsAAr40LKqaB-GrjQ)
 - [深入理解Decorator](https://mp.weixin.qq.com/s/H6IU3Apfe-a3EdzH5cxZrQ)
-
 - [推荐 18 个终端命令行工具](https://mp.weixin.qq.com/s/Ii4E66yzBxG7-8_YYgJypQ)
 - [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A)
-
 - [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
 
 ## 项目实践 slide project
@@ -43,13 +33,11 @@ title: 资料包
 
 ## 面试
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
-
 - [前端面经 - 看这篇就够了（笔者靠这个拿到阿里和字节的offer）](https://mp.weixin.qq.com/s/gJQ81EVxjzm10yX_fxAp8w)
 - [万字长文，522 道腾讯大厂真题汇总！](https://mp.weixin.qq.com/s/LRBrIw2cfVgtlqxRYj0SYQ)
 - [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 - [一文帮你搞定90%的JS手写题](https://mp.weixin.qq.com/s/k_4gRviIUdbQeZx7Rh86qA)
 - [js 实现 bind 的这五层，你在第几层？](https://mp.weixin.qq.com/s/APgrQ6R6nY8BHSm22xPAhg)
-- [字节面试官问粉丝，如何实现准时的setTimeout](https://mp.weixin.qq.com/s/ENU93_jSUaAONCkfTQTK-Q)
 - [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
 - [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
 - [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
@@ -83,12 +71,6 @@ title: 资料包
 - nodejs
   + [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
   + [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ) 
-
-- 工程化(打包工具)
-  + [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
-  + [一文带你快速上手Rollup](https://mp.weixin.qq.com/s/rlpDRrW_b4lKk0IQarmOjw)
-  + [手把手带你入门前端工程化——超详细教程](https://mp.weixin.qq.com/s/ovsKFbzFFwlPcUTqhF6Okw)
-  + [[万字总结] 一文吃透 Webpack 核心原理](https://mp.weixin.qq.com/s/RwPozFB6AEZJYadLSIBxNg) 
 
 - 前端路由
   + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)

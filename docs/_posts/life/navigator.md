@@ -11,6 +11,8 @@ vssue: false
 - [processon](https://www.processon.com/)
 
 ### 导航类
+- [编程导航](https://www.code-nav.cn/recommend)
+- [KuangStudy 编程学习资料](https://www.kuangstudy.com/course)
 - [极客导航](http://geekdocs.cn/)
 - [设计导航](http://hao.shejidaren.com/)
 - [前端工具](http://frontendtools.com/)
@@ -46,6 +48,7 @@ vssue: false
 
 ### 上课
 - [coursera](https://www.coursera.org/)
+- [crashcourse](https://crashcourse.club/category/)
 
 ### 查文献
 - [上海数据中心](http://www.sstir.cn/)
