@@ -53,3 +53,4 @@ vssue: false
 ### 查文献
 - [上海数据中心](http://www.sstir.cn/)
 - [发现报告](https://www.fxbaogao.com/)
+- [对外投资合作国别（地区）指南](http://fec.mofcom.gov.cn/article/gbdqzn/)

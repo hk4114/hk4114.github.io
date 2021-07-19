@@ -6,9 +6,8 @@ title: 资料包
 # 学习资料包
 ## tip
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
-- [前端进阶必会的22个JavaScript技巧总结](https://mp.weixin.qq.com/s/I4vdREpR7gLBxYUnjWiMmw)
-- [JS兵法36 计，你会多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496664&idx=1&sn=a9c24e30ef62756813812135b7772a55&source=41#wechat_redirect)
-- [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
+- [字节跳动前端团队工作中会使用到的数据结构和算法](https://mp.weixin.qq.com/s/lgw7-EBaQybawD2143fQUA)
+- [Dan Abramov 访谈实录](https://mp.weixin.qq.com/s/A4AscaF4k_NDHYMiZYE2Pg)
 - [从微服务到微前端：浅谈微前端的设计思想](https://mp.weixin.qq.com/s/AeYoSEsAAr40LKqaB-GrjQ)
 - [深入理解Decorator](https://mp.weixin.qq.com/s/H6IU3Apfe-a3EdzH5cxZrQ)
 - [推荐 18 个终端命令行工具](https://mp.weixin.qq.com/s/Ii4E66yzBxG7-8_YYgJypQ)
@@ -34,7 +33,8 @@ title: 资料包
 ## 面试
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 - [前端面经 - 看这篇就够了（笔者靠这个拿到阿里和字节的offer）](https://mp.weixin.qq.com/s/gJQ81EVxjzm10yX_fxAp8w)
-- [万字长文，522 道腾讯大厂真题汇总！](https://mp.weixin.qq.com/s/LRBrIw2cfVgtlqxRYj0SYQ)
+- [前端进阶必会的22个JavaScript技巧总结](https://mp.weixin.qq.com/s/I4vdREpR7gLBxYUnjWiMmw)
+- [JS兵法36 计，你会多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496664&idx=1&sn=a9c24e30ef62756813812135b7772a55&source=41#wechat_redirect)
 - [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
 - [一文帮你搞定90%的JS手写题](https://mp.weixin.qq.com/s/k_4gRviIUdbQeZx7Rh86qA)
 - [js 实现 bind 的这五层，你在第几层？](https://mp.weixin.qq.com/s/APgrQ6R6nY8BHSm22xPAhg)
@@ -42,6 +42,7 @@ title: 资料包
 - [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
 - [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
 - [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
+- [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
 
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
