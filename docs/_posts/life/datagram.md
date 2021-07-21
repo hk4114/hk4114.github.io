@@ -6,7 +6,6 @@ title: 资料包
 # 学习资料包
 ## tip
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
-- [字节跳动前端团队工作中会使用到的数据结构和算法](https://mp.weixin.qq.com/s/lgw7-EBaQybawD2143fQUA)
 - [Dan Abramov 访谈实录](https://mp.weixin.qq.com/s/A4AscaF4k_NDHYMiZYE2Pg)
 - [从微服务到微前端：浅谈微前端的设计思想](https://mp.weixin.qq.com/s/AeYoSEsAAr40LKqaB-GrjQ)
 - [深入理解Decorator](https://mp.weixin.qq.com/s/H6IU3Apfe-a3EdzH5cxZrQ)
@@ -32,12 +31,6 @@ title: 资料包
 
 ## 面试
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
-- [前端面经 - 看这篇就够了（笔者靠这个拿到阿里和字节的offer）](https://mp.weixin.qq.com/s/gJQ81EVxjzm10yX_fxAp8w)
-- [前端进阶必会的22个JavaScript技巧总结](https://mp.weixin.qq.com/s/I4vdREpR7gLBxYUnjWiMmw)
-- [JS兵法36 计，你会多少？](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496664&idx=1&sn=a9c24e30ef62756813812135b7772a55&source=41#wechat_redirect)
-- [最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s/kRKSRjT6Gljt5boVRuAzIw)
-- [一文帮你搞定90%的JS手写题](https://mp.weixin.qq.com/s/k_4gRviIUdbQeZx7Rh86qA)
-- [js 实现 bind 的这五层，你在第几层？](https://mp.weixin.qq.com/s/APgrQ6R6nY8BHSm22xPAhg)
 - [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
 - [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
 - [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
@@ -47,22 +40,23 @@ title: 资料包
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 
+- 前端路由
+  + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
+  + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
+  + [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
+
+- Axios
+  + [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/5ypx39bWK6JO6xPyeBfgMw)
+  + [Axios 如何实现请求重试？](https://mp.weixin.qq.com/s/JENETARM8hJSqwR80iopvA) 
+
 - typescript
   + [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
   + [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
 
 - vue
   + [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
-  + [Vue 超清晰思维导图，带你详细梳理知识点](https://mp.weixin.qq.com/s/hOlq94Cye3ryD5IlZ1T1IA)
   + [面试官：聊聊对Vue.js框架的理解](https://mp.weixin.qq.com/s/0iciStnbCNM8haGSJbyEQA)
-- vue 技巧
-  + [10个实用技巧让你的 Vue 代码更优雅](https://mp.weixin.qq.com/s/_UUG3_1WJABNP-G9N-GCOw)
-  + [「 如何优雅的使用VUE? 」不可不知的VUE实战技巧](https://mp.weixin.qq.com/s/O8zuah7SeRGKhDjm_yR1HQ)
-  + [Vue.js巧妙运用修饰符，帮你后期维护代码省下大量的时间](https://mp.weixin.qq.com/s/EKmNajAY5Cg-5Y4n-JxqOQ)
 
-- vue 优化
-  + [Vue项目从2.5M优化到200kb的全过程](https://mp.weixin.qq.com/s/FRay4O1VAJ9c1RDyvjkzpg)
-  + [面试官问 Vue 性能优化，我该怎么回答](https://mp.weixin.qq.com/s/uJ5-O4d4DqR2sIQzDqKVQw)
 - vue3  
   + [一篇文章上手Vue3中新增的API](https://mp.weixin.qq.com/s/aAZ_7vzLufDfBAf5mxuY0Q)
   + [一文让你30分钟快速掌握Vue3](https://mp.weixin.qq.com/s/tME3wwPXTtv4DTDGLsvtLw)
@@ -72,15 +66,6 @@ title: 资料包
 - nodejs
   + [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
   + [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ) 
-
-- 前端路由
-  + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
-  + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
-  + [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
-
-- Axios
-  + [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/5ypx39bWK6JO6xPyeBfgMw)
-  + [Axios 如何实现请求重试？](https://mp.weixin.qq.com/s/JENETARM8hJSqwR80iopvA)  
 
 - 源码
   + [从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
@@ -103,21 +88,11 @@ title: 资料包
   + [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
   + [前端应该学习的Token登录认证知识](https://mp.weixin.qq.com/s/req4kwdVPgtBpkx55gBzMg)
 
-
 - 网络协议
   + [为什么这么设计系列文章](https://draven.co/whys-the-design/)
   + [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
   + [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ) 
 
-## 博客
-- [wattenberger](https://wattenberger.com/blog/react-hooks)
-- [css-tricks](https://css-tricks.com/)
-- [smashing magazine](https://www.smashingmagazine.com/)
-- [logrocket](https://blog.logrocket.com/)
-- [Hacker News](https://news.ycombinator.com/)
-- [Venture Hacks](https://venturehacks.com/)
-- [Huli's Blog](https://github.com/aszx87410/blog)
-- [google developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 
 ::: tip
 格式化代码：代码写完的时候格式化一下。

@@ -36,6 +36,14 @@ vssue: false
 - [medium](https://medium.com/)
 - [google developers](https://developers.google.cn/)
 - [dev.to](https://dev.to/)
+- [wattenberger](https://wattenberger.com/blog/react-hooks)
+- [css-tricks](https://css-tricks.com/)
+- [smashing magazine](https://www.smashingmagazine.com/)
+- [logrocket](https://blog.logrocket.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Venture Hacks](https://venturehacks.com/)
+- [Huli's Blog](https://github.com/aszx87410/blog)
+- [google developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 
 ### 代码仓库
 - [github](https://github.com/)
