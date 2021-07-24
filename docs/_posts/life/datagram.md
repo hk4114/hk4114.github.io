@@ -7,9 +7,7 @@ title: 资料包
 ## tip
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
 - [Dan Abramov 访谈实录](https://mp.weixin.qq.com/s/A4AscaF4k_NDHYMiZYE2Pg)
-- [从微服务到微前端：浅谈微前端的设计思想](https://mp.weixin.qq.com/s/AeYoSEsAAr40LKqaB-GrjQ)
 - [深入理解Decorator](https://mp.weixin.qq.com/s/H6IU3Apfe-a3EdzH5cxZrQ)
-- [推荐 18 个终端命令行工具](https://mp.weixin.qq.com/s/Ii4E66yzBxG7-8_YYgJypQ)
 - [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A)
 - [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
 

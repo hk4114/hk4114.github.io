@@ -6,6 +6,11 @@ vssue: false
 ---
 
 <!-- more -->
+[自学sql网](http://www.xuesql.cn/)
+[阿里云知行动手实验室](https://start.aliyun.com/)
+[阿里云体验动手实验室](https://developer.aliyun.com/adc/labs)
+[华为沙箱实验室](https://lab.huaweicloud.com/)
+[腾讯动手实验室](https://cloud.tencent.com/developer/labs/gallery)
 ### 其他
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [processon](https://www.processon.com/)
@@ -62,3 +67,5 @@ vssue: false
 - [上海数据中心](http://www.sstir.cn/)
 - [发现报告](https://www.fxbaogao.com/)
 - [对外投资合作国别（地区）指南](http://fec.mofcom.gov.cn/article/gbdqzn/)
+- [高教 教科书](https://ebook.hep.com.cn/ebooks/index.html#/)
+- [裁判文书网](https://wenshu.court.gov.cn/)
