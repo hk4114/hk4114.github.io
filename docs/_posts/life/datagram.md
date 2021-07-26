@@ -16,16 +16,14 @@ title: 资料包
 
 > [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
-+ [【硬货】vue全家桶+Echarts+百度地图，搭建数据可视化系统](https://mp.weixin.qq.com/s/jjrse-nzMogymz6MaW2obw)
-+ [Electron+vue从零开始打造一个本地播放器](https://mp.weixin.qq.com/s/cmVB44Peo5YKjtHO1H42_A)
-+ [手摸手教你docker+jenkins+gitlab部署你的Vue项目](https://mp.weixin.qq.com/s/3Wk2914bKDkkA22mX83dlA)
-+ [手把手教你写一个脚手架](https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw)
 + [超详细Hexo+Github Page搭建技术博客教程（含SEO优化）](https://mp.weixin.qq.com/s/fTAmZfjpuFc9hdeqgrwmkw)
-+ [手把手教你用 Github Actions 部署前端项目](https://mp.weixin.qq.com/s/mVOBrF-IHY3VVf9eT0IXKA)
++ 博客
++ 导航
 + [手把手教你写一个Vue组件发布到npm且可外链引入使用](https://mp.weixin.qq.com/s/hFTzL_TT54NVzV7v5GO8Xg)
++ [手把手教你写一个脚手架](https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw)
 + [实现一个简易的模块打包器](https://mp.weixin.qq.com/s/fkz-aFSKkR_O9hC47eic1g)
-+ [实现一个版本自动控制的IndexedDB](https://mp.weixin.qq.com/s/jJXcwbANxYlAuI_uIo8mzQ)
-+ [HTML5 之跨域通讯（postMessage）](http://jartto.wang/2019/06/11/post-message/)
++ [手摸手教你docker+jenkins+gitlab部署你的Vue项目](https://mp.weixin.qq.com/s/3Wk2914bKDkkA22mX83dlA)
++ [手把手教你用 Github Actions 部署前端项目](https://mp.weixin.qq.com/s/mVOBrF-IHY3VVf9eT0IXKA)
 
 ## 面试
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)

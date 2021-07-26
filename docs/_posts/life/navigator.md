@@ -33,6 +33,7 @@ vssue: false
 - [小森林](http://www.xsldh6.com/)
 
 ### 专栏类
+- [少数派](https://sspai.com/)
 - [segmentfault](https://segmentfault.com/)
 - [掘金](https://juejin.im/)
 - [语雀](https://www.yuque.com/)
@@ -69,3 +70,4 @@ vssue: false
 - [对外投资合作国别（地区）指南](http://fec.mofcom.gov.cn/article/gbdqzn/)
 - [高教 教科书](https://ebook.hep.com.cn/ebooks/index.html#/)
 - [裁判文书网](https://wenshu.court.gov.cn/)
+- [医学微视](https://www.mvyxws.com/?from=timeline&isappinstalled=0)
