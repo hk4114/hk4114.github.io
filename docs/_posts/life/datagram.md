@@ -9,7 +9,6 @@ title: 资料包
 - [Dan Abramov 访谈实录](https://mp.weixin.qq.com/s/A4AscaF4k_NDHYMiZYE2Pg)
 - [深入理解Decorator](https://mp.weixin.qq.com/s/H6IU3Apfe-a3EdzH5cxZrQ)
 - [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A)
-- [年轻人的体检指南 02：个性化筛查](https://sspai.com/post/66635)
 
 ## 项目实践 slide project
 > [app-ideas](https://github.com/florinpop17/app-ideas)
