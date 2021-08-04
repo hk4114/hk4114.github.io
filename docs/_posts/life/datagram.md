@@ -6,6 +6,7 @@ title: 资料包
 # 学习资料包
 ## tip
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
+- [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
 - [Dan Abramov 访谈实录](https://mp.weixin.qq.com/s/A4AscaF4k_NDHYMiZYE2Pg)
 - [深入理解Decorator](https://mp.weixin.qq.com/s/H6IU3Apfe-a3EdzH5cxZrQ)
 - [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A)
@@ -16,6 +17,8 @@ title: 资料包
 > [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
 + [手把手教你写一个Vue组件发布到npm且可外链引入使用](https://mp.weixin.qq.com/s/hFTzL_TT54NVzV7v5GO8Xg)
++ [用这两个实现 Excel 导出与保存，真香！](https://mp.weixin.qq.com/s/H2SphaIAUczorolFA5II4w)
++ [为了让她10分钟入门canvas，我熬夜写了3个小项目和这篇文章](https://mp.weixin.qq.com/s/m361MkOYvJDP2IFTAtun3g)
 + [手把手教你写一个脚手架](https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw)
 + [实现一个简易的模块打包器](https://mp.weixin.qq.com/s/fkz-aFSKkR_O9hC47eic1g)
 + 导航
