@@ -7,9 +7,6 @@ title: 资料包
 ## tip
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
 - [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
-- [Dan Abramov 访谈实录](https://mp.weixin.qq.com/s/A4AscaF4k_NDHYMiZYE2Pg)
-- [深入理解Decorator](https://mp.weixin.qq.com/s/H6IU3Apfe-a3EdzH5cxZrQ)
-- [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A)
 
 ## 项目实践 slide project
 > [app-ideas](https://github.com/florinpop17/app-ideas)
@@ -90,6 +87,8 @@ title: 资料包
   + [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
   + [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ) 
 
+- 操作系统
+  + [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A) 
 
 ::: tip
 格式化代码：代码写完的时候格式化一下。
