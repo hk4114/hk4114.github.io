@@ -7,9 +7,9 @@ title: 资料包
 ## tip
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
 - [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
-- [一文读懂 @Decorator 装饰器——理解 VS Code 源码的基础](https://mp.weixin.qq.com/s/jzLO37bKYwLlPlVXTnzPfQ)
-- [大神手把手教你| 如何完成人生的第一次开源代码贡献](https://mp.weixin.qq.com/s/qb0lP9iFo_Cx3JJZAjsrKA)
-- [你可能不知道，前端这6个有用的技术可以这么酷！](https://mp.weixin.qq.com/s/jprk5nhI93G_BnBW4PC2Iw)
+- [重构指北——《重构，改善既有代码设计》精读](https://mp.weixin.qq.com/s/M1Z5-KYCq2aEdkZNarcfRg)
+- [前端 Code Review 指北](https://mp.weixin.qq.com/s/yyqGipUGMbfcLmXcQ2QBcA)
+- [函数式编程，封装并组合，顺带把【传参】解决了](https://mp.weixin.qq.com/s/m2Ynm11cMRbKEig6Z757fg)
 
 ## 项目实践 slide project
 > [app-ideas](https://github.com/florinpop17/app-ideas)
