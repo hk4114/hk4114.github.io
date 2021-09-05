@@ -5,9 +5,6 @@ title: 资料包
 <!-- more -->
 # 学习资料包
 ## tip
-- [如何读懂一份财报](https://mp.weixin.qq.com/s/dG7tyV5zrU14-b6KBRj9yw)
-- [个人信息保护法，真正拉开“反杀熟”大幕](https://mp.weixin.qq.com/s/IwfLcZNvIEJkErluYDeLUQ)
-- [有效运动，4秒就够](https://www.allnow.com/post/6123384aefa7ce3e3869bbe3)
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
 - [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
 - [重构指北——《重构，改善既有代码设计》精读](https://mp.weixin.qq.com/s/M1Z5-KYCq2aEdkZNarcfRg)
