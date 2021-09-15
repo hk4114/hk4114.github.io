@@ -5,6 +5,7 @@ title: 资料包
 <!-- more -->
 # 学习资料包
 ## tip
+在线阅读：https://doc.code-nav.cn/roadmap
 - [从零到一实现企业级微前端框架，保姆级教学](https://mp.weixin.qq.com/s/pxkdGbckSjzDtLQsp9FYYQ)
 - [奇舞周刊第 413 期：学习 Webpack5 之路 (优化篇)](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
 - [Webpack 原理系列九：Tree-Shaking 实现原理](https://mp.weixin.qq.com/s/3uLyEL3hfytyQ9PiVojIsw)
