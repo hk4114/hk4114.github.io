@@ -5,6 +5,13 @@ title: 资料包
 <!-- more -->
 # 学习资料包
 ## tip
+- [从零到一实现企业级微前端框架，保姆级教学](https://mp.weixin.qq.com/s/pxkdGbckSjzDtLQsp9FYYQ)
+- [奇舞周刊第 413 期：学习 Webpack5 之路 (优化篇)](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
+- [Webpack 原理系列九：Tree-Shaking 实现原理](https://mp.weixin.qq.com/s/3uLyEL3hfytyQ9PiVojIsw)
+- [Promise 竟被他玩出了四十八种花样](https://mp.weixin.qq.com/s/Ln8NTvpH7Yv32Or4dCN0LQ)
+- [动图演示23个鲜为人知的VSCode快捷键](https://mp.weixin.qq.com/s/_awR5iekjJ28IS9TnTPGAw)
+- [前端鉴权必须了解的 5 个兄弟：cookie、session、token、jwt、单点登录](https://mp.weixin.qq.com/s/vh36oOuFmeIkGfw8HsmG3g)
+- [青海支教这一年](https://mp.weixin.qq.com/s/SAXy1w_saq211WXCLX8cWQ)
 - [如何读懂一份财报](https://mp.weixin.qq.com/s/dG7tyV5zrU14-b6KBRj9yw)
 - [如何避免总结出“错误的经验”](https://mp.weixin.qq.com/s/rKhgRTugmPN9VjtTlxZRhA)
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
