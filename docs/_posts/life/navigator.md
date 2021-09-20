@@ -54,6 +54,7 @@ vssue: false
 - [Venture Hacks](https://venturehacks.com/)
 - [Huli's Blog](https://github.com/aszx87410/blog)
 - [google developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+- [samanthaming 前端外网](https://www.samanthaming.com/)
 
 ### 代码仓库
 - [github](https://github.com/)
