@@ -5,29 +5,50 @@ title: 资料包
 <!-- more -->
 ## react
 [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
+
 [React 灵魂 23 问，你能答对几个](https://mp.weixin.qq.com/s/2zB8igYtDNv8ePWQ4lt3Cw)​
+
 [突破Hooks所有限制，只要50行代码](https://mp.weixin.qq.com/s?__biz=MzkzMjIxNTcyMA==&mid=2247487154&idx=1&sn=158563b1a3307db987903b8ee3c03f98&scene=21#wechat_redirect)
+
 [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
+
 [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ) 
+
 [手写系列-实现一个铂金段位的 React](https://mp.weixin.qq.com/s/C4pjEzYPZocRnJOaF1q0Jg)
+
 [使用 React Hooks 分离组件逻辑](https://felixgerschau.com/react-hooks-separation-of-concerns/)
+
 [React Fiber架构浅析](https://mp.weixin.qq.com/s/G74i2dYIm7X13HC5TY2mOA)
+
 [React 组件性能优化——function component](https://mp.weixin.qq.com/s/btHRuld_8B7sW5i6G6bERA)
+
 [React.memo() 和 useMemo() 的用法与区别](https://mp.weixin.qq.com/s/zxT2GfujdbQfvrCtRxkbiQ)
+
 [换个角度思考 React Hooks](https://mp.weixin.qq.com/s/_uCquHuFaAk8W2bVjaC7Sg)
+
 [造一个 react-error-boundary 轮子](https://mp.weixin.qq.com/s/wAG5N4ncb5nWCRnP10Ayyw)
+
 [React 全局状态管理的 3 种底层机制](https://mp.weixin.qq.com/s/rWnh0ehc1CNpKBbhWvzl7w)
+
 [深入浅出解析React Router 源码](https://mp.weixin.qq.com/s/hcAMubPlse4cK9y_-mS5yQ)
 
 ## webpack
 [[万字总结] 一文吃透 Webpack 核心原理](https://mp.weixin.qq.com/s/RwPozFB6AEZJYadLSIBxNg)
+
 [手把手带你入门前端工程化——超详细教程](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496536&idx=1&sn=add90d3bd6d0be196f32408c2e597224&source=41#wechat_redirect)
+
 [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496511&idx=1&sn=0aab9dba8bf1d3bc9a1a1680863d9a86&source=41#wechat_redirect)
+
 [实现一个简易的模块打包器](https://mp.weixin.qq.com/s/fkz-aFSKkR_O9hC47eic1g)
+
 [多图详解，一次性搞懂Webpack Loader](https://mp.weixin.qq.com/s/rKmR2m15hIczGCOPHBOzAg)
+
 [一文搞懂Webpack的构建流程](https://mp.weixin.qq.com/s/6bT_oWNtz2BWlSkxProKUw)
+
 [聊聊Webpack Proxy工作原理？为什么能解决跨域?](https://mp.weixin.qq.com/s/7DUGjK04_RtvInDyYP-5-g)
+
 [webpack 构建之 splitChunks 优化与 manifest](https://mp.weixin.qq.com/s/6SlVV7nfBrBg1TBMfQQ_wQ)
+
 [Webpack 原理系列九：Tree-Shaking 实现原理](https://mp.weixin.qq.com/s/3uLyEL3hfytyQ9PiVojIsw)
 
 
@@ -77,6 +98,11 @@ title: 资料包
 + [浅谈状态模式和状态机](https://mp.weixin.qq.com/s/vojYXaYZLxUqO9fx2Ea_eA)
 + [前端鉴权必须了解的 5 个兄弟：cookie、session、token、jwt、单点登录](https://mp.weixin.qq.com/s/vh36oOuFmeIkGfw8HsmG3g)
 + [前端工程师所需要了解的WebView](https://mp.weixin.qq.com/s/PipKSnMQaTBhE5kSwG3DVQ)
+- [从零到一实现企业级微前端框架，保姆级教学](https://mp.weixin.qq.com/s/pxkdGbckSjzDtLQsp9FYYQ)
+- [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
+- [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
+- [重构指北——《重构，改善既有代码设计》精读](https://mp.weixin.qq.com/s/M1Z5-KYCq2aEdkZNarcfRg)
+- [前端 Code Review 指北](https://mp.weixin.qq.com/s/yyqGipUGMbfcLmXcQ2QBcA)
 
 ## 项目实践 slide project
 > [app-ideas](https://github.com/florinpop17/app-ideas)
