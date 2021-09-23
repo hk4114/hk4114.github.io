@@ -54,15 +54,7 @@ title: 资料包
 
 ## 职业发展
 + [如何做一个有质量的技术分享](https://coolshell.cn/articles/21589.html)
-+ [青海支教这一年](https://mp.weixin.qq.com/s/SAXy1w_saq211WXCLX8cWQ)
 + [如何读懂一份财报](https://mp.weixin.qq.com/s/dG7tyV5zrU14-b6KBRj9yw)
-+ [如何避免总结出“错误的经验”](https://mp.weixin.qq.com/s/rKhgRTugmPN9VjtTlxZRhA)
-+ [不充分的均衡：如何找到捡钱的机会](https://mp.weixin.qq.com/s/ApDx1C525lCjC4DKK0KtVA)
-+ [保持生长不焦虑，非科班程序媛的进击](https://mp.weixin.qq.com/s/_BySol8lXoU5Bre-40Lskw)
-+ [累死累活的业务前端该如何突围？](https://mp.weixin.qq.com/s/Yn4m0CtO5VBnRmK8b4pj2g)
-+ [努力寻找一条向前的道路](https://mp.weixin.qq.com/s/vhzhF7StyEAyQB5_ZLSDpw)
-+ [和玉伯连麦的一些总结](https://mp.weixin.qq.com/s/7vIZtQZeyUw329cquvPLgw)
-+ [聊聊写作以及公众号后续规划](https://mp.weixin.qq.com/s/7ngTXH02ijXc0_MsBhmXXQ)
 
 
 ## 面试
