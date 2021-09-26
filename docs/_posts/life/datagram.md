@@ -3,6 +3,13 @@ title: 资料包
 ---
 在学习过程中，收集的一些学习资源。
 <!-- more -->
+
+[为什么说大多数 JavaScript 工程师写的错误处理都有问题](https://mp.weixin.qq.com/s/oweai4JDPSwLQGberd0B1A)
+
+[项目实战总结的小技巧与黑科技！！](https://mp.weixin.qq.com/s/YRpyuZW2eTaz_Qo3b-_7uw)
+
+[10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/vGN5BRItTpnl3IBhqOP8Qw)
+
 ## react
 [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
 
@@ -56,6 +63,14 @@ title: 资料包
 + [如何做一个有质量的技术分享](https://coolshell.cn/articles/21589.html)
 + [如何读懂一份财报](https://mp.weixin.qq.com/s/dG7tyV5zrU14-b6KBRj9yw)
 
+## vim
+[小游戏Vim大冒险](https://vim-adventures.com/)
+
+[配置文件](https://github.com/MarsWang42/My-Vim-Conf)
+
+[VimAwesome网站](https://vimawesome.com/)
+
+[Vim Plug Github页面](https://github.com/junegunn/vim-plug)
 
 ## 面试
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
