@@ -19,13 +19,7 @@ title: 资料包
 
 [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
 
-[React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ) 
-
-[手写系列-实现一个铂金段位的 React](https://mp.weixin.qq.com/s/C4pjEzYPZocRnJOaF1q0Jg)
-
 [使用 React Hooks 分离组件逻辑](https://felixgerschau.com/react-hooks-separation-of-concerns/)
-
-[React Fiber架构浅析](https://mp.weixin.qq.com/s/G74i2dYIm7X13HC5TY2mOA)
 
 [React 组件性能优化——function component](https://mp.weixin.qq.com/s/btHRuld_8B7sW5i6G6bERA)
 
