@@ -10,6 +10,10 @@ title: 资料包
 
 [10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/vGN5BRItTpnl3IBhqOP8Qw)
 
+[前端基本功---JS数据类型知多少](https://mp.weixin.qq.com/s/499zHaQ9WMG8NVpkHz2Vhw)
+
+[如何写一份不错的CSS代码?](https://mp.weixin.qq.com/s/aKQ967gTKpnoo9Web1WPEA)
+
 ## react
 [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
 
@@ -34,6 +38,8 @@ title: 资料包
 [深入浅出解析React Router 源码](https://mp.weixin.qq.com/s/hcAMubPlse4cK9y_-mS5yQ)
 
 ## webpack
+[Webpack 性能系列一: 使用 Cache 提升构建性能](https://mp.weixin.qq.com/s/donodOGnyH462dJBYq-Msg)
+
 [[万字总结] 一文吃透 Webpack 核心原理](https://mp.weixin.qq.com/s/RwPozFB6AEZJYadLSIBxNg)
 
 [手把手带你入门前端工程化——超详细教程](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496536&idx=1&sn=add90d3bd6d0be196f32408c2e597224&source=41#wechat_redirect)
@@ -96,6 +102,7 @@ title: 资料包
 + [奇舞周刊第 413 期：学习 Webpack5 之路 (优化篇)](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
 + [奇舞周刊第 414 期](https://mp.weixin.qq.com/s/KgFFnObnQ6j4Wkm8D-GBDw)
 + [奇舞周刊第 415 期](https://mp.weixin.qq.com/s/ZbNY3TuzwsPQs-0iXvEH6A)
++ [奇舞周刊第 417 期：说一说 Web 端侧 AI](https://mp.weixin.qq.com/s/nTDslEkGS8AJdkgxx4a7LQ)
 + [浅谈状态模式和状态机](https://mp.weixin.qq.com/s/vojYXaYZLxUqO9fx2Ea_eA)
 + [前端鉴权必须了解的 5 个兄弟：cookie、session、token、jwt、单点登录](https://mp.weixin.qq.com/s/vh36oOuFmeIkGfw8HsmG3g)
 + [前端工程师所需要了解的WebView](https://mp.weixin.qq.com/s/PipKSnMQaTBhE5kSwG3DVQ)
