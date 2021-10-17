@@ -15,12 +15,6 @@ title: 资料包
 [如何写一份不错的CSS代码?](https://mp.weixin.qq.com/s/aKQ967gTKpnoo9Web1WPEA)
 
 ## react
-[关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
-
-[React 灵魂 23 问，你能答对几个](https://mp.weixin.qq.com/s/2zB8igYtDNv8ePWQ4lt3Cw)​
-
-[突破Hooks所有限制，只要50行代码](https://mp.weixin.qq.com/s?__biz=MzkzMjIxNTcyMA==&mid=2247487154&idx=1&sn=158563b1a3307db987903b8ee3c03f98&scene=21#wechat_redirect)
-
 [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
 
 [使用 React Hooks 分离组件逻辑](https://felixgerschau.com/react-hooks-separation-of-concerns/)
