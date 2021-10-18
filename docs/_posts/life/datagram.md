@@ -3,6 +3,19 @@ title: 资料包
 ---
 在学习过程中，收集的一些学习资源。
 <!-- more -->
++ [奇舞周刊第 413 期：学习 Webpack5 之路 (优化篇)](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
++ [奇舞周刊第 414 期](https://mp.weixin.qq.com/s/KgFFnObnQ6j4Wkm8D-GBDw)
++ [奇舞周刊第 415 期](https://mp.weixin.qq.com/s/ZbNY3TuzwsPQs-0iXvEH6A)
++ [奇舞周刊第 417 期：说一说 Web 端侧 AI](https://mp.weixin.qq.com/s/nTDslEkGS8AJdkgxx4a7LQ)
++ [奇舞周刊第 418 期：VSCode 语言插件开发入门](https://mp.weixin.qq.com/s/u1WfYlc_iVtdn4nJtijisg)
+
+[使用 Performance 看看浏览器在做些什么](https://mp.weixin.qq.com/s/dKB8FG7zZWUqds5IKMr8KA)
+
+[Zoom 前端架构师解密初、中、高级程序员的进化之路](https://mp.weixin.qq.com/s/A_3Ko4Z941gk7cp6tvnw8g)
+
+[Web Worker 性能优化初体验](https://mp.weixin.qq.com/s/IJHI9JB3nMQPi46b6yGVWw)
+
+
 
 [为什么说大多数 JavaScript 工程师写的错误处理都有问题](https://mp.weixin.qq.com/s/oweai4JDPSwLQGberd0B1A)
 
@@ -93,10 +106,6 @@ title: 资料包
 + [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
 + [前端应该学习的Token登录认证知识](https://mp.weixin.qq.com/s/req4kwdVPgtBpkx55gBzMg)
 + [基于 token 的多平台身份认证架构设计！](https://mp.weixin.qq.com/s/tKlpIj3y9LC_lFtblEJlxQ)
-+ [奇舞周刊第 413 期：学习 Webpack5 之路 (优化篇)](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
-+ [奇舞周刊第 414 期](https://mp.weixin.qq.com/s/KgFFnObnQ6j4Wkm8D-GBDw)
-+ [奇舞周刊第 415 期](https://mp.weixin.qq.com/s/ZbNY3TuzwsPQs-0iXvEH6A)
-+ [奇舞周刊第 417 期：说一说 Web 端侧 AI](https://mp.weixin.qq.com/s/nTDslEkGS8AJdkgxx4a7LQ)
 + [浅谈状态模式和状态机](https://mp.weixin.qq.com/s/vojYXaYZLxUqO9fx2Ea_eA)
 + [前端鉴权必须了解的 5 个兄弟：cookie、session、token、jwt、单点登录](https://mp.weixin.qq.com/s/vh36oOuFmeIkGfw8HsmG3g)
 + [前端工程师所需要了解的WebView](https://mp.weixin.qq.com/s/PipKSnMQaTBhE5kSwG3DVQ)
