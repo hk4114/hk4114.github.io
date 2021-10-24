@@ -3,11 +3,26 @@ title: 资料包
 ---
 在学习过程中，收集的一些学习资源。
 <!-- more -->
+
+[2021最后3个月，给想辞职的人提个醒](https://mp.weixin.qq.com/s/tSud6nuDnTkNWDsIxujRlw)
+
+[你身边最划算的按摩地点，藏在你最看不上的地方](https://mp.weixin.qq.com/s/J4f0506AOPQa3L2AWGJ0Jw)
+
 + [奇舞周刊第 413 期：学习 Webpack5 之路 (优化篇)](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
 + [奇舞周刊第 414 期](https://mp.weixin.qq.com/s/KgFFnObnQ6j4Wkm8D-GBDw)
 + [奇舞周刊第 415 期](https://mp.weixin.qq.com/s/ZbNY3TuzwsPQs-0iXvEH6A)
 + [奇舞周刊第 417 期：说一说 Web 端侧 AI](https://mp.weixin.qq.com/s/nTDslEkGS8AJdkgxx4a7LQ)
 + [奇舞周刊第 418 期：VSCode 语言插件开发入门](https://mp.weixin.qq.com/s/u1WfYlc_iVtdn4nJtijisg)
++ [奇舞周刊第 419 期：奇葩说框架之 React 编译原理](https://mp.weixin.qq.com/s/npWHlC4ClcSmQEozIzOJ1g)
+
+
+[图片懒加载几个版本的实现对比](https://mp.weixin.qq.com/s/z588pAlBa5PWGpeEQebKNQ)
+
+[你会用ES6，那倒是用啊！](https://mp.weixin.qq.com/s/KWk6JUzRrppX8MiO8CmefQ)
+
+[何为SourceMap？](https://mp.weixin.qq.com/s/YNLMYEOQCyBPfidcDcZN1g)
+
+[Chrome 95：DevTools新功能](https://mp.weixin.qq.com/s/varrDKUPqL-7tltBfU564A)
 
 [使用 Performance 看看浏览器在做些什么](https://mp.weixin.qq.com/s/dKB8FG7zZWUqds5IKMr8KA)
 
@@ -15,7 +30,11 @@ title: 资料包
 
 [Web Worker 性能优化初体验](https://mp.weixin.qq.com/s/IJHI9JB3nMQPi46b6yGVWw)
 
+[Electron 快速入门，顺便聊聊 IPC 通信](https://mp.weixin.qq.com/s/TSb87-oh4hmXEs_O92CtUQ)
 
+[云栖大会上，阿里巴巴重磅发布前端知识图谱！](https://mp.weixin.qq.com/s/c8WXCTl6wMqd2AJktX7SIg)
+
+[前端时间国际化入门](https://mp.weixin.qq.com/s/Gw6UiovEvu76a-9zxL3BdA)
 
 [为什么说大多数 JavaScript 工程师写的错误处理都有问题](https://mp.weixin.qq.com/s/oweai4JDPSwLQGberd0B1A)
 
@@ -28,6 +47,10 @@ title: 资料包
 [如何写一份不错的CSS代码?](https://mp.weixin.qq.com/s/aKQ967gTKpnoo9Web1WPEA)
 
 ## react
+[React Concurrent Mode 初识&探秘](https://mp.weixin.qq.com/s/WUVVpEoXdhVOlwtjgpLX5A)
+
+[Vue和React在实现原理上，到底有什么区别？](https://mp.weixin.qq.com/s/T5ULkayqhm4X9CVTO9kMeA)
+
 [使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
 
 [使用 React Hooks 分离组件逻辑](https://felixgerschau.com/react-hooks-separation-of-concerns/)
