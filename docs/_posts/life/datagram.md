@@ -4,10 +4,6 @@ title: 资料包
 在学习过程中，收集的一些学习资源。
 <!-- more -->
 
-[2021最后3个月，给想辞职的人提个醒](https://mp.weixin.qq.com/s/tSud6nuDnTkNWDsIxujRlw)
-
-[你身边最划算的按摩地点，藏在你最看不上的地方](https://mp.weixin.qq.com/s/J4f0506AOPQa3L2AWGJ0Jw)
-
 + [奇舞周刊第 413 期：学习 Webpack5 之路 (优化篇)](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
 + [奇舞周刊第 414 期](https://mp.weixin.qq.com/s/KgFFnObnQ6j4Wkm8D-GBDw)
 + [奇舞周刊第 415 期](https://mp.weixin.qq.com/s/ZbNY3TuzwsPQs-0iXvEH6A)
@@ -18,15 +14,11 @@ title: 资料包
 
 [图片懒加载几个版本的实现对比](https://mp.weixin.qq.com/s/z588pAlBa5PWGpeEQebKNQ)
 
-[你会用ES6，那倒是用啊！](https://mp.weixin.qq.com/s/KWk6JUzRrppX8MiO8CmefQ)
-
 [何为SourceMap？](https://mp.weixin.qq.com/s/YNLMYEOQCyBPfidcDcZN1g)
 
 [Chrome 95：DevTools新功能](https://mp.weixin.qq.com/s/varrDKUPqL-7tltBfU564A)
 
 [使用 Performance 看看浏览器在做些什么](https://mp.weixin.qq.com/s/dKB8FG7zZWUqds5IKMr8KA)
-
-[Zoom 前端架构师解密初、中、高级程序员的进化之路](https://mp.weixin.qq.com/s/A_3Ko4Z941gk7cp6tvnw8g)
 
 [Web Worker 性能优化初体验](https://mp.weixin.qq.com/s/IJHI9JB3nMQPi46b6yGVWw)
 
@@ -36,13 +28,7 @@ title: 资料包
 
 [前端时间国际化入门](https://mp.weixin.qq.com/s/Gw6UiovEvu76a-9zxL3BdA)
 
-[为什么说大多数 JavaScript 工程师写的错误处理都有问题](https://mp.weixin.qq.com/s/oweai4JDPSwLQGberd0B1A)
-
-[项目实战总结的小技巧与黑科技！！](https://mp.weixin.qq.com/s/YRpyuZW2eTaz_Qo3b-_7uw)
-
 [10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/vGN5BRItTpnl3IBhqOP8Qw)
-
-[前端基本功---JS数据类型知多少](https://mp.weixin.qq.com/s/499zHaQ9WMG8NVpkHz2Vhw)
 
 [如何写一份不错的CSS代码?](https://mp.weixin.qq.com/s/aKQ967gTKpnoo9Web1WPEA)
 
