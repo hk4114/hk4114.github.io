@@ -157,6 +157,7 @@ title: 资料包
 - typescript
   + [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
   + [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
+  + [你不知道的 TypeScript 泛型](https://mp.weixin.qq.com/s/WtTOxHKbegZHAcYopgYTrw)
 
 - vue
   + [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
