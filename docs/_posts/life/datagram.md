@@ -3,13 +3,18 @@ title: 资料包
 ---
 在学习过程中，收集的一些学习资源。
 <!-- more -->
+[没早用这个技术，扎克伯格后悔了](https://mp.weixin.qq.com/s/kHqoIvwImWu1UoTEhK4AJA)
 
-+ [奇舞周刊第 413 期：学习 Webpack5 之路 (优化篇)](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
+[刘润年度演讲2021：进化的力量（演讲全文）](https://mp.weixin.qq.com/s/Iee-0niKWpuxPWC3wL9PnA)
+
++ [奇舞周刊第 413 期](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
 + [奇舞周刊第 414 期](https://mp.weixin.qq.com/s/KgFFnObnQ6j4Wkm8D-GBDw)
 + [奇舞周刊第 415 期](https://mp.weixin.qq.com/s/ZbNY3TuzwsPQs-0iXvEH6A)
-+ [奇舞周刊第 417 期：说一说 Web 端侧 AI](https://mp.weixin.qq.com/s/nTDslEkGS8AJdkgxx4a7LQ)
-+ [奇舞周刊第 418 期：VSCode 语言插件开发入门](https://mp.weixin.qq.com/s/u1WfYlc_iVtdn4nJtijisg)
-+ [奇舞周刊第 419 期：奇葩说框架之 React 编译原理](https://mp.weixin.qq.com/s/npWHlC4ClcSmQEozIzOJ1g)
++ [奇舞周刊第 417 期](https://mp.weixin.qq.com/s/nTDslEkGS8AJdkgxx4a7LQ)
++ [奇舞周刊第 418 期](https://mp.weixin.qq.com/s/u1WfYlc_iVtdn4nJtijisg)
++ [奇舞周刊第 419 期](https://mp.weixin.qq.com/s/npWHlC4ClcSmQEozIzOJ1g)
++ [奇舞周刊第 420 期](https://mp.weixin.qq.com/s/a9Hp7IeKm9lFLFB-RAGv0g)
++ [奇舞周刊第 421 期](https://mp.weixin.qq.com/s/0LzpzCa-vRPqFjLnVrRxqw)
 
 
 [图片懒加载几个版本的实现对比](https://mp.weixin.qq.com/s/z588pAlBa5PWGpeEQebKNQ)
@@ -26,13 +31,11 @@ title: 资料包
 
 [云栖大会上，阿里巴巴重磅发布前端知识图谱！](https://mp.weixin.qq.com/s/c8WXCTl6wMqd2AJktX7SIg)
 
-[前端时间国际化入门](https://mp.weixin.qq.com/s/Gw6UiovEvu76a-9zxL3BdA)
-
 [10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/vGN5BRItTpnl3IBhqOP8Qw)
 
-[如何写一份不错的CSS代码?](https://mp.weixin.qq.com/s/aKQ967gTKpnoo9Web1WPEA)
-
 ## react
+[5 种有趣的 useEffect 无限循环类型](https://mp.weixin.qq.com/s/WWQa4kJXAblBkZS5zx3HBw)
+
 [React Concurrent Mode 初识&探秘](https://mp.weixin.qq.com/s/WUVVpEoXdhVOlwtjgpLX5A)
 
 [Vue和React在实现原理上，到底有什么区别？](https://mp.weixin.qq.com/s/T5ULkayqhm4X9CVTO9kMeA)
@@ -101,14 +104,26 @@ title: 资料包
 # 学习资料包
 
 ## tip
+- [可能是最好的跨域解决方案了](https://mp.weixin.qq.com/s/P2tB9ZlAzTFnsjomwluldA)
+- [Google V8引擎浅析](https://mp.weixin.qq.com/s/8uwzZT_5unzHVY4BMx9htA)
+- [从根本上了解异步编程体系](https://mp.weixin.qq.com/s/q6BfOINeqgm5nffrHu4kQA)
+- [浅析 Web 录屏技术方案与实现](https://mp.weixin.qq.com/s/r1yX1-iNZi5JT_wTeRDxdA)
+- [一文读懂Axios核心源码思想](https://mp.weixin.qq.com/s/aQSrjClavo2Yiukcauw8SQ)
+- [WebView 常见 Crash 分析及解决方案](https://mp.weixin.qq.com/s/L0GMjoXzEFR--MYYVLZyAg)
+- [Git 各指令的本质，真是通俗易懂啊](https://mp.weixin.qq.com/s/mHH81N5s1_Xty20PR18VjA)
+- [meta 标签到底是做什么的，我竟一无所知](https://mp.weixin.qq.com/s/jeDYAbaJe_MghO0Y9-U1Hg)
+### css
+- [离谱的需求：实现文字二次加粗再加边框](https://mp.weixin.qq.com/s/hOPLxGIsl0oNS2r6-kiVlw)
+- [纯CSS实现科技感十足的流星雨动画](https://mp.weixin.qq.com/s/GYzRc4mJQO43nRaXIOIyuw)
+- [仅使用CSS提高页面渲染速度](https://mp.weixin.qq.com/s/nM_M-B6oDk9PHJkURBKFkA)
+- [好家伙，这些写 CSS 的新姿势你还不知道？](https://mp.weixin.qq.com/s/b1U08_D1oNdOknkj2eZMYw)
+### other
 + [Promise 竟被他玩出了四十八种花样](https://mp.weixin.qq.com/s/Ln8NTvpH7Yv32Or4dCN0LQ)
 + [函数式编程，封装并组合，顺带把【传参】解决了](https://mp.weixin.qq.com/s/m2Ynm11cMRbKEig6Z757fg)
 + [动图演示23个鲜为人知的VSCode快捷键](https://mp.weixin.qq.com/s/_awR5iekjJ28IS9TnTPGAw)
 + [浅析前端异常及降级处理](https://mp.weixin.qq.com/s/hk_2bESNPgKBsl3TM96pVg)
 + [关于 JavaScript Object.keys() 排序问题的探索](https://mp.weixin.qq.com/s/foXbAj3ODqFKYGUP5K8MkQ)
 + [手把手教你利用JS给图片打马赛克](https://mp.weixin.qq.com/s/k28uSyHfq41v8-EUerlFUg)
-+ [纯CSS实现科技感十足的流星雨动画](https://mp.weixin.qq.com/s/GYzRc4mJQO43nRaXIOIyuw)
-+ [好家伙，这些写 CSS 的新姿势你还不知道？](https://mp.weixin.qq.com/s/b1U08_D1oNdOknkj2eZMYw)
 + [手把手教你接入前端热门抓包神器 - whistle](https://mp.weixin.qq.com/s/K27yYBzOotAI6C4j4z5cCw)
 + [WebSocket 基础与应用系列（一）](https://mp.weixin.qq.com/s/f96Da8kCluNwv7cxW39gzg)
 + [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
