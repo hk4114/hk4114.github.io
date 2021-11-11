@@ -3,9 +3,6 @@ title: 资料包
 ---
 在学习过程中，收集的一些学习资源。
 <!-- more -->
-[没早用这个技术，扎克伯格后悔了](https://mp.weixin.qq.com/s/kHqoIvwImWu1UoTEhK4AJA)
-
-[刘润年度演讲2021：进化的力量（演讲全文）](https://mp.weixin.qq.com/s/Iee-0niKWpuxPWC3wL9PnA)
 
 + [奇舞周刊第 413 期](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
 + [奇舞周刊第 414 期](https://mp.weixin.qq.com/s/KgFFnObnQ6j4Wkm8D-GBDw)
@@ -99,7 +96,6 @@ title: 资料包
 - [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
 - [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
 - [前端经典面试题 ( 60道前端面试题包含 JS、CSS、React、网络、浏览器、程序题等)](https://mp.weixin.qq.com/s/PI3BVtRdr5MJvlWPzbqZFg)
-- [面试必问——前端页面性能指标基本介绍](https://mp.weixin.qq.com/s/rA2gv3nKoUfcchdYBAdykg)
 
 # 学习资料包
 
