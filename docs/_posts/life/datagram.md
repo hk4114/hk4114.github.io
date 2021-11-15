@@ -74,11 +74,6 @@ title: 资料包
 
 [Webpack 原理系列九：Tree-Shaking 实现原理](https://mp.weixin.qq.com/s/3uLyEL3hfytyQ9PiVojIsw)
 
-
-## 职业发展
-+ [如何做一个有质量的技术分享](https://coolshell.cn/articles/21589.html)
-+ [如何读懂一份财报](https://mp.weixin.qq.com/s/dG7tyV5zrU14-b6KBRj9yw)
-
 ## vim
 [小游戏Vim大冒险](https://vim-adventures.com/)
 
@@ -103,9 +98,7 @@ title: 资料包
 - [可能是最好的跨域解决方案了](https://mp.weixin.qq.com/s/P2tB9ZlAzTFnsjomwluldA)
 - [Google V8引擎浅析](https://mp.weixin.qq.com/s/8uwzZT_5unzHVY4BMx9htA)
 - [从根本上了解异步编程体系](https://mp.weixin.qq.com/s/q6BfOINeqgm5nffrHu4kQA)
-- [浅析 Web 录屏技术方案与实现](https://mp.weixin.qq.com/s/r1yX1-iNZi5JT_wTeRDxdA)
 - [一文读懂Axios核心源码思想](https://mp.weixin.qq.com/s/aQSrjClavo2Yiukcauw8SQ)
-- [WebView 常见 Crash 分析及解决方案](https://mp.weixin.qq.com/s/L0GMjoXzEFR--MYYVLZyAg)
 - [Git 各指令的本质，真是通俗易懂啊](https://mp.weixin.qq.com/s/mHH81N5s1_Xty20PR18VjA)
 - [meta 标签到底是做什么的，我竟一无所知](https://mp.weixin.qq.com/s/jeDYAbaJe_MghO0Y9-U1Hg)
 ### css
@@ -115,7 +108,6 @@ title: 资料包
 - [好家伙，这些写 CSS 的新姿势你还不知道？](https://mp.weixin.qq.com/s/b1U08_D1oNdOknkj2eZMYw)
 ### other
 + [Promise 竟被他玩出了四十八种花样](https://mp.weixin.qq.com/s/Ln8NTvpH7Yv32Or4dCN0LQ)
-+ [函数式编程，封装并组合，顺带把【传参】解决了](https://mp.weixin.qq.com/s/m2Ynm11cMRbKEig6Z757fg)
 + [动图演示23个鲜为人知的VSCode快捷键](https://mp.weixin.qq.com/s/_awR5iekjJ28IS9TnTPGAw)
 + [浅析前端异常及降级处理](https://mp.weixin.qq.com/s/hk_2bESNPgKBsl3TM96pVg)
 + [关于 JavaScript Object.keys() 排序问题的探索](https://mp.weixin.qq.com/s/foXbAj3ODqFKYGUP5K8MkQ)
@@ -128,7 +120,6 @@ title: 资料包
 + [基于 token 的多平台身份认证架构设计！](https://mp.weixin.qq.com/s/tKlpIj3y9LC_lFtblEJlxQ)
 + [浅谈状态模式和状态机](https://mp.weixin.qq.com/s/vojYXaYZLxUqO9fx2Ea_eA)
 + [前端鉴权必须了解的 5 个兄弟：cookie、session、token、jwt、单点登录](https://mp.weixin.qq.com/s/vh36oOuFmeIkGfw8HsmG3g)
-+ [前端工程师所需要了解的WebView](https://mp.weixin.qq.com/s/PipKSnMQaTBhE5kSwG3DVQ)
 - [从零到一实现企业级微前端框架，保姆级教学](https://mp.weixin.qq.com/s/pxkdGbckSjzDtLQsp9FYYQ)
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
 - [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
