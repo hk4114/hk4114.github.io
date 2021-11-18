@@ -13,6 +13,7 @@ title: 资料包
 + [奇舞周刊第 420 期](https://mp.weixin.qq.com/s/a9Hp7IeKm9lFLFB-RAGv0g)
 + [奇舞周刊第 421 期](https://mp.weixin.qq.com/s/0LzpzCa-vRPqFjLnVrRxqw)
 
+[保险基础知识](https://mp.weixin.qq.com/mp/homepage?__biz=MzA5Nzg1ODk2MA==&hid=3&sn=4062f3bce040a3105c86eba102fd295d&scene=1&devicetype=android-29&version=28000f3d&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_c125ecc7aea8&wx_header=1)
 
 [图片懒加载几个版本的实现对比](https://mp.weixin.qq.com/s/z588pAlBa5PWGpeEQebKNQ)
 
@@ -124,6 +125,7 @@ title: 资料包
 - [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
 - [重构指北——《重构，改善既有代码设计》精读](https://mp.weixin.qq.com/s/M1Z5-KYCq2aEdkZNarcfRg)
 - [前端 Code Review 指北](https://mp.weixin.qq.com/s/yyqGipUGMbfcLmXcQ2QBcA)
+- [超详细Hexo+Github Page搭建技术博客教程（含SEO优化）](https://mp.weixin.qq.com/s/fTAmZfjpuFc9hdeqgrwmkw)
 
 ## 项目实践 slide project
 > [app-ideas](https://github.com/florinpop17/app-ideas)
