@@ -13,32 +13,10 @@ title: 资料包
 + [奇舞周刊第 420 期](https://mp.weixin.qq.com/s/a9Hp7IeKm9lFLFB-RAGv0g)
 + [奇舞周刊第 421 期](https://mp.weixin.qq.com/s/0LzpzCa-vRPqFjLnVrRxqw)
 
-[保险基础知识](https://mp.weixin.qq.com/mp/homepage?__biz=MzA5Nzg1ODk2MA==&hid=3&sn=4062f3bce040a3105c86eba102fd295d&scene=1&devicetype=android-29&version=28000f3d&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_c125ecc7aea8&wx_header=1)
-
-[图片懒加载几个版本的实现对比](https://mp.weixin.qq.com/s/z588pAlBa5PWGpeEQebKNQ)
-
-[何为SourceMap？](https://mp.weixin.qq.com/s/YNLMYEOQCyBPfidcDcZN1g)
-
-[Chrome 95：DevTools新功能](https://mp.weixin.qq.com/s/varrDKUPqL-7tltBfU564A)
-
-[使用 Performance 看看浏览器在做些什么](https://mp.weixin.qq.com/s/dKB8FG7zZWUqds5IKMr8KA)
-
-[Web Worker 性能优化初体验](https://mp.weixin.qq.com/s/IJHI9JB3nMQPi46b6yGVWw)
-
-[Electron 快速入门，顺便聊聊 IPC 通信](https://mp.weixin.qq.com/s/TSb87-oh4hmXEs_O92CtUQ)
-
 [云栖大会上，阿里巴巴重磅发布前端知识图谱！](https://mp.weixin.qq.com/s/c8WXCTl6wMqd2AJktX7SIg)
 
-[10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/vGN5BRItTpnl3IBhqOP8Qw)
-
 ## react
-[5 种有趣的 useEffect 无限循环类型](https://mp.weixin.qq.com/s/WWQa4kJXAblBkZS5zx3HBw)
-
 [React Concurrent Mode 初识&探秘](https://mp.weixin.qq.com/s/WUVVpEoXdhVOlwtjgpLX5A)
-
-[Vue和React在实现原理上，到底有什么区别？](https://mp.weixin.qq.com/s/T5ULkayqhm4X9CVTO9kMeA)
-
-[使用 React Hooks 声明 setInterval](https://mp.weixin.qq.com/s/rOH34Y9DnFrHnUTIazQOoA)
 
 [使用 React Hooks 分离组件逻辑](https://felixgerschau.com/react-hooks-separation-of-concerns/)
 
@@ -49,8 +27,6 @@ title: 资料包
 [换个角度思考 React Hooks](https://mp.weixin.qq.com/s/_uCquHuFaAk8W2bVjaC7Sg)
 
 [造一个 react-error-boundary 轮子](https://mp.weixin.qq.com/s/wAG5N4ncb5nWCRnP10Ayyw)
-
-[React 全局状态管理的 3 种底层机制](https://mp.weixin.qq.com/s/rWnh0ehc1CNpKBbhWvzl7w)
 
 [深入浅出解析React Router 源码](https://mp.weixin.qq.com/s/hcAMubPlse4cK9y_-mS5yQ)
 
