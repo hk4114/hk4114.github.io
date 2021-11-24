@@ -15,21 +15,6 @@ title: 资料包
 
 [云栖大会上，阿里巴巴重磅发布前端知识图谱！](https://mp.weixin.qq.com/s/c8WXCTl6wMqd2AJktX7SIg)
 
-## react
-[React Concurrent Mode 初识&探秘](https://mp.weixin.qq.com/s/WUVVpEoXdhVOlwtjgpLX5A)
-
-[使用 React Hooks 分离组件逻辑](https://felixgerschau.com/react-hooks-separation-of-concerns/)
-
-[React 组件性能优化——function component](https://mp.weixin.qq.com/s/btHRuld_8B7sW5i6G6bERA)
-
-[React.memo() 和 useMemo() 的用法与区别](https://mp.weixin.qq.com/s/zxT2GfujdbQfvrCtRxkbiQ)
-
-[换个角度思考 React Hooks](https://mp.weixin.qq.com/s/_uCquHuFaAk8W2bVjaC7Sg)
-
-[造一个 react-error-boundary 轮子](https://mp.weixin.qq.com/s/wAG5N4ncb5nWCRnP10Ayyw)
-
-[深入浅出解析React Router 源码](https://mp.weixin.qq.com/s/hcAMubPlse4cK9y_-mS5yQ)
-
 ## webpack
 [Webpack 性能系列一: 使用 Cache 提升构建性能](https://mp.weixin.qq.com/s/donodOGnyH462dJBYq-Msg)
 
