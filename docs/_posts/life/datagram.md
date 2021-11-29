@@ -63,11 +63,6 @@ title: 资料包
 - [一文读懂Axios核心源码思想](https://mp.weixin.qq.com/s/aQSrjClavo2Yiukcauw8SQ)
 - [Git 各指令的本质，真是通俗易懂啊](https://mp.weixin.qq.com/s/mHH81N5s1_Xty20PR18VjA)
 - [meta 标签到底是做什么的，我竟一无所知](https://mp.weixin.qq.com/s/jeDYAbaJe_MghO0Y9-U1Hg)
-### css
-- [离谱的需求：实现文字二次加粗再加边框](https://mp.weixin.qq.com/s/hOPLxGIsl0oNS2r6-kiVlw)
-- [纯CSS实现科技感十足的流星雨动画](https://mp.weixin.qq.com/s/GYzRc4mJQO43nRaXIOIyuw)
-- [仅使用CSS提高页面渲染速度](https://mp.weixin.qq.com/s/nM_M-B6oDk9PHJkURBKFkA)
-- [好家伙，这些写 CSS 的新姿势你还不知道？](https://mp.weixin.qq.com/s/b1U08_D1oNdOknkj2eZMYw)
 ### other
 + [Promise 竟被他玩出了四十八种花样](https://mp.weixin.qq.com/s/Ln8NTvpH7Yv32Or4dCN0LQ)
 + [动图演示23个鲜为人知的VSCode快捷键](https://mp.weixin.qq.com/s/_awR5iekjJ28IS9TnTPGAw)
@@ -76,29 +71,10 @@ title: 资料包
 + [手把手教你接入前端热门抓包神器 - whistle](https://mp.weixin.qq.com/s/K27yYBzOotAI6C4j4z5cCw)
 + [WebSocket 基础与应用系列（一）](https://mp.weixin.qq.com/s/f96Da8kCluNwv7cxW39gzg)
 + [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
-+ [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
-+ [前端应该学习的Token登录认证知识](https://mp.weixin.qq.com/s/req4kwdVPgtBpkx55gBzMg)
-+ [基于 token 的多平台身份认证架构设计！](https://mp.weixin.qq.com/s/tKlpIj3y9LC_lFtblEJlxQ)
 + [浅谈状态模式和状态机](https://mp.weixin.qq.com/s/vojYXaYZLxUqO9fx2Ea_eA)
-+ [前端鉴权必须了解的 5 个兄弟：cookie、session、token、jwt、单点登录](https://mp.weixin.qq.com/s/vh36oOuFmeIkGfw8HsmG3g)
 - [从零到一实现企业级微前端框架，保姆级教学](https://mp.weixin.qq.com/s/pxkdGbckSjzDtLQsp9FYYQ)
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
 - [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
-- [重构指北——《重构，改善既有代码设计》精读](https://mp.weixin.qq.com/s/M1Z5-KYCq2aEdkZNarcfRg)
-- [前端 Code Review 指北](https://mp.weixin.qq.com/s/yyqGipUGMbfcLmXcQ2QBcA)
-- [超详细Hexo+Github Page搭建技术博客教程（含SEO优化）](https://mp.weixin.qq.com/s/fTAmZfjpuFc9hdeqgrwmkw)
-
-## 项目实践 slide project
-> [app-ideas](https://github.com/florinpop17/app-ideas)
-
-> [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
-
-+ [为了让她10分钟入门canvas，我熬夜写了3个小项目和这篇文章](https://mp.weixin.qq.com/s/m361MkOYvJDP2IFTAtun3g)
-+ [手把手教你写一个脚手架](https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw)
-+ 导航
-+ [手摸手教你docker+jenkins+gitlab部署你的Vue项目](https://mp.weixin.qq.com/s/3Wk2914bKDkkA22mX83dlA)
-+ [手把手教你用 Github Actions 部署前端项目](https://mp.weixin.qq.com/s/mVOBrF-IHY3VVf9eT0IXKA)
-+ [超详细Hexo+Github Page搭建技术博客教程（含SEO优化）](https://mp.weixin.qq.com/s/fTAmZfjpuFc9hdeqgrwmkw)
 
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 
