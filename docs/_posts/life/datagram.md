@@ -12,29 +12,7 @@ title: 资料包
 + [奇舞周刊第 419 期](https://mp.weixin.qq.com/s/npWHlC4ClcSmQEozIzOJ1g)
 + [奇舞周刊第 420 期](https://mp.weixin.qq.com/s/a9Hp7IeKm9lFLFB-RAGv0g)
 + [奇舞周刊第 421 期](https://mp.weixin.qq.com/s/0LzpzCa-vRPqFjLnVrRxqw)
-
-[云栖大会上，阿里巴巴重磅发布前端知识图谱！](https://mp.weixin.qq.com/s/c8WXCTl6wMqd2AJktX7SIg)
-
-## webpack
-[Webpack 性能系列一: 使用 Cache 提升构建性能](https://mp.weixin.qq.com/s/donodOGnyH462dJBYq-Msg)
-
-[[万字总结] 一文吃透 Webpack 核心原理](https://mp.weixin.qq.com/s/RwPozFB6AEZJYadLSIBxNg)
-
-[手把手带你入门前端工程化——超详细教程](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496536&idx=1&sn=add90d3bd6d0be196f32408c2e597224&source=41#wechat_redirect)
-
-[聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496511&idx=1&sn=0aab9dba8bf1d3bc9a1a1680863d9a86&source=41#wechat_redirect)
-
-[实现一个简易的模块打包器](https://mp.weixin.qq.com/s/fkz-aFSKkR_O9hC47eic1g)
-
-[多图详解，一次性搞懂Webpack Loader](https://mp.weixin.qq.com/s/rKmR2m15hIczGCOPHBOzAg)
-
-[一文搞懂Webpack的构建流程](https://mp.weixin.qq.com/s/6bT_oWNtz2BWlSkxProKUw)
-
-[聊聊Webpack Proxy工作原理？为什么能解决跨域?](https://mp.weixin.qq.com/s/7DUGjK04_RtvInDyYP-5-g)
-
-[webpack 构建之 splitChunks 优化与 manifest](https://mp.weixin.qq.com/s/6SlVV7nfBrBg1TBMfQQ_wQ)
-
-[Webpack 原理系列九：Tree-Shaking 实现原理](https://mp.weixin.qq.com/s/3uLyEL3hfytyQ9PiVojIsw)
++ [奇舞周刊第 425 期](https://mp.weixin.qq.com/s/QYC_QVBDu0NM5xGBfnQrag)
 
 ## vim
 [小游戏Vim大冒险](https://vim-adventures.com/)
@@ -75,6 +53,7 @@ title: 资料包
 - [从零到一实现企业级微前端框架，保姆级教学](https://mp.weixin.qq.com/s/pxkdGbckSjzDtLQsp9FYYQ)
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
 - [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
+- [Whistle 实现原理 —— 从 0 开始实现一个抓包工具](https://mp.weixin.qq.com/s/_MGh5MN7RY2coTblMUV6Yg)
 
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 
