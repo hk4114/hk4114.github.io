@@ -31,10 +31,12 @@ title: 资料包
 - [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
 - [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
 - [前端经典面试题 ( 60道前端面试题包含 JS、CSS、React、网络、浏览器、程序题等)](https://mp.weixin.qq.com/s/PI3BVtRdr5MJvlWPzbqZFg)
-
+- [这道题据说面试中只有 5% 的人能讲透彻](https://mp.weixin.qq.com/s/-Y14T007f6hZfQcFiGH-Pw)
+- [时隔一年半，我，一个卑微的前端菜鸡，又来写面经了](https://juejin.cn/post/7036581158670303240)
 # 学习资料包
 
 ## tip
+- [前端体积优化之i18n key压缩](https://mp.weixin.qq.com/s/ERZsQ34_y8MIHOPfGVG53A)
 - [可能是最好的跨域解决方案了](https://mp.weixin.qq.com/s/P2tB9ZlAzTFnsjomwluldA)
 - [Google V8引擎浅析](https://mp.weixin.qq.com/s/8uwzZT_5unzHVY4BMx9htA)
 - [从根本上了解异步编程体系](https://mp.weixin.qq.com/s/q6BfOINeqgm5nffrHu4kQA)
