@@ -29,30 +29,14 @@ title: 资料包
 - [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
 - [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
 - [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
-- [100 行代码实现 Promises/A+ 规范](https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g)
-- [前端经典面试题 ( 60道前端面试题包含 JS、CSS、React、网络、浏览器、程序题等)](https://mp.weixin.qq.com/s/PI3BVtRdr5MJvlWPzbqZFg)
-- [这道题据说面试中只有 5% 的人能讲透彻](https://mp.weixin.qq.com/s/-Y14T007f6hZfQcFiGH-Pw)
-- [时隔一年半，我，一个卑微的前端菜鸡，又来写面经了](https://juejin.cn/post/7036581158670303240)
-# 学习资料包
 
-## tip
-- [前端体积优化之i18n key压缩](https://mp.weixin.qq.com/s/ERZsQ34_y8MIHOPfGVG53A)
-- [可能是最好的跨域解决方案了](https://mp.weixin.qq.com/s/P2tB9ZlAzTFnsjomwluldA)
-- [Google V8引擎浅析](https://mp.weixin.qq.com/s/8uwzZT_5unzHVY4BMx9htA)
-- [从根本上了解异步编程体系](https://mp.weixin.qq.com/s/q6BfOINeqgm5nffrHu4kQA)
-- [一文读懂Axios核心源码思想](https://mp.weixin.qq.com/s/aQSrjClavo2Yiukcauw8SQ)
-- [Git 各指令的本质，真是通俗易懂啊](https://mp.weixin.qq.com/s/mHH81N5s1_Xty20PR18VjA)
-- [meta 标签到底是做什么的，我竟一无所知](https://mp.weixin.qq.com/s/jeDYAbaJe_MghO0Y9-U1Hg)
 ### other
-+ [Promise 竟被他玩出了四十八种花样](https://mp.weixin.qq.com/s/Ln8NTvpH7Yv32Or4dCN0LQ)
-+ [动图演示23个鲜为人知的VSCode快捷键](https://mp.weixin.qq.com/s/_awR5iekjJ28IS9TnTPGAw)
 + [浅析前端异常及降级处理](https://mp.weixin.qq.com/s/hk_2bESNPgKBsl3TM96pVg)
 + [手把手教你利用JS给图片打马赛克](https://mp.weixin.qq.com/s/k28uSyHfq41v8-EUerlFUg)
 + [手把手教你接入前端热门抓包神器 - whistle](https://mp.weixin.qq.com/s/K27yYBzOotAI6C4j4z5cCw)
 + [WebSocket 基础与应用系列（一）](https://mp.weixin.qq.com/s/f96Da8kCluNwv7cxW39gzg)
 + [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
 + [浅谈状态模式和状态机](https://mp.weixin.qq.com/s/vojYXaYZLxUqO9fx2Ea_eA)
-- [从零到一实现企业级微前端框架，保姆级教学](https://mp.weixin.qq.com/s/pxkdGbckSjzDtLQsp9FYYQ)
 - [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
 - [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
 - [Whistle 实现原理 —— 从 0 开始实现一个抓包工具](https://mp.weixin.qq.com/s/_MGh5MN7RY2coTblMUV6Yg)
@@ -61,10 +45,6 @@ title: 资料包
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 
 - [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 - [前后端学习路线](https://doc.code-nav.cn/roadmap)
-
-- 源码
-  + [从未看过源码，到底该如何入手？分享一次完整的源码阅读过程](https://mp.weixin.qq.com/s/OyRm6sku7dOCMD9AAGiXdA)
-  + [clipboard.js 的源码分析](https://mp.weixin.qq.com/s/nsEmDprpeICz_wC3Xu9cPQ)
 
 - 前端路由
   + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
@@ -112,6 +92,7 @@ title: 资料包
 
 - 操作系统
   + [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A) 
+  + [一份前端够用的 Linux 命令](https://mp.weixin.qq.com/s/uMSk9IVbEivqLteF3_Cxdg)
 
 ::: tip
 格式化代码：代码写完的时候格式化一下。
