@@ -3,17 +3,6 @@ title: 资料包
 ---
 在学习过程中，收集的一些学习资源。
 <!-- more -->
-
-+ [奇舞周刊第 413 期](https://mp.weixin.qq.com/s/Mg8wWCf6ir5vFUXFHHirtw)
-+ [奇舞周刊第 414 期](https://mp.weixin.qq.com/s/KgFFnObnQ6j4Wkm8D-GBDw)
-+ [奇舞周刊第 415 期](https://mp.weixin.qq.com/s/ZbNY3TuzwsPQs-0iXvEH6A)
-+ [奇舞周刊第 417 期](https://mp.weixin.qq.com/s/nTDslEkGS8AJdkgxx4a7LQ)
-+ [奇舞周刊第 418 期](https://mp.weixin.qq.com/s/u1WfYlc_iVtdn4nJtijisg)
-+ [奇舞周刊第 419 期](https://mp.weixin.qq.com/s/npWHlC4ClcSmQEozIzOJ1g)
-+ [奇舞周刊第 420 期](https://mp.weixin.qq.com/s/a9Hp7IeKm9lFLFB-RAGv0g)
-+ [奇舞周刊第 421 期](https://mp.weixin.qq.com/s/0LzpzCa-vRPqFjLnVrRxqw)
-+ [奇舞周刊第 425 期](https://mp.weixin.qq.com/s/QYC_QVBDu0NM5xGBfnQrag)
-
 ## vim
 [小游戏Vim大冒险](https://vim-adventures.com/)
 
@@ -33,23 +22,15 @@ title: 资料包
 ### other
 + [浅析前端异常及降级处理](https://mp.weixin.qq.com/s/hk_2bESNPgKBsl3TM96pVg)
 + [手把手教你利用JS给图片打马赛克](https://mp.weixin.qq.com/s/k28uSyHfq41v8-EUerlFUg)
-+ [手把手教你接入前端热门抓包神器 - whistle](https://mp.weixin.qq.com/s/K27yYBzOotAI6C4j4z5cCw)
 + [WebSocket 基础与应用系列（一）](https://mp.weixin.qq.com/s/f96Da8kCluNwv7cxW39gzg)
 + [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
-+ [浅谈状态模式和状态机](https://mp.weixin.qq.com/s/vojYXaYZLxUqO9fx2Ea_eA)
-- [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/v9p9f9Cz_Hetcgn94GuUjw)
-- [保姆级Git入门教程，10000 字详解](https://mp.weixin.qq.com/s/E8RKXCFbymzVB-48HcYQLQ)
 - [Whistle 实现原理 —— 从 0 开始实现一个抓包工具](https://mp.weixin.qq.com/s/_MGh5MN7RY2coTblMUV6Yg)
-
++ [手把手教你接入前端热门抓包神器 - whistle](https://mp.weixin.qq.com/s/K27yYBzOotAI6C4j4z5cCw)
++ [就因为这三个知识点，我彻底学废了”正则表达式“](https://mp.weixin.qq.com/s?__biz=MzI4ODYzOTk1OQ==&mid=2247485102&idx=1&sn=bf5f6503848ed6f6a3158a99e21498e9&scene=21#wechat_redirect)
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 
 - [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 - [前后端学习路线](https://doc.code-nav.cn/roadmap)
-
-- 前端路由
-  + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
-  + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
-  + [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
 
 - Axios
   + [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/5ypx39bWK6JO6xPyeBfgMw)
@@ -59,6 +40,20 @@ title: 资料包
   + [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
   + [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
   + [你不知道的 TypeScript 泛型](https://mp.weixin.qq.com/s/WtTOxHKbegZHAcYopgYTrw)
+
+- 前端路由
+  + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
+  + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
+  + [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
+
+- 浏览器原理
+  + [现代浏览器内部揭秘之一](https://mp.weixin.qq.com/s/P61P1gNtZWkiY-rfxoR4BQ)
+  + [现代浏览器内部揭秘之二](https://mp.weixin.qq.com/s/0Hn7Xte09cdIBCnBxi4HBg)
+  + [现代浏览器内部揭秘之三](https://mp.weixin.qq.com/s/vY1rYHwNAFiFQ9CgbKZ14w)
+  + [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
+  + [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
+  + [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg)
+  + [浏览器渲染之回流重绘](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247486360&idx=1&sn=2a3bf840f293671d03a70125ff7a6454&source=41#wechat_redirect)
 
 - vue
   + [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
@@ -75,15 +70,7 @@ title: 资料包
 
 - 上传
   + [大文件上传如何做断点续传](https://mp.weixin.qq.com/s/2PtApXggxAcHaLBEZDOuOQ)
-  + [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig) 
-
-- 浏览器原理
-  + [现代浏览器内部揭秘之一](https://mp.weixin.qq.com/s/P61P1gNtZWkiY-rfxoR4BQ)
-  + [现代浏览器内部揭秘之二](https://mp.weixin.qq.com/s/0Hn7Xte09cdIBCnBxi4HBg)
-  + [现代浏览器内部揭秘之三](https://mp.weixin.qq.com/s/vY1rYHwNAFiFQ9CgbKZ14w)
-  + [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
-  + [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
-  + [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg) 
+  + [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig)  
 
 - 网络协议
   + [为什么这么设计系列文章](https://draven.co/whys-the-design/)
