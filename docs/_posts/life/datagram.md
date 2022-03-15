@@ -32,28 +32,10 @@ title: 资料包
 - [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 - [前后端学习路线](https://doc.code-nav.cn/roadmap)
 
-- Axios
-  + [Axios 如何取消重复请求？](https://mp.weixin.qq.com/s/5ypx39bWK6JO6xPyeBfgMw)
-  + [Axios 如何实现请求重试？](https://mp.weixin.qq.com/s/JENETARM8hJSqwR80iopvA) 
-
-- typescript
-  + [TS 学习指南，从零学到熟练](https://mp.weixin.qq.com/s/Zxu6CQBwdBXGAd-D-UtVhQ)
-  + [你需要知道的 TypeScript 高级类型](https://mp.weixin.qq.com/s/yzdeYmlkszplTPAeyixaBQ)
-  + [你不知道的 TypeScript 泛型](https://mp.weixin.qq.com/s/WtTOxHKbegZHAcYopgYTrw)
-
 - 前端路由
   + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
   + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
   + [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
-
-- 浏览器原理
-  + [现代浏览器内部揭秘之一](https://mp.weixin.qq.com/s/P61P1gNtZWkiY-rfxoR4BQ)
-  + [现代浏览器内部揭秘之二](https://mp.weixin.qq.com/s/0Hn7Xte09cdIBCnBxi4HBg)
-  + [现代浏览器内部揭秘之三](https://mp.weixin.qq.com/s/vY1rYHwNAFiFQ9CgbKZ14w)
-  + [浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Global_and_incremental_layout)
-  + [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
-  + [网页渲染性能优化 —— 渲染原理](https://mp.weixin.qq.com/s/LE6MYT6ufALYroe5pwmqeg)
-  + [浏览器渲染之回流重绘](https://mp.weixin.qq.com/s?__biz=Mzg3NTcwMTUzNA==&mid=2247486360&idx=1&sn=2a3bf840f293671d03a70125ff7a6454&source=41#wechat_redirect)
 
 - vue
   + [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
