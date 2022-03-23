@@ -3,15 +3,6 @@ title: 资料包
 ---
 在学习过程中，收集的一些学习资源。
 <!-- more -->
-## vim
-[小游戏Vim大冒险](https://vim-adventures.com/)
-
-[配置文件](https://github.com/MarsWang42/My-Vim-Conf)
-
-[VimAwesome网站](https://vimawesome.com/)
-
-[Vim Plug Github页面](https://github.com/junegunn/vim-plug)
-
 ## 面试
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 - [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
@@ -20,7 +11,6 @@ title: 资料包
 - [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
 
 ### other
-+ [浅析前端异常及降级处理](https://mp.weixin.qq.com/s/hk_2bESNPgKBsl3TM96pVg)
 + [手把手教你利用JS给图片打马赛克](https://mp.weixin.qq.com/s/k28uSyHfq41v8-EUerlFUg)
 + [WebSocket 基础与应用系列（一）](https://mp.weixin.qq.com/s/f96Da8kCluNwv7cxW39gzg)
 + [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
@@ -29,21 +19,12 @@ title: 资料包
 + [就因为这三个知识点，我彻底学废了”正则表达式“](https://mp.weixin.qq.com/s?__biz=MzI4ODYzOTk1OQ==&mid=2247485102&idx=1&sn=bf5f6503848ed6f6a3158a99e21498e9&scene=21#wechat_redirect)
 ## 知识体系
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 
-- [中文版](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
 - [前后端学习路线](https://doc.code-nav.cn/roadmap)
-
-- 前端路由
-  + [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
-  + [一篇文章搞懂前端路由原理解析和实现方式](https://mp.weixin.qq.com/s/Xh684JdDlpyzuPy6VZQRXQ)
-  + [面试官：说说你对SPA（单页应用）的理解?](https://mp.weixin.qq.com/s/uDM-JmuZ6Ssdho81LEoK9w)
 
 - vue
   + [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
   + [面试官：聊聊对Vue.js框架的理解](https://mp.weixin.qq.com/s/0iciStnbCNM8haGSJbyEQA)
-  + [一篇文章上手Vue3中新增的API](https://mp.weixin.qq.com/s/aAZ_7vzLufDfBAf5mxuY0Q)
   + [一文让你30分钟快速掌握Vue3](https://mp.weixin.qq.com/s/tME3wwPXTtv4DTDGLsvtLw)
-  + [import { reactive } from 'vue'](https://mp.weixin.qq.com/s/hy-YS2JTXOcYCynScYhetw)
-  + [关于 Vue 3.0 你需要了解些什么](https://mp.weixin.qq.com/s/uOV89MDInEROodn51f9e4A) 
 
 - nodejs
   + [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
