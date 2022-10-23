@@ -76,3 +76,30 @@ vssue: false
 - [高教 教科书](https://ebook.hep.com.cn/ebooks/index.html#/)
 - [裁判文书网](https://wenshu.court.gov.cn/)
 - [医学微视](https://www.mvyxws.com/?from=timeline&isappinstalled=0)
+
+
+[国家统计局官网](http://www.stats.gov.cn/)
+
+[国家数字图书馆](http://www.nlc.cn/)
+
+[国家邮政局申诉网站](https://sswz.spb.gov.cn/) 快递申诉
+
+[外文局出品](http://tppckte.org.cn/) 权威发布各种重要概念热点词汇
+
+[工信部，申诉运营商](https://yhssglxt.miit.gov.cn/web)
+
+[裁判文书网](https://wenshu.court.gov.cn/)
+
+[即时工具 ：在线工具箱](https://www.67tool.com/)
+
+[crashcourse](https://crashcourse.club/)
+
+[信用信息公示系统-查企业](https://www.gsxt.gov.cn/index.html)
+  
+[合同示范文本](https://cont.12315.cn/)
+
+[标准地图服务](http://bzdt.ch.mnr.gov.cn/)
+ 
+[终身教育平台](https://le.ouchn.cn/home)
+
+[孔夫子旧书网](https://www.kongfz.com/)
