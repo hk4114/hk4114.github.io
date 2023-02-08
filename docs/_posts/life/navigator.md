@@ -62,6 +62,9 @@ vssue: false
 - [Huli's Blog](https://github.com/aszx87410/blog)
 - [google developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 - [samanthaming 前端外网](https://www.samanthaming.com/)
+- [hacker-news](http://www.daemonology.net/hn-daily/)
+- [News and podcasts for developers](https://changelog.com/)
+- [Frontend Focus](https://frontendfoc.us/)
 
 ### 上课
 - [coursera](https://www.coursera.org/)
