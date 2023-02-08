@@ -19,6 +19,10 @@ vssue: false
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [processon](https://www.processon.com/)
 
+### vpn
+- [sockboom](https://sockboom.ac/user/)
+- [shadowfly](https://leensa.us/)
+
 ### 导航类
 - [编程导航](https://www.code-nav.cn/recommend)
 - [KuangStudy 编程学习资料](https://www.kuangstudy.com/course)
@@ -36,6 +40,8 @@ vssue: false
 - [B站](https://www.bilibili.com/)
 - [小森林](http://www.xsldh6.com/)
 - [电影 ikanbot](https://www.ikanbot.com/)
+- [低端影视](https://ddys.art/)
+- [曲奇动漫](https://www.quqidm.com/)
 
 ### 专栏类
 - [少数派](https://sspai.com/)
@@ -57,18 +63,16 @@ vssue: false
 - [google developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
 - [samanthaming 前端外网](https://www.samanthaming.com/)
 
+### 上课
+- [coursera](https://www.coursera.org/)
+- [crashcourse](https://crashcourse.club/category/)
+- [leetcode cn](https://leetcode-cn.com)
+
 ### 代码仓库
 - [github](https://github.com/)
 - [码云](https://gitee.com/)
 - [npmjs](https://www.npmjs.com/)
 - [codepen](https://codepen.io/)
-
-### 刷题
-- [leetcode cn](https://leetcode-cn.com)
-
-### 上课
-- [coursera](https://www.coursera.org/)
-- [crashcourse](https://crashcourse.club/category/)
 
 ### 政府相关
 
