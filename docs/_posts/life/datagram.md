@@ -43,27 +43,3 @@ title: 资料包
 - 操作系统
   + [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A) 
   + [一份前端够用的 Linux 命令](https://mp.weixin.qq.com/s/uMSk9IVbEivqLteF3_Cxdg)
-
-::: tip
-格式化代码：代码写完的时候格式化一下。
-
-在 Windows 上：Shift + Alt + F
-
-在 Mac 上：Shift + Option + F
-
-单词选中
-
-在 Windows 上：Ctrl+ d
-
-在 Mac 上： Command + d
-
-如果你多次点击此快捷键，将会选中多个相同的关键字。
-
-在文件中进行行跳转，你可以使用Ctrl + G ，然后输入要跳转的行号，当然，你也可以使用Ctrl + P，然后输入：和要跳转的行号。
-
-添加多个光标
-
-Ctrl + Alt + Up/Down
-
-home/end 行首行尾
-:::
