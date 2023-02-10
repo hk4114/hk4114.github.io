@@ -13,7 +13,6 @@ title: 资料包
 ### other
 + [手把手教你利用JS给图片打马赛克](https://mp.weixin.qq.com/s/k28uSyHfq41v8-EUerlFUg)
 + [WebSocket 基础与应用系列（一）](https://mp.weixin.qq.com/s/f96Da8kCluNwv7cxW39gzg)
-+ [谈谈前端水印](https://mp.weixin.qq.com/s/82GLVmYSTIF31yhjCeNCJQ)
 - [Whistle 实现原理 —— 从 0 开始实现一个抓包工具](https://mp.weixin.qq.com/s/_MGh5MN7RY2coTblMUV6Yg)
 + [手把手教你接入前端热门抓包神器 - whistle](https://mp.weixin.qq.com/s/K27yYBzOotAI6C4j4z5cCw)
 + [就因为这三个知识点，我彻底学废了”正则表达式“](https://mp.weixin.qq.com/s?__biz=MzI4ODYzOTk1OQ==&mid=2247485102&idx=1&sn=bf5f6503848ed6f6a3158a99e21498e9&scene=21#wechat_redirect)
