@@ -4,8 +4,6 @@ title: 资料包
 在学习过程中，收集的一些学习资源。
 <!-- more -->
 ## 面试
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
-- [面试集锦](https://yuchengkai.cn/docs/zh/frontend/)
 - [H5 问题](https://github.com/suoyuesmile/suo-blog/blob/master/articals/h5/0003.md)
 - [104道 CSS 面试题，助你查漏补缺（上）](https://mp.weixin.qq.com/s/WdyvUonsn3vhrlKT3cxtBA)
 - [104道 CSS 面试题，助你查漏补缺（下）](https://mp.weixin.qq.com/s/CQBrtmd12BPIG35ER2SY-g)
@@ -16,6 +14,8 @@ title: 资料包
 - [Whistle 实现原理 —— 从 0 开始实现一个抓包工具](https://mp.weixin.qq.com/s/_MGh5MN7RY2coTblMUV6Yg)
 + [手把手教你接入前端热门抓包神器 - whistle](https://mp.weixin.qq.com/s/K27yYBzOotAI6C4j4z5cCw)
 + [就因为这三个知识点，我彻底学废了”正则表达式“](https://mp.weixin.qq.com/s?__biz=MzI4ODYzOTk1OQ==&mid=2247485102&idx=1&sn=bf5f6503848ed6f6a3158a99e21498e9&scene=21#wechat_redirect)
+
+
 ## 知识体系
 - 网络协议
   + [为什么这么设计系列文章](https://draven.co/whys-the-design/)
