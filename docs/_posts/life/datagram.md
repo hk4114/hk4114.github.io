@@ -17,23 +17,6 @@ title: 资料包
 + [手把手教你接入前端热门抓包神器 - whistle](https://mp.weixin.qq.com/s/K27yYBzOotAI6C4j4z5cCw)
 + [就因为这三个知识点，我彻底学废了”正则表达式“](https://mp.weixin.qq.com/s?__biz=MzI4ODYzOTk1OQ==&mid=2247485102&idx=1&sn=bf5f6503848ed6f6a3158a99e21498e9&scene=21#wechat_redirect)
 ## 知识体系
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) 
-- [前后端学习路线](https://doc.code-nav.cn/roadmap)
-
-- vue
-  + [Vue最全知识点](https://mp.weixin.qq.com/s/pLrFBt4qhLtBLp2Eot87YA)
-  + [面试官：聊聊对Vue.js框架的理解](https://mp.weixin.qq.com/s/0iciStnbCNM8haGSJbyEQA)
-  + [一文让你30分钟快速掌握Vue3](https://mp.weixin.qq.com/s/tME3wwPXTtv4DTDGLsvtLw)
-
-- nodejs
-  + [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/Ar88pQ5_d60SDdQPYE4I9g)
-  + [彻底搞懂 Node.js 中的 Require 机制(源码分析到手写实践)](https://mp.weixin.qq.com/s/l_KycE79iCokzFUJNm1obQ) 
-  + [Node.js 底层原理](https://mp.weixin.qq.com/s/PyNmwzT3IornUAYTc9H07g)
-
-- 上传
-  + [大文件上传如何做断点续传](https://mp.weixin.qq.com/s/2PtApXggxAcHaLBEZDOuOQ)
-  + [一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://mp.weixin.qq.com/s/73PsziiS-bgykb7Vdtm4ig)  
-
 - 网络协议
   + [为什么这么设计系列文章](https://draven.co/whys-the-design/)
   + [网络应用如何工作：HTTP和服务器](https://mp.weixin.qq.com/s/wlaWaghwj6i4KsAg0ItKJw)
@@ -41,4 +24,3 @@ title: 资料包
 
 - 操作系统
   + [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A) 
-  + [一份前端够用的 Linux 命令](https://mp.weixin.qq.com/s/uMSk9IVbEivqLteF3_Cxdg)
