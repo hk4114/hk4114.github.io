@@ -15,6 +15,9 @@ vssue: false
 [华为沙箱实验室](https://lab.huaweicloud.com/)
 
 [腾讯动手实验室](https://cloud.tencent.com/developer/labs/gallery)
+
+[exercism](https://exercism.org/)
+
 ### 其他
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [processon](https://www.processon.com/)
@@ -54,8 +57,6 @@ vssue: false
 - [hacker-news](http://www.daemonology.net/hn-daily/)
 - [News and podcasts for developers](https://changelog.com/)
 - [Frontend Focus](https://frontendfoc.us/)
-
-### 上课
 - [coursera](https://www.coursera.org/)
 - [crashcourse](https://crashcourse.club/category/)
 - [leetcode cn](https://leetcode-cn.com)
