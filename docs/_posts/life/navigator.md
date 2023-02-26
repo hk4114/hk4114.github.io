@@ -6,7 +6,7 @@ vssue: false
 ---
 
 <!-- more -->
-[自学sql网](http://www.xuesql.cn/)
+[exercism](https://exercism.org/)
 
 [阿里云知行动手实验室](https://start.aliyun.com/)
 
@@ -15,8 +15,6 @@ vssue: false
 [华为沙箱实验室](https://lab.huaweicloud.com/)
 
 [腾讯动手实验室](https://cloud.tencent.com/developer/labs/gallery)
-
-[exercism](https://exercism.org/)
 
 ### 其他
 - [鸠摩搜书](https://www.jiumodiary.com/)
@@ -28,7 +26,7 @@ vssue: false
 
 ### 导航类
 - [编程导航](https://www.code-nav.cn/recommend)
-- [KuangStudy 编程学习资料](https://www.kuangstudy.com/course)
+- 
 - [极客导航](http://geekdocs.cn/)
 - [设计导航](http://hao.shejidaren.com/)
 - [前端工具](http://frontendtools.com/)
@@ -40,26 +38,21 @@ vssue: false
 - [s1](https://bbs.saraba1st.com)
 
 ### 影视资源
-- [B站](https://www.bilibili.com/)
-- [小森林](http://www.xsldh6.com/)
 - [电影 ikanbot](https://www.ikanbot.com/)
 - [低端影视](https://ddys.art/)
 - [曲奇动漫](https://www.quqidm.com/)
 
 ### 专栏类
+- [dev.to](https://dev.to/)
+- [hacker-news](http://www.daemonology.net/hn-daily/)
+- [Frontend Focus](https://frontendfoc.us/)
+- [medium](https://medium.com/)
 - [少数派](https://sspai.com/)
 - [segmentfault](https://segmentfault.com/)
 - [掘金](https://juejin.im/)
 - [语雀](https://www.yuque.com/)
 - [机器之心](https://www.jiqizhixin.com)
-- [medium](https://medium.com/)
-- [dev.to](https://dev.to/)
-- [hacker-news](http://www.daemonology.net/hn-daily/)
 - [News and podcasts for developers](https://changelog.com/)
-- [Frontend Focus](https://frontendfoc.us/)
-- [coursera](https://www.coursera.org/)
-- [crashcourse](https://crashcourse.club/category/)
-- [leetcode cn](https://leetcode-cn.com)
 
 ### 代码仓库
 - [github](https://github.com/)
@@ -88,6 +81,9 @@ vssue: false
 [信用信息公示系统-查企业](https://www.gsxt.gov.cn/index.html)
 
 ### 学习资料
+[crashcourse](https://crashcourse.club/category/)
+
+[KuangStudy 编程学习资料](https://www.kuangstudy.com/course)
 
 [外文局出品](http://tppckte.org.cn/) 权威发布各种重要概念热点词汇
 
