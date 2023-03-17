@@ -224,3 +224,9 @@ Wechaty 是一个聊天机器人开源项目，提供了开发聊天机器人的
 - 通过 Railway 进行部署
 - 实现 OpenAI 账户池的热加载
 - 当 OpenAI 返回码为 429/503 时自动重试
+
+[chatpdf](https://www.chatpdf.com/) 导入 PDF 就能 QA PDF 里的内容了
+
+https://chrome.google.com/webstore/detail/chatgpt-sidebar/difoiogjjojoaoomphldepapgpbgkhkb，快速呼出 chatgpt，已经预制了不少 prompt
+
+[carrot ChatGPT镜像站点](https://github.com/xx025/carrot)
