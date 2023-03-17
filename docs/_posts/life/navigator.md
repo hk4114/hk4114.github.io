@@ -192,6 +192,8 @@ Amis 是百度开源的一块前端低代码框架，通过 JSON 配置就能生
 
 体验地址：https://lowcode-engine.cn/demo/demo-general/index.html
 
+5. [基于HTML的可视化编辑器 rxdrag](https://github.com/waterlrx/rxdrag)
+
 ## AI相关
 [GPT-3 Demo](https://gpt3demo.com/map)
 
