@@ -192,22 +192,22 @@ Amis 是百度开源的一块前端低代码框架，通过 JSON 配置就能生
 
 体验地址：https://lowcode-engine.cn/demo/demo-general/index.html
 
+<<<<<<< HEAD
 5. [基于HTML的可视化编辑器 rxdrag](https://github.com/waterlrx/rxdrag)
 
 ## AI相关
+=======
+## AI 相关
+>>>>>>> ac58a75c5caf8bf0362c251047b8d1f2c842bc2a
 [GPT-3 Demo](https://gpt3demo.com/map)
 
 网站收集了很多 GPT-3 的各个应用网站。看多了使用场景，让 AI 赋能，解放生产力。
-
-[BiliGPT](https://b.jimmylv.cn/)
-
-烧钱省流，AI自动总结B站视频内容 
 
 [十分钟内，用 Serverless 构建自己的“ChatGPT”](https://mp.weixin.qq.com/s/nH3MuVZEHI7YC-nup28GUA)
 
 [ChatGPT API ](https://github.com/transitive-bullshit/chatgpt-api)
 
-一个非官方 ChatGPT API 的 Node.js 客户端，主可以使用它来构建由 ChatGPT 支持的项目，例如聊天机器人、网站等。
+一个非官方 ChatGPT API 的 Node.js 客户端，可以使用它来构建由 ChatGPT 支持的项目，例如聊天机器人、网站等。
 
 [wechat-bot](https://github.com/wangrongding/wechat-bot)
 
@@ -229,10 +229,14 @@ Wechaty 是一个聊天机器人开源项目，提供了开发聊天机器人的
 
 [chatpdf](https://www.chatpdf.com/) 导入 PDF 就能 QA PDF 里的内容了
 
-https://chrome.google.com/webstore/detail/chatgpt-sidebar/difoiogjjojoaoomphldepapgpbgkhkb，快速呼出 chatgpt，已经预制了不少 prompt
+https://chrome.google.com/webstore/detail/chatgpt-sidebar/difoiogjjojoaoomphldepapgpbgkhkb
+
+快速呼出 chatgpt，已经预制了不少 prompt
 
 [carrot ChatGPT镜像站点](https://github.com/xx025/carrot)
 
 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) 语言模型
 
 [chatgpt-web](https://github.com/869413421/chatgpt-web) api 应用
+
+[ChatGPT分享-如何开发一个LLM应用 ｜得物技术](https://mp.weixin.qq.com/s/A8LfEDhL7GlqJdttgNfeJA)
