@@ -232,3 +232,7 @@ Wechaty 是一个聊天机器人开源项目，提供了开发聊天机器人的
 https://chrome.google.com/webstore/detail/chatgpt-sidebar/difoiogjjojoaoomphldepapgpbgkhkb，快速呼出 chatgpt，已经预制了不少 prompt
 
 [carrot ChatGPT镜像站点](https://github.com/xx025/carrot)
+
+[ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) 语言模型
+
+[chatgpt-web](https://github.com/869413421/chatgpt-web) api 应用
