@@ -15,8 +15,8 @@ Mine Weekly Special Edition.
 
 [[toc]]
 
+> 日刊：https://juejin.cn/user/554605767047053
 
-> https://juejin.cn/user/554605767047053 周刊
 
 ## ChatGPT 镜像
 > [carrot]https://github.com/xx025/carrot 
@@ -24,17 +24,26 @@ Mine Weekly Special Edition.
 ## 提效工具
 > 提升 ChatGPT 使用效率
 
-### [open prompt](https://openprompt.co/)
+### open prompt
+链接：https://openprompt.co/
 
 网站可以提交、保存、查看生成式 AI 引擎的常用提示语。
 
-### [ChatGPT-Shortcut](https://newzone.top/chatgpt)
+### ChatGPT-Shortcut
+链接: https://newzone.top/chatgpt
 
 众所周知，我们可以通过优化提示词，使 ChatGPT 生成更加准确、有用的回复。
 
 该项目就整理汇总了多种 ChatGPT 快捷指令，按照领域和功能分区，对提示词（Prompt）进行标签筛选、关键词搜索和一键复制。
 
 项目地址: https://github.com/rockbenben/ChatGPT-Shortcut
+
+### OpenGpt
+链接：https://open-gpt.app/
+
+预设了部分问题，可以直接开始使用。
+
+项目地址：https://github.com/futantan/OpenGpt
 
 
 ## 同类产品
@@ -90,6 +99,21 @@ Mine Weekly Special Edition.
 
 项目地址：https://github.com/869413421/chatgpt-web
 
+### ⭐ chatgpt-web 本地部署项目
+用 Express 和 Vue3 搭建的 ChatGPT 演示网页
+
+项目地址：https://github.com/Chanzhaoyu/chatgpt-web
+
+### yu-auto-reply [Java]
+基于 Java Spring Boot 的平台监控及自动回复工具，支持灵活地配置多个监控任务，支持一键部署！
+
+项目地址：https://github.com/liyupi/yu-auto-reply
+
+### chatgpt-wechat
+可在微信 安全使用的 ChatGPT 个人助手应用
+
+项目地址：https://github.com/whyiyhw/chatgpt-wechat
+
 ### ChatGPT API 非官方
 一个非官方 ChatGPT API 的 Node.js 客户端，主要可以使用它来构建由 ChatGPT 支持的项目，例如聊天机器人、网站等。
 
@@ -100,7 +124,7 @@ Mine Weekly Special Edition.
 - [使用 ChatGPT 、Stable Diffuison、React和NodeJS构建网站图库](https://mp.weixin.qq.com/s/13RSjkuxzyNunI1Nb2lvPw)
 - [ChatGPT注册保姆级教程及接入飞书详细步骤](https://juejin.cn/post/7201132695623073847)
 - [公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
-
+- [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
 
 ## ChatGPT 插件系统 全新生态
 
@@ -114,3 +138,16 @@ Mine Weekly Special Edition.
 - 需要先申请进入 wait list，等通过才能使用
 
 项目地址：https://github.com/openai/chatgpt-retrieval-plugin
+
+### Cursor 集成了 GPT-4 的编辑器
+地址：[cursor](https://www.cursor.so/)
+
+最佳使用姿势是，将 Cursor 与主流编辑器配合起来用，可以用来生成、重构、debug、解释代码等等！
+
+
+### ChatPaper 速读 PDF 和刷 ArXiv 论文
+在线体验：https://huggingface.co/spaces/wangrongsheng/ChatPaper
+
+安装和使用教程：https://zhuanlan.zhihu.com/p/613055271
+
+项目地址：https://github.com/kaixindelele/ChatPaper
