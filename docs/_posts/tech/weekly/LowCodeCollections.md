@@ -42,3 +42,6 @@ Amis 是百度开源的一块前端低代码框架，通过 JSON 配置就能生
 
 
 7. [appsmith](https://github.com/appsmithorg/appsmith)
+
+
+8. [基于HTML的可视化编辑器 rxdrag](https://github.com/waterlrx/rxdrag)

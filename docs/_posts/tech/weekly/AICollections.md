@@ -3,7 +3,7 @@ title: AI Collections
 category: 技术
 tags:
   - Mine Weekly
-date: 2023-03-25
+date: 2023-3-25
 vssue: true
 ---
 
@@ -121,25 +121,6 @@ Mine Weekly Special Edition.
 
 项目地址：https://github.com/binary-husky/chatgpt_academic ​​​
 
-## 接入 ChatGPT 的文章教程
-- [使用 ChatGPT 、Stable Diffuison、React和NodeJS构建网站图库](https://mp.weixin.qq.com/s/13RSjkuxzyNunI1Nb2lvPw)
-- [ChatGPT注册保姆级教程及接入飞书详细步骤](https://juejin.cn/post/7201132695623073847)
-- [公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
-- [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
-
-## ChatGPT 插件系统 全新生态
-
-### ⭐ ChatGPT 插件系统详细介绍
-> https://githubdaily.gitee.io/posts/2023-03-24-chatgpt-plugin-system/
-
-亮点：
-- 已接入订机票、交通导航、企业办公等插件
-- OpenAI 开发了两款插件（浏览 Web 信息与代码解释器）
-- OpenAI 在 GitHub 开源了插件 Demo（Retrieval）
-- 需要先申请进入 wait list，等通过才能使用
-
-项目地址：https://github.com/openai/chatgpt-retrieval-plugin
-
 ### Cursor 集成了 GPT-4 的编辑器
 地址：[cursor](https://www.cursor.so/)
 
@@ -163,3 +144,23 @@ Mine Weekly Special Edition.
 项目仍在开发中，部分功能不是很全。
 
 项目地址：https://github.com/GerevAI/gerev ​​​
+
+## 接入 ChatGPT 的文章教程
+- [使用 ChatGPT 、Stable Diffuison、React和NodeJS构建网站图库](https://mp.weixin.qq.com/s/13RSjkuxzyNunI1Nb2lvPw)
+- [ChatGPT注册保姆级教程及接入飞书详细步骤](https://juejin.cn/post/7201132695623073847)
+- [公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
+- [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
+
+## ChatGPT 插件系统 全新生态
+
+### ⭐ ChatGPT 插件系统详细介绍
+> https://githubdaily.gitee.io/posts/2023-03-24-chatgpt-plugin-system/
+
+亮点：
+- 已接入订机票、交通导航、企业办公等插件
+- OpenAI 开发了两款插件（浏览 Web 信息与代码解释器）
+- OpenAI 在 GitHub 开源了插件 Demo（Retrieval）
+- 需要先申请进入 wait list，等通过才能使用
+
+项目地址：https://github.com/openai/chatgpt-retrieval-plugin
+
