@@ -116,6 +116,10 @@ Mine Weekly Special Edition.
 
 项目地址：https://github.com/transitive-bullshit/chatgpt-api
 
+### chatgpt academic ​​​中科院科研工作专用
+特别优化了学术 Paper 润色体验，支持自定义快捷按钮，支持 markdown 表格显示，Tex 公式双显示，代码显示功能完善，新增本地 Python 工程剖析功能 / 自我剖析功能。
+
+项目地址：https://github.com/binary-husky/chatgpt_academic ​​​
 
 ## 接入 ChatGPT 的文章教程
 - [使用 ChatGPT 、Stable Diffuison、React和NodeJS构建网站图库](https://mp.weixin.qq.com/s/13RSjkuxzyNunI1Nb2lvPw)
@@ -141,6 +145,10 @@ Mine Weekly Special Edition.
 
 最佳使用姿势是，将 Cursor 与主流编辑器配合起来用，可以用来生成、重构、debug、解释代码等等！
 
+该编辑器是最早一个集成 GPT-4 的代码编辑器，前阵子还看到有人利用它来间接使用 GPT-4 的功能，不过不久前，Cursor 已移除了 GPT-4 的支持。
+
+项目地址：https://github.com/getcursor/cursor
+
 
 ### ChatPaper 速读 PDF 和刷 ArXiv 论文
 在线体验：https://huggingface.co/spaces/wangrongsheng/ChatPaper
@@ -148,3 +156,10 @@ Mine Weekly Special Edition.
 安装和使用教程：https://zhuanlan.zhihu.com/p/613055271
 
 项目地址：https://github.com/kaixindelele/ChatPaper
+
+### gerev.ai 日常办公搜索引擎
+该工具基于 ChatGPT 能力，可在几秒内找到任何聊天记录、文档或代码片段。
+
+项目仍在开发中，部分功能不是很全。
+
+项目地址：https://github.com/GerevAI/gerev ​​​
