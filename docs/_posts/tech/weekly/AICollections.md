@@ -19,7 +19,7 @@ Mine Weekly Special Edition.
 
 
 ## ChatGPT 镜像
-> [carrot]https://github.com/xx025/carrot 
+> 国内也可以访问 [carrot] https://github.com/xx025/carrot 
 
 ## 提效工具
 > 提升 ChatGPT 使用效率
@@ -57,10 +57,12 @@ Mine Weekly Special Edition.
 
 ## 收集类
 [AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One)
+
 项目整理了一些 ChatGPT 以及 AI 相关的生产力工具。
 覆盖了文件处理、工作优化、邮箱助手、求职面试、写作工具、文案生成、PPT 生成、图像生成、聊天机器人等应用领域。
 
 [gpt3demo](https://gpt3demo.com/map)
+
 网站收集了很多 GPT-3 的各个应用网站。看多了使用场景，让 AI 赋能，解放生产力。
 
 
@@ -76,11 +78,6 @@ Mine Weekly Special Edition.
 提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。
 
 项目地址：https://github.com/mayooear/gpt4-pdf-chatbot-langchain
-
-### Open Gpt - 快速搭建 ChatGPT 应用
-一个可以让你快速尝试各种 ChatGPT 应用的开源项目。借助这个项目，你还能在几秒钟内创建属于自己的应用。 
-
-项目地址：https://github.com/futantan/OpenGpt
 
 ### WeChat Bot 微信机器人
 一个基于 OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸好友等。
