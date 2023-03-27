@@ -45,6 +45,8 @@ Mine Weekly Special Edition.
 
 项目地址：https://github.com/futantan/OpenGpt
 
+### flowgpt
+链接：https://flowgpt.com/
 
 ## 同类产品
 
