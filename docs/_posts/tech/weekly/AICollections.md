@@ -166,7 +166,56 @@ Mine Weekly Special Edition.
 
 项目地址：https://github.com/openai/chatgpt-retrieval-plugin
 
+### Copilot X
+Copilot Chat = Copilot + ChatGPT
 
+GitHub Copilot X 申请使用教程
+1. 注册 GitHub 账号 https://github.com/signup
+2. 申请试用
+Copilot Chat: https://github.com/github-copilot/chat_waitlist_signup/
+
+Copilot Voice: https://githubnext.com/projects/copilot-voice/
+
+Copilot for Docs: https://githubnext.com/projects/copilot-for-docs/
+
+Copilot for PRs: https://githubnext.com/projects/copilot-for-pull-requests/
+
+Copilot CLI: https://githubnext.com/projects/copilot-cli/
+
+3. 安装代码编辑器。如 Visual Studio Code、Microsoft Visual Studio、JetBrains 等
+4. 安装 GitHub Copilot 插件。
+以 Visual Studio Code 为例（下载 VS Code https://code.visualstudio.com/）
+
+进入 VS Code 的 Extensions 面板（快捷键 Ctrl+Shift+X），在搜索框中输入“GitHub Copilot”并回车，在搜索结果中找到“GitHub Copilot”插件并选择相应的插件点击安装。 
+5. 登录 GitHub 账号：安装完成后，单击 VS Code 底部状态栏中的 GitHub Copilot 图标，进入 GitHub Copilot 面板。首次使用需要登录 GitHub 账户，可以选择使用 GitHub 账户登录或者输入 Personal Access Token 登录。
+6. 使用 GitHub Copilot 插件：在编辑器中输入关键字或者语句时，GitHub Copilot 会自动出现一个提示框，用户可以选择其中的建议代码或者继续输入以获得更多的建议。用户可以通过快捷键或者命令面板启动 GitHub Copilot，具体方法可以查看编辑器插件的帮助文档。
+7. 确认和编辑代码：GitHub Copilot 生成的代码不一定完全符合用户的需求，因此用户需要对生成的代码进行确认和编辑。用户可以通过按下回车键或者 Tab 键来接受或者拒绝 GitHub Copilot 的建议代码，也可以手动编辑代码以符合自己的需求。
+8. Copilot 也提供了一些快捷键，可以很方便地使用。
+  - 接受建议：`Tab`
+  - 拒绝建议：`Esc`
+  - 打开 Copilot：`Ctrl + Enter` （会打开一个单独的面板，展示 10 个建议）
+  - 下一条建议：`Alt/Option + ]`
+  - 上一条建议：`Alt/Option + [`
+  - 触发行内 Copilot：`Alt/Option + \` （Coplit 还没有给出建议或者建议被拒绝了，希望手工触发它提供建议）
+
+一些使用技巧:
+- 确定上下文：在使用 Copilot X 之前，需要确定当前需要编写的代码的上下文，包括编程语言、函数、类等等。这样可以帮助 Copilot X 更好地理解你的需求，从而生成更准确的代码。
+- 使用良好的注释：在编写代码时，建议使用良好的注释，这可以帮助 Copilot X 更好地理解你的代码，从而生成更准确的代码。
+- 给出明确的指令：在使用 Copilot X 时，需要给出明确的指令，比如输入函数名、变量名等等。这样可以帮助 Copilot X 更好地理解你的需求，从而生成更准确的代码。
+- 不断尝试：Copilot X 是一款基于人工智能技术的工具，它的生成结果可能并不总是准确的。因此，我们需要不断尝试，比较不同的生成结果，从而找到最优的方案。
+- 结合自己的思考：虽然 Copilot X 可以生成大部分代码，但是在某些情况下，我们仍然需要自己思考，比如算法的实现、架构设计等等。因此，在使用 Copilot X 时，需要结合自己的思考，从而更好地完成编码任务。总之，Copilot X 是一款非常有用的代码生成工具，但是它并不能完全取代程序员的工作。因此，在使用它时，需要结合自己的思考和经验，从而更好地完成编码任务
+
+9. Http 代理。有些用户可能会遇到 Copilot 不工作的问题，原因是 Copilot 无法访问互联网或 Github api。你可以在输出面板上看到以下错误信息：GitHub Copilot could not connect to server. Extension activation failed: "connect ETIMEDOUT xxx.xxx.xxx:443"。
+
+在这种情况下，你需要设置 http 代理。
+
+首先，获取你的 http 代理信息。你可以向你的网络管理员询问代理地址和端口，或者如果你使用代理软件，你可以在代理软件设置中找到代理地址和端口。
+
+下面是一个使用代理软件"ClashX"的例子，你可以在"设置"标签中找到代理地址和端口，代理地址是 "127.0.0.1:1080"。
+
+然后，打开 VSCode 的设置，搜索http.proxy，并设置代理地址和端口。设置完成后，重新启动 VSCode，Copilot 应该可以正常工作。
+
+[原文](https://mp.weixin.qq.com/s/BAzOuxjUongX0U3H4gYvYQ)
 
 ## 相关课程学习
 
