@@ -8,6 +8,8 @@ permalink: /robot-collections
 vssue: false
 ---
 
+[动手做个 AI 机器人，帮我回消息！](https://www.bilibili.com/read/cv14502043)
+
 ## 相关项目
 
 ### 飞书 GPT
