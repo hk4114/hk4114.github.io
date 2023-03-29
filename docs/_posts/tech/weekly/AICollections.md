@@ -52,6 +52,8 @@ Mine Weekly Special Edition.
 
 ### New Bing
 微软提供的基于同样模型的工具。需要在 edge 浏览器里才能使用。
+- [bing image create base on DALL·E](https://cn.bing.com/images/create)
+
 
 ### Google Bard
 已经开放内测申请：[详情] https://githubdaily.gitee.io/posts/2023-03-22-google-bard/
@@ -134,6 +136,7 @@ Mine Weekly Special Edition.
 - [ChatGPT注册保姆级教程及接入飞书详细步骤](https://juejin.cn/post/7201132695623073847)
 - [公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
 - [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
+- [国内开通Chat GPT Plus保姆级教程](https://juejin.cn/post/7201806164392656953)
 
 ## ChatGPT 插件系统 全新生态
 
@@ -226,5 +229,5 @@ Copilot CLI: https://githubnext.com/projects/copilot-cli/
 4. 向模型展示你希望看到的内容，引导模型生成想要的结果
 :::
 
-### 国内开通Chat GPT Plus保姆级教程
-链接：https://juejin.cn/post/7201806164392656953
+
+
