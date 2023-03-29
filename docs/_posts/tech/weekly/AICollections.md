@@ -77,11 +77,6 @@ Mine Weekly Special Edition.
 
 相关[机器人项目](/robot-collections)
 
-### 开源版 ChatPDF
-提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。
-
-项目地址：https://github.com/mayooear/gpt4-pdf-chatbot-langchain
-
 ### ⭐ chatgpt-web 部署定制化的 chatgpt
 一键部署属于自己定制化的 chatgpt web 程序(兼容gpt3.5)， 只需下载release中对应平台的项目文件，修改配置后执行，打开 `http://127.0.0.1:8080` ，便可以获得属于自己的chatgpt网站。
 
@@ -92,30 +87,25 @@ Mine Weekly Special Edition.
 
 项目地址：https://github.com/Chanzhaoyu/chatgpt-web
 
-### yu-auto-reply [Java]
-基于 Java Spring Boot 的平台监控及自动回复工具，支持灵活地配置多个监控任务，支持一键部署！
+### ⭐⭐ ChatGPT-Next-Web
+在线地址：https://chat-gpt-next-web.vercel.app/
 
-项目地址：https://github.com/liyupi/yu-auto-reply
+一键免费部署你的私人 ChatGPT 网页应用。
+- 使用 Vercel 免费一键部署
+- 一键导出聊天记录，完整的 Markdown 支持
+- 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
 
-### ChatGPT API 非官方
-一个非官方 ChatGPT API 的 Node.js 客户端，主要可以使用它来构建由 ChatGPT 支持的项目，例如聊天机器人、网站等。
+项目地址：https://github.com/Yidadaa/ChatGPT-Next-Web
 
-项目地址：https://github.com/transitive-bullshit/chatgpt-api
+### 开源版 ChatPDF
+提取 PDF 文件中的内容，并将内容交给 ChatGPT 进行分析。待解析完成之后，你便可以跟它进行一对一对话交流，就好像它是一个完全理解内容的人一样。
+
+项目地址：https://github.com/mayooear/gpt4-pdf-chatbot-langchain
 
 ### chatgpt academic ​​​中科院科研工作专用
 特别优化了学术 Paper 润色体验，支持自定义快捷按钮，支持 markdown 表格显示，Tex 公式双显示，代码显示功能完善，新增本地 Python 工程剖析功能 / 自我剖析功能。
 
 项目地址：https://github.com/binary-husky/chatgpt_academic ​​​
-
-### Cursor 集成了 GPT-4 的编辑器
-地址：[cursor](https://www.cursor.so/)
-
-最佳使用姿势是，将 Cursor 与主流编辑器配合起来用，可以用来生成、重构、debug、解释代码等等！
-
-该编辑器是最早一个集成 GPT-4 的代码编辑器，前阵子还看到有人利用它来间接使用 GPT-4 的功能，不过不久前，Cursor 已移除了 GPT-4 的支持。
-
-项目地址：https://github.com/getcursor/cursor
-
 
 ### ChatPaper 速读 PDF 和刷 ArXiv 论文
 在线体验：https://huggingface.co/spaces/wangrongsheng/ChatPaper
@@ -123,6 +113,11 @@ Mine Weekly Special Edition.
 安装和使用教程：https://zhuanlan.zhihu.com/p/613055271
 
 项目地址：https://github.com/kaixindelele/ChatPaper
+
+### yu-auto-reply [Java]
+基于 Java Spring Boot 的平台监控及自动回复工具，支持灵活地配置多个监控任务，支持一键部署！
+
+项目地址：https://github.com/liyupi/yu-auto-reply
 
 ### gerev.ai 日常办公搜索引擎
 该工具基于 ChatGPT 能力，可在几秒内找到任何聊天记录、文档或代码片段。
@@ -152,6 +147,8 @@ Mine Weekly Special Edition.
 项目地址：https://github.com/openai/chatgpt-retrieval-plugin
 
 ### Copilot X
+> [原文](https://mp.weixin.qq.com/s/BAzOuxjUongX0U3H4gYvYQ)
+
 Copilot Chat = Copilot + ChatGPT
 
 GitHub Copilot X 申请使用教程
@@ -206,7 +203,7 @@ Copilot CLI: https://githubnext.com/projects/copilot-cli/
 
 然后，打开 VSCode 的设置，搜索http.proxy，并设置代理地址和端口。设置完成后，重新启动 VSCode，Copilot 应该可以正常工作。
 
-[原文](https://mp.weixin.qq.com/s/BAzOuxjUongX0U3H4gYvYQ)
+
 
 ## 相关课程学习
 
