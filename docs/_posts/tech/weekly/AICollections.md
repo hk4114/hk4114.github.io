@@ -16,6 +16,8 @@ Mine Weekly Special Edition.
 [[toc]]
 
 > 日刊：https://juejin.cn/user/554605767047053
+> 
+> 机器之心：https://www.jiqizhixin.com/
 
 
 ## ChatGPT 镜像
@@ -68,7 +70,6 @@ Mine Weekly Special Edition.
 [gpt3demo](https://gpt3demo.com/map)
 
 网站收集了很多 GPT-3 的各个应用网站。看多了使用场景，让 AI 赋能，解放生产力。
-
 
 ## 应用类项目
 > 开源应用类项目，学习如何在各个场景下接入
