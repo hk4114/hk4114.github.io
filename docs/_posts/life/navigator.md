@@ -23,6 +23,8 @@ vssue: false
 ### vpn
 - [sockboom](https://sockboom.ac/user/)
 - [shadowfly](https://leensa.us/)
+- [woccloud](https://www.woccloud.pro/)
+- [ikuuu](https://ikuuu.eu/auth/login)
 
 ### 导航类
 - [编程导航](https://www.code-nav.cn/recommend)
