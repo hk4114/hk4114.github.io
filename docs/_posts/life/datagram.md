@@ -20,3 +20,11 @@ vssue: false
 
 - 操作系统
   + [Nginx 最全操作总结](https://mp.weixin.qq.com/s/LmtHTOVOvdcnMBuxv7a9_A) 
+
+
+## 其他
+[2023年新手入门全画幅/APS-C画幅微单相机选购指南](https://zhuanlan.zhihu.com/p/395386836)
+
+[2023年微单相机选哪款？全画幅/APSC画幅性价比微单推荐清单](https://zhuanlan.zhihu.com/p/356856412)
+
+[旅行的百科全书，出行看这篇足够了](https://mp.weixin.qq.com/s/8HVYGQkrwwmiiPOiDD4DzA)
