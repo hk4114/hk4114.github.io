@@ -60,6 +60,11 @@ Mine Weekly Special Edition.
 ### Google Bard
 已经开放内测申请：[详情] https://githubdaily.gitee.io/posts/2023-03-22-google-bard/
 
+### Claude
+> https://www.anthropic.com/product
+
+ChatGPT 最有实力的竞争对手 Claude 也开放 API 申请了，很大方，不仅会给免费的 API，官网也可以直接使用进行问答。已经添加到slack中。[slack](https://app.slack.com/)
+
 
 ## 收集类
 [AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One)
