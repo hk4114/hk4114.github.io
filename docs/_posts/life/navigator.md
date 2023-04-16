@@ -5,7 +5,12 @@ date: 2023-03-25
 vssue: false
 ---
 
-<!-- more -->
+专栏和up
+- [Li道长付费专栏](https://xiaobot.net/p/along?refer=1e76e368-3b70-49b9-9c74-0d43d2f7c5a6)
+- 谢玄 大明王朝1566
+- 老曾说产品
+
+
 [exercism](https://exercism.org/) 编程学习网站
 
 [阿里云知行动手实验室](https://start.aliyun.com/)
