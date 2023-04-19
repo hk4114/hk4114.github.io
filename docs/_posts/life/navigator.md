@@ -5,6 +5,18 @@ date: 2023-3-25
 vssue: false
 ---
 
+- B站收藏夹 待看列表和Learn
+- [Li道长付费专栏](https://xiaobot.net/p/along?refer=1e76e368-3b70-49b9-9c74-0d43d2f7c5a6)
+- 谢玄 大明王朝1566
+- 产品老曾
+- 谢玄1991 - 解说大明王朝
+- 吸奇侠 - 解说水浒传/交付
+- 冲浪普拉斯 - 城市
+
+
+
+
+
 [exercism](https://exercism.org/) 编程学习网站
 
 [阿里云知行动手实验室](https://start.aliyun.com/)
