@@ -184,6 +184,22 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 
 项目地址：https://github.com/binary-husky/chatgpt_academic ​​​
 
+第一步：获取项目
+```sh
+git clone https://github.com/binary-husky/gpt_academic.git
+```
+
+第二步：在 https://platform.openai.com/account/api-keys 上获取 api key.
+
+第三步：复制项目 config.py 文件，重命名为 config_private.py。填写 `API_KEY`，并 `USE_PROXY` 改为 `True`，修改 `proxies` 端口号：端口号可通过 https://ipapi.co/json/ 控制台 networks 中的 /json 接口 Remote Address 查看
+
+第四步：安装 python 3.10.x 以上版本。
+
+第四步：windows 为例，在地址栏输入 cmd 命令提示符窗口，执行安装依赖语句 `python -m pip install -r requirements.txt`
+
+第五步：`python main.py` 运行
+
+
 ### ChatPaper 速读 PDF 和刷 ArXiv 论文
 在线体验：https://huggingface.co/spaces/wangrongsheng/ChatPaper
 
@@ -191,10 +207,14 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 
 项目地址：https://github.com/kaixindelele/ChatPaper
 
-### yu-auto-reply [Java]
-基于 Java Spring Boot 的平台监控及自动回复工具，支持灵活地配置多个监控任务，支持一键部署！
+### auto-gpt
+项目地址：https://github.com/Significant-Gravitas/Auto-GPT
 
-项目地址：https://github.com/liyupi/yu-auto-reply
+```sh
+pip install -r requirements.txt
+python -m autogpt
+```
+
 
 ### gerev.ai 日常办公搜索引擎
 该工具基于 ChatGPT 能力，可在几秒内找到任何聊天记录、文档或代码片段。
