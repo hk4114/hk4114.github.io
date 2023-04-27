@@ -93,6 +93,8 @@ Claude API 服务来开发自己的产品，都需要在这个页面提交申请
 ### stable diffusion
 [开源图像模型Stable Diffusion入门手册](https://mp.weixin.qq.com/s/8czNX-pXyOeFDFhs2fo7HA)
 
+[教会你使用AI绘画利器Stable Diffusion](https://mp.weixin.qq.com/s/9Dw2GYkg6b1vvKKyJQ-3TA)
+
 试用 stable diffusion 画图
 
 适用场景：不会在电脑上搭环境，显卡不行。但是会翻墙。
