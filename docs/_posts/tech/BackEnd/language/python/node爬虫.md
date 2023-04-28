@@ -81,3 +81,72 @@ const puppeteer = require('puppeteer');
   })
 })()
 ```
+
+```js
+const puppeteer = require('puppeteer');
+const path = require('path');
+const http = require('http');
+const https = require('https');
+const fs = require('fs');
+const { promisify } = require('util');
+
+const writeFile = promisify(fs.writeFile);
+
+const url2img = async (url, dir) => {
+  const mod = /^https:/.test(url) ? https : http;
+  const ext = path.extname(url);
+  const file = path.join(dir, `${Date.now()}${ext}`)
+  mod.get(url, res => {
+    res.pipe(fs.createWriteStream(file)).on('finish', () => {
+      console.log('写入完成')
+    })
+  })
+};
+
+const base642img = async (str, dir) => {
+  const list = str.match(/^data:(.+);base64,(.+)$/);
+  try {
+    const ext = list[1].split('/')[1].replace('jepg', 'jpg')
+    const file = path.join(dir, `${Date.now()}.${ext}`)
+    await writeFile(file, list[2], 'base64')
+  } catch (err) {
+    console.log(err)
+  }
+};
+
+const src2img = async (src, dir) => {
+  console.log(src, '文件地址')
+  if (/.(jpg|png|gif)$/.test(src)) {
+    await url2img(src, dir)
+  } else {
+    await base642img(src, dir)
+  }
+};
+
+(async function () {
+  // 打开浏览器
+  // {
+  //   slowMo: 500,
+  //   devtools: false
+  // }
+  const browser = await puppeteer.launch()
+  const page = await browser.newPage();
+  console.log('开启页面')
+  await page.goto('http://image.baidu.com/')
+  await page.focus('#kw');
+  await page.keyboard.sendCharacter('saber 1920*1080')
+  await page.click('.s_newBtn')
+  page.on('load', async function () {
+    const list = await page.evaluate(async () => {
+      const images = await document.querySelectorAll('.main_img');
+      return [...images].map(img => img.src)
+    })
+
+    for (let src of list) {
+      await src2img(src, path.resolve(__dirname, 'img'))
+    }
+
+    await browser.close()
+  })
+})()
+```
