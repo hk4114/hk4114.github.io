@@ -12,9 +12,7 @@ vssue: false
 - 谢玄1991 - 解说大明王朝
 - 吸奇侠 - 解说水浒传/交付
 - 冲浪普拉斯 - 城市
-
-
-[知识星球](https://wx.zsxq.com/)
+- [知识星球](https://wx.zsxq.com/)
 
 
 [exercism](https://exercism.org/) 编程学习网站
@@ -157,23 +155,3 @@ vssue: false
 [大疆 BBS社区](https://bbs.dji.com/)
 
 [FPV 帮](http://wiki.fpvbang.com/safety_instruction/safety_instruction/)
-
-### 未区分
-
-[grape](https://www.grape.codes/)
-这个工具提供一个 Web IDE，用于让用户演示代码操作。它可以把操作过程录制下来，像视频一样播放，但实际是一个小体积的脚本，便于分享和传播。
-
-[tipi](https://github.com/meienberger/runtipi)
-一个家庭服务器的管理界面，集成了许多服务（比如流媒体、代码托管、BT 下载等等）。只要点击一个服务，就会启动一个容器来运行它。
-
-[物联网开发板模拟器](https://wokwi.com/)
-这个网站模拟各种物联网开发板，比如树莓派 Pico、Arduino、ESP32等。你在网页上输入项目代码，可以看到硬件的模拟执行结果。
-
-[我搭建了一个家用 NAS 服务器](https://mtlynch.io/budget-nas/)
-作者详细记录了，自己如何从零开始，使用 TrueNAS 系统和自购硬件，自制一个四盘位的 NAS 服务器。
-
-[CasaOS](https://casaos.io/)
-一个用于家庭内网的监控面板，可以启动各种 Docker 服务。
-
-[spider-admin-pro](https://github.com/mouday/spider-admin-pro)
-爬虫工具 Scrapy 的一个管理面板。
