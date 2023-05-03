@@ -192,6 +192,13 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 
 完整教程参考[如何在 Google Colab 上部署 Stable Diffusion Web UI Colab](https://atlassc.net/2023/02/18/stable-diffusion-webui-colab-guide-for-beginners)
 
+### AI 翻唱
+感谢教程：@领航员未鸟 https://www.bilibili.com/video/BV1Hg4y1E7nW/
+
+@羽毛布団 https://www.bilibili.com/video/BV1H24y187Ko/
+
+项目地址：https://github.com/svc-develop-team/so-vits-svc
+
 ## 语言模型相关
 
 ### 微软开源 Deep Speed Chat
