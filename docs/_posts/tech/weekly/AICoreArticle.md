@@ -1,8 +1,6 @@
 ---
 title: AI 核心文章
 category: 技术
-tags:
-  - Mine Weekly
 date: 2023-3-25
 vssue: true
 ---
