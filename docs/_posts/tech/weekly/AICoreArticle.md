@@ -85,10 +85,9 @@ Bing 现在支持在 Microsoft Edge 浏览器上跟 PDF 文件直接对话了。
 B站汇总整理全站资源，发布了这个「AIGC来啦」视频合集，争取让每个人都能免费了解和学会AI的一些应用，更容易找到自己感兴趣的入门通道。
 这是一个持续更新的合集，目前包含以下4个主题、近百个视频，是UP主们对这波AI浪潮下的前沿探索记录、深度使用体验和深度思考表达！总之！关于AIGC的一切，现在都在这里了~
 
-1. 入门必刷
-2. 技术科普
-3. 实用教程
-4. 花式整活
+- https://www.bilibili.com/medialist/detail/ml2243104665?
+
+
 
 ### Midjourney 中文教程
 > 最好的 Midjourney 中文教程 https://www.bilibili.com/video/BV1p24y1h7CQ
@@ -125,8 +124,11 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 完整教程参考[如何在 Google Colab 上部署 Stable Diffusion Web UI Colab](https://atlassc.net/2023/02/18/stable-diffusion-webui-colab-guide-for-beginners)
 
 ### AI 翻唱
+> https://www.bilibili.com/medialist/detail/ml2252128065
+
 感谢教程：@领航员未鸟 https://www.bilibili.com/video/BV1Hg4y1E7nW/
 
 @羽毛布団 https://www.bilibili.com/video/BV1H24y187Ko/
 
 项目地址：https://github.com/svc-develop-team/so-vits-svc
+
