@@ -13,8 +13,6 @@ Mine Weekly Special Edition.
 
 <!-- more -->
 
-[[toc]]
-
 > 日刊：https://juejin.cn/user/554605767047053
 > 
 > 机器之心：https://www.jiqizhixin.com/
@@ -141,15 +139,6 @@ Claude API 服务来开发自己的产品，都需要在这个页面提交申请
 4. 向模型展示你希望看到的内容，引导模型生成想要的结果
 :::
 
-### 吴恩达联合OpenAI出品ChatGPT Prompt课程
-免费，有API，1.5小时，B站有中文字幕版
-- [课程地址](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- [B站中文字幕版](https://www.bilibili.com/video/BV1fk4y1J7Af/)
-
-
-### 零基础学会Stable Diffusion
-> https://www.bilibili.com/video/BV1As4y127HW/
-
 ### B站 AIGC 视频合集
 > https://www.bilibili.com/list/group/210003/241004
 
@@ -167,7 +156,10 @@ B站汇总整理全站资源，发布了这个「AIGC来啦」视频合集，争
 > [MidJourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
 
+[Midjourney保姆级注册教程](https://mp.weixin.qq.com/s/0rllMo2iu8Blwz0DtTBeVA)
+
 ### Stable Diffusion
+
 [零基础学会Stable Diffusion](https://www.bilibili.com/video/BV1As4y127HW/)
 
 B站UP主「Nenly同学」正在更新一门神仙课程——《零基础学会Stable Diffusion》，并号称「B站第一套系统的AI绘画课」。课程上线两周已经获得了23W+的播放
