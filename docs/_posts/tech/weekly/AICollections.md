@@ -156,6 +156,8 @@ B站汇总整理全站资源，发布了这个「AIGC来啦」视频合集，争
 > [MidJourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
 
+[Midjourney保姆级注册教程](https://mp.weixin.qq.com/s/0rllMo2iu8Blwz0DtTBeVA)
+
 ### Stable Diffusion
 
 [零基础学会Stable Diffusion](https://www.bilibili.com/video/BV1As4y127HW/)
