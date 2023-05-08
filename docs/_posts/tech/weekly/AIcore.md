@@ -8,14 +8,9 @@ vssue: true
 
 相关[机器人项目](/robot-collections)
 
-- [国内开通Chat GPT Plus保姆级教程](https://juejin.cn/post/7201806164392656953)
-- ⭐[手把手教你用 AI 取代淘宝模特（不是）](https://mp.weixin.qq.com/s/8w8sqjB3aWNJPsgjKGdtkA)
-- ⭐[如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
-- ⭐[ChatGPT注册保姆级教程及接入飞书详细步骤](https://juejin.cn/post/7201132695623073847)
-- ⭐[公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
 - [使用 ChatGPT 、Stable Diffuison、React和NodeJS构建网站图库](https://mp.weixin.qq.com/s/13RSjkuxzyNunI1Nb2lvPw)
-- [如何在 Gitlab 中使用 ChatGPT 进行 CodeReview](https://mp.weixin.qq.com/s/Dyk1cYg63oOs13f9_gf9ug)
-
+- [公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
+- [ChatGPT注册保姆级教程及接入飞书详细步骤](https://juejin.cn/post/7201132695623073847)
 
 ## 教程
 ### B站 AIGC 视频合集
