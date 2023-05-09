@@ -29,6 +29,17 @@ vssue: false
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [processon](https://www.processon.com/)
 
+Z library
+世界数字图书馆
+Online books
+资源帝电子书导航
+大力盘
+熊猫搜书
+
+超星读书
+高教书苑
+中国国家数字图书馆
+
 ### vpn
 - [sockboom](https://sockboom.ac/user/)
 - [shadowfly](https://leensa.us/)
