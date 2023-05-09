@@ -8,8 +8,6 @@ vssue: true
 
 相关[机器人项目](/robot-collections)
 
-- [公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
-
 ## 教程
 > 绘画 https://www.bilibili.com/medialist/detail/ml2243104665
 >
