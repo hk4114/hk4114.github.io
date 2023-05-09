@@ -8,8 +8,6 @@ vssue: true
 
 相关[机器人项目](/robot-collections)
 
-- 处理长文本 https://t.zsxq.com/0dhUV0MFy
-- [使用 ChatGPT 、Stable Diffuison、React和NodeJS构建网站图库](https://mp.weixin.qq.com/s/13RSjkuxzyNunI1Nb2lvPw)
 - [公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
 
 ## 教程
