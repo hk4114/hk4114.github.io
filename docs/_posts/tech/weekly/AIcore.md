@@ -55,3 +55,7 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 @羽毛布団 https://www.bilibili.com/video/BV1H24y187Ko/
 
 项目地址：https://github.com/svc-develop-team/so-vits-svc
+
+[教你打造属于自己的AI孙燕姿，AI歌手模型使用及训练保姆级课程 #1/2 使用模型](https://mp.weixin.qq.com/s/bXD1u6ysYkTEamt-PYI1RA)
+
+[教你打造属于自己的AI孙燕姿，AI歌手模型使用及训练保姆级课程 #2/2 训练模型](https://mp.weixin.qq.com/s/IeeW1PbMUbxMlLl529JTYQ)
