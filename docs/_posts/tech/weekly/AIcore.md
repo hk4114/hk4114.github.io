@@ -8,8 +8,6 @@ vssue: true
 
 相关[机器人项目](/robot-collections)
 
-- [公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
-
 ## 教程
 > 绘画 https://www.bilibili.com/medialist/detail/ml2243104665
 >
@@ -58,6 +56,9 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 
 项目地址：https://github.com/svc-develop-team/so-vits-svc
 
+[教你打造属于自己的AI孙燕姿，AI歌手模型使用及训练保姆级课程 #1/2 使用模型](https://mp.weixin.qq.com/s/bXD1u6ysYkTEamt-PYI1RA)
+
+[教你打造属于自己的AI孙燕姿，AI歌手模型使用及训练保姆级课程 #2/2 训练模型](https://mp.weixin.qq.com/s/IeeW1PbMUbxMlLl529JTYQ)
 
 ### 『搭建基于LLM的客服系统的实践』基于清华大模型 ChatGLM-6B 完成6类任务
 - 任务1：客服打招呼任务 (已完成)
