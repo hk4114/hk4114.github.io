@@ -40,6 +40,14 @@ Online books
 高教书苑
 中国国家数字图书馆
 
+### 爬虫
+- https://www.scrapingbee.com/
+- spider-flow
+- 八爪鱼
+- https://www.bazhuayu.com/
+- https://www.bilibili.com/video/BV1fQ4y1672j
+
+
 ### vpn
 - [sockboom](https://sockboom.ac/user/)
 - [shadowfly](https://leensa.us/)
@@ -48,10 +56,7 @@ Online books
 
 ### 导航类
 - [编程导航](https://www.code-nav.cn/recommend)
-- [极客导航](http://geekdocs.cn/)
 - [设计导航](http://hao.shejidaren.com/)
-- [前端工具](http://frontendtools.com/)
-- [ilxdh](http://ilxdh.com/cat/177)
 
 ### 论坛
 - [豆瓣](https://www.douban.com/)
