@@ -22,8 +22,9 @@ vssue: true
 
 
 ### Stable Diffusion
+[Stable Diffusion 视频教程](https://www.bilibili.com/video/BV1BM4y127eD/)
 
-[零基础学会Stable Diffusion](https://www.bilibili.com/video/BV1As4y127HW/)
+[零基础学会Stable Diffusion 视频教程](https://www.bilibili.com/video/BV1As4y127HW/)
 
 B站UP主「Nenly同学」正在更新一门神仙课程——《零基础学会Stable Diffusion》，并号称「B站第一套系统的AI绘画课」。课程上线两周已经获得了23W+的播放
 
