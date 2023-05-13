@@ -370,17 +370,8 @@ python -m autogpt
 
 相关[机器人项目](/robot-collections)
 
-### ⭐ chatgpt-web 部署定制化的 chatgpt
-一键部署属于自己定制化的 chatgpt web 程序(兼容gpt3.5)， 只需下载release中对应平台的项目文件，修改配置后执行，打开 `http://127.0.0.1:8080` ，便可以获得属于自己的chatgpt网站。
-
-项目地址：https://github.com/869413421/chatgpt-web
-
-### ⭐ chatgpt-web 本地部署项目
-用 Express 和 Vue3 搭建的 ChatGPT 演示网页
-
-项目地址：https://github.com/Chanzhaoyu/chatgpt-web
-
-### ⭐⭐ ChatGPT-Next-Web
+## chatGPT 前端项目（聊天界面）
+### ChatGPT-Next-Web
 在线地址：https://chat-gpt-next-web.vercel.app/
 
 一键免费部署你的私人 ChatGPT 网页应用。
@@ -389,3 +380,18 @@ python -m autogpt
 - 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
 
 项目地址：https://github.com/Yidadaa/ChatGPT-Next-Web
+
+### chatgpt-web 部署定制化的 chatgpt
+一键部署属于自己定制化的 chatgpt web 程序(兼容gpt3.5)， 只需下载release中对应平台的项目文件，修改配置后执行，打开 `http://127.0.0.1:8080` ，便可以获得属于自己的chatgpt网站。
+
+项目地址：https://github.com/869413421/chatgpt-web
+
+### chatgpt-web 本地部署项目
+用 Express 和 Vue3 搭建的 ChatGPT 演示网页
+
+项目地址：https://github.com/Chanzhaoyu/chatgpt-web
+
+### 川虎 Chat
+为ChatGPT/ChatGLM/LLaMA/StableLM/MOSS等多种LLM提供了一个轻快好用的Web图形界面
+
+项目地址：https://github.com/GaiZhenbiao/ChuanhuChatGPT
