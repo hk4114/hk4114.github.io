@@ -22,13 +22,44 @@ vssue: true
 >
 > 语音合成 https://www.bilibili.com/medialist/detail/ml2252128065
 
+## 『搭建基于LLM的客服系统的实践』基于清华大模型 ChatGLM-6B 完成6类任务
+- 任务1：客服打招呼任务 (已完成)
+- 任务2：实现交谈任务分类 (已完成)
+- 任务3：实现交谈内容相似度任务 (已完成)
+- 任务4：实现交谈内容结构化提取任务
+- 任务5：实现本地知识库和网络搜索的增强任务
+- 任务6：实现自动化任务
+
+[系列一](https://zhuanlan.zhihu.com/p/626232785)
+0. 环境说明
+1. ChatGLM-6B介绍
+2. 硬件需求：最低 GPU 显存
+3. 环境安装：使用 pip 安装依赖
+4. API部署
+
+[任务1：客服打招呼任务](https://zhuanlan.zhihu.com/p/626234226)
+1. 首先定义role的prompt，让模型知道自己的角色
+2. 然后再描述一下客户的基本信息
+3. 最后加上命令，生成完整的prompt，发给模型
+
+[任务2：实现交谈任务分类](https://zhuanlan.zhihu.com/p/626416551)
+1. 根据场景定义好分类
+2. 按照业务场景预先生成分类的例子
+3. 构建 prompt 作为 pre_history 送到模型参数中
+4. 把要做分类的句子输给模型，模型根据要求进行分类，并输出
+
+[任务3：实现交谈内容相似度任务](https://zhuanlan.zhihu.com/p/627333923)
+1. 根据场景选择一些常用的对话
+2. 按照业务场景预先生成对话比对的例子 (比对目标最好是内设场景对话)
+3. 构建 prompt 作为 pre_history 送到模型参数中
+4. 把要做分类的句子输给模型，模型根据要求进行比对，并输出是还是不是
+
 ### Midjourney 中文教程
 > 最好的 Midjourney 中文教程 https://www.bilibili.com/video/BV1p24y1h7CQ
 > 
 > [MidJourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
 [Midjourney保姆级注册教程](https://mp.weixin.qq.com/s/0rllMo2iu8Blwz0DtTBeVA)
-
 
 ### Stable Diffusion
 [Stable Diffusion 视频教程](https://www.bilibili.com/video/BV1BM4y127eD/)
@@ -70,34 +101,5 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 
 [教你打造属于自己的AI孙燕姿，AI歌手模型使用及训练保姆级课程 #2/2 训练模型](https://mp.weixin.qq.com/s/IeeW1PbMUbxMlLl529JTYQ)
 
-### 『搭建基于LLM的客服系统的实践』基于清华大模型 ChatGLM-6B 完成6类任务
-- 任务1：客服打招呼任务 (已完成)
-- 任务2：实现交谈任务分类 (已完成)
-- 任务3：实现交谈内容相似度任务 (已完成)
-- 任务4：实现交谈内容结构化提取任务
-- 任务5：实现本地知识库和网络搜索的增强任务
-- 任务6：实现自动化任务
-
-[系列一](https://zhuanlan.zhihu.com/p/626232785)
-0. 环境说明
-1. ChatGLM-6B介绍
-2. 硬件需求：最低 GPU 显存
-3. 环境安装：使用 pip 安装依赖
-4. API部署
-
-[任务1：客服打招呼任务](https://zhuanlan.zhihu.com/p/626234226)
-1. 首先定义role的prompt，让模型知道自己的角色
-2. 然后再描述一下客户的基本信息
-3. 最后加上命令，生成完整的prompt，发给模型
-
-[任务2：实现交谈任务分类](https://zhuanlan.zhihu.com/p/626416551)
-1. 根据场景定义好分类
-2. 按照业务场景预先生成分类的例子
-3. 构建 prompt 作为 pre_history 送到模型参数中
-4. 把要做分类的句子输给模型，模型根据要求进行分类，并输出
-
-[任务3：实现交谈内容相似度任务](https://zhuanlan.zhihu.com/p/627333923)
-1. 根据场景选择一些常用的对话
-2. 按照业务场景预先生成对话比对的例子 (比对目标最好是内设场景对话)
-3. 构建 prompt 作为 pre_history 送到模型参数中
-4. 把要做分类的句子输给模型，模型根据要求进行比对，并输出是还是不是
+### Lora
+https://www.bilibili.com/video/BV1Eo4y1w7yU
