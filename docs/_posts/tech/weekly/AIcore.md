@@ -4,6 +4,15 @@ category: 技术
 date: 2023-5-7
 vssue: true
 ---
+
+[微软全面开放Bing Chat](https://www.bilibili.com/video/BV1va4y1g7NL/)
+
+[ChatGPT4.0正式接入新必应，无限制联网免费版无敌好用！](https://www.bilibili.com/video/BV1hu41147vk/)
+
+[【lora模型训练】全网独家，免安装，一键启动，一键炼丹！新手福音，再也不被报错和参数困扰了！](https://www.bilibili.com/video/BV1Eo4y1w7yU)
+
+[不依赖电脑配置！手把手教你嫖阿里云试用玩AI绘图](https://www.bilibili.com/video/BV1iX4y1y7LW/?)
+
 ## 接入 ChatGPT 的文章教程
 
 相关[机器人项目](/robot-collections)
