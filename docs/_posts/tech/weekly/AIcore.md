@@ -5,6 +5,8 @@ date: 2023-5-7
 vssue: true
 ---
 
+[Learn Prompt 教程](https://www.learnprompt.pro/docs/intro)
+
 [微软全面开放Bing Chat](https://www.bilibili.com/video/BV1va4y1g7NL/)
 
 [ChatGPT4.0正式接入新必应，无限制联网免费版无敌好用！](https://www.bilibili.com/video/BV1hu41147vk/)
