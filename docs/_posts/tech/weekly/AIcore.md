@@ -4,14 +4,29 @@ category: 技术
 date: 2023-5-7
 vssue: true
 ---
-## 接入 ChatGPT 的文章教程
 
-相关[机器人项目](/robot-collections)
+## Prompt
+[open prompt](https://openprompt.co/)
 
-## 教程
-> 绘画 https://www.bilibili.com/medialist/detail/ml2243104665
->
-> 语音合成 https://www.bilibili.com/medialist/detail/ml2252128065
+网站可以提交、保存、查看生成式 AI 引擎的常用提示语。
+
+[ChatGPT-Shortcut](https://newzone.top/chatgpt)
+
+众所周知，我们可以通过优化提示词，使 ChatGPT 生成更加准确、有用的回复。
+
+该项目就整理汇总了多种 ChatGPT 快捷指令，按照领域和功能分区，对提示词（Prompt）进行标签筛选、关键词搜索和一键复制。
+
+项目地址: https://github.com/rockbenben/ChatGPT-Shortcut
+
+[OpenGpt](https://open-gpt.app/)
+
+预设了部分问题，可以直接开始使用。
+
+项目地址：https://github.com/futantan/OpenGpt
+
+[flowgpt](https://flowgpt.com/)
+
+各式各样的 prompt 
 
 ## 『搭建基于LLM的客服系统的实践』基于清华大模型 ChatGLM-6B 完成6类任务
 - 任务1：客服打招呼任务 (已完成)
@@ -45,12 +60,16 @@ vssue: true
 3. 构建 prompt 作为 pre_history 送到模型参数中
 4. 把要做分类的句子输给模型，模型根据要求进行比对，并输出是还是不是
 
-### Midjourney 中文教程
-> 最好的 Midjourney 中文教程 https://www.bilibili.com/video/BV1p24y1h7CQ
-> 
-> [MidJourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
-[Midjourney保姆级注册教程](https://mp.weixin.qq.com/s/0rllMo2iu8Blwz0DtTBeVA)
+## 教程
+> 绘画 https://www.bilibili.com/medialist/detail/ml2243104665
+>
+> 语音合成 https://www.bilibili.com/medialist/detail/ml2252128065
+
+### Midjourney 中文教程
+1. [Midjourney保姆级注册教程](https://mp.weixin.qq.com/s/0rllMo2iu8Blwz0DtTBeVA)
+2. [MidJourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
+3. 最好的 MidJourney 中文教程 https://www.bilibili.com/video/BV1p24y1h7CQ
 
 ### Stable Diffusion
 [Stable Diffusion 视频教程](https://www.bilibili.com/video/BV1BM4y127eD/)
@@ -92,5 +111,7 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 
 [教你打造属于自己的AI孙燕姿，AI歌手模型使用及训练保姆级课程 #2/2 训练模型](https://mp.weixin.qq.com/s/IeeW1PbMUbxMlLl529JTYQ)
 
-### Lora
-https://www.bilibili.com/video/BV1Eo4y1w7yU
+
+## 接入 ChatGPT 的文章教程
+
+相关[机器人项目](/robot-collections)
