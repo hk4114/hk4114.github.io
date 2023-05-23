@@ -5,29 +5,6 @@ date: 2023-5-7
 vssue: true
 ---
 
-## Prompt
-[open prompt](https://openprompt.co/)
-
-网站可以提交、保存、查看生成式 AI 引擎的常用提示语。
-
-[ChatGPT-Shortcut](https://newzone.top/chatgpt)
-
-众所周知，我们可以通过优化提示词，使 ChatGPT 生成更加准确、有用的回复。
-
-该项目就整理汇总了多种 ChatGPT 快捷指令，按照领域和功能分区，对提示词（Prompt）进行标签筛选、关键词搜索和一键复制。
-
-项目地址: https://github.com/rockbenben/ChatGPT-Shortcut
-
-[OpenGpt](https://open-gpt.app/)
-
-预设了部分问题，可以直接开始使用。
-
-项目地址：https://github.com/futantan/OpenGpt
-
-[flowgpt](https://flowgpt.com/)
-
-各式各样的 prompt 
-
 ## 『搭建基于LLM的客服系统的实践』基于清华大模型 ChatGLM-6B 完成6类任务
 - 任务1：客服打招呼任务 (已完成)
 - 任务2：实现交谈任务分类 (已完成)

@@ -86,12 +86,6 @@ Claude API 服务来开发自己的产品，都需要在这个页面提交申请
 
 开源模型和训练集。ai 领域的 github.
 
-
-## 接入 ChatGPT 的文章教程
-- [公众号最低成本接入ChatGPT及如何优化体验？](https://juejin.cn/post/7200769439335546935)
-- [国内开通Chat GPT Plus保姆级教程](https://juejin.cn/post/7201806164392656953)
-- [使用 ChatGPT 、Stable Diffuison、React和NodeJS构建网站图库](https://mp.weixin.qq.com/s/13RSjkuxzyNunI1Nb2lvPw)
-
 ## 相关课程学习
 ### ChatGPT 从 0 到 1
 生成式AI不以结果为导向，是以输出为导向。
