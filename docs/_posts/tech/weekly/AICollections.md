@@ -23,6 +23,8 @@ Mine Weekly Special Edition.
 ## ChatGPT 镜像
 > 国内也可以访问 [carrot] https://github.com/xx025/carrot 
 
+- [国内开通Chat GPT Plus保姆级教程](https://juejin.cn/post/7201806164392656953)
+
 ## 同类产品
 
 ### New Bing
