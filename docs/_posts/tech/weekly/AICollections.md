@@ -22,9 +22,7 @@ Mine Weekly Special Edition.
 
 ## ChatGPT 镜像
 > 国内也可以访问 [carrot] https://github.com/xx025/carrot 
-
-- [国内开通Chat GPT Plus保姆级教程](https://juejin.cn/post/7201806164392656953)
-
+> 
 ## 同类产品
 
 ### New Bing
@@ -58,10 +56,10 @@ Bing 现在支持在 Microsoft Edge 浏览器上跟 PDF 文件直接对话了。
 
 第二种硬核玩法，是在New Bing 创造力模式里，可以无限次、免费地使用AI进行画图（fast模式限额100次 ）。出图质量不错，而且方便易用，广场上还有很多例子可以看。
 
-### Google Bard
+### Google Bard【地区限制】
 已经开放内测申请：[详情] https://githubdaily.gitee.io/posts/2023-03-22-google-bard/
 
-### Claude
+### Claude【地区限制】
 > https://www.anthropic.com/product
 
 ChatGPT 最有实力的竞争对手 Claude 也开放 API 申请了，很大方，不仅会给免费的 API，官网也可以直接使用进行问答。已经添加到slack中。[slack](https://app.slack.com/)

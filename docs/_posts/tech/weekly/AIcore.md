@@ -5,6 +5,11 @@ date: 2023-5-7
 vssue: true
 ---
 
+## 常用 AI 镜像
+- [老北鼻AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)
+- [多语 - chatGPT 3.5 turbo](https://dy-ai.cn/)
+- [bingGPT 镜像](https://chat9.yqcloud.top/)
+
 ## 『搭建基于LLM的客服系统的实践』基于清华大模型 ChatGLM-6B 完成6类任务
 - 任务1：客服打招呼任务 (已完成)
 - 任务2：实现交谈任务分类 (已完成)
@@ -47,6 +52,7 @@ vssue: true
 1. [Midjourney保姆级注册教程](https://mp.weixin.qq.com/s/0rllMo2iu8Blwz0DtTBeVA)
 2. [MidJourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 3. 最好的 MidJourney 中文教程 https://www.bilibili.com/video/BV1p24y1h7CQ
+4. MidJourney 常用参数超详细介绍及用法 [介绍1](https://mp.weixin.qq.com/s/dLkoNpXAI51U9uc9IWhphA) | [介绍2](https://mp.weixin.qq.com/s/QJQChAb8-fjtubQk75OlBg)
 
 ### Stable Diffusion
 [Stable Diffusion 视频教程](https://www.bilibili.com/video/BV1BM4y127eD/)
