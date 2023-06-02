@@ -65,6 +65,8 @@ B站UP主「Nenly同学」正在更新一门神仙课程——《零基础学会
 
 [教会你使用AI绘画利器Stable Diffusion](https://mp.weixin.qq.com/s/9Dw2GYkg6b1vvKKyJQ-3TA)
 
+[手把手教你用Stable Diffusion写好提示词](https://mp.weixin.qq.com/s/sEQpP5S7W_gsCUf3i7OZiQ)
+
 试用 stable diffusion 画图
 
 适用场景：不会在电脑上搭环境，显卡不行。但是会翻墙。
