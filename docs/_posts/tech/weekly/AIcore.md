@@ -10,6 +10,43 @@ vssue: true
 - [多语 - chatGPT 3.5 turbo](https://dy-ai.cn/)
 - [bingGPT 镜像](https://chat9.yqcloud.top/)
 
+## 【AI】OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI
+> https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg
+
+这篇内容是关于OpenAI创始人Andrej Karpthy在微软Build 2023开发者大会上的专题演讲。
+
+他详细介绍了如何从GPT基础模型训练出ChatGPT助手模型，并解释了大型语言模型的内部原理和RLHF训练细节。
+
+演讲中提到了预训练、有监督微调、奖励建模和强化学习等四个主要阶段，并介绍了标记化、Transformer神经网络架构等技术细节。这场演讲非常精彩，并推荐给所有关心大型语言模型的人。
+
+## 【AI】LangChain和LlamaIndex项目实践手册：将大型语言模型应用于现实世界
+> online: https://leanpub.com/langchain/read
+>
+> github: https://github.com/mark-watson/langchain-book-examples
+
+是一本以技能和项目为主线的 LangChain 主题书籍，介绍如何利用 LangChain、LlamaIndex 项目、ChatGPT API 解决一系列问题。
+
+该书涵盖了安装和使用LangChain和LlamaIndex的基本要求，以及使用Google Knowledge Graph API、使用Hugging Face开源模型、使用Zapier集成等方面的示例。它还提供了关于大型语言模型的概述和使用场景的讨论。该书的目标读者是希望构建自己的工具并提升程序设计能力的开发人员。
+
+## 使用 ChatGPT API 构建系统 
+> [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+
+- 超越单个提示，学习构建使用多个API调用LLM的复杂应用程序，还学习评估LLM的安全性和准确性输出，并推动迭代改进
+- 初学者只需具备 Python 编程基础；中高级机器学习工程师，通过本门课程可以掌握 LLM 的前沿提示工程技能
+
+
+## 基于 LangChain 开发LLM应用程序
+> [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
+- 学习 LangChain 这个强大的开源工具，用于使用 LLM 构建应用程序，包括聊天机器人的内存，通过文档回答问题，以及可以决定下一步采取什么行动的 LLM 代理
+- 初学者只需具备 Python 编程基础，就可以搞定本门课程的大部分内容
+
+## Diffusion 模型的工作原理
+> [How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
+
+- 了解 Diffusion 模型（扩散模型）工作的技术细节，教你从头开始构建扩散模型，并在课程结束时可以使用 Jupyter 生成自己视频游戏精灵的工作代码
+- 中级难度课程，学习者需要具备 Python 编程基础、Tensorflow 或者 Pytorch 的基本知识
+
 ## 『搭建基于LLM的客服系统的实践』基于清华大模型 ChatGLM-6B 完成6类任务
 - 任务1：客服打招呼任务 (已完成)
 - 任务2：实现交谈任务分类 (已完成)
@@ -41,6 +78,15 @@ vssue: true
 2. 按照业务场景预先生成对话比对的例子 (比对目标最好是内设场景对话)
 3. 构建 prompt 作为 pre_history 送到模型参数中
 4. 把要做分类的句子输给模型，模型根据要求进行比对，并输出是还是不是
+
+
+## 基于 ChatGLM-6B 搭建个人专属知识库
+> https://juejin.cn/post/7233625509107384379
+
+ChatGLM-6B是一个垂直领域的语言模型，使用了P-Tuning微调技术。它可以通过向量嵌入技术实现个人专属知识库，并在提问时匹配最相关的知识库片段，将其与问题一起提交给LLM生成回答。这个模型可以应用于多个领域，如财务分析、智能客服、律师助手和在线问诊医生等。部署和配置该模型需要一些准备工作，但使用 Gradio 页面可以改进用户体验。
+
+垂直领域的 LLM 专属模型在生产落地过程中需要微调，但微调对非专业人员不友好，需要专业知识、大量计算资源和时间。ChatGLM-6B + langchain 可以实现无需微调的垂直领域专业问答，创建个人专属知识库简单易上手。
+技术原理是使用向量嵌入（embedding）将用户知识库和问题进行向量化，利用向量相关性算法（如余弦算法）匹配最相似的知识库片段，并将其作为上下文与用户问题一起提交给 LLM 生成回答。可以调整 prompt 和匹配不同的知识库，让 LLM 扮演不同角色，如财务分析师、智能客服、律师助手、在线问诊医生等。部署和配置该系统需要准备环境、下载源码、安装依赖和模型，并进行参数调整。可以通过 Web 模式、API 模式或命令行模式启动系统。可以选择不同的知识库，并基于知识库进行问答。
 
 
 ## 教程
