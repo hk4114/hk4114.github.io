@@ -9,6 +9,7 @@ vssue: true
 - [老北鼻AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)
 - [多语 - chatGPT 3.5 turbo](https://dy-ai.cn/)
 - [bingGPT 镜像](https://chat9.yqcloud.top/)
+- [ChatMind](https://www.chatmind.tech/) 根据输入文字生成思维导图、表格和文字
 
 ## 【AI】OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI
 > https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg
@@ -128,6 +129,27 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 5. 等脚本运行，运行好了你可以看到有几个网址，点击就可以打开UI做图了。
 
 完整教程参考[如何在 Google Colab 上部署 Stable Diffusion Web UI Colab](https://atlassc.net/2023/02/18/stable-diffusion-webui-colab-guide-for-beginners)
+
+
+[Stable Diffusion 你需要知道的算法原理（通俗版）](https://mp.weixin.qq.com/s/2-mihwrCmYW2We2H67zzPg)
+01 Stable Diffusion原理介绍
+
+1. 什么是扩散 (Diffusion)
+2. 扩散 (Diffusion) 是怎么能被稳定 (Stable) 控制的 (以文生图为例)
+3. CLIP：我们输入的文字prompt是如何起作用的
+4. UNET：扩散模型的工作原理
+5. 理解VAE的编解码过程
+
+02 模型训练相关原理
+
+1. 机器是如何认识图片的？
+2. 模型是如何被训练的？
+
+03 大模型微调技术
+
+1. 为什么要进行大模型微调？
+2. 大模型微调需要解决的两个问题
+3. 常见的大模型微调技术及其原理 (Dreambooth / LoRA / Embedding / Hypernetwork)
 
 ### AI 翻唱
 > https://www.bilibili.com/medialist/detail/ml2252128065
