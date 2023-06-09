@@ -1,6 +1,6 @@
 ---
 title: 导航
-category: 生活经验
+category: 生活
 date: 2023-3-25
 vssue: false
 ---
