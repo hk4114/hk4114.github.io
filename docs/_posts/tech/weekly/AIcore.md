@@ -10,6 +10,8 @@ vssue: true
 - [多语 - chatGPT 3.5 turbo](https://dy-ai.cn/)
 - [bingGPT 镜像](https://chat9.yqcloud.top/)
 - [ChatMind](https://www.chatmind.tech/) 根据输入文字生成思维导图、表格和文字
+- [chatGPT 镜像](https://chat2.jinshutuan.com/)
+- [chatGPT 镜像2](https://chat8.aichatos.xyz/)
 
 ## OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI
 > https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg
