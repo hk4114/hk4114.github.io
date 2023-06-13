@@ -14,6 +14,14 @@ vssue: true
 - [chatGPT 镜像](https://chat2.jinshutuan.com/)
 - [chatGPT 镜像2](https://chat8.aichatos.xyz/)
 
+### 【AI】ai 应用聚合网站
+- [ai 工具集](https://ai-bot.cn/)
+- [一起用 ai](https://17yongai.com/)
+- [tabxx](https://tabxx.com/) 含教程
+
+## 企业微信 + Openai
+> https://github.com/ConnectAI-E/WeWork-OpenAI-Node
+
 ## OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI
 > https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg
 >
@@ -25,8 +33,6 @@ vssue: true
 
 演讲中提到了预训练、有监督微调、奖励建模和强化学习等四个主要阶段，并介绍了标记化、Transformer神经网络架构等技术细节。这场演讲非常精彩，并推荐给所有关心大型语言模型的人。
 
-## 企业微信 + Openai
-> https://github.com/ConnectAI-E/WeWork-OpenAI-Node
 
 ## 手把手带你实现：基于Langchain和chatglm-6b构建本地知识库的自动问答应用
 > https://www.bilibili.com/video/BV11N411y7dT/
