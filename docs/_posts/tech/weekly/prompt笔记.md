@@ -5,6 +5,8 @@ date: 2023-5-23
 vssue: true
 ---
 
+- https://www.aishort.top/
+
 ## 【ChatGPT】ChatGPT-Shortcut
 > https://newzone.top/chatgpt
 >

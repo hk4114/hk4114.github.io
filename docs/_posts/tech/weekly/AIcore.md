@@ -8,6 +8,7 @@ vssue: true
 ## 常用 AI 镜像
 - [老北鼻AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)
 - [多语 - chatGPT 3.5 turbo](https://dy-ai.cn/)
+- [镜像 可用4](https://gpttalk.live/)
 - [bingGPT 镜像](https://chat9.yqcloud.top/)
 - [ChatMind](https://www.chatmind.tech/) 根据输入文字生成思维导图、表格和文字
 - [chatGPT 镜像](https://chat2.jinshutuan.com/)
