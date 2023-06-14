@@ -19,6 +19,24 @@ vssue: true
 - [一起用 ai](https://17yongai.com/)
 - [tabxx](https://tabxx.com/) 含教程
 
+### ChatGPT的工作原理，这篇文章说清楚了
+> https://mp.weixin.qq.com/s/QOeL3Q9fsniyh4aEdpiWaA
+
+这篇内容介绍了ChatGPT（一种大型语言模型）的工作原理。
+
+ChatGPT通过分析数十亿个网页上的文本来预测下一个词的合理延续，并生成一个可能的词的排序列表。在选择下一个词时，模型可以采用高排名词或随机选择较低排名词的方法，以产生不同风格的文本。温度参数可以控制排名较低词被选中的频率。该文章还提到了使用简化版本的GPT-2模型，并给出了相关代码示例。
+
+文章还讨论了如何通过分析语料库来计算字母和n-gram的概率，并以此生成更真实的文本。
+
+### OpenAI 官方出品，GPT-4 提示词的最佳实践指南
+> https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ
+
+这篇内容总结了OpenAI在其官方文档中关于提高GPT模型效果的最佳实践指南。
+
+该指南包含六种核心策略和相应的战术，包括编写清晰的指令、使用参考文本、将复杂任务分解为简单子任务、给予模型足够的时间进行推理、使用外部工具弥补模型的不足以及系统地测试变更等。
+
+通过遵循这些最佳实践，用户可以更好地使用GPT模型并提高其效果和性能。
+
 ## 企业微信 + Openai
 > https://github.com/ConnectAI-E/WeWork-OpenAI-Node
 
