@@ -6,11 +6,15 @@ vssue: true
 ---
 
 ## 缘起
-写这篇文章的动机是学完《面向 chatGPT 提示工程》这门课之后，写了笔记再结合平时杂七杂八的一些文章，发现知识点非常零散，产出的的prompt不尽如人意。
+学完[《面向 chatGPT 提示工程》](https://learn.deeplearning.ai/chatgpt-prompt-eng)这门课之后，写了笔记再结合平时学到的一些技巧，发现知识点非常零散，产出的的prompt不尽如人意，所以想整合到一起形成较为可行且高效的prompt方法论。
 
-首先我们需要知道一点：
+后续看到 [OpenAI 官方出品提示词最佳实践指南](https://platform.openai.com/docs/guides/gpt-best-practices) 看了下里面的内容发现和课程内容一模一样。大为震惊，md 等等党天下无敌。不过有些实战内容可以在课程里面直接体验，感兴趣的朋友可以去体验。
 
-会有哪些收获
+阅读本文的收获：
+- [tips] prompt 指导手册
+- [tips] 场景 prompt 套路
+- [principle] ChatGPT 工作原理
+
 
 ![【ChatGPT】《面向开发者的ChatGPT提示工程》笔记](./PromptEngineering.png)
 
