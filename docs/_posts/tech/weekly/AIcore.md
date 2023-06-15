@@ -9,50 +9,18 @@ vssue: true
 - [老北鼻AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)
 - [多语 - chatGPT 3.5 turbo](https://dy-ai.cn/)
 - [镜像 可用4](https://gpttalk.live/)
-- [bingGPT 镜像](https://chat9.yqcloud.top/)
 - [ChatMind](https://www.chatmind.tech/) 根据输入文字生成思维导图、表格和文字
 - [chatGPT 镜像](https://chat2.jinshutuan.com/)
-- [chatGPT 镜像2](https://chat8.aichatos.xyz/)
 
 ### 【AI】ai 应用聚合网站
 - [ai 工具集](https://ai-bot.cn/)
 - [一起用 ai](https://17yongai.com/)
 - [tabxx](https://tabxx.com/) 含教程
 
-### ChatGPT的工作原理，这篇文章说清楚了
-> https://mp.weixin.qq.com/s/QOeL3Q9fsniyh4aEdpiWaA
-
-这篇内容介绍了ChatGPT（一种大型语言模型）的工作原理。
-
-ChatGPT通过分析数十亿个网页上的文本来预测下一个词的合理延续，并生成一个可能的词的排序列表。在选择下一个词时，模型可以采用高排名词或随机选择较低排名词的方法，以产生不同风格的文本。温度参数可以控制排名较低词被选中的频率。该文章还提到了使用简化版本的GPT-2模型，并给出了相关代码示例。
-
-文章还讨论了如何通过分析语料库来计算字母和n-gram的概率，并以此生成更真实的文本。
-
-### OpenAI 官方出品，GPT-4 提示词的最佳实践指南
-> https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ
-
-这篇内容总结了OpenAI在其官方文档中关于提高GPT模型效果的最佳实践指南。
-
-该指南包含六种核心策略和相应的战术，包括编写清晰的指令、使用参考文本、将复杂任务分解为简单子任务、给予模型足够的时间进行推理、使用外部工具弥补模型的不足以及系统地测试变更等。
-
-通过遵循这些最佳实践，用户可以更好地使用GPT模型并提高其效果和性能。
-
 ## 企业微信 + Openai
 > https://github.com/ConnectAI-E/WeWork-OpenAI-Node
 
-## OpenAI联合创始人亲自上场科普GPT，让技术小白也能理解最强AI
-> https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg
->
-> https://www.bilibili.com/video/BV1ts4y1T7UH
-
-这篇内容是关于OpenAI创始人Andrej Karpthy在微软Build 2023开发者大会上的专题演讲。
-
-他详细介绍了如何从GPT基础模型训练出ChatGPT助手模型，并解释了大型语言模型的内部原理和RLHF训练细节。
-
-演讲中提到了预训练、有监督微调、奖励建模和强化学习等四个主要阶段，并介绍了标记化、Transformer神经网络架构等技术细节。这场演讲非常精彩，并推荐给所有关心大型语言模型的人。
-
-
-## 手把手带你实现：基于Langchain和chatglm-6b构建本地知识库的自动问答应用
+## 手把手带你实现：基于 Langchain 和 chatglm-6b 构建本地知识库的自动问答应用
 > https://www.bilibili.com/video/BV11N411y7dT/
 
 ## 『搭建基于LLM的客服系统的实践』基于清华大模型 ChatGLM-6B 完成6类任务
