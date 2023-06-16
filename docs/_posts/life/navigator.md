@@ -25,10 +25,6 @@ vssue: false
 
 [腾讯动手实验室](https://cloud.tencent.com/developer/labs/gallery)
 
-### Mac OS
-- [Mac OS终端利器iTerm2（完美替代bash）](https://www.cnblogs.com/autobyme/p/10095780.html)
-- [alfred](https://github.com/lucasjinreal/alfred)
-
 ### 其他
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [processon](https://www.processon.com/)
