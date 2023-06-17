@@ -51,7 +51,6 @@ more detailed and relevant outputs.
 结构化输出可以让解析模型输出内容的过程更容易，方便Python等语言的读入和处理。
 
 :::tip prompt
-"""
 生成三个虚构的书名及其作者和类型的列表，并以JSON格式提供以下key：book_id、title、author、genre。
 :::
 
