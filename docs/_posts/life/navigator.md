@@ -40,13 +40,6 @@ Online books
 高教书苑
 中国国家数字图书馆
 
-### 爬虫
-- https://www.scrapingbee.com/
-- spider-flow
-- 八爪鱼
-- https://www.bazhuayu.com/
-- https://www.bilibili.com/video/BV1fQ4y1672j
-
 
 ### vpn
 - [sockboom](https://sockboom.ac/user/)
@@ -66,7 +59,7 @@ Online books
 ### 影视资源
 - [电影 ikanbot](https://www.ikanbot.com/)
 - [低端影视](https://ddys.art/)
-- [曲奇动漫](https://www.quqidm.com/)
+- [曲奇动漫](https://www.quqim.com/)
 
 ### 专栏类
 - [dev.to](https://dev.to/)
