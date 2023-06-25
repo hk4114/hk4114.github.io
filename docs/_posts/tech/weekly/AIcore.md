@@ -40,10 +40,6 @@ vssue: true
 - [OpenAI 联合创始人亲自上场科普 GPT，让技术小白也能理解最强 AI](https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg)
 - [提示工程指南](https://www.promptingguide.ai/zh) [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
 
-## 企业微信 + Openai
-
-> https://github.com/ConnectAI-E/WeWork-OpenAI-Node
-
 ## 手把手带你实现：基于 Langchain 和 chatglm-6b 构建本地知识库的自动问答应用
 
 > https://www.bilibili.com/video/BV11N411y7dT/
