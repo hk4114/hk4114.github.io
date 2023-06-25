@@ -224,9 +224,9 @@ continued exploring with delight.
 
 最多 30 个单词。[并侧重于运输效率]。
 
-用2个段落总结由三重引号分隔的文本。
+用 2 个段落总结由三重引号分隔的文本。
 
-用3个项目符号总结由三重引号分隔的文本。
+用 3 个项目符号总结由三重引号分隔的文本。
 """
 Got this panda plush toy for my daughter's birthday, \
 who loves it and takes it everywhere. It's soft and \
@@ -315,6 +315,7 @@ Make your response as short as possible.
 :::
 
 ## prompt 模板
+
 **prompt1 - 通用模板**
 """
 You should express what you want a model to do by \
@@ -329,9 +330,11 @@ and context for the model, which can lead to \
 more detailed and relevant outputs.
 """
 作为一个[精通中英文的翻译专家]，请遵循以下[步骤]：
+
 - step1：将由三重引号分隔的文本翻译成中文，使用 Markdown 输出。
-- step2：将翻译出来的文本总结成字数不超过 [20 个中文字数的]句子。 * 还可以是句子数、段落数、项目符号数
+- step2：将翻译出来的文本总结成字数不超过 [20 个中文字数的]句子。 \* 还可以是句子数、段落数、项目符号数
 - step3：如果它包含一系列步骤，则按照以下格式重写这些步骤（如果有，如果文本不包含一系列步骤，则简单地写下“未提供步骤”）：
+
 ```sh
 1. ...
 2. ...
@@ -341,9 +344,9 @@ n. ...
 
 **prompt2 - 抵抗幻觉**
 作为一位采购专家，需要做到：
-step1 - 判断被```包裹的商品是否存在，回答 “存在” 或者 “不存在”，二选一
+step1 - 判断被`包裹的商品是否存在，回答 “存在” 或者 “不存在”，二选一
 step2 - 当介绍某种商品的时候，需要介绍它的基本信息，加上其形状与评价。要求找到并提供相关引用
-```Boy 公司的 AeroGlide Ultra Slim 智能牙刷```
+`Boy 公司的 AeroGlide Ultra Slim 智能牙刷```
 
 **prompt3-1 - Few-shot**
 你的任务是用统一的风格来回答。
@@ -356,6 +359,7 @@ step2 - 当介绍某种商品的时候，需要介绍它的基本信息，加上
 
 **prompt3-2 - Few-shot**
 作为一位恐龙专家，需要做到：
+
 - 介绍被```包裹的恐龙名称
 - 当介绍某种恐龙的时候，需要介绍它的基本信息，加上其分类与习性。格式按照例子所示。
 - 当该恐龙不存在或你不了解的时候，回答“不知道”即可，不可胡编乱造。
@@ -366,30 +370,31 @@ step2 - 当介绍某种商品的时候，需要介绍它的基本信息，加上
 习性：<habit of dinosaur >
 
 例子：
-```中华龙鸟```
+`中华龙鸟`
 基本信息：中华龙鸟属（属名：Sinosauropteryx，意为“中国的蜥蜴翅膀”，早期也译为中国蜥翼龙）是目前所发现拥有化石化羽毛痕迹的恐龙中，年代最早而且最原始的，也是辽宁省热河群第一个发现的恐龙化石。
 分类：恐龙总目-蜥臀目-兽脚亚目-美颌龙科
 习性：中华龙鸟会以行动迅速的小型动物为食。此外，中华龙鸟以可能有毒的哺乳动物为食。
 
-```霸王龙```
+`霸王龙`
 
 **prompt4 - Chain of thought**
+
 > Let's think step by step
 
 如果不确定所给的信息是否正确，用这句话引导模型去思考
 
 这组数字中的奇数加起来是一个偶数：4、8、9、15、12、2、1。
-A：答案是False。
+A：答案是 False。
 这组数字中的奇数加起来是一个偶数：17、10、19、4、8、12、24。
-A：答案是True。
+A：答案是 True。
 这组数字中的奇数加起来是一个偶数：16、11、14、4、8、13、24。
-A：答案是True。
+A：答案是 True。
 这组数字中的奇数加起来是一个偶数：17、9、10、12、13、4、2。
-A：答案是False。
+A：答案是 False。
 这组数字中的奇数加起来是一个偶数：15、32、5、13、82、7、1。
 A：
 chatGPT: ....
-这组数字中的奇数加起来是否是一个偶数：15、32、5、13、82、7、1？让我们一步步思考 
+这组数字中的奇数加起来是否是一个偶数：15、32、5、13、82、7、1？让我们一步步思考
 
 ## 行业案例
 
@@ -418,6 +423,74 @@ prompt:
 当向你提问[JAVA]语言相关问题时，你的回答应该尽可能通俗易懂且详细，并且能让仅有[JS]语言基础的程序员听懂。在回答语言特性时请用 JS 语言作类比，并同时给出[JAVA]语言与[JS]语言的代码示例。如果问题涉及到静态语言与动态语言的区别，也请出解释。
 
 java 中的数据类型有哪些？
+
+### 使用 ChatGPT 在 5 分钟内「完全读懂」任何书籍
+
+> https://www.reddit.com/r/ChatGPT/comments/14elgw9/how_i_use_chatgpt_to_read_and_remember_any_book/
+
+Reddit 是美国知名论坛，ChatGPT 子区目前有个帖子非常火，是一位狂热的书友分享如何借助 ChatGPT，将阅读一本书的时间压缩到 5 分钟！并且给出了详细的 Prompt！
+
+- Prompt 1: Please summarize [BOOK] by [AUTHOR] > 请按[作者]总结[图书]
+- Prompt 2: What are all of the chapters in the book? > 这本书的章节都有哪些？(注意，在这里，可以根据想学的内容，挑选出对应的最佳章节)
+- Prompt 3: In [BEST CHAPTER], what are the most important 20% of learnings about [INSERT LEARNING OBJECTIVE] that will help me understand 80% of it." > 在[最佳章节]中，关于[插入学习目标]最重要的 20%是什么，这将帮助我理解其中的 80%
+- Prompt 4: Convert those key lessons from the chapter into engaging stories and metaphors to aid my memorization. > 将本章中的关键内容转化为引人入胜的故事和隐喻，以帮助我记忆
+- Optional Prompt 5: Write me an action list of how I can apply [KEY LESSON] into [PLACE YOU WANT TO APPLY IT] > 给我写一份行动清单，说明我如何将[关键课程]应用到[您想应用的地方] （注意！这里可以提供有价值的领域背景知识）
+
+评论区的几百条回帖也是干货满满，书友们积极留言，分享尝试用 ChatGPT 辅助阅读时，那些迷惑又雀跃的时刻！
+
+- Comment 1：注意！这种方式可能会因为 ChatGPT 的「幻觉」而得到错误信息。可以用已经读过的书来尝试一下，然后你就会发现某些具体细节要么不太准确，要么完全就是捏造的。
+- Comment 2：对于「幻觉」我倒是有一些处理经验，一般就是在提问时注意这三点：
+
+明确地告诉它你想要一个准确的答案，没有幻觉，改变 temperature 参数（比如改到 0），或者控制创造力水平，得到答后，要求它为每个引用产生精确的引用和页面，以便于交叉检查
+
+## ChatGPT 的指令参数
+
+通过设置指令参数，可以更好的指导模型的生成行为。
+
+如何设置：聊天框直接输入 !set temperature=0
+
+如何获取当前值: 聊天框直接输入 !get temperature
+
+## model 指定使用模型
+
+取值范围：gpt-4，gpt-3.5-turbo，text-davinci-003, text-davinci-002 等等。
+
+备注：在网页版 ChatGPT 中 gpt4 模型无法使用，因为免费版的最多只能用 gpt3.5 了。
+
+### temperature 控制生成的文本与提示的相似度，也就是常说的温度值
+
+取值范围：0-2
+
+参数说明：
+
+- 较低的值将使输出更加的接近提示
+- 较高的值 GPT 会输出的更加随机有创造性
+
+### n 指定输出几个结果
+
+取值范围：≥ １
+
+### max_tokens 用于控制文本生成的最大长度。
+
+取值范围：>0 且＜模型允许的最大值。以 token 为单位。
+
+### top_p 用于控制 GPT 在预测下一单词时的单词取值范围
+
+取值范围：0-1
+
+与 temperature 差不多作用，建议只用其中一个。
+
+比如值设成 0.7，GPT 将在生成过程中考虑 70 个最有可能的单词。用于控制生成结果的多样性，较小的值可以生成更加确定的文本，较大的值可以生成更多样性的结果。
+
+### stop 指定模型在生成过程中遇到某个特定字符或者字符串时停止
+
+取值范围：可以是一个字符或者字符串
+
+可以更好的控制生成文本的长度和内容，更符合某些场景中的应用。
+
+### echo 这个控制是否返回输入的提示作为输出的一部分
+
+取值范围：true 或者 false
 
 ## ChatGPT 的工作原理
 
