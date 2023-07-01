@@ -40,12 +40,11 @@ Online books
 高教书苑
 中国国家数字图书馆
 
-
 ### vpn
-- [sockboom](https://sockboom.ac/user/)
-- [shadowfly](https://leensa.us/)
-- [woccloud](https://www.woccloud.pro/)
-- [ikuuu](https://ikuuu.eu/auth/login)
+- [sockboom](https://sockboom.link)
+- [leensa](https://leensa.org/)
+- [备用 woccloud](https://www.woccloud.pro/)
+- [备用 ikuuu](https://ikuuu.eu/auth/login)
 
 ### 导航类
 - [编程导航](https://www.code-nav.cn/recommend)
