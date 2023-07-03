@@ -25,6 +25,16 @@ vssue: false
 
 [腾讯动手实验室](https://cloud.tencent.com/developer/labs/gallery)
 
+### vpn
+- [sockboom](https://sockboom.link)
+- [leensa](https://leensa.org/)
+- [备用 woccloud](https://www.woccloud.pro/)
+- [备用 ikuuu](https://ikuuu.eu/auth/login)
+
+### 工具
+- [语音转字幕工具](https://godlucky.net/whisperapp/) 仅需浏览器，AI 自动生成语音字幕，免费且可本地离线运行。
+
+
 ### 其他
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [processon](https://www.processon.com/)
@@ -40,20 +50,11 @@ Online books
 高教书苑
 中国国家数字图书馆
 
-### vpn
-- [sockboom](https://sockboom.link)
-- [leensa](https://leensa.org/)
-- [备用 woccloud](https://www.woccloud.pro/)
-- [备用 ikuuu](https://ikuuu.eu/auth/login)
+
 
 ### 导航类
 - [编程导航](https://www.code-nav.cn/recommend)
 - [设计导航](http://hao.shejidaren.com/)
-
-### 论坛
-- [豆瓣](https://www.douban.com/)
-- [v2ex](https://www.v2ex.com/)
-- [s1](https://bbs.saraba1st.com)
 
 ### 影视资源
 - [电影 ikanbot](https://www.ikanbot.com/)
