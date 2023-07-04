@@ -248,3 +248,266 @@ stable-diffusion-webui-colab 是我用过的最方便的环境搭建脚本。点
 4 月 12 日，微软宣布开源 Deep Speed Chat，帮助用户轻松训练类 ChatGPT 等大语言模型，使得人人都能拥有自己的 ChatGPT！
 
 Deep Speed Chat 是基于微软 Deep Speed 深度学习优化库开发而成，具备训练、强化推理等功能，还使用了 RLHF（人工反馈机制的强化学习）技术，可将训练速度提升 15 倍以上，成本却大幅度降低。例如，一个 130 亿参数的类 ChatGPT 模型，只需 1.25 小时就能完成训练。
+
+
+
+## more
+### 专门做研究的 ChatGPT 平台：你的答案完全来自论文，免费使用
+
+> https://www.jiqizhixin.com/articles/2023-06-24-3
+>
+> https://consensus.app/
+
+
+### 使用 ChatGPT 在 5 分钟内「完全读懂」任何书籍
+
+> https://www.reddit.com/r/ChatGPT/comments/14elgw9/how_i_use_chatgpt_to_read_and_remember_any_book/
+
+Reddit 是美国知名论坛，ChatGPT 子区目前有个帖子非常火，是一位狂热的书友分享如何借助 ChatGPT，将阅读一本书的时间压缩到 5 分钟！并且给出了详细的 Prompt！
+
+- Prompt 1: Please summarize [BOOK] by [AUTHOR]
+- 请按[作者]总结[图书]
+
+- Prompt 2: What are all of the chapters in the book?
+- 这本书的章节都有哪些？(注意，在这里，可以根据想学的内容，挑选出对应的最佳章节)
+
+- Prompt 3: In [BEST CHAPTER], what are the most important 20% of learnings about [INSERT LEARNING OBJECTIVE] that will help me understand 80% of it."
+- 在[最佳章节]中，关于[插入学习目标]最重要的 20%是什么，这将帮助我理解其中的 80%
+
+- Prompt 4: Convert those key lessons from the chapter into engaging stories and metaphors to aid my memorization.
+- 将本章中的关键内容转化为引人入胜的故事和隐喻，以帮助我记忆
+
+- Optional Prompt 5: Write me an action list of how I can apply [KEY LESSON] into [PLACE YOU WANT TO APPLY IT]
+- 给我写一份行动清单，说明我如何将[关键课程]应用到[您想应用的地方] （注意！这里可以提供有价值的领域背景知识）
+
+评论区的几百条回帖也是干货满满，书友们积极留言，分享尝试用 ChatGPT 辅助阅读时，那些迷惑又雀跃的时刻！
+
+- Comment 1：注意！这种方式可能会因为 ChatGPT 的「幻觉」而得到错误信息。可以用已经读过的书来尝试一下，然后你就会发现某些具体细节要么不太准确，要么完全就是捏造的。
+
+- Comment 2：对于「幻觉」我倒是有一些处理经验，一般就是在提问时注意这三点：
+
+明确地告诉它你想要一个准确的答案，没有幻觉
+
+改变 temperature 参数（比如改到 0），或者控制创造力水平
+
+得到答后，要求它为每个引用产生精确的引用和页面，以便于交叉检查
+
+### Framer：无代码构建网站
+
+> 网站链接：https://www.framer.com/
+>
+> 使用体验分享：https://nitter.net/zuozizhen/status/1668907159160250370#m
+
+Framer 是一个强大而简单的网站构建工具，它可以帮助你快速、轻松、有趣地创建专业的网站，同时提供最佳的 SEO、性能和托管服务。
+
+Framer 的特点包括：
+
+AI 驱动：你可以使用 AI 生成你网站的初版，然后自由定制。
+
+设计和布局：Framer 提供了丰富的设计和布局工具，你可以使用定位选项来固定顶部栏、侧边栏、徽章和背景。
+
+插件：Framer 可以连接到流行的应用，如 YouTube、Vimeo、Lottie 等。
+
+SEO 优化：Framer 可以帮助你构建快速、全球优化的网站。
+
+发布：你可以直接在 Framer 上发布你的网站，无需重新构建或编写代码。
+
+社区：Framer 有一个活跃的社区，你可以看到其他人发布的网站，也可以分享你自己的作品。
+
+比较惊喜的是生成内容的排版看起来非常舒适。即使是看他们的模版的排版也能受益匪浅。
+
+### Novelai：目前流量最大的 AI 故事生成网站
+
+> https://novelai.net/
+
+NovelAI 就像一个 AI 驱动的故事创作工具箱。你可以把它想象成一个能够帮助你写故事的超级智能机器人。
+
+它可以帮你画出你故事中的角色和场景，如果你不喜欢自由发挥，它还可以帮你进行有指导的文字冒险游戏。这个机器人还可以模仿你喜欢的作家的写作风格，或者按照你指定的主题来写作。
+
+
+### LLM 全景图：学习路径与学习资料包
+
+> https://zhuanlan.zhihu.com/p/637154782
+
+作者 @Andy Yang 根据近期的论文、演讲、报告、测评和数据集等资源，整理了这份「LLM 全景图」，可以帮助你快速通关大语言模型、俯瞰当前 LLM 领域。如果对细分板块感兴趣，可以找更深入的资料。
+
+1. Overview
+   - 前沿模型观摩
+2. 预训练
+   - 整体
+   - 数据相关
+   - 训练相关
+   - Tokenization
+3. SFT(Supervised FineTuning)/Instruction Tuning
+
+   - SFT 模型
+
+4. RLHF 部分
+
+5. 推理使用
+
+- 解码方法
+- Prompt Engineering
+- 反思以及其他高阶应用
+
+6. 其他
+   - Tools （API 调用）
+   - Code Related
+   - Math Related
+   - [可选] GPT API 相关应用
+   - [可选] 损失函数
+
+
+
+### 用 ChatGPT 搭建代码知识库，提升开发效率
+
+> https://mp.weixin.qq.com/s/MpF9xBHYjgnCHNkFn1AsOA
+
+### 吴恩达 x LangChain《基于 LangChain 的大语言模型应用开发》
+
+> https://juejin.cn/post/7248599585735114789
+
+### Stable Diffusion 搭建教程
+
+- [AI 绘画基于 Kaggle 10 分钟搭建保姆级教程](https://juejin.cn/post/7247306840199135287)
+- [无显卡也能 AI 作画 | Colab](https://juejin.cn/post/7217750296171233339)
+- [免费搭建个人 stable-diffusion 绘画(非本地、干货教程)](https://juejin.cn/post/7237004563647397946)
+
+### 耗时 80 小时！超详细的胎教级 Stable Diffusion 使用教程，看这一篇就够！
+
+> https://mp.weixin.qq.com/s/eFi-xoVDQomzCBr5kO9nHA
+
+一篇非常非常详细完备的教程，从手把手安装部署，到界面功能讲解，再到实战案例制作，到下载优质模型，每一步都有详细说明。
+并且！用一个又一个的例子展示，让大家不止是枯燥地看，而是看完立刻也能做出一样的图片出来。而且贴心给出了各种安装包的下载方式。以下列写文章内容大纲。
+
+为什么要学 Stable Diffusion，它究竟有多强大？
+
+1. Stable Diffusion 能干嘛
+2. Stable Diffusion 是什么
+
+三分钟教你装好 Stable Diffusion
+
+1. 什么电脑能带动 SD，A 卡和 Mac 系统也不慌
+2. 低配置电脑也能玩 Stable Diffusion
+3. 一键式安装 SD 本地部署，解压即用，小白的福音
+
+小白快速上手 Stable Diffusion
+
+1. 用对模型，照片风格才对味儿
+2. 写好关键词，让你事半功倍
+3. 两分钟打造你的专属模特
+4. 为什么你生成的图就是跟别人不一样
+5. 一分钟生成自己的二次元造型
+6. 随便画几笔，你就是“神笔马良”
+7. 怎么给二次元老婆换衣服
+8. 两步拯救超糊照片
+9. 三秒教你获取大佬的咒语
+10. 一招让你自由指定女神的姿势
+11. 插画师的福音，线稿秒上色
+12. 小白也能进行室内设计
+
+Stable diffusion 知识补充
+
+1. VAE
+2. 迭代步数
+3. 采样方法
+4. 面部修复+高分辨率修复
+5. 图片分辨率（图片大小）
+6. 生成多图
+7. 用脚本进行照片对比
+
+大神的模型从哪来
+
+1. 模型在哪下载
+2. 模型下载到哪里
+3. 如何分辨模型
+
+### 深入解析大型语言模型：从训练到部署大模型
+
+> https://juejin.cn/post/7246968973765656613
+
+### 从后端导出文件到前端（Blob）下载过程
+
+> https://mp.weixin.qq.com/s/bSvguln5690w-kFH55mS4g
+
+### 效率消息中心从 0-1 搭建与思考|得物技术
+
+> https://mp.weixin.qq.com/s/SWenfaa7obt6XrSA5gZA1A
+
+### 解锁 PDF 文件：使用 JavaScript 和 Canvas 渲染 PDF 内容
+
+> https://mp.weixin.qq.com/s/RGRbgcNveAcqXnRNKt_0Jw
+
+### 成为 AI 提示工程师，这 6 项技能必不可缺！
+
+> https://www.zdnet.com/article/six-skills-you-need-to-become-an-ai-prompt-engineer/
+
+1. 了解人工智能、机器学习和自然语言处理
+
+   - 既然要与大语言模型 (LLM) 进行交互，那么就要了解 LLM 的基础知识，比如分类、原理与各自优缺点，但并不一定意味着要达到自己创建 LLM 的程度
+   - 建议的学习方式包括：浏览传统的课件、阅读大量文章和论文、参加会议，并自己进行实验
+
+2. 清楚地定义问题，并转化为详细的提示词
+   - 提示工程就是告诉 AI 自己需要什么，这本质上是一种沟通能力，前提就是明确地知道自己的互动目标
+   - 建议掌握的能力包括：合理设置对 AI 的期望、理解提供价值的视角、了解给定查询中问题的上下文和范围，也就是了解各种 LLM 的限制以及如何解决这些限制
+3. 培养创造力和会话技巧
+   - 提示工程更像一种协作对话 (而不是编程)，因此辩论能力、谈判经验和销售技巧都有助于从生成式 AI 系统中获得所需的结果
+   - 建议的提升策略包括：定义问题和陈述时要跳出思维框框，用各种各样的对话方法和技巧获得想要的结果
+4. 理解写作和艺术风格，建立领域的专业知识
+   - 聊天机器人可以按照制定风格输出内容，在文本风格、Midjourney 提示词的艺术风格方面尤为明显
+   - 建议拓展的知识包括：理解写作风格和艺术风格，掌握领域的专业知识，借助更多插件完成任务
+5. 练习编程技能
+   - 编程技能对于使用 GPT 构建应用程序非常有帮助，每个人都应该掌握基础的编程技能
+   - 建议的应用场景包括：在构建的应用程序上下文中测试提示词、运行并调试代码、顺畅完成交互式编程
+6. 培养耐心和幽默感
+   - 人工智能绝对需要耐心，因为它们很可能胡扯出一些答案，或者即将得到靠谱答案时又离题万里
+   - 建议的行为准则包括：耐心不仅仅是一种美德，而超能力；接受没办法一蹴而就的事实，包括代码跑不通
+     以上只是粗略的指导方针，更建议从你感兴趣的项目入手，比如一些小应用、小程序，和几个朋友协作一起尝试能得到什么结果，而不仅仅时拿到一个往上的知识列表
+
+
+### GitHub Copilot 官方指南：Prompt 最佳实践与优秀案例
+
+> https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/
+>
+> 操作示例：https://github.blog/2023-05-12-how-i-used-github-copilot-to-build-a-browser-extension/
+
+Rizel Scarlett 和 Michelle Mannering 分享了如何使用 GitHub Copilot，提高 AI 辅助编程的效率和准确度，获取想要的结果。
+
+生成式 AI 编程工具正在改变开发人员编程的工作方式，但是初次接触难免会觉得手生，并因为实现不了想要的结果而感到沮丧。
+
+因此，作者在文中提供了 GitHub Copilot 的 3 个最佳实践、3 条建议，以及 1 个操作示例，来帮助快速掌握使用技巧！
+
+🔔 什么是提示词 (prompt) 和提示工程(prompt engineering)？
+
+作者使用图表，展示了在不同语境下二者含义的差异。对于开发者和机器学习研究者来说，prompt、 prompt engineering、context 的含义略有差别。
+
+🔔 [GitHub Copilot 的 3 个最佳实践](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
+
+1. 在没有上下文时，使用 GitHub Copilot 先搭建框架，再补充更多细节，有助于创建更理想的输出
+2. 输入的提示词应该简单且具体，便于 GitHub Copilot 理解目标，然后逐步完成输出
+3. 举一两个例子，帮助 GitHub Copilot 理解我们想要的结果
+   还有更多常见技巧，如 Zero-shot learning、 、One-shot learning、Few-shot learning
+
+🔔 GitHub Copilot 的 3 个使用建议
+
+1. 不断对输入的提示词进行实验，思考如何完善使其更加准确和清晰
+2. GitHub Copilot 采用了「Neighboring Tabs」的技术，可以将 IDE 打开的所有文件都视为上下文；使用时要确保相关 Tabs 是打开的
+3. 保持良好的编程习惯，比如变量和函数的命名、编码风格保持一致等。
+
+### LangChain 的 OpenAI Functions 实现方法官方文档
+
+> https://python.langchain.com/docs/modules/chains/additional/openai_functions_retrieval_qa
+
+LangChain 实现的十分巧妙：它在 LLM 模型封装上下功夫，而不是改变外部使用代码。这意味着，如果调用的是 OpenAI Chat 模型，那么就会开启 function；如果是其他模型，就会使用其他的实现方式。这种设计保证了兼容性。
+
+LangChain 的 OpenAI Functions 允许对响应输出进行结构化，这在问答中非常有用，当你不仅想得到最终答案，还想得到支持证据、引用等信息时。在 LangChain 的文档中，他们展示了如何使用一个 LLM 链，该链将 OpenAI Functions 作为整个检索管道的一部分。
+
+在官方示例中，他们使用了一个名为 RetrievalQA 的链，它从文档中检索信息，然后使用一个名为 StuffDocumentsChain 的链将检索到的文档与问题结合起来。他们还展示了如何使用自定义的输出模式来改变链的输出，这不仅会影响我们如何解析输出，还会改变 OpenAI 输出本身。例如，我们可以在模式中添加一个名为 countries_referenced 的参数，并描述我们希望这个参数表示什么，这将导致 OpenAI 的输出中包含一个描述。
+
+总的来说，LangChain 的 OpenAI Functions 实现提供了一种灵活的方式来处理和结构化模型的输出，使其更适应各种不同的用例。
+
+### Awesome-Multimodal-Large-Language-Models：多模态大型语言模型（MLLM）论文清单
+
+> 项目链接：https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models#awesome-multimodal-large-language-models
+
+这是 Github 上的一个开源项目，项目内容包括数据集、多模态指令调整、多模态上下文学习、多模态思维链、LLM 辅助视觉推理、基础模型等。这个清单将实时更新，为研究者提供最新的多模态大型语言模型的研究成果和数据集。
