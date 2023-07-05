@@ -234,3 +234,36 @@ python -m autogpt
 为 ChatGPT/ChatGLM/LLaMA/StableLM/MOSS 等多种 LLM 提供了一个轻快好用的 Web 图形界面
 
 项目地址：https://github.com/GaiZhenbiao/ChuanhuChatGPT
+
+## 技术文章
+
+## LLM 全景图：学习路径与学习资料包
+
+> https://zhuanlan.zhihu.com/p/637154782
+
+作者 @Andy Yang 根据近期的论文、演讲、报告、测评和数据集等资源，整理了这份「LLM 全景图」，可以帮助你快速通关大语言模型、俯瞰当前 LLM 领域。如果对细分板块感兴趣，可以找更深入的资料。
+
+1. Overview
+   - 前沿模型观摩
+2. 预训练
+   - 整体
+   - 数据相关
+   - 训练相关
+   - Tokenization
+3. SFT(Supervised FineTuning)/Instruction Tuning SFT 模型
+4. RLHF 部分
+5. 推理使用
+   - 解码方法
+   - Prompt Engineering
+   - 反思以及其他高阶应用
+6. 其他
+   - Tools （API 调用）
+   - Code Related
+   - Math Related
+   - [可选] GPT API 相关应用
+
+
+### 多模态大型语言模型（MLLM）论文清单
+> https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models#awesome-multimodal-large-language-models
+
+这是 Github 上的一个开源项目，项目内容包括数据集、多模态指令调整、多模态上下文学习、多模态思维链、LLM 辅助视觉推理、基础模型等。这个清单将实时更新，为研究者提供最新的多模态大型语言模型的研究成果和数据集。
