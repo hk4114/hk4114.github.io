@@ -425,23 +425,18 @@ prompt:
 java 中的数据类型有哪些？
 
 ### 使用 ChatGPT 在 5 分钟内「完全读懂」任何书籍
+> 这种方式可能会因为 ChatGPT 的「幻觉」而得到错误信息。可以用已经读过的书来尝试一下，然后你就会发现某些具体细节要么不太准确，要么完全就是捏造的。
 
-> https://www.reddit.com/r/ChatGPT/comments/14elgw9/how_i_use_chatgpt_to_read_and_remember_any_book/
+1. Prompt 1: Please summarize [BOOK] by [AUTHOR] 请按[作者]总结[图书]
+2. Prompt 2: What are all of the chapters in the book? 这本书的章节都有哪些？(注意，在这里，可以根据想学的内容，挑选出对应的最佳章节)
+3. Prompt 3: In [BEST CHAPTER], what are the most important 20% of learnings about [INSERT LEARNING OBJECTIVE] that will help me understand 80% of it." 在[最佳章节]中，关于[插入学习目标]最重要的 20%是什么，这将帮助我理解其中的 80%
+4. Prompt 4: Convert those key lessons from the chapter into engaging stories and metaphors to aid my memorization. 将本章中的关键内容转化为引人入胜的故事和隐喻，以帮助我记忆
+5. Optional Prompt 5: Write me an action list of how I can apply [KEY LESSON] into [PLACE YOU WANT TO APPLY IT] 给我写一份行动清单，说明我如何将[关键课程]应用到[您想应用的地方] （注意！这里可以提供有价值的领域背景知识）
 
-Reddit 是美国知名论坛，ChatGPT 子区目前有个帖子非常火，是一位狂热的书友分享如何借助 ChatGPT，将阅读一本书的时间压缩到 5 分钟！并且给出了详细的 Prompt！
+处理幻觉：
+1. 改变 temperature 参数（比如改到 0），或者控制创造力水平
+2. 得到答案后，要求它为每个引用产生精确的引用和页面，以便于交叉检查
 
-- Prompt 1: Please summarize [BOOK] by [AUTHOR] > 请按[作者]总结[图书]
-- Prompt 2: What are all of the chapters in the book? > 这本书的章节都有哪些？(注意，在这里，可以根据想学的内容，挑选出对应的最佳章节)
-- Prompt 3: In [BEST CHAPTER], what are the most important 20% of learnings about [INSERT LEARNING OBJECTIVE] that will help me understand 80% of it." > 在[最佳章节]中，关于[插入学习目标]最重要的 20%是什么，这将帮助我理解其中的 80%
-- Prompt 4: Convert those key lessons from the chapter into engaging stories and metaphors to aid my memorization. > 将本章中的关键内容转化为引人入胜的故事和隐喻，以帮助我记忆
-- Optional Prompt 5: Write me an action list of how I can apply [KEY LESSON] into [PLACE YOU WANT TO APPLY IT] > 给我写一份行动清单，说明我如何将[关键课程]应用到[您想应用的地方] （注意！这里可以提供有价值的领域背景知识）
-
-评论区的几百条回帖也是干货满满，书友们积极留言，分享尝试用 ChatGPT 辅助阅读时，那些迷惑又雀跃的时刻！
-
-- Comment 1：注意！这种方式可能会因为 ChatGPT 的「幻觉」而得到错误信息。可以用已经读过的书来尝试一下，然后你就会发现某些具体细节要么不太准确，要么完全就是捏造的。
-- Comment 2：对于「幻觉」我倒是有一些处理经验，一般就是在提问时注意这三点：
-
-明确地告诉它你想要一个准确的答案，没有幻觉，改变 temperature 参数（比如改到 0），或者控制创造力水平，得到答后，要求它为每个引用产生精确的引用和页面，以便于交叉检查
 
 ## ChatGPT 的指令参数
 
