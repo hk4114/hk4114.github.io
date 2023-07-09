@@ -14,10 +14,8 @@ Mine Weekly Special Edition.
 <!-- more -->
 
 ## 镜像
-
 - [老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)
 - [多语 - chatGPT 3.5 turbo](https://dy-ai.cn/)
-- [镜像 可用 4](https://gpttalk.live/)
 - [ChatMind](https://www.chatmind.tech/) 根据输入文字生成思维导图、表格和文字
 - [chatGPT 镜像](https://chat2.jinshutuan.com/)
 
