@@ -42,6 +42,7 @@ vssue: false
 - [标准地图服务](http://bzdt.ch.mnr.gov.cn/)
 - [favicon](https://favicon.io/)
 - [MyFakeInfo](https://www.myfakeinfo.com/) 通过使用随机规则生成假信息，无法律风险。
+- [APIVault](https://apivault.dev/) 这个网站收集了大量公共 API，相当于 API 的搜索引擎，用户可以提交新的 API。
 
 ### 搜书
 
