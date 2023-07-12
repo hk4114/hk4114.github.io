@@ -37,6 +37,32 @@ vssue: true
 9. [ ] 学习 [Langchain](https://python.langchain.com/en/latest/) 框架，LangChain 是目前 LLM 应用搭建最主流的框架，能给 LLM 这个“大脑”组装上“手”和“腿”，一定要了解 Agent，Memory，Chain 等核心概念
 10. [ ] Build with LLM 建造自己的 AI 助手。实践开干，LLM 应用层程序开发:掌握开发框架可以极大的提升实践效率，同时 Github 上有大量 GPT 开源项目可以参考实践。动手实践干中学。
 
+### 基于 ChatGLM-6B 搭建个人专属知识库
+
+> https://juejin.cn/post/7233625509107384379
+
+ChatGLM-6B 是一个垂直领域的语言模型，使用了 P-Tuning 微调技术。它可以通过向量嵌入技术实现个人专属知识库，并在提问时匹配最相关的知识库片段，将其与问题一起提交给 LLM 生成回答。这个模型可以应用于多个领域，如财务分析、智能客服、律师助手和在线问诊医生等。部署和配置该模型需要一些准备工作，但使用 Gradio 页面可以改进用户体验。
+
+垂直领域的 LLM 专属模型在生产落地过程中需要微调，但微调对非专业人员不友好，需要专业知识、大量计算资源和时间。ChatGLM-6B + langchain 可以实现无需微调的垂直领域专业问答，创建个人专属知识库简单易上手。
+技术原理是使用向量嵌入（embedding）将用户知识库和问题进行向量化，利用向量相关性算法（如余弦算法）匹配最相似的知识库片段，并将其作为上下文与用户问题一起提交给 LLM 生成回答。可以调整 prompt 和匹配不同的知识库，让 LLM 扮演不同角色，如财务分析师、智能客服、律师助手、在线问诊医生等。部署和配置该系统需要准备环境、下载源码、安装依赖和模型，并进行参数调整。可以通过 Web 模式、API 模式或命令行模式启动系统。可以选择不同的知识库，并基于知识库进行问答。
+
+
+## 手把手带你实现：基于 Langchain 和 chatglm-6b 构建本地知识库的自动问答应用
+
+> https://www.bilibili.com/video/BV11N411y7dT/
+
+## 【AI】Full Stack LLM Bootcamp: LLM 应用开发全栈指南 (免费训练营)
+
+> https://fullstackdeeplearning.com/llm-bootcamp/
+
+The Full Stack 是一个人工智能学习网站，提供各类免费课程和训练营，帮助用户熟悉深度学习基础技能，并提供实践计划以提升实际操作能力。
+近期 ，网站推出了新的训练营课程「Full Stack LLM Bootcamp」，帮助了解基于 LLM 构建 App 所需要的最佳实践和工具，掌握从提示工程到「用户中心设计」的全栈技能！以下是课程笔记要点！学习课程与查看完整笔记
+
+1. [笔记 1 LLM 应用开发全栈指南](https://mp.weixin.qq.com/s/weH_7K2g3sBMbtei1_dTng)
+2. [笔记 2 LLM 全栈开发指南补遗](https://mp.weixin.qq.com/s/3zijYYxIJA5rJz9fBoArPw)
+
+
+
 ## 关于「构建 LLM App」你所需要知道的一切
 > https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac?gi=5d54fa947d4f
 
@@ -152,20 +178,6 @@ AI Agent 被认为是 OpenAI 发力的下一个方向。Lilian 将 Agents 定义
 是一本以技能和项目为主线的 LangChain 主题书籍，介绍如何利用 LangChain、LlamaIndex 项目、ChatGPT API 解决一系列问题。
 
 该书涵盖了安装和使用 LangChain 和 LlamaIndex 的基本要求，以及使用 Google Knowledge Graph API、使用 Hugging Face 开源模型、使用 Zapier 集成等方面的示例。它还提供了关于大型语言模型的概述和使用场景的讨论。该书的目标读者是希望构建自己的工具并提升程序设计能力的开发人员。
-
-## 手把手带你实现：基于 Langchain 和 chatglm-6b 构建本地知识库的自动问答应用
-
-> https://www.bilibili.com/video/BV11N411y7dT/
-
-## 【AI】Full Stack LLM Bootcamp: LLM 应用开发全栈指南 (免费训练营)
-
-> https://fullstackdeeplearning.com/llm-bootcamp/
-
-The Full Stack 是一个人工智能学习网站，提供各类免费课程和训练营，帮助用户熟悉深度学习基础技能，并提供实践计划以提升实际操作能力。
-近期 ，网站推出了新的训练营课程「Full Stack LLM Bootcamp」，帮助了解基于 LLM 构建 App 所需要的最佳实践和工具，掌握从提示工程到「用户中心设计」的全栈技能！以下是课程笔记要点！学习课程与查看完整笔记
-
-1. [笔记 1 LLM 应用开发全栈指南](https://mp.weixin.qq.com/s/weH_7K2g3sBMbtei1_dTng)
-2. [笔记 2 LLM 全栈开发指南补遗](https://mp.weixin.qq.com/s/3zijYYxIJA5rJz9fBoArPw)
 
 ## 『搭建基于 LLM 的客服系统的实践』基于清华大模型 ChatGLM-6B 完成 6 类任务
 
