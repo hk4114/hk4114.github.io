@@ -13,6 +13,10 @@ Mine Weekly Special Edition.
 
 <!-- more -->
 
+## 在线平台
+- [阿里云 PAI](https://pai.console.aliyun.com/)
+- [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)
+
 ## 镜像
 - [老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)
 - [多语 - chatGPT 3.5 turbo](https://dy-ai.cn/)
