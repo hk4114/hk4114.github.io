@@ -11,6 +11,24 @@ vssue: true
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
 - [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)
 
+## ChatGPT 的工作原理
+
+> https://mp.weixin.qq.com/s/QOeL3Q9fsniyh4aEdpiWaA
+
+这篇内容介绍了 ChatGPT（一种大型语言模型）的工作原理。
+
+ChatGPT 通过分析数十亿个网页上的文本来预测下一个词的合理延续，并生成一个可能的词的排序列表。在选择下一个词时，模型可以采用高排名词或随机选择较低排名词的方法，以产生不同风格的文本。温度参数可以控制排名较低词被选中的频率。该文章还提到了使用简化版本的 GPT-2 模型，并给出了相关代码示例。
+
+文章还讨论了如何通过分析语料库来计算字母和 n-gram 的概率，并以此生成更真实的文本。
+
+### OpenAI 联合创始人亲自上场科普 GPT，让技术小白也能理解最强 AI
+
+> https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg
+
+详细介绍了如何从 GPT 基础模型训练出 ChatGPT 助手模型，并解释了大型语言模型的内部原理和 RLHF 训练细节。
+
+演讲中提到了预训练、有监督微调、奖励建模和强化学习等四个主要阶段，并介绍了标记化、Transformer 神经网络架构等技术细节。这场演讲非常精彩，并推荐给所有关心大型语言模型的人。
+
 
 ## 生成式 AI 应用路线图：多模态 AI 的应用能力演进
 
