@@ -10,6 +10,7 @@ vssue: true
 - [提示工程指南](https://www.promptingguide.ai/zh) [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
 - [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)
+- [魔搭](https://www.modelscope.cn/home)
 
 ## ChatGPT 的工作原理
 
