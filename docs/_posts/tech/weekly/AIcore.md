@@ -19,7 +19,7 @@ vssue: true
 
 写代码，写周报，脑暴想法，总结文档，翻译等。生活中的问题也可以积极问。
 
-- 使用体验各个大模型 [ChatGPT](https://platform.openai.com/), [Claude](https://www.anthropic.com/product), [Poe](https://poe.com/)
+- 使用体验各个大模型 [ChatGPT](https://platform.openai.com/), [Claude](https://www.anthropic.com/product), [Poe](https://poe.com/),[通义千问](https://qianwen.aliyun.com)
 - 镜像：[老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)、[chatGPT 镜像](https://chat2.jinshutuan.com/)
 - 聚合网站：[ai 工具集](https://ai-bot.cn/)、[tabxx](https://tabxx.com/)、[gpt 3 demo](https://gpt3demo.com/map)
 - 工具
