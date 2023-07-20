@@ -95,9 +95,10 @@ AI Agent 被认为是 OpenAI 发力的下一个方向。Lilian 将 Agents 定义
 Build with LLM 建造自己的 AI 助手。
 
 动手实践干中学。LLM 应用层程序开发。掌握开发框架可以极大的提升实践效率，同时 Github 上有大量 GPT 开源项目可以参考实践。
-
-1. [基于 ChatGLM-6B 搭建个人专属知识库](https://juejin.cn/post/7233625509107384379)
-2. [手把手带你实现：基于 Langchain 和 chatglm-6b 构建本地知识库的自动问答应用](https://www.bilibili.com/video/BV11N411y7dT/)
+ 
+1. [LangChain + ChatGLM2-6B 搭建个人专属知识库](https://juejin.cn/post/7255477718770139193)
+2. [基于 ChatGLM-6B 搭建个人专属知识库](https://juejin.cn/post/7233625509107384379)
+3. [手把手带你实现：基于 Langchain 和 chatglm-6b 构建本地知识库的自动问答应用](https://www.bilibili.com/video/BV11N411y7dT/)
 - [大语言模型 (LLM) 学习路径和资料汇总 (工程向)](https://ninehills.tech/articles/97.html) 使用优质公开资料 (尽可能选择了中文) 构建的 LLM 学习路径，侧重工程方向，总共分为 4 个章节。读者可以根据自己需要选择对应的章节。
 - 英文资料 [Full Stack LLM Bootcamp: LLM 应用开发全栈指南 免费训练营](https://fullstackdeeplearning.com/llm-bootcamp/) 帮助了解基于 LLM 构建 App 所需要的最佳实践和工具，掌握从提示工程到「用户中心设计」的全栈技能！以下是课程笔记要点！学习课程与查看完整笔记。[笔记 1 LLM 应用开发全栈指南](https://mp.weixin.qq.com/s/weH_7K2g3sBMbtei1_dTng) / [笔记 2 LLM 全栈开发指南补遗](https://mp.weixin.qq.com/s/3zijYYxIJA5rJz9fBoArPw)
 - 英文资料 [Langchain](https://python.langchain.com/en/latest/) 框架，LangChain 是目前 LLM 应用搭建最主流的框架，能给 LLM 这个“大脑”组装上“手”和“腿”，一定要了解 Agent，Memory，Chain 等核心概念
