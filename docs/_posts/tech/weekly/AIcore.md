@@ -21,12 +21,36 @@ vssue: true
 
 写代码，写周报，脑暴想法，总结文档，翻译等。生活中的问题也可以积极问。
 
-- 使用体验各个大模型 [ChatGPT](https://platform.openai.com/), [Claude](https://www.anthropic.com/product), [Poe](https://poe.com/),[通义千问](https://qianwen.aliyun.com)
+- 使用体验各个大模型
 - 镜像：[老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)、[chatGPT 镜像](https://chat2.jinshutuan.com/)
 - 聚合网站：[ai 工具集](https://ai-bot.cn/)、[tabxx](https://tabxx.com/)、[gpt 3 demo](https://gpt3demo.com/map)
 - 工具
   + [Coglayer](https://www.coglayer.com/) 自动化 Prompt 的 AI 工具，擅长处理需要深度思考的复杂任务，例如：创建商业计划、评估重要的生活决策、分析你的产品、深度研究任何主题、评估商业想法等。
   + [framer.AI](https://framer.com/) 根据提示词生成网页。例如：提示词：“一个为中国春节准备的 h5 落地页，整体配色以喜庆的红色为主。内容包括距离春节的倒计时以及页面正中间的按钮，按钮点击后跳转下载 app”。活动页地址：https://spring-festival-countdown.framer.ai/
+  + [谷歌推出「NotebookLM」，上传文档就能问答/总结/再创作](https://notebooklm.google.com/) [文档](https://blog.google/technology/ai/notebooklm-google-ai) 可以自动总结用户上传的文档、回答相关问题、甚至根据提纲创作新的内容。目前仅对美国用户开放申请。相比通用AI聊天机器人，NotebookLM 更加可靠，专门基于用户上传的资料进行训练，并会自动标注来源出处，「胡说八道」的概率大大降低！是一款非常有前景的AI笔记应用,值得关注其后续发展
+
+:::tip 推荐大模型实用工具清单
+- 文本写作
+  + 免费选项：[Poe](https://poe.com/)、[ChatGPT](https://platform.openai.com/)、[Claude](https://www.anthropic.com/product)、[通义千问](https://qianwen.aliyun.com)
+  + 付费选项：GPT-4、ChatGPT with plugins
+- 生成图像
+  + 透明选项：Adobe Firefly
+  + 开源选项：Stable Diffusion
+  + 免费选项：Bing / Bing Image Creator (DALL-E)、Playgound
+  + 最佳质量：Midjourney
+- 思考创意
+  + 免费选项：Bing
+  + 付费选项：GPT-4 
+- 生成视频
+  + 动画制作：D-iD、Runway v2
+  + 声音克隆：ElevenLabs 
+- 处理文件和数据
+  + 处理文件：Claude 2
+  + 处理数据：Code Interpreter
+- 获取信息和学习
+  + 免费选项：Bing
+  + 付费选项：Khanmigo (可汗学院提供的AI学习助手)
+:::
 
 ### Level 2 - Prompt Engineer 
 > 输出：[我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461) 参考资料：[提示工程指南](https://www.promptingguide.ai/zh) / [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
@@ -98,7 +122,7 @@ Build with LLM 建造自己的 AI 助手。
 
 动手实践干中学。LLM 应用层程序开发。掌握开发框架可以极大的提升实践效率，同时 Github 上有大量 GPT 开源项目可以参考实践。
  
-1. [LangChain + ChatGLM2-6B 搭建个人专属知识库](https://juejin.cn/post/7255477718770139193)
+1. important [LangChain + ChatGLM2-6B 搭建个人专属知识库](https://juejin.cn/post/7255477718770139193)
 2. [基于 ChatGLM-6B 搭建个人专属知识库](https://juejin.cn/post/7233625509107384379)
 3. [手把手带你实现：基于 Langchain 和 chatglm-6b 构建本地知识库的自动问答应用](https://www.bilibili.com/video/BV11N411y7dT/)
 - [大语言模型 (LLM) 学习路径和资料汇总 (工程向)](https://ninehills.tech/articles/97.html) 使用优质公开资料 (尽可能选择了中文) 构建的 LLM 学习路径，侧重工程方向，总共分为 4 个章节。读者可以根据自己需要选择对应的章节。
@@ -177,21 +201,23 @@ Build with LLM 建造自己的 AI 助手。
 5. [MidJourney 学习导航](https://learningprompt.wiki/docs/midjourney-learning-path)
 
 #### Stable Diffusion
+1. [2023年LLM如何入门？请看这篇综述！丨论文解读](https://juejin.cn/post/7253476306008031287)
 1. [免费搭建个人 stable-diffusion 绘画(非本地、干货教程)](https://juejin.cn/post/7237004563647397946)
-2. [无显卡也能 AI 作画 | Colab](https://juejin.cn/post/7217750296171233339)
-3. [如何在 Google Colab 上部署 Stable Diffusion Web UI Colab](https://atlassc.net/2023/02/18/stable-diffusion-webui-colab-guide-for-beginners) 试用 stable diffusion 画图，适用场景：不会在电脑上搭环境，显卡不行。但是会翻墙。
+2. [一份保姆级的Stable Diffusion部署教程，开启你的炼丹之路 | 京东云技术团队](https://juejin.cn/post/7252860591315746853)
+3. [无显卡也能 AI 作画 | Colab](https://juejin.cn/post/7217750296171233339)
+4. [如何在 Google Colab 上部署 Stable Diffusion Web UI Colab](https://atlassc.net/2023/02/18/stable-diffusion-webui-colab-guide-for-beginners) 试用 stable diffusion 画图，适用场景：不会在电脑上搭环境，显卡不行。但是会翻墙。
    1. 注册登录好 google colab 账号，github.com/camenduru/stable-diffusion-webui-colab
    2. 从列表里面选好你要运行的模型，比如最近很火的 midjourney，midjourney_v4_diffusion_webui_colab（如果你想画漂亮小姐姐就选 chillout_mix_webui_colab）
    3. 每个模型都有 v1.9 和 v2.0 两个版本，优先选择 v2.0，因为已经包含了 ControlNet
    4. 点击链接后会跳转到 google colab，然后点击左上角三角播放按钮等搭建好环境
    5. 等脚本运行，运行好了你可以看到有几个网址，点击就可以打开 UI 做图了。
-4. [AI 绘画基于 Kaggle 10 分钟搭建保姆级教程](https://juejin.cn/post/7247306840199135287)
-5. [开源图像模型 Stable Diffusion 入门手册](https://mp.weixin.qq.com/s/8czNX-pXyOeFDFhs2fo7HA)
-6. [教会你使用 AI 绘画利器 Stable Diffusion](https://mp.weixin.qq.com/s/9Dw2GYkg6b1vvKKyJQ-3TA)
-7. [耗时 80 小时！超详细的胎教级 Stable Diffusion 使用教程，看这一篇就够！](https://mp.weixin.qq.com/s/eFi-xoVDQomzCBr5kO9nHA)
-8. [万字长文！从零开始带你进阶AI绘画神器 Stable Diffusion](https://www.uisdc.com/stable-diffusion-8) 这是一篇 Stable Diffusion 的进阶教程。开篇介绍了作者个人的 SD 学习路线，清晰合理，值得借鉴。
-9.  [视频教程 Stable Diffusion](https://www.bilibili.com/video/BV1BM4y127eD/)
-10. [视频教程 零基础学会 Stable Diffusion](https://www.bilibili.com/video/BV1As4y127HW/) B 站 UP 主「Nenly 同学」正在更新一门神仙课程——《零基础学会 Stable Diffusion》，并号称「B 站第一套系统的 AI 绘画课」。课程上线两周已经获得了 23W+的播放
+5. [AI 绘画基于 Kaggle 10 分钟搭建保姆级教程](https://juejin.cn/post/7247306840199135287)
+6. [开源图像模型 Stable Diffusion 入门手册](https://mp.weixin.qq.com/s/8czNX-pXyOeFDFhs2fo7HA)
+7. [教会你使用 AI 绘画利器 Stable Diffusion](https://mp.weixin.qq.com/s/9Dw2GYkg6b1vvKKyJQ-3TA)
+8. [耗时 80 小时！超详细的胎教级 Stable Diffusion 使用教程，看这一篇就够！](https://mp.weixin.qq.com/s/eFi-xoVDQomzCBr5kO9nHA)
+9.  [万字长文！从零开始带你进阶AI绘画神器 Stable Diffusion](https://www.uisdc.com/stable-diffusion-8) 这是一篇 Stable Diffusion 的进阶教程。开篇介绍了作者个人的 SD 学习路线，清晰合理，值得借鉴。
+10. [视频教程 Stable Diffusion](https://www.bilibili.com/video/BV1BM4y127eD/)
+11. [视频教程 零基础学会 Stable Diffusion](https://www.bilibili.com/video/BV1As4y127HW/) B 站 UP 主「Nenly 同学」正在更新一门神仙课程——《零基础学会 Stable Diffusion》，并号称「B 站第一套系统的 AI 绘画课」。课程上线两周已经获得了 23W+的播放
 
 提示词
 - [手把手教你用 Stable Diffusion 写好提示词](https://mp.weixin.qq.com/s/sEQpP5S7W_gsCUf3i7OZiQ)
