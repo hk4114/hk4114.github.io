@@ -11,7 +11,9 @@ vssue: true
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
 - [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)
 - [魔搭](https://www.modelscope.cn/home)
-
+- 注册 [Google Colab](https://colab.google/) 不用下载配置本地环境即可线上实现很多大模型的框架
+- 注册并多逛 [Hugging Face](https://huggingface.co/) 有大量开源模型，数据集，以及模型的线上体验
+- [阿里云 PAI](https://pai.console.aliyun.com/)
 ## AIGC 学习路径、资源整合
 
 ### Level 1 - 享受 AI 红利
