@@ -22,7 +22,7 @@ vssue: true
 写代码，写周报，脑暴想法，总结文档，翻译等。生活中的问题也可以积极问。
 
 - 使用体验各个大模型
-- 镜像：[老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)、[chatGPT 镜像](https://chat2.jinshutuan.com/)
+- 镜像：[老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)、[chatGPT 镜像](https://chat2.jinshutuan.com/) [codenews](https://codenews.cc/chatgpt)
 - 聚合网站：[ai 工具集](https://ai-bot.cn/)、[tabxx](https://tabxx.com/)、[gpt 3 demo](https://gpt3demo.com/map)
 - 工具
   + [Coglayer](https://www.coglayer.com/) 自动化 Prompt 的 AI 工具，擅长处理需要深度思考的复杂任务，例如：创建商业计划、评估重要的生活决策、分析你的产品、深度研究任何主题、评估商业想法等。
