@@ -125,8 +125,6 @@ Build with LLM 建造自己的 AI 助手。
 1. important [LangChain + ChatGLM2-6B 搭建个人专属知识库](https://juejin.cn/post/7255477718770139193)
 2. [ChatGPT小型平替之ChatGLM-6B本地化部署、接入本地知识库体验](https://juejin.cn/post/7246408135015415868)
 3. [基于 ChatGLM-6B 搭建个人专属知识库](https://juejin.cn/post/7233625509107384379)
-4. [手把手带你实现：基于 Langchain 和 chatglm-6b 构建本地知识库的自动问答应用](https://www.bilibili.com/video/BV11N411y7dT/)
-- [大语言模型 (LLM) 学习路径和资料汇总 (工程向)](https://ninehills.tech/articles/97.html) 使用优质公开资料 (尽可能选择了中文) 构建的 LLM 学习路径，侧重工程方向，总共分为 4 个章节。读者可以根据自己需要选择对应的章节。
 - 英文资料 [Full Stack LLM Bootcamp: LLM 应用开发全栈指南 免费训练营](https://fullstackdeeplearning.com/llm-bootcamp/) 帮助了解基于 LLM 构建 App 所需要的最佳实践和工具，掌握从提示工程到「用户中心设计」的全栈技能！以下是课程笔记要点！学习课程与查看完整笔记。[笔记 1 LLM 应用开发全栈指南](https://mp.weixin.qq.com/s/weH_7K2g3sBMbtei1_dTng) / [笔记 2 LLM 全栈开发指南补遗](https://mp.weixin.qq.com/s/3zijYYxIJA5rJz9fBoArPw)
 - 英文资料 [Langchain](https://python.langchain.com/en/latest/) 框架，LangChain 是目前 LLM 应用搭建最主流的框架，能给 LLM 这个“大脑”组装上“手”和“腿”，一定要了解 Agent，Memory，Chain 等核心概念
 - 英文资料 [斯坦福大学 AI 课程设置：67 门课程构建学习路径](https://ai.stanford.edu/courses/)斯坦福大学将 67 门 AI 相关课程聚合在一起，构建了这个课程合辑，便于进行课程选择和学习。斯坦福大学作为世界一流的大学，出品的计算机、机器学习、深度学习等系列课程一直备受好评。课程的公开视频、课件和作业等是很多入门者系统学习的首选。
