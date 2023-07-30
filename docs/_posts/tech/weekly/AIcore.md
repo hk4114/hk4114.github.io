@@ -21,7 +21,7 @@ vssue: true
 
 写代码，写周报，脑暴想法，总结文档，翻译等。生活中的问题也可以积极问。
 
-- 使用体验各个大模型
+- [ChatHub 聚合客户端](https://chathub.gg) ChatHub 是一个 chatbot 聚合客户端，目前已经支持ChatGPT、New Bing Chat、Google Bard、Claude、ChatGLM 等，可以在一个页面同时与多个聊天机器人进行对话。
 - 镜像：[老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)、[chatGPT 镜像](https://chat2.jinshutuan.com/) [codenews](https://codenews.cc/chatgpt)
 - 聚合网站：[ai 工具集](https://ai-bot.cn/)、[tabxx](https://tabxx.com/)、[gpt 3 demo](https://gpt3demo.com/map)
 - 工具
@@ -122,9 +122,7 @@ Build with LLM 建造自己的 AI 助手。
 
 动手实践干中学。LLM 应用层程序开发。掌握开发框架可以极大的提升实践效率，同时 Github 上有大量 GPT 开源项目可以参考实践。
  
-1. important [LangChain + ChatGLM2-6B 搭建个人专属知识库](https://juejin.cn/post/7255477718770139193)
-2. [ChatGPT小型平替之ChatGLM-6B本地化部署、接入本地知识库体验](https://juejin.cn/post/7246408135015415868)
-3. [基于 ChatGLM-6B 搭建个人专属知识库](https://juejin.cn/post/7233625509107384379)
+- [一站式 LLM 底层技术原理入门指南](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc)面向非科班出身但想要了解AI技术原理的受众的 飞书文档。文档从浅到深，覆盖了非常多内容细节，并在持续更新 LLM 最新技术进展及相关原理！
 - 英文资料 [Full Stack LLM Bootcamp: LLM 应用开发全栈指南 免费训练营](https://fullstackdeeplearning.com/llm-bootcamp/) 帮助了解基于 LLM 构建 App 所需要的最佳实践和工具，掌握从提示工程到「用户中心设计」的全栈技能！以下是课程笔记要点！学习课程与查看完整笔记。[笔记 1 LLM 应用开发全栈指南](https://mp.weixin.qq.com/s/weH_7K2g3sBMbtei1_dTng) / [笔记 2 LLM 全栈开发指南补遗](https://mp.weixin.qq.com/s/3zijYYxIJA5rJz9fBoArPw)
 - 英文资料 [Langchain](https://python.langchain.com/en/latest/) 框架，LangChain 是目前 LLM 应用搭建最主流的框架，能给 LLM 这个“大脑”组装上“手”和“腿”，一定要了解 Agent，Memory，Chain 等核心概念
 - 英文资料 [斯坦福大学 AI 课程设置：67 门课程构建学习路径](https://ai.stanford.edu/courses/)斯坦福大学将 67 门 AI 相关课程聚合在一起，构建了这个课程合辑，便于进行课程选择和学习。斯坦福大学作为世界一流的大学，出品的计算机、机器学习、深度学习等系列课程一直备受好评。课程的公开视频、课件和作业等是很多入门者系统学习的首选。
@@ -137,6 +135,26 @@ Build with LLM 建造自己的 AI 助手。
 - [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)
 
 #### 教程
+
+**[LLM 开发必修课，6 周教你用热门框架开发商业级 LLM 产品](https://www.edx.org/course/large-language-models-application-through-production)**
+
+这门课程面向开发人员、数据科学家和工程师，帮助使用最流行的框架 (如 Hugging Face、LangChain) 来构建面向大语言模型的应用程序。通过这门课程的学习,你能够构建一个端到端的 LLM 工作流程，使其准备上线生产。
+
+- 模块 1：用 LLM 应用
+- 模块 2：嵌入、向量数据库和搜索
+- 模块 3：多阶段推理
+- 模块 4：LLM 的微调和评估
+- 模块 5：社会与 LLM-偏见和安全
+- 模块 6：LLMOps
+
+学习收获
+
+- 如何使用流行的库 (如 Hugging Face、LangChain) 将 LLM 应用到自然语言处理 (NLP) 的实际问题中
+- 如何使用嵌入和向量数据库将域知识和记忆添加到 LLM 流程中
+- 理解预训练、微调和提示工程的细微差别,并将这些知识应用到自定义聊天模型的微调中
+- 如何使用不同的方法来评估 LLM 的效果和偏见
+- 如何实现 LLMOps 和多阶段推理最佳实践的 LLM 工作流程
+- 如何利用 LLMOps 最佳实践在规模上部署模型
 
 **英文资料 [关于「构建 LLM App」你所需要知道的一切](https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac?gi=5d54fa947d4f)**
 
@@ -186,6 +204,19 @@ Build with LLM 建造自己的 AI 助手。
 该书涵盖了安装和使用 LangChain 和 LlamaIndex 的基本要求，以及使用 Google Knowledge Graph API、使用 Hugging Face 开源模型、使用 Zapier 集成等方面的示例。
 
 它还提供了关于大型语言模型的概述和使用场景的讨论。该书的目标读者是希望构建自己的工具并提升程序设计能力的开发人员。
+
+**[吴恩达 X HuggingFace 使用 Gradio 快速构建生成式AI应用](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)**
+
+教大家如何使用 Gradio 快速构建生成式AI的应用。Gradio 是一个开源 Python 库，可以将机器学习模型从抽象的代码转变为交互界面，大大简化了经典应用的构建过程，如草图识别、问答系统、图像分割、时序预测、基于XGBoost的可解释性展示等。
+
+构建生成式AI应用的一个重要方向，就是构建web demo让用户能快速体验。Gradio正是当前最流行的快速构建AI Web应用的解决方案。课程还提供了非常友好的 Jupyter Notebook 练习环境，课程时长1小时左右，目前免费开放。
+
+本门课程包含了5类应用的构建：
+- 自然语言任务接口：主要讲述如何基于 Gradio 开发文本摘要和命名识别应用
+- 图像说明应用：基于开源的 image-to-text 模型开发一个图片说明应用，即基于上传的图片给出相关的文本描述应用
+- 图像生成应用：与上面的相反，构建的式基于text-to-image的应用
+- 游戏生成应用：这是一个综合应用样例，是基于前面的2个应用构造的一个小游戏实例
+- 大模型聊天应用：类似ChatGPT的应用
 
 ## 多媒体教程
 
