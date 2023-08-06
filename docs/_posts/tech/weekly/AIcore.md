@@ -53,7 +53,9 @@ vssue: true
 :::
 
 ### Level 2 - Prompt Engineer 
-> 输出：[我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461) 参考资料：[提示工程指南](https://www.promptingguide.ai/zh) / [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
+> 输出：[我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461) 
+
+参考资料：[提示工程指南](https://www.promptingguide.ai/zh) / [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content) / [提升ChatGPT性能的实用指南：Prompt Engineering的艺术](https://mp.weixin.qq.com/s/GKCwpbY39dNdxhUYfmN6Ew)
 
 好的 Prompt 能够让 GPT 学会调用工具和 API (HuggingGPT)，学会操控机器人，学会和其他 AI Agent 协同(CAMEL)
 
@@ -248,6 +250,7 @@ Build with LLM 建造自己的 AI 助手。
 9.  [万字长文！从零开始带你进阶AI绘画神器 Stable Diffusion](https://www.uisdc.com/stable-diffusion-8) 这是一篇 Stable Diffusion 的进阶教程。开篇介绍了作者个人的 SD 学习路线，清晰合理，值得借鉴。
 10. [视频教程 Stable Diffusion](https://www.bilibili.com/video/BV1BM4y127eD/)
 11. [视频教程 零基础学会 Stable Diffusion](https://www.bilibili.com/video/BV1As4y127HW/) B 站 UP 主「Nenly 同学」正在更新一门神仙课程——《零基础学会 Stable Diffusion》，并号称「B 站第一套系统的 AI 绘画课」。课程上线两周已经获得了 23W+的播放
+12. [Stable Diffusion 特效设计流程教学](https://www.bilibili.com/video/BV1gX4y1J7ei/)由浅入深地讲解使用 Stable Diffusion 塑造文字、Logo形体的基本操作方式，剖析权重、引导时机等 ControlNet 进阶调节参数的作用，了解 Brightness、Illumination 等模型的使用方法。
 
 提示词
 - [手把手教你用 Stable Diffusion 写好提示词](https://mp.weixin.qq.com/s/sEQpP5S7W_gsCUf3i7OZiQ)
