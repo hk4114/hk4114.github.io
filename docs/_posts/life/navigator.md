@@ -50,11 +50,12 @@ vssue: false
 - 世界数字图书馆
 - Online books
 - 资源帝电子书导航
+- [沉浸式翻译](https://immersivetranslate.com/) 翻译 [calibre](https://calibre-ebook.com/) pdf 转 EPUB
 
 ### 影视资源
 
 - [电影 ikanbot](https://www.ikanbot.com/)
-- [低端影视](https://ddys.art/)
+- [低端影视](https://ddys.wiki/)
 - [曲奇动漫](https://www.quqim.com/)
 
 ### 政府相关
