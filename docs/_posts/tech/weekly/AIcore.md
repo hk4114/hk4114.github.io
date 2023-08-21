@@ -55,7 +55,11 @@ vssue: true
 ### Level 2 - Prompt Engineer 
 > 输出：[我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461) 
 
-参考资料：[提示工程指南](https://www.promptingguide.ai/zh) / [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content) / [提升ChatGPT性能的实用指南：Prompt Engineering的艺术](https://mp.weixin.qq.com/s/GKCwpbY39dNdxhUYfmN6Ew)
+参考资料：
+1. [提示工程指南](https://www.promptingguide.ai/zh) / [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
+2. [提升ChatGPT性能的实用指南：Prompt Engineering的艺术](https://mp.weixin.qq.com/s/GKCwpbY39dNdxhUYfmN6Ew)
+3. [系统论述：构建高性能 Prompt 之路 - 结构化 Prompt](https://github.com/yzfly/LangGPT/blob/main/Docs/HowToWritestructuredPrompts.md)
+
 
 好的 Prompt 能够让 GPT 学会调用工具和 API (HuggingGPT)，学会操控机器人，学会和其他 AI Agent 协同(CAMEL)
 
