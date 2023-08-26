@@ -109,7 +109,7 @@ beauty of nature.
 :::
 ![策略3-1](./prompt/strategy31.png)
 
-### 策略 4：少量样本提示
+### 策略 4：少量样本提示 Few-shot
 
 在模型执行实际任务之前，提供可供其参考的[示例](https://platform.openai.com/playground/p/default-chat-few-shot)。
 
@@ -551,40 +551,28 @@ java 中的数据类型有哪些？
 
 取值范围：true 或者 false
 
-## ChatGPT 的工作原理
-
-> https://mp.weixin.qq.com/s/QOeL3Q9fsniyh4aEdpiWaA
-
-这篇内容介绍了 ChatGPT（一种大型语言模型）的工作原理。
-
-ChatGPT 通过分析数十亿个网页上的文本来预测下一个词的合理延续，并生成一个可能的词的排序列表。在选择下一个词时，模型可以采用高排名词或随机选择较低排名词的方法，以产生不同风格的文本。温度参数可以控制排名较低词被选中的频率。该文章还提到了使用简化版本的 GPT-2 模型，并给出了相关代码示例。
-
-文章还讨论了如何通过分析语料库来计算字母和 n-gram 的概率，并以此生成更真实的文本。
-
-### OpenAI 联合创始人亲自上场科普 GPT，让技术小白也能理解最强 AI
-
-> https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg
-
-详细介绍了如何从 GPT 基础模型训练出 ChatGPT 助手模型，并解释了大型语言模型的内部原理和 RLHF 训练细节。
-
-演讲中提到了预训练、有监督微调、奖励建模和强化学习等四个主要阶段，并介绍了标记化、Transformer 神经网络架构等技术细节。这场演讲非常精彩，并推荐给所有关心大型语言模型的人。
-
 ## 参考资料
-
-[tips]
-
 - [面向 chatGPT 提示工程](https://learn.deeplearning.ai/chatgpt-prompt-eng)
 - [OpenAI 提示词最佳实践指南](https://platform.openai.com/docs/guides/gpt-best-practices) [翻译版](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
-- [提示工程指南](https://www.promptingguide.ai/zh) [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
-- [如何高效编写 prompt](https://mp.weixin.qq.com/s/1LaxI-mws6uZLkoJad24OA)
 - [如何使用 ChatGPT 进行市场营销](https://twitter.com/FinanceYF5/status/1660577238377717770)
+- [ChatGPT-Shortcut](https://www.aishort.top/) [项目地址](https://github.com/rockbenben/ChatGPT-Shortcut) 整理汇总多种 ChatGPT 快捷指令，按照领域和功能分区，对提示词（Prompt）进行标签筛选、关键词搜索和一键复制。
 
-[principle]
-
+## 学习资料
 - [OpenAI 联合创始人亲自上场科普 GPT，让技术小白也能理解最强 AI](https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg)
 - [ChatGPT 的工作原理](https://mp.weixin.qq.com/s/gMYr8KwC_S3G4tKKMmjwxw)
 
-[others]
+- [系统论述：构建高性能 Prompt 之路 - 结构化 Prompt](https://github.com/yzfly/LangGPT/blob/main/Docs/HowToWritestructuredPrompts.md)
+- [提升ChatGPT性能的实用指南：Prompt Engineering的艺术](https://mp.weixin.qq.com/s/GKCwpbY39dNdxhUYfmN6Ew)
+- [如何高效编写 prompt](https://mp.weixin.qq.com/s/1LaxI-mws6uZLkoJad24OA)
+- [提示工程指南](https://www.promptingguide.ai/zh) [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
 
-- [ChatGPT-Shortcut](https://www.aishort.top/) [项目地址](https://github.com/rockbenben/ChatGPT-Shortcut) 整理汇总多种 ChatGPT 快捷指令，按照领域和功能分区，对提示词（Prompt）进行标签筛选、关键词搜索和一键复制。
-- [互联网人的大模型实践指南：从小白到 AI Builder](https://mp.weixin.qq.com/s/_ACpHJ4bfzA5-Bmg3hSpTQ)
+掌握 Prompt Engineering 通用原则：
+- Chain of Thoughts
+- Self-Ask
+- Let's think step by step 
+- CoT Prompt
+
+Prompt Engineering 进阶技巧:
+- ToT
+- Automatic Prompt Engineer (APE)
+- Prefix-Tuning / P-Tuning / Prompt Tuning
