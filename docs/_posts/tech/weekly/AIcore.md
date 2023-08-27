@@ -27,6 +27,8 @@ vssue: true
   + [Coglayer](https://www.coglayer.com/) 自动化 Prompt 的 AI 工具，擅长处理需要深度思考的复杂任务，例如：创建商业计划、评估重要的生活决策、分析你的产品、深度研究任何主题、评估商业想法等。
   + [framer.AI](https://framer.com/) 根据提示词生成网页。例如：提示词：“一个为中国春节准备的 h5 落地页，整体配色以喜庆的红色为主。内容包括距离春节的倒计时以及页面正中间的按钮，按钮点击后跳转下载 app”。活动页地址：https://spring-festival-countdown.framer.ai/
   + [谷歌推出「NotebookLM」，上传文档就能问答/总结/再创作](https://notebooklm.google.com/) [文档](https://blog.google/technology/ai/notebooklm-google-ai) 可以自动总结用户上传的文档、回答相关问题、甚至根据提纲创作新的内容。目前仅对美国用户开放申请。相比通用AI聊天机器人，NotebookLM 更加可靠，专门基于用户上传的资料进行训练，并会自动标注来源出处，「胡说八道」的概率大大降低！是一款非常有前景的AI笔记应用,值得关注其后续发展
+  + [豆包](https://www.doubao.com/chat)
+  + 钉钉个人版
 
 :::tip 推荐大模型实用工具清单
 - 文本写作
@@ -120,7 +122,8 @@ AI Agent 被认为是 OpenAI 发力的下一个方向。Lilian 将 Agents 定义
 Build with LLM 建造自己的 AI 助手。
 
 动手实践干中学。LLM 应用层程序开发。掌握开发框架可以极大的提升实践效率，同时 Github 上有大量 GPT 开源项目可以参考实践。
- 
+
+- [LangChain与ChatGPT重塑AI客服服务](https://juejin.cn/post/7267441368061739042)
 - [一站式 LLM 底层技术原理入门指南](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc)面向非科班出身但想要了解AI技术原理的受众的 飞书文档。文档从浅到深，覆盖了非常多内容细节，并在持续更新 LLM 最新技术进展及相关原理！
 - 英文资料 [Full Stack LLM Bootcamp: LLM 应用开发全栈指南 免费训练营](https://fullstackdeeplearning.com/llm-bootcamp/) 帮助了解基于 LLM 构建 App 所需要的最佳实践和工具，掌握从提示工程到「用户中心设计」的全栈技能！以下是课程笔记要点！学习课程与查看完整笔记。[笔记 1 LLM 应用开发全栈指南](https://mp.weixin.qq.com/s/weH_7K2g3sBMbtei1_dTng) / [笔记 2 LLM 全栈开发指南补遗](https://mp.weixin.qq.com/s/3zijYYxIJA5rJz9fBoArPw)
 - 英文资料 [Langchain](https://python.langchain.com/en/latest/) 框架，LangChain 是目前 LLM 应用搭建最主流的框架，能给 LLM 这个“大脑”组装上“手”和“腿”，一定要了解 Agent，Memory，Chain 等核心概念
@@ -222,6 +225,16 @@ Build with LLM 建造自己的 AI 助手。
 ### 绘画
 > [B 站合集](https://www.bilibili.com/medialist/detail/ml2243104665)
 
+### 妙鸭开源版，阿里达摩院推出「酷蛙FaceChain」并附原理揭秘
+> https://mp.weixin.qq.com/s/4oTjOEW_C4dMfylUXq-39A
+>
+> https://modelscope.cn/studios/CVstudio/cv_human_portrait/summary
+
+FaceChain 是一个深度学习工具链，使用3~10张头肩照片，就可以创建自己的数字写真，可以理解为开源版本的「妙鸭」。
+
+FaceChain 由阿里达摩院开放视觉团队推出，并上线了魔搭ModelScope社区，具体操作流程可以 
+
+
 #### Midjourney 中文教程
 1. [Midjourney 保姆级注册教程](https://mp.weixin.qq.com/s/0rllMo2iu8Blwz0DtTBeVA)
 2. [视频 MidJourney 中文教程](https://www.bilibili.com/video/BV1p24y1h7CQ)
@@ -259,3 +272,5 @@ Build with LLM 建造自己的 AI 助手。
 1. [教你打造属于自己的 AI 孙燕姿，AI 歌手模型使用及训练保姆级课程 #1/2 使用模型](https://mp.weixin.qq.com/s/bXD1u6ysYkTEamt-PYI1RA) / [教你打造属于自己的 AI 孙燕姿，AI 歌手模型使用及训练保姆级课程 #2/2 训练模型](https://mp.weixin.qq.com/s/IeeW1PbMUbxMlLl529JTYQ)
 2. [领航员未鸟](https://www.bilibili.com/video/BV1nL411z7kb)
 3. [羽毛布団](https://www.bilibili.com/video/BV1H24y187Ko/)
+
+
