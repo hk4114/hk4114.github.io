@@ -150,7 +150,7 @@ SYSTEM
 
 如果任务太复杂或描述太少，那么模型就只能通过猜测来得出结论，就像一个人口不择言容易祸从口出，所以会有人劝说话过一下脑子。模型也是一样的道理。
 
-### 策略 1：指定完成任务所需的步骤
+### 策略 1：指定完成任务所需的步骤 Let's think step by step 
 
 复杂任务需要进行任务拆解，并一步步指引，wbs 怎么拆这种任务就怎么拆。
 
@@ -562,17 +562,5 @@ java 中的数据类型有哪些？
 - [ChatGPT 的工作原理](https://mp.weixin.qq.com/s/gMYr8KwC_S3G4tKKMmjwxw)
 
 - [系统论述：构建高性能 Prompt 之路 - 结构化 Prompt](https://github.com/yzfly/LangGPT/blob/main/Docs/HowToWritestructuredPrompts.md)
-- [提升ChatGPT性能的实用指南：Prompt Engineering的艺术](https://mp.weixin.qq.com/s/GKCwpbY39dNdxhUYfmN6Ew)
-- [如何高效编写 prompt](https://mp.weixin.qq.com/s/1LaxI-mws6uZLkoJad24OA)
 - [提示工程指南](https://www.promptingguide.ai/zh) [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
 
-掌握 Prompt Engineering 通用原则：
-- Chain of Thoughts
-- Self-Ask
-- Let's think step by step 
-- CoT Prompt
-
-Prompt Engineering 进阶技巧:
-- ToT
-- Automatic Prompt Engineer (APE)
-- Prefix-Tuning / P-Tuning / Prompt Tuning
