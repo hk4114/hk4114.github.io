@@ -20,25 +20,24 @@ vssue: true
 
 写代码，写周报，脑暴想法，总结文档，翻译等。生活中的问题也可以积极问。
 
-- [ChatHub 聚合客户端](https://chathub.gg) ChatHub 是一个 chatbot 聚合客户端，目前已经支持ChatGPT、New Bing Chat、Google Bard、Claude、ChatGLM 等，可以在一个页面同时与多个聊天机器人进行对话。
+- 使用体验各个大模型 [Poe](https://poe.com/)、[ChatGPT](https://platform.openai.com/)、[Claude](https://www.anthropic.com/product)、[通义千问](https://qianwen.aliyun.com)、[豆包](https://www.doubao.com/chat)、[文心一言](https://yiyan.baidu.com/)
 - 镜像：[老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)、[chatGPT 镜像](https://chat2.jinshutuan.com/) [codenews](https://codenews.cc/chatgpt)
 - 聚合网站：[ai 工具集](https://ai-bot.cn/)、[tabxx](https://tabxx.com/)、[gpt 3 demo](https://gpt3demo.com/map)
+- [ChatHub 聚合客户端](https://chathub.gg) ChatHub 是一个 chatbot 聚合客户端，目前已经支持ChatGPT、New Bing Chat、Google Bard、Claude、ChatGLM 等，可以在一个页面同时与多个聊天机器人进行对话。
 - 工具
   + [Coglayer](https://www.coglayer.com/) 自动化 Prompt 的 AI 工具，擅长处理需要深度思考的复杂任务，例如：创建商业计划、评估重要的生活决策、分析你的产品、深度研究任何主题、评估商业想法等。
   + [framer.AI](https://framer.com/) 根据提示词生成网页。例如：提示词：“一个为中国春节准备的 h5 落地页，整体配色以喜庆的红色为主。内容包括距离春节的倒计时以及页面正中间的按钮，按钮点击后跳转下载 app”。活动页地址：https://spring-festival-countdown.framer.ai/
   + [谷歌推出「NotebookLM」，上传文档就能问答/总结/再创作](https://notebooklm.google.com/) [文档](https://blog.google/technology/ai/notebooklm-google-ai) 可以自动总结用户上传的文档、回答相关问题、甚至根据提纲创作新的内容。目前仅对美国用户开放申请。相比通用AI聊天机器人，NotebookLM 更加可靠，专门基于用户上传的资料进行训练，并会自动标注来源出处，「胡说八道」的概率大大降低！是一款非常有前景的AI笔记应用,值得关注其后续发展
-  + [豆包](https://www.doubao.com/chat)
-  + 钉钉个人版
 
 :::tip 推荐大模型实用工具清单
 - 文本写作
-  + 免费选项：[Poe](https://poe.com/)、[ChatGPT](https://platform.openai.com/)、[Claude](https://www.anthropic.com/product)、[通义千问](https://qianwen.aliyun.com)
+  + 免费选项：[Poe](https://poe.com/)、[ChatGPT](https://platform.openai.com/)、[Claude](https://www.anthropic.com/product)、[通义千问](https://qianwen.aliyun.com)、[文心一言](https://yiyan.baidu.com/)
   + 付费选项：GPT-4、ChatGPT with plugins
 - 生成图像
   + 透明选项：Adobe Firefly
   + 开源选项：Stable Diffusion
   + 免费选项：Bing / Bing Image Creator (DALL-E)、Playgound
-  + 最佳质量：Midjourney
+  + 最佳质量：Midjourney [通义万相](https://wanx.aliyun.com/creation)
 - 思考创意
   + 免费选项：Bing
   + 付费选项：GPT-4 
