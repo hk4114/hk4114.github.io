@@ -561,6 +561,5 @@ java 中的数据类型有哪些？
 - [OpenAI 联合创始人亲自上场科普 GPT，让技术小白也能理解最强 AI](https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg)
 - [ChatGPT 的工作原理](https://mp.weixin.qq.com/s/gMYr8KwC_S3G4tKKMmjwxw)
 
-- [系统论述：构建高性能 Prompt 之路 - 结构化 Prompt](https://github.com/yzfly/LangGPT/blob/main/Docs/HowToWritestructuredPrompts.md)
 - [提示工程指南](https://www.promptingguide.ai/zh) [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
 
