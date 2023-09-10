@@ -128,6 +128,7 @@ Build with LLM 建造自己的 AI 助手。
 - 英文资料 [Langchain](https://python.langchain.com/en/latest/) 框架，LangChain 是目前 LLM 应用搭建最主流的框架，能给 LLM 这个“大脑”组装上“手”和“腿”，一定要了解 Agent，Memory，Chain 等核心概念
 - 英文资料 [斯坦福大学 AI 课程设置：67 门课程构建学习路径](https://ai.stanford.edu/courses/)斯坦福大学将 67 门 AI 相关课程聚合在一起，构建了这个课程合辑，便于进行课程选择和学习。斯坦福大学作为世界一流的大学，出品的计算机、机器学习、深度学习等系列课程一直备受好评。课程的公开视频、课件和作业等是很多入门者系统学习的首选。
 - [向量数据库](https://guangzhengli.com/blog/zh/vector-database/) 主要介绍了向量数据库的原理和实现，包括向量数据库的基本概念、相似性搜索算法、相似性测量算法、过滤算法和向量数据库的选型等等。
+- [LangChain AI Handbook，一本非常系统和全面的教程性手册](https://www.pinecone.io/learn/series/langchain) 全面介绍了 LangChain 的各个方面。该手册手册包含多章节，每章聚焦一个话题，如提示工程、会话记忆、检索增强、自定义工具等，是一篇针对LangChain使用的非常系统和全面的教程性手册。
 
 资源
 - 注册 [Google Colab](https://colab.google/) 不用下载配置本地环境即可线上实现很多大模型的框架
@@ -233,6 +234,17 @@ FaceChain 是一个深度学习工具链，使用3~10张头肩照片，就可以
 
 FaceChain 由阿里达摩院开放视觉团队推出，并上线了魔搭ModelScope社区，具体操作流程可以 
 
+### FaceChain使用教程
+
+[魔搭](https://www.modelscope.cn/my/overview) 
+1. 我的notebook -> GPU 环境
+```sh
+git clone https://www.modelscope.cn/studios/CVstudio/cv_human_portrait.git
+cd cv_human_portrait
+pip install -r requirements.txt
+pip install gradio==3.35.2
+python app.py
+```
 
 #### Midjourney 中文教程
 1. [Midjourney 保姆级注册教程](https://mp.weixin.qq.com/s/0rllMo2iu8Blwz0DtTBeVA)
