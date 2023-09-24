@@ -5,6 +5,11 @@ date: 2023-5-7
 vssue: true
 ---
 
+## 【黑科技】让你的 VitePress 文档站支持 AI 对话能力
+> https://juejin.cn/post/7280741167276048443
+
+这篇文章将教你如何使用一个开源工具 Documate 快速让你的 VitePress 文档站拥有 AI 对话能力，基于你的文档内容来解答用户问题。
+
 ## 参考资料
 - [互联网人的大模型实践指南：从小白到 AI Builder](https://mp.weixin.qq.com/s/_ACpHJ4bfzA5-Bmg3hSpTQ)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
