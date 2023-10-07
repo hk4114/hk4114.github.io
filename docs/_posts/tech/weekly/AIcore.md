@@ -5,10 +5,54 @@ date: 2023-5-7
 vssue: true
 ---
 
-## 【黑科技】让你的 VitePress 文档站支持 AI 对话能力
-> https://juejin.cn/post/7280741167276048443
+### AI智能体与人类的未来协作方式、合作组织与生产空间（万字长文）
+> https://mp.weixin.qq.com/s/AluYfD6BQOkLo6XpJMyQnQ
 
-这篇文章将教你如何使用一个开源工具 Documate 快速让你的 VitePress 文档站拥有 AI 对话能力，基于你的文档内容来解答用户问题。
+### 主流大语言模型的技术原理细节
+
+> https://mp.weixin.qq.com/s/P1enjLqH-UWNy7uaIviWRA
+
+图解大语言模型
+
+### a16z 万字长文，我们正在进入计算的第三个时代
+
+> https://mp.weixin.qq.com/s/bUzjvwY-MQaXJs2AhvmRTA
+
+1. 我们正处于计算的第三纪元的开始〖The third epoch of compute〗
+2. 这波生成式人工智能浪潮，具有推动市场转型的经济学原理〖Economics that drive market transformations〗
+3. 对于一些早期应用场景，创造力>正确性〖Creativity > correctness〗
+4. 对于其他比方说编程「副驾驶」，正确性会随着人类的使用而提高〖Coding copilot〗
+5. AI 与生物学的结合可以加速治疗疾病的新方法，并对人类健康产生深远影响〖Integrating AI with biology〗
+6. 将模型交到用户手中，将帮助我们发现新的应用场景〖Users discover use cases〗
+7. 你的 AI 朋友的记忆力将会变得更好〖Context windows〗
+8. 语音聊天机器人、机器人和其他与人工智能互动的方式，是一个重要的研究领域〖Multimodal, embodied AI〗
+9. 我们会有一些通用模型，一堆专用模型，还是两者兼而有之〖One model or many〗
+10. 人工智能什么时候在企业获得足够推广，那些数据集又会发生什么〖AI in the enterprise〗
+11. Scaling 法则会把我们一直带到 AGI 吗〖Scaling to AGI〗
+12. 什么是新兴能力（emergent capabilities）〖Emergent capabilities〗
+13. 服务这些模型的成本会下降吗〖Cost of serving the models〗
+14. 我们如何衡量通用人工智能的进展〖Measuring progress〗
+15. 还需要人类参与吗〖Humans in the loop?〗
+16. 现在是创建人工智能初创公司的最激动人心的时刻 (特别是如果你是物理学家或数学家)〖Time to build AI〗
+
+### 微软166页GPT-4V论文 (中文精校版)：多模态的新时代
+> https://link.juejin.cn/?target=https%3A%2F%2Farxiv.org%2Fpdf%2F2309.17421.pdf
+> 中文版：https://mp.weixin.qq.com/s/a8Y_yU5XYgJhQ2xMuTK13w
+
+9月25日，OpenAI 发布具有视觉功能的 GPT-4V(ision)，能够分析用户提供的图像输入。9月29日，微软发布了166 页的 GPT-4V 研究报告「The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) (大型多模态的新时代：GPT-4V(ision)的初步探索)」。这也成为了我们了解 GPT-4V(ision) 的敲门砖。
+从整体上来说，这篇论文依靠「试」对 GPT-4V 进行了研究，设计了涵盖多个领域的一系列输入，将它们喂给 GPT-4V 并观察记录 GPT-4V 的输出。研究员们对 GPT-4V 完成各类任务的能力进行评估，还给出了使用GPT-4V的新提示词技巧。
+然后，这份说明书用了 150 多页来展示各种 Demo，详细剧透了 GPT-4V 在面对不同回答时展现出的能力。
+
+
+### 离职用 ChatGPT 创业三个月，现在怎么样了？
+
+> https://juejin.cn/post/7281948788482637836
+
+1. 第一次使用 ChatGPT
+2. 第一次部署独立的 ChatGPT 服务 [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
+3. 第一版 vscode 插件 - ChatMoss
+
+作者的成功是可复现的。
 
 ## 参考资料
 - [互联网人的大模型实践指南：从小白到 AI Builder](https://mp.weixin.qq.com/s/_ACpHJ4bfzA5-Bmg3hSpTQ)
