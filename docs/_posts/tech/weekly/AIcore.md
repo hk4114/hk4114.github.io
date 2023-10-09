@@ -5,6 +5,29 @@ date: 2023-5-7
 vssue: true
 ---
 
+### 动画科普，Transformer 的诞生，让生成式 AI 成为可能
+> https://ig.ft.com/generative-ai/
+> 
+> 中文版：https://baoyu.io/pages/ft/generative-ai
+
+翻页时，页面右侧的动画与左侧文字变化同步，以非常具体的案例解释了 LLM 的基本原理。
+如果公式、术语、论文看起来太枯燥晦涩，就来看这个网页吧！随着网页下拉，可以清楚地了解到词嵌入 (Word Embedding)、Transformer、encoder-decoder结构、自注意力 (Self-attention) 等的具体运行原理。
+有博主将页面文字部分翻译成了中文，看了一下准确度还行，也可以一起看看
+
+### Llama 2 详细解读，一篇教程带你搞懂原理和代码
+> https://mp.weixin.qq.com/s/8UxCdR6BQY9R8xrPnqeYrQ
+
+这是一篇对 LLM 半开源模型Llama 2的详细解读，全面介绍了其模型结构、位置编码、KV Cache、Attention计算等技术细节，并且辅助大量代码和关键公式帮助读者顺畅理解。
+以下是文章关键知识点，如果你想深入了解大语言模型的内部实现原理，强烈推荐这篇文章
+
+1. 处理流程
+  - code
+2. 模型结构
+  - RMSNorm
+  - RoPE：绝对位置编码、旋转位置编码、RoPE Code
+  - KV Cache & GQA：KV Cache、MQA & GQA、Code
+  - FeedForward
+
 ### AI智能体与人类的未来协作方式、合作组织与生产空间（万字长文）
 > https://mp.weixin.qq.com/s/AluYfD6BQOkLo6XpJMyQnQ
 
@@ -44,24 +67,16 @@ vssue: true
 然后，这份说明书用了 150 多页来展示各种 Demo，详细剧透了 GPT-4V 在面对不同回答时展现出的能力。
 
 
-### 离职用 ChatGPT 创业三个月，现在怎么样了？
 
-> https://juejin.cn/post/7281948788482637836
-
-1. 第一次使用 ChatGPT
-2. 第一次部署独立的 ChatGPT 服务 [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)
-3. 第一版 vscode 插件 - ChatMoss
-
-作者的成功是可复现的。
 
 ## 参考资料
-- [互联网人的大模型实践指南：从小白到 AI Builder](https://mp.weixin.qq.com/s/_ACpHJ4bfzA5-Bmg3hSpTQ)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
 - [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)
 - [魔搭](https://www.modelscope.cn/home)
 - 注册 [Google Colab](https://colab.google/) 不用下载配置本地环境即可线上实现很多大模型的框架
 - 注册并多逛 [Hugging Face](https://huggingface.co/) 有大量开源模型，数据集，以及模型的线上体验
 - [阿里云 PAI](https://pai.console.aliyun.com/)
+
 ## AIGC 学习路径、资源整合
 
 ### Level 1 - 享受 AI 红利
