@@ -43,6 +43,11 @@ vssue: false
 - [favicon](https://favicon.io/)
 - [MyFakeInfo](https://www.myfakeinfo.com/) 通过使用随机规则生成假信息，无法律风险。
 - [APIVault](https://apivault.dev/) 这个网站收集了大量公共 API，相当于 API 的搜索引擎，用户可以提交新的 API。
+- [可画](https://www.canva.cn/)
+- [练打字](https://www.typingclub.com/sportal)
+- [生日那天的星星](https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday)
+- [路由](http://192.168.3.1/html/index.html#/login)
+- [markdown 编辑器](https://md.openwrite.cn/)
 
 ### 搜书
 
@@ -55,8 +60,13 @@ vssue: false
 ### 影视资源
 
 - [电影 ikanbot](https://www.ikanbot.com/)
-- [低端影视](https://ddys.wiki/)
-- [曲奇动漫](https://www.quqim.com/)
+- [低端影视](https://ddys.pro/)
+- [曲奇动漫](https://www.quqim.net/)
+- [anime1](https://anime1.me/)
+- [香格里拉](http://www.dm5.cn/)
+- [包子漫画](https://cn.baozimh.com/)
+- [动漫狂](https://www.cartoonmad.com/)
+- [漫画](https://www.colamanga.com/)
 
 ### 政府相关
 
@@ -103,6 +113,11 @@ vssue: false
 ### vpn
 
 - [sockboom](https://sockboom.link)
-- [leensa](https://leensa.org/)
+- [leensa](https://leensa.com)
 - [备用 woccloud](https://www.woccloud.pro/)
 - [备用 ikuuu](https://ikuuu.eu/auth/login)
+
+
+- [人格测试	2022/3/15 INTJ](http://www.apesk.com/mbti/submit_email_date.asp?code=223.73.241.5&user=36329985)
+- [人格测试	 2023/2/5 INTJ](http://www.apesk.com/mbti/submit_email_date.asp?code=223.73.241.5&user=45120513)
+- [人格测试 bigfive 2022/3/15](http://www.apesk.com/mensa/common_report_getid/bigfive_report_admin.asp?id=1052057)
