@@ -1,11 +1,21 @@
 - AGI: 是指人工智能的一种形态，代表着"Artificial General Intelligence"，即人工通用智能。AGI 是指能够像人类一样在广泛领域内进行各种智能任务的人工智能系统。
-- AIGC: AI Generated Content AI 生成内容。继承了专业生产内容（PGC，Professional-generated Content）和用户生成内容（UGC，User-generated Content）
+- AIGC: AI Generated Content AI 生成内容。继承了专业生产内容（PGC，Professional-generated Content）和用户生成内容（UGC，User-generated Content）。利用 NLP、NLG、计算机视觉、语音技术等生成文字、图像、视频等内容。全称是人工智能生成/创作内容（Artificial Intelligence Generated Content）；是继 UGC，PGC 后，利用人工智能技术，自动生成内容的生产方式；AIGC 底层技术的发展，驱动围绕不同内容类型（模态）和垂直领域的应用加速涌现。
 - LLM：Large Language Model 大语言模型
 - LoRA：low-rank adaptation 大语言模型的低阶自适应。LoRA 大大降低了适用于特定任务的大语言模型的存储需求，并在部署期间实现了高效的任务切换，而不会带来推导延迟问题。
 - ANI：狭义人工智能 artificial narrow intelligence. 即专注于一件事的 AI. 比如下围棋的 AlphaGO, 又称为弱人工智能。
 - agents: 代理在人工智能领域中指的是一个能够感知环境、做出决策并执行动作的实体，代理可以是物理实体-机器人，或虚拟实体-计算机程序。
 - attention：注意力。在人工智能领域中是指模型或系统对输入数据中不同部分的关注程度或重要性。注意力机制可以帮助模型在处理复杂任务中，集中于关键信息。
 - alignment: 对齐
+- LLaMA：Meta（Facebook）的大型多模态语言模型。
+- ChatGLM：ChatGLM 是一个开源的、支持中英双语的对话语言模型，底座是 GLM 语言模型。
+- Baichuan：Baichuan 2 是百川智能推出的新一代开源大语言模型，采用 2.6 万亿 Tokens 的高质量语料训练。
+- langchain：LangChain 是一个开源 Python 库，由 Harrison Chase 开发，旨在支持使用大型语言模型（LLM）和外部资源（如数据源或语言处理系统）开发应用程序。它提供了标准的接口，与其他工具集成，并为常见应用程序提供端到端链 。
+- embedding：将任意文本映射到固定维度的向量空间中，相似语义的文本，其向量在空间中的位置会比较接近。在 LLM 应用中常用于相似性的文本搜索。
+- 向量数据库 (Vector stores)：存储向量表示的数据库，用于相似性搜索。如 Milvus、Pinecone 等。
+- Similarity Search：在向量数据库中搜索离查询向量最近的向量，用于检索相似项。
+- 知识库：存储结构化知识的数据库,LLM 可以利用这些知识增强自己的理解能力。
+- In-context Learning：In-Context Learning 是机器学习领域的一个概念，指不调整模型自身参数，而是在 Prompt 上下文中包含特定问题相关的信息，就可以赋予模型解决新问题能力的一种方式。
+- Finetune / 微调：在预训练模型基础上使用特定数据集进行微调，提升模型在某任务上的性能。
 
 1、人工智能(AI):一种能够执行智能任务的计算机系统或程序。
 
