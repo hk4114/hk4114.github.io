@@ -5,6 +5,12 @@ date: 2023-5-7
 vssue: true
 ---
 
+### Lepton AI
+
+> https://www.lepton.ai/playground
+
+这个网站把开源的 AI 模型，都做成了云服务，你可以在本地用一行命令调用，也可以在它的网站上试玩这些模型。
+
 ### 动画科普，Transformer 的诞生，让生成式 AI 成为可能
 > https://ig.ft.com/generative-ai/
 > 
