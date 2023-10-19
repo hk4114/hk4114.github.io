@@ -56,6 +56,7 @@ vssue: false
 - Online books
 - 资源帝电子书导航
 - [沉浸式翻译](https://immersivetranslate.com/) 翻译 [calibre](https://calibre-ebook.com/) pdf 转 EPUB
+- [经济学季刊](https://www.nsd.pku.edu.cn/cbw/jjxjk/qkml/index.htm)
 
 ### 影视资源
 
