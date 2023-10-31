@@ -5,6 +5,9 @@ date: 2023-5-7
 vssue: true
 ---
 
+- 阿里云百炼 https://bailian.aliyun.com/
+
+
 ### Lepton AI
 
 > https://www.lepton.ai/playground
