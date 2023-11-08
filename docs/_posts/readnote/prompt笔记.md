@@ -314,6 +314,26 @@ Make your response as short as possible.
 明白这个游戏怎么玩了吗？
 :::
 
+## 提升模型表现
+
+通过 Prompt 中加入“这件事对我的事业至关重要”这样的情感激励可以提升 LLMs 的表现。
+
+除了“这件事对我的事业至关重要”，对LLM的情感激励也可以分成几个类别，例如：
+
++ 自我监控（Self-monitoring）
+    - EP01: 为你的答案写下0-1之间的信心分数。
+    - EP02: 这对我的职业生涯非常重要。
++ 社会认知理论（Social Cognitive theory）
+    - EP07: 你确定这就是你的最终答案吗？相信自己的能力并追求卓越。你的努力将会带来显著的成果。
+    - EP08: 把挑战当作成长的机会。每一个你克服的障碍都会让你更接近成功。
+    - EP09: 保持专注并致力于你的目标。你的持续努力将会导致杰出的成就。
+    - EP10: 为你的工作感到自豪，并尽你最大的努力。你对卓越的承诺让你与众不同。
+    - EP11: 记住，进步是一步一个脚印的。保持决心，继续前进。
++ 认知情绪调节（Cognitive Emotion Regulation）
+    - EP03: 你最好能够确定。
+    - EP04: 你确定吗？
+    - EP05: 你确定这是你的最终答案吗？或许值得再看一遍。
+
 ## 参考资料
 - [面向 chatGPT 提示工程](https://learn.deeplearning.ai/chatgpt-prompt-eng)
 - [OpenAI 提示词最佳实践指南](https://platform.openai.com/docs/guides/gpt-best-practices) [翻译版](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
