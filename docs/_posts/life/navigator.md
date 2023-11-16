@@ -49,6 +49,11 @@ vssue: false
 - [路由](http://192.168.3.1/html/index.html#/login)
 - [markdown 编辑器](https://md.openwrite.cn/)
 
+- [Quick Reference](https://wangchujiang.com/reference/index.html) 为开发人员分享快速参考备忘清单【速查表】。目的是为了方便自己的技术栈查阅。
+- [小林 x 图解计算机基础](https://xiaolincoding.com/) 图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！
+
+- [WikiDiff 对比单词区别](https://wikidiff.com) 一个英文近义词辨析网站！输入两个词语或词组，它会告诉你细微的差别，妥妥的写作用词好帮手！ 
+
 ### 搜书
 
 - Z library

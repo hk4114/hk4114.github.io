@@ -5,101 +5,59 @@ date: 2023-5-7
 vssue: true
 ---
 
-- 阿里云百炼 https://bailian.aliyun.com/
-
-
-### Lepton AI
-
-> https://www.lepton.ai/playground
-
-这个网站把开源的 AI 模型，都做成了云服务，你可以在本地用一行命令调用，也可以在它的网站上试玩这些模型。
-
-### 动画科普，Transformer 的诞生，让生成式 AI 成为可能
-> https://ig.ft.com/generative-ai/
-> 
-> 中文版：https://baoyu.io/pages/ft/generative-ai
-
-翻页时，页面右侧的动画与左侧文字变化同步，以非常具体的案例解释了 LLM 的基本原理。
-如果公式、术语、论文看起来太枯燥晦涩，就来看这个网页吧！随着网页下拉，可以清楚地了解到词嵌入 (Word Embedding)、Transformer、encoder-decoder结构、自注意力 (Self-attention) 等的具体运行原理。
-有博主将页面文字部分翻译成了中文，看了一下准确度还行，也可以一起看看
-
-### Llama 2 详细解读，一篇教程带你搞懂原理和代码
-> https://mp.weixin.qq.com/s/8UxCdR6BQY9R8xrPnqeYrQ
-
-这是一篇对 LLM 半开源模型Llama 2的详细解读，全面介绍了其模型结构、位置编码、KV Cache、Attention计算等技术细节，并且辅助大量代码和关键公式帮助读者顺畅理解。
-以下是文章关键知识点，如果你想深入了解大语言模型的内部实现原理，强烈推荐这篇文章
-
-1. 处理流程
-  - code
-2. 模型结构
-  - RMSNorm
-  - RoPE：绝对位置编码、旋转位置编码、RoPE Code
-  - KV Cache & GQA：KV Cache、MQA & GQA、Code
-  - FeedForward
-
-### 主流大语言模型的技术原理细节
-
-> https://mp.weixin.qq.com/s/P1enjLqH-UWNy7uaIviWRA
-
-图解大语言模型
-
-### 微软166页GPT-4V论文 (中文精校版)：多模态的新时代
-> https://link.juejin.cn/?target=https%3A%2F%2Farxiv.org%2Fpdf%2F2309.17421.pdf
-> 中文版：https://mp.weixin.qq.com/s/a8Y_yU5XYgJhQ2xMuTK13w
-
-9月25日，OpenAI 发布具有视觉功能的 GPT-4V(ision)，能够分析用户提供的图像输入。9月29日，微软发布了166 页的 GPT-4V 研究报告「The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) (大型多模态的新时代：GPT-4V(ision)的初步探索)」。这也成为了我们了解 GPT-4V(ision) 的敲门砖。
-从整体上来说，这篇论文依靠「试」对 GPT-4V 进行了研究，设计了涵盖多个领域的一系列输入，将它们喂给 GPT-4V 并观察记录 GPT-4V 的输出。研究员们对 GPT-4V 完成各类任务的能力进行评估，还给出了使用GPT-4V的新提示词技巧。
-然后，这份说明书用了 150 多页来展示各种 Demo，详细剧透了 GPT-4V 在面对不同回答时展现出的能力。
-
-## 参考资料
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
-- [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)
-- [魔搭](https://www.modelscope.cn/home)
 - 注册 [Google Colab](https://colab.google/) 不用下载配置本地环境即可线上实现很多大模型的框架
 - 注册并多逛 [Hugging Face](https://huggingface.co/) 有大量开源模型，数据集，以及模型的线上体验
 - [阿里云 PAI](https://pai.console.aliyun.com/)
+- [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)
 
-## AIGC 学习路径、资源整合
-
-### Level 1 - 享受 AI 红利
+### Level 1 - 享受 AI 红利、多用 AI
 多使用。在自己的工作流中加入AI产品。
 
 写代码，写周报，脑暴想法，总结文档，翻译等。生活中的问题也可以积极问。
 
-- 使用体验各个大模型 [Poe](https://poe.com/)、[ChatGPT](https://platform.openai.com/)、[Claude](https://www.anthropic.com/product)、[通义千问](https://qianwen.aliyun.com)、[豆包](https://www.doubao.com/chat)、[文心一言](https://yiyan.baidu.com/)
-- 镜像：[老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)、[chatGPT 镜像](https://chat2.jinshutuan.com/) [codenews](https://codenews.cc/chatgpt)
+### 文本对答
+- [ChatGPT](https://platform.openai.com/) 镜像：[老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)、[chatGPT 镜像](https://chat2.jinshutuan.com/) [code news](https://codenews.cc/chatgpt)
+- [文心一言](https://yiyan.baidu.com/)
+- [通义千问](https://qianwen.aliyun.com)
+- [豆包](https://www.doubao.com/chat)
+- [Claude](https://www.anthropic.com/product)
+- [Poe](https://poe.com/)
 - 聚合网站：[ai 工具集](https://ai-bot.cn/)、[tabxx](https://tabxx.com/)、[gpt 3 demo](https://gpt3demo.com/map)
 - [ChatHub 聚合客户端](https://chathub.gg) ChatHub 是一个 chatbot 聚合客户端，目前已经支持ChatGPT、New Bing Chat、Google Bard、Claude、ChatGLM 等，可以在一个页面同时与多个聊天机器人进行对话。
-- 工具
-  + [Coglayer](https://www.coglayer.com/) 自动化 Prompt 的 AI 工具，擅长处理需要深度思考的复杂任务，例如：创建商业计划、评估重要的生活决策、分析你的产品、深度研究任何主题、评估商业想法等。
-  + [framer.AI](https://framer.com/) 根据提示词生成网页。例如：提示词：“一个为中国春节准备的 h5 落地页，整体配色以喜庆的红色为主。内容包括距离春节的倒计时以及页面正中间的按钮，按钮点击后跳转下载 app”。活动页地址：https://spring-festival-countdown.framer.ai/
-  + [谷歌推出「NotebookLM」，上传文档就能问答/总结/再创作](https://notebooklm.google.com/) [文档](https://blog.google/technology/ai/notebooklm-google-ai) 可以自动总结用户上传的文档、回答相关问题、甚至根据提纲创作新的内容。目前仅对美国用户开放申请。相比通用AI聊天机器人，NotebookLM 更加可靠，专门基于用户上传的资料进行训练，并会自动标注来源出处，「胡说八道」的概率大大降低！是一款非常有前景的AI笔记应用,值得关注其后续发展
 
-:::tip 推荐大模型实用工具清单
-- 文本写作
-  + 免费选项：[Poe](https://poe.com/)、[ChatGPT](https://platform.openai.com/)、[Claude](https://www.anthropic.com/product)、[通义千问](https://qianwen.aliyun.com)、[文心一言](https://yiyan.baidu.com/)
-  + 付费选项：GPT-4、ChatGPT with plugins
-- 生成图像
-  + 透明选项：Adobe Firefly
-  + 开源选项：Stable Diffusion
-  + 免费选项：Bing / Bing Image Creator (DALL-E)、Playgound
-  + 最佳质量：Midjourney [通义万相](https://wanx.aliyun.com/creation)
-- 思考创意
-  + 免费选项：Bing
-  + 付费选项：GPT-4 
-- 生成视频
-  + 动画制作：D-iD、Runway v2
-  + 声音克隆：ElevenLabs 
-- 处理文件和数据
-  + 处理文件：Claude 2
-  + 处理数据：Code Interpreter
-- 获取信息和学习
-  + 免费选项：Bing
-  + 付费选项：Khanmigo (可汗学院提供的AI学习助手)
-:::
+
+### 工具
+|应用|功能|
+|:---:|:---:|
+|[Hugging Face](https://huggingface.co/)|注册并多逛，有大量开源模型，数据集，以及模型的线上体验|
+|[阿里云百炼](https://bailian.aliyun.com/)||
+|[阿里云 PAI](https://pai.console.aliyun.com/)||
+|[魔搭](https://www.modelscope.cn/home)||
+|[飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)||
+|[Google Colab](https://colab.google/)|不用下载配置本地环境即可线上实现很多大模型的框架|
+|[Lepton AI](https://www.lepton.ai/playground)|这个网站把开源的 AI 模型，都做成了云服务，你可以在本地用一行命令调用，也可以在它的网站上试玩这些模型。|
+|[蚂蚁 CodeFuse](https://codefuse.alipay.com)|蚂蚁自研，IDE 插件，可以完成代码补全、代码优化、添加注释、解释代码、生成单测等编程任务|
+|[通义灵码](https://tongyi.aliyun.com/lingma)|智能编码助手，提供代码智能生成、研发智能问答能力，提高编程效率|
+|[通义智文](https://tongyi.aliyun.com/zhiwen)|提高阅读效率|
+|[通义点金](https://tongyi.aliyun.com/dianjin)|一款大模型驱动的智能金融助手，深度解读财报研报，轻松分析金融事件，自动绘制图表表格，实时市场数据分析|
+|[通义晓蜜](https://tongyi.aliyun.com/xiaomi)|企业客服|
+|[通义仁心](https://tongyi.aliyun.com/renxin)|健康助手|
+|[通义法睿](https://tongyi.aliyun.com/farui/home)|法律助手|
+|[通义星尘](https://tongyi.aliyun.com/xingchen)|谈恋爱|
+|[通义听悟](https://tingwu.aliyun.com)|语音转文字、多语言同步翻译|
+
+### 游戏
+|应用|功能|
+|:---:|:---:|
+|[完蛋！我被 LLM 包围了！](https://modelscope.cn/studios/LLMRiddles/LLMRiddles/summary)|[HuggingFace](https://huggingface.co/spaces/LLMRiddles/LLMRiddles) 需要模仿大模型的思考方式，和模型对话使得输出符合题目，通过之后则闯入下一关！|
+|[文字转语音 HuggingFace](https://huggingface.co/spaces/ysharma/OpenAI_TTS_New)|OpenAI 出品 将文本转换为逼真的语音音频|
+|[XTTS](https://huggingface.co/spaces/coqui/xtts)|「霉霉说中文」「郭德纲说英语」的视频片段，HeyGen的开源版本 [Github](https://github.com/coqui-ai/tts) |
+
 
 ### Level 2 - Prompt Engineer 
 > 输出：[我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461) 
+>
+> [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
 
 好的 Prompt 能够让 GPT 学会调用工具和 API (HuggingGPT)，学会操控机器人，学会和其他 AI Agent 协同(CAMEL)
 
@@ -176,11 +134,7 @@ Build with LLM 建造自己的 AI 助手。
 - [向量数据库](https://guangzhengli.com/blog/zh/vector-database/) 主要介绍了向量数据库的原理和实现，包括向量数据库的基本概念、相似性搜索算法、相似性测量算法、过滤算法和向量数据库的选型等等。
 - [LangChain AI Handbook，一本非常系统和全面的教程性手册](https://www.pinecone.io/learn/series/langchain) 全面介绍了 LangChain 的各个方面。该手册手册包含多章节，每章聚焦一个话题，如提示工程、会话记忆、检索增强、自定义工具等，是一篇针对LangChain使用的非常系统和全面的教程性手册。
 
-资源
-- 注册 [Google Colab](https://colab.google/) 不用下载配置本地环境即可线上实现很多大模型的框架
-- 注册并多逛 [Hugging Face](https://huggingface.co/) 有大量开源模型，数据集，以及模型的线上体验
-- [阿里云 PAI](https://pai.console.aliyun.com/)
-- [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)
+
 
 #### 教程
 
@@ -331,3 +285,84 @@ python app.py
 3. [羽毛布団](https://www.bilibili.com/video/BV1H24y187Ko/)
 
 
+
+
+## 技术文章
+
+[图解大语言模型](https://mp.weixin.qq.com/s/P1enjLqH-UWNy7uaIviWRA)
+
+### 动画科普，Transformer 的诞生，让生成式 AI 成为可能
+
+> https://ig.ft.com/generative-ai/
+>
+> 中文版：https://baoyu.io/pages/ft/generative-ai
+
+翻页时，页面右侧的动画与左侧文字变化同步，以非常具体的案例解释了 LLM 的基本原理。
+如果公式、术语、论文看起来太枯燥晦涩，就来看这个网页吧！随着网页下拉，可以清楚地了解到词嵌入 (Word Embedding)、Transformer、encoder-decoder 结构、自注意力 (Self-attention) 等的具体运行原理。
+有博主将页面文字部分翻译成了中文，看了一下准确度还行，也可以一起看看
+
+###  微软发布「面向初学者的生成式AI课」，12节课带你构建AI应用
+> https://github.com/microsoft/generative-ai-for-beginners
+
+微软推出了一门专为初学者打造的课程「Generative AI for Beginners」，该课程总共 12 课时，每节课包含一个简短的主题视频介绍。课中讲解的项目还会有 Juypter Notebook 代码示例，并且用户还能链接到额外的资源，进行更深入的学习。
+
+### 官方教程 | ChatGLM3-6B 部署和微调 (Function Call、Code Interpreter、Agent)
+> https://www.bilibili.com/video/BV1uC4y1J7yA
+
+ChatGLM3-6B 是 ChatGLM 系列最新一代的开源模型，于10月27日推出，在保留了前两代模型对话流畅、部署门槛低等众多优秀特性的基础上，引入了更强大的基础模型、更完整的功能支持等特性。
+11月1日，开发团队在B站分享了 ChatGLM3-6B 部署和微调的视频教程，时长约1小时。
+
+### 吴恩达新课正式发布 | Generative AI for Everyone (面向每个人的生成式人工智能课)
+> https://www.bilibili.com/video/BV11G411X7nZ
+> https://www.deeplearning.ai/courses/generative-ai-for-everyone
+
+这门课程科普入门课，适合对此感兴趣的所有人，不需要编程基础也不需要其他AI知识积累，对新手非常友好！
+
+### Stable Diffusion 生态全盘点，第一门 SD 系统性梳理课程
+
+> https://www.bilibili.com/video/BV1K8411y7Ei
+
+这是一个非常与众不同的 Stable Diffusion 系列教程。作者对 SD 的生态进行了非常完整的整理，并绘制了大量的可视化图形 (绝美)，帮助理解论文、技术、应用之间的关系。
+最难得的是，作者目前已经更新的内容中，不纠结技术细节又非常清晰完整地介绍了发展来龙去脉。对于非 AI 背景的学习者来说，这个教程系列可谓十分友好！会用 SD 还知道枝枝蔓蔓，就真的是专家了~
+目前系列已经更新了 5 个视频，约 180 分钟，学起来非常爽并忍不住想做笔记。
+
+### 全网第一门「AI 动画」系统课程，带你实现 AI 动画的商业落地
+
+> https://www.bilibili.com/video/BV1dw411Y7YY/
+
+完整介绍市面上最有用的 AI 动画工具和插件，帮助学习者了解底层原理，并掌握「AI 工具+传统动画后期」的创新工作流。课程非常贴心地推荐了大量优秀案例和创作思路，并对部分优秀案例进行拆解分析，带你创作属于自己的故事。
+
+### Stable Diffusion 生态全盘点，第一门 SD 系统性梳理课程
+
+> https://www.bilibili.com/video/BV1K8411y7Ei
+
+这是一个非常与众不同的 Stable Diffusion 系列教程。作者对 SD 的生态进行了非常完整的整理，并绘制了大量的可视化图形 (绝美)，帮助理解论文、技术、应用之间的关系。
+最难得的是，作者目前已经更新的内容中，不纠结技术细节又非常清晰完整地介绍了发展来龙去脉。对于非 AI 背景的学习者来说，这个教程系列可谓十分友好！会用 SD 还知道枝枝蔓蔓，就真的是专家了~
+目前系列已经更新了 5 个视频，约 180 分钟，学起来非常爽并忍不住想做笔记。
+
+### LLM 学习手册，掌握核心知识点 & 学会如何选择模型
+
+> https://ai-guide.future.mozilla.org/
+
+这是一篇 LLM 学习小手册，2023 年 9 月最新开源的，介绍了 LLM 的核心知识点，并且提供了模型选择指导和实战案例展示，是一个可以快速完成学习的教程！
+以下是各章节主要内容，教程的结构和基础内容覆盖还不错，感兴趣可以前往网站学习：
+
+1. 简介 / Introduction：通过提供这份开源指南，帮助工程师了解人工智能，尤其是大型语言模型 (LLM)
+2. 人工智能基础知识 / AI Basics：定义 AI、LLM 及其能力和局限性，并从技术层面解释 LLM 的工作原理
+3. 语言模型 101 / Language Models 101：提供有关模型架构、训练和推理的具体内容，并解释了参数、微调、束搜索等关键概念
+4. 选择 ML 模型 / Choosing ML Models：就如何开始使用模型和评估结果提供指导
+5. 著名项目 / Notable Projects：将重点介绍完整的 LLM 解决方案、运行时、检索增强、协调和前端
+6. 从左侧大纲可以看出，一些核心章节仍待上传，可以蹲一波更新：数据检索、图像模型、微调、构建模型和音频/视频模型
+
+### LLM 应用全栈开发 | 实践笔记
+> https://aitutor.liduos.com
+
+理论学习部分由Langchain、LlamaIndex等开源工具文档、一些最佳实践的技术博客、论文阅读三部分组成。在每个工具的理论学习结束后，辅以实践性代码帮助理解。最后会将各个模块整合起来实现一个信息处理系统。
+
+### LLM Tech Map 大模型技术图谱
+
+> https://gitee.com/oschina/llm-map
+
+这份图谱将大模型 (LLM) 相关技术进行了分类和可视化，可以帮助大家了解 LLM 的核心技术和关键方向，以及各部分的关键产品或项目。
+可以看到，LLM 最热门和硬核的技术领域包括基础设施、大模型、Agent、AI 编程、工具和平台、算力。
+这可以当作一张 LLM 从业资格考题，数数自己认识的图标，如果没超过一半 ，就要多多关注行业动态。
