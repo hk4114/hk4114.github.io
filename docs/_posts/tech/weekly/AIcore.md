@@ -19,6 +19,7 @@ vssue: true
 - [ChatGPT](https://platform.openai.com/) 镜像：[老北鼻 AI - chatGPT 3.5 turbo](https://lj.lbbai.com/#url=lbbdh)、[chatGPT 镜像](https://chat2.jinshutuan.com/) [code news](https://codenews.cc/chatgpt)
 - [文心一言](https://yiyan.baidu.com/)
 - [通义千问](https://qianwen.aliyun.com)
+- [Moonshot Kimi](https://kimi.moonshot.cn/) 支持输入长达 20 万汉字的上下文
 - [豆包](https://www.doubao.com/chat)
 - [Claude](https://www.anthropic.com/product)
 - [Poe](https://poe.com/)
