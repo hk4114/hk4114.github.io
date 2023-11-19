@@ -31,8 +31,9 @@ vssue: true
 |应用|功能|
 |:---:|:---:|
 |[Hugging Face](https://huggingface.co/)|注册并多逛，有大量开源模型，数据集，以及模型的线上体验|
+|[tinyllms](https://tinyllms.vercel.app/dashboard )|浏览器中本地运行的ai模型|
 |[阿里云百炼](https://bailian.aliyun.com/)||
-|[阿里云 PAI](https://pai.console.aliyun.com/)||
+|[阿里云 PAI](https://pai.console.aliyun.com/)|
 |[魔搭](https://www.modelscope.cn/home)||
 |[飞桨](https://aistudio.baidu.com/aistudio/education/dashboard)||
 |[Google Colab](https://colab.google/)|不用下载配置本地环境即可线上实现很多大模型的框架|
@@ -59,6 +60,7 @@ vssue: true
 > 输出：[我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461) 
 >
 > [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
+> AI进阶指南 https://guides.ai/how-to-get-into-ai
 
 好的 Prompt 能够让 GPT 学会调用工具和 API (HuggingGPT)，学会操控机器人，学会和其他 AI Agent 协同(CAMEL)
 
