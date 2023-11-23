@@ -47,6 +47,7 @@ vssue: true
 |[通义法睿](https://tongyi.aliyun.com/farui/home)|法律助手|
 |[通义星尘](https://tongyi.aliyun.com/xingchen)|谈恋爱|
 |[通义听悟](https://tingwu.aliyun.com)|语音转文字、多语言同步翻译|
+|[devv.ai](https://devv.ai/)|一个新的面向程序员的AI搜索引擎|
 
 ### 游戏
 |应用|功能|
