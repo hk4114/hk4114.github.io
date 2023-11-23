@@ -48,6 +48,8 @@ vssue: true
 |[通义星尘](https://tongyi.aliyun.com/xingchen)|谈恋爱|
 |[通义听悟](https://tingwu.aliyun.com)|语音转文字、多语言同步翻译|
 |[devv.ai](https://devv.ai/)|一个新的面向程序员的AI搜索引擎|
+|[GPTs 导航](https://gpts.works/)|GPTs导航页面|
+|[fal.ai](https://www.fal.ai/dynamic)|文字配合实时涂鸦生成图画的网站|
 
 ### 游戏
 |应用|功能|
