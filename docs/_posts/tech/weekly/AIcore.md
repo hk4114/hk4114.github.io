@@ -5,6 +5,14 @@ date: 2023-5-7
 vssue: true
 ---
 
+总结一波我日常使用的AI工具：
+1. 写文章用Claude模型（100k上下文一次可以输出一整篇文章），背后是poe.com（付费，一个月150左右）
+2. 写代码用copilot（模型是gpt-3.5），虽然不够聪明，但能联系整个项目的workspace提供建议（付费，我的是微软送的）
+3. 问问题用GPT-4，背后是poe.com
+4. 查资料用https://www.perplexity.ai/ ，免费，他能全网搜索我需要的主题，并给出引用地址
+5. 问编程相关问题除了GPT-4，还能用 https://devv.ai/ ，免费，针对编程问题有优化
+
+
 - 注册 [Google Colab](https://colab.google/) 不用下载配置本地环境即可线上实现很多大模型的框架
 - 注册并多逛 [Hugging Face](https://huggingface.co/) 有大量开源模型，数据集，以及模型的线上体验
 - [阿里云 PAI](https://pai.console.aliyun.com/)
