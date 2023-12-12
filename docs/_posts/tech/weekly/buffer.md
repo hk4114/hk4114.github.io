@@ -1,28 +1,3 @@
-【体验】
-1. 谈恋爱->温习
-2. 为人处世->温习
-3. 学习方法论->温习
-
-- 【掘金小册】[人人都能看懂的 ChatGPT 原理课](https://juejin.cn/book/7225592349563289600)
-- 【掘金小册】[Next.js 开发指南](https://juejin.cn/book/7307859898316881957)
-- 【掘金小册】[从 0 打造通用型低代码产品](https://juejin.cn/book/6918979822425210891)
-
-- 【极客时间】【视频】[零基础学Java](https://time.geekbang.org/course/detail/100027801-97279)
-- 【极客时间】[趣谈网络协议](https://time.geekbang.org/column/article/7398)
-- 【极客时间】[设计模式之美](https://time.geekbang.org/column/article/160463)
-- 【极客时间】[数据结构与算法之美](https://time.geekbang.org/column/article/39922)
-- 【极客时间】【视频】[算法面试通关40讲](https://time.geekbang.org/course/intro/100019701)
-- 【极客时间】[程序员的数学基础课](https://time.geekbang.org/column/article/70844)
-- 【极客时间】[AI 应用实战课](https://time.geekbang.org/course/detail/100633001-0)
-- 【极客时间】[Linux实战技能100讲](https://time.geekbang.org/course/detail/100029601-101469)
-- 【极客时间】[左耳听风](https://time.geekbang.org/column/article/181)
-- 【极客时间】[重学前端](https://time.geekbang.org/column/article/77345)
-
-- 【微信读书】计算机相关
-
-
-
-
 ### LobeChat 高性能聊天机器人框架
 
 > https://github.com/lobehub/lobe-chat
