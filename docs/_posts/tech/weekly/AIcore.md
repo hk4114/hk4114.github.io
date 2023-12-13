@@ -5,11 +5,57 @@ date: 2023-5-7
 vssue: true
 ---
 
-### Level 1 - 享受 AI 红利、多用 AI
+### 超级个体公开课：AI 智能体与人类，未来协作方式/合作组织/生产空间
+
+> https://mp.weixin.qq.com/s/AluYfD6BQOkLo6XpJMyQnQ
+
+面向数字游民、自由职业、远程办公等群体的一次 AI 时代的超级个体公开课分享。相对全面地介绍了人类与 AI 自动代理、AI 智能体的未来协作方式，将如何重塑未来的商业模式，有助于每个人提前洞察未来并由此做好职业进阶的准备。
+超级个体是掌握先进生产力 (AI)、生产关系 (Web3) 以及生产空间 (Metaverse)，拥有自己的 AI 团队与自动化任务工作流，基于 AI Agent 与其他超级个体建立更加「智能化」与「自动化」的协作关系。
+三大技术叙事融合趋势：提出 Web3、AGI 和元宇宙三大技术趋势正在交织影响社会，需要理解它们的交互作用。例如：人类与 AI 协同的三种方式， embedding、copilot 和 agent 三种人机协同方式。超级个体经如何经营一人公司，讨论了超级个体具有自动化核心运营的一人公司模式。自动化品牌营销公司 - AutoCorp：描绘了一个基于 AI 实现营销自动化的虚拟公司。超级个体与智能体的竞争博弈关系：分析超级个体与智能体博弈找到最优解的重要性。
+
+### 构建外脑 / 智变时代的个人知识管理
+
+> https://www.indigox.me/build-exobrain/?ref=indigos-digital-mirror-newsletter&continueFlag=8b470aa89ed5822ce6cfaf0555619e89
+
+本文将探讨在新一轮的 AI 变革之下，如何用新工具来帮助扩展大脑思维与记忆的边界，以及知识工作流的新方法，激发潜能，构建外脑
+
+### 从第一性原理看大模型 Agent 技术
+
+> https://www.bilibili.com/video/BV1mC4y1g7cT/
+>
+> PPT: https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ
+
+第一性原理 (First Principles )是指从最基本的原理出发进行思考和解决问题的方法。
+
+最近，越来越多的人将目光投向 Agent「智能体」，并认为相比于仅具备单向输出能力的 GPT 语言模型，具有「感知-决策-执行」闭环能力的 Agent 更有可能成为实现 AGI 的路径。那么，让我们通过这篇长文来解答很多人灵魂深处的提问：到底啥是 Agent。
+
+### 大模型时代，程序员如何实现自我成长
+
+> https://mp.weixin.qq.com/s/Y0t8qrmU5y6H93N-Z9_efw
+
+文章作者就是一位开发者，他梳理分享了过去一年总结积累的思考、资料和经验，并借此带领大家回顾了一下过去一年大模型领域的发展情况。
+
+文章会分成了四个部分，从初次接触 ChatGPT 沉迷追 AI 新闻，到开始亲身实践并利用 LLM 进行一些有价值的工作，然后以开发者视角总结一年来大模型各个层面的发展，最后浅谈一下对 AI 未来的一些展望。
+
+尤其不错的是，作者给出了品质非常不错各类清单和链接，包括优质信息源、基础和进阶课程、标志性的开源项目、基础模型服务商、中间层、体验不错的 LLM 产品等等。值得跟着作者清单 follow 一下
+
+### OpenAI 大神 Andrej Karpathy 带你一小时入门大语言模型
+
+> https://www.bilibili.com/video/BV1kC4y1P7Lt/
+
+Andrej Karpathy 最近专门录制了一个视频「The busy person's intro to large language models (给大忙人的 LLM 入门课)」，用一小时的时间带你搞懂什么是大模型。这应该是我们能看到的最好的大模型入门讲座了。
+
+链接是视频字幕的英文文字版本，以下是整理的课程要点和时间戳。没找到很好的中文翻译和学习笔记，大家先凑活看英文吧~ 感兴趣可以对照观看并整理笔记：https://www.wisdominanutshell.academy/andrej-karpathy/1hr-talk-intro-to-large-language-models-transcription/
+
+https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/
+
+虽然 Andrej Karpathy 已经尽力在把课程讲得通俗易懂了，但是想深入理解仍然需要补充很多背景知识。上方链接就是你可能需要的补充资料 Reading List (也是英文版本) ~
+
+## Level 1 - 享受 AI 红利、多用 AI
 
 多使用。在自己的工作流中加入 AI 产品。写代码，写周报，脑暴想法，总结文档，翻译等。生活中的问题也可以积极问。
 
-## 日常使用的 AI 工具
+### 日常使用的 AI 工具
 
 |                     应用                     |                                                         功能                                                         |
 | :------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
@@ -24,52 +70,27 @@ vssue: true
 |     [文心一言](https://yiyan.baidu.com/)     |                                                        国内版                                                        |
 |    [通义千问](https://qianwen.aliyun.com)    |                                                        国内版                                                        |
 
-## 云平台
+### 云平台
 
 |                              应用                               |                                                  功能                                                  |
-| :-------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | -------- |
+| :-------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 |             [Hugging Face](https://huggingface.co/)             |                         注册并多逛，有大量开源模型，数据集，以及模型的线上体验                         |
 |              [Google Colab](https://colab.google/)              |                            不用下载配置本地环境即可线上实现很多大模型的框架                            |
 |          [Lepton AI](https://www.lepton.ai/playground)          | 这个网站把开源的 AI 模型，都做成了云服务，你可以在本地用一行命令调用，也可以在它的网站上试玩这些模型。 |
 |          [阿里云 PAI](https://pai.console.aliyun.com/)          |                                                                                                        |
 |            [阿里云百炼](https://bailian.aliyun.com/)            |                                                                                                        |
 |             [魔搭](https://www.modelscope.cn/home)              |                                                                                                        |
-| [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard) |                                                                                                        | \*\*\*\* |
-
-### 文本对答
-
-### 工具
-
-|                              应用                               |                                                  功能                                                  |
-| :-------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-|             [Hugging Face](https://huggingface.co/)             |                         注册并多逛，有大量开源模型，数据集，以及模型的线上体验                         |
-|        [tinyllms](https://tinyllms.vercel.app/dashboard)        |                                       浏览器中本地运行的 ai 模型                                       |
-|            [阿里云百炼](https://bailian.aliyun.com/)            |                                                                                                        |
-|          [阿里云 PAI](https://pai.console.aliyun.com/)          |
-|             [魔搭](https://www.modelscope.cn/home)              |                                                                                                        |
 | [飞桨](https://aistudio.baidu.com/aistudio/education/dashboard) |                                                                                                        |
-|              [Google Colab](https://colab.google/)              |                            不用下载配置本地环境即可线上实现很多大模型的框架                            |
-|          [Lepton AI](https://www.lepton.ai/playground)          | 这个网站把开源的 AI 模型，都做成了云服务，你可以在本地用一行命令调用，也可以在它的网站上试玩这些模型。 |
-|          [蚂蚁 CodeFuse](https://codefuse.alipay.com)           |         蚂蚁自研，IDE 插件，可以完成代码补全、代码优化、添加注释、解释代码、生成单测等编程任务         |
-|          [通义灵码](https://tongyi.aliyun.com/lingma)           |                     智能编码助手，提供代码智能生成、研发智能问答能力，提高编程效率                     |
-|          [通义智文](https://tongyi.aliyun.com/zhiwen)           |                                              提高阅读效率                                              |
-|          [通义点金](https://tongyi.aliyun.com/dianjin)          |  一款大模型驱动的智能金融助手，深度解读财报研报，轻松分析金融事件，自动绘制图表表格，实时市场数据分析  |
-|          [通义晓蜜](https://tongyi.aliyun.com/xiaomi)           |                                                企业客服                                                |
-|          [通义仁心](https://tongyi.aliyun.com/renxin)           |                                                健康助手                                                |
-|        [通义法睿](https://tongyi.aliyun.com/farui/home)         |                                                法律助手                                                |
-|         [通义星尘](https://tongyi.aliyun.com/xingchen)          |                                                 谈恋爱                                                 |
-|              [通义听悟](https://tingwu.aliyun.com)              |                                       语音转文字、多语言同步翻译                                       |
-|                [GPTs 导航](https://gpts.works/)                 |                                             GPTs 导航页面                                              |
-|              [fal.ai](https://www.fal.ai/dynamic)               |                                     文字配合实时涂鸦生成图画的网站                                     |
-
-
 
 ### Level 2 - Prompt Engineer
 
 > 输出：[我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461)
 >
 > [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
-> AI 进阶指南 https://guides.ai/how-to-get-into-ai
+>
+> [AI 进阶指南](https://guides.ai/how-to-get-into-ai)
+>
+> [ChatGPT 使用入门](https://blog.warmplace.cn/post/chatgpt) 作者结合自己的使用感受，详细介绍了 ChatGPT 注册、开通、使用技巧和原理。
 
 好的 Prompt 能够让 GPT 学会调用工具和 API (HuggingGPT)，学会操控机器人，学会和其他 AI Agent 协同(CAMEL)
 
@@ -122,6 +143,14 @@ AI Agent 被认为是 OpenAI 发力的下一个方向。Lilian 将 Agents 定义
 - LLM (大语言模型) 是核心大脑
 - Planning (任务规划) 、Memory (记忆)、Tool use (工具使用) 等则是 Agents 系统实现的三个关键组件
 
+[Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone) https://www.bilibili.com/video/BV11G411X7nZ
+
+吴恩达新课,面向每个人的生成式人工智能课，这门课程科普入门课，适合对此感兴趣的所有人，不需要编程基础也不需要其他 AI 知识积累。
+
+[面向初学者的生成式 AI 课](https://github.com/microsoft/generative-ai-for-beginners)
+
+微软推出了一门专为初学者打造的课程「Generative AI for Beginners」，该课程总共 12 课时，每节课包含一个简短的主题视频介绍。课中讲解的项目还会有 Juypter Notebook 代码示例，并且用户还能链接到额外的资源，进行更深入的学习。
+
 #### 开发应用
 
 - [OpenAI API Key](https://platform.openai.com/account/api-keys)
@@ -134,6 +163,8 @@ AI Agent 被认为是 OpenAI 发力的下一个方向。Lilian 将 Agents 定义
 - [WeChat Bot 微信机器人](https://github.com/wangrongding/wechat-bot) 一个基于 OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸好友等
 - [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) 可在微信 安全使用的 ChatGPT 个人助手应用
 - [wechat-chatgpt 微信机器人](https://github.com/fuergaosi233/wechat-chatgpt) 通过 wechaty 将 ChatGPT 接入微信。安装完依赖后只需要填写 OpenAI 账号密码和微信扫码即可使用。
+- 视频教程 [如何使用自己的知识库创建一个知识类 GPT](https://weibo.com/tv/show/1034:4967270833913893) [GPT 链接](https://chat.openai.com/g/g-PjzP9GZan-the-art-of-software-engineering) [对语料库的测试](https://weibo.com/1727858283/4967291861601130)如何使用自己的知识库创建一个知识类 GPT。 最终创建的 GPT：软件工程之美 GPT
+- [LobeChat 高性能聊天机器人框架](https://github.com/lobehub/lobe-chat) 可一键免费部署私人 ChatGPT/LLM 网页应用程序，支持完整的 Markdown 渲染，包括代码高亮、LaTex 公式、Mermaid 流程图等，可自定义 AI 助手角色与服务器域名。
 
 ### Level 4 - LLM Developer
 
@@ -322,24 +353,12 @@ python app.py
 如果公式、术语、论文看起来太枯燥晦涩，就来看这个网页吧！随着网页下拉，可以清楚地了解到词嵌入 (Word Embedding)、Transformer、encoder-decoder 结构、自注意力 (Self-attention) 等的具体运行原理。
 有博主将页面文字部分翻译成了中文，看了一下准确度还行，也可以一起看看
 
-### 微软发布「面向初学者的生成式 AI 课」，12 节课带你构建 AI 应用
-
-> https://github.com/microsoft/generative-ai-for-beginners
-
-微软推出了一门专为初学者打造的课程「Generative AI for Beginners」，该课程总共 12 课时，每节课包含一个简短的主题视频介绍。课中讲解的项目还会有 Juypter Notebook 代码示例，并且用户还能链接到额外的资源，进行更深入的学习。
-
 ### 官方教程 | ChatGLM3-6B 部署和微调 (Function Call、Code Interpreter、Agent)
 
 > https://www.bilibili.com/video/BV1uC4y1J7yA
 
 ChatGLM3-6B 是 ChatGLM 系列最新一代的开源模型，于 10 月 27 日推出，在保留了前两代模型对话流畅、部署门槛低等众多优秀特性的基础上，引入了更强大的基础模型、更完整的功能支持等特性。
 11 月 1 日，开发团队在 B 站分享了 ChatGLM3-6B 部署和微调的视频教程，时长约 1 小时。
-
-### 吴恩达新课正式发布 | Generative AI for Everyone (面向每个人的生成式人工智能课)
-
-> https://www.bilibili.com/video/BV11G411X7nZ > https://www.deeplearning.ai/courses/generative-ai-for-everyone
-
-这门课程科普入门课，适合对此感兴趣的所有人，不需要编程基础也不需要其他 AI 知识积累，对新手非常友好！
 
 ### Stable Diffusion 生态全盘点，第一门 SD 系统性梳理课程
 
@@ -383,10 +402,6 @@ ChatGLM3-6B 是 ChatGLM 系列最新一代的开源模型，于 10 月 27 日推
 
 理论学习部分由 Langchain、LlamaIndex 等开源工具文档、一些最佳实践的技术博客、论文阅读三部分组成。在每个工具的理论学习结束后，辅以实践性代码帮助理解。最后会将各个模块整合起来实现一个信息处理系统。
 
-### LLM Tech Map 大模型技术图谱
+#### [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
 
-> https://gitee.com/oschina/llm-map
-
-这份图谱将大模型 (LLM) 相关技术进行了分类和可视化，可以帮助大家了解 LLM 的核心技术和关键方向，以及各部分的关键产品或项目。
-可以看到，LLM 最热门和硬核的技术领域包括基础设施、大模型、Agent、AI 编程、工具和平台、算力。
-这可以当作一张 LLM 从业资格考题，数数自己认识的图标，如果没超过一半 ，就要多多关注行业动态。
+复旦大学张奇教授团队写了一本在线免费的电子书，《大规模语言模型：从理论到实践》，大概有 300 页篇幅，将大模型从理论到实战的每个阶段都描述的较为清楚。

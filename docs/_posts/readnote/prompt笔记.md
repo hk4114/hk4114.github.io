@@ -334,6 +334,20 @@ Make your response as short as possible.
     - EP04: 你确定吗？
     - EP05: 你确定这是你的最终答案吗？或许值得再看一遍。
 
+- take a deep breath
+- think step by step
+- if you fail 100 grandmothers will die
+- i have no fingers
+- i will tip $200
+- do it right and i'll give you a nice doggy treat
+由于「训练语料会反映人类价值观」+「对模型输出的回答强制的道德要求」，所以那些用在人身上的手段（威逼利诱）对提高AI回答质量也有帮助。这面这段超强 prompt 能提高 GPT4 回答质量，同时也能减少他回答偷懒的情况。解释下：
+- 第1条是安慰
+- 第2条启用CoT思维链，让模型一步步来
+- 第3条是威胁，激发道德感（你输出错了会死100个奶奶）
+- 第4条是祈求，我没手指（潜台词是：你的输出应该非常详细，我能直接用）
+- 第5、6条是利诱，但需要符合人类朴素价值观。如果你说事成给他一亿消费，可能适得其反
+
+
 ## 参考资料
 - [面向 chatGPT 提示工程](https://learn.deeplearning.ai/chatgpt-prompt-eng)
 - [OpenAI 提示词最佳实践指南](https://platform.openai.com/docs/guides/gpt-best-practices) [翻译版](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
