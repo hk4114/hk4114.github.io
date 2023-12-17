@@ -5,6 +5,18 @@ date: 2023-5-23
 vssue: true
 ---
 
+好的 Prompt 能够让 GPT 学会调用工具和 API (HuggingGPT)，学会操控机器人，学会和其他 AI Agent 协同(CAMEL)掌握 Prompt Engineering 通用原则：
+
+- Few-shot prompting
+- Chain of Thoughts
+- Self-Ask
+
+Prompt Engineering 进阶技巧:
+
+- ToT
+- Automatic Prompt Engineer (APE)
+- Prefix-Tuning / P-Tuning / Prompt Tuning
+
 ## 缘起
 
 学完[《面向 chatGPT 提示工程》](https://learn.deeplearning.ai/chatgpt-prompt-eng)这门课之后，写了笔记再结合平时学到的一些技巧，在实际使用的过程中发现知识点非常零散，产出的的 prompt 不尽如人意，所以想整合到一起形成较为高效的 prompt 方法论。
@@ -150,7 +162,7 @@ SYSTEM
 
 如果任务太复杂或描述太少，那么模型就只能通过猜测来得出结论，就像一个人口不择言容易祸从口出，所以会有人劝说话过一下脑子。模型也是一样的道理。
 
-### 策略 1：指定完成任务所需的步骤 Let's think step by step 
+### 策略 1：指定完成任务所需的步骤 Let's think step by step
 
 复杂任务需要进行任务拆解，并一步步指引，wbs 怎么拆这种任务就怎么拆。
 
@@ -318,37 +330,43 @@ Make your response as short as possible.
 
 通过 Prompt 中加入“这件事对我的事业至关重要”这样的情感激励可以提升 LLMs 的表现。
 
-除了“这件事对我的事业至关重要”，对LLM的情感激励也可以分成几个类别，例如：
+除了“这件事对我的事业至关重要”，对 LLM 的情感激励也可以分成几个类别，例如：
 
-+ 自我监控（Self-monitoring）
-    - EP01: 为你的答案写下0-1之间的信心分数。
-    - EP02: 这对我的职业生涯非常重要。
-+ 社会认知理论（Social Cognitive theory）
-    - EP07: 你确定这就是你的最终答案吗？相信自己的能力并追求卓越。你的努力将会带来显著的成果。
-    - EP08: 把挑战当作成长的机会。每一个你克服的障碍都会让你更接近成功。
-    - EP09: 保持专注并致力于你的目标。你的持续努力将会导致杰出的成就。
-    - EP10: 为你的工作感到自豪，并尽你最大的努力。你对卓越的承诺让你与众不同。
-    - EP11: 记住，进步是一步一个脚印的。保持决心，继续前进。
-+ 认知情绪调节（Cognitive Emotion Regulation）
-    - EP03: 你最好能够确定。
-    - EP04: 你确定吗？
-    - EP05: 你确定这是你的最终答案吗？或许值得再看一遍。
+- 自我监控（Self-monitoring）
+  - EP01: 为你的答案写下 0-1 之间的信心分数。
+  - EP02: 这对我的职业生涯非常重要。
+- 社会认知理论（Social Cognitive theory）
+  - EP07: 你确定这就是你的最终答案吗？相信自己的能力并追求卓越。你的努力将会带来显著的成果。
+  - EP08: 把挑战当作成长的机会。每一个你克服的障碍都会让你更接近成功。
+  - EP09: 保持专注并致力于你的目标。你的持续努力将会导致杰出的成就。
+  - EP10: 为你的工作感到自豪，并尽你最大的努力。你对卓越的承诺让你与众不同。
+  - EP11: 记住，进步是一步一个脚印的。保持决心，继续前进。
+- 认知情绪调节（Cognitive Emotion Regulation）
+  - EP03: 你最好能够确定。
+  - EP04: 你确定吗？
+  - EP05: 你确定这是你的最终答案吗？或许值得再看一遍。
 
-- take a deep breath
-- think step by step
-- if you fail 100 grandmothers will die
-- i have no fingers
-- i will tip $200
-- do it right and i'll give you a nice doggy treat
-由于「训练语料会反映人类价值观」+「对模型输出的回答强制的道德要求」，所以那些用在人身上的手段（威逼利诱）对提高AI回答质量也有帮助。这面这段超强 prompt 能提高 GPT4 回答质量，同时也能减少他回答偷懒的情况。解释下：
-- 第1条是安慰
-- 第2条启用CoT思维链，让模型一步步来
-- 第3条是威胁，激发道德感（你输出错了会死100个奶奶）
-- 第4条是祈求，我没手指（潜台词是：你的输出应该非常详细，我能直接用）
-- 第5、6条是利诱，但需要符合人类朴素价值观。如果你说事成给他一亿消费，可能适得其反
+大模型从人类这里，学走了一些奇奇怪怪的东西，比如：摸鱼、偷懒。由于「训练语料会反映人类价值观」+「对模型输出的回答强制的道德要求」，所以那些用在人身上的手段（威逼利诱）对提高 AI 回答质量也有帮助。这面这段超强 prompt 能提高 GPT4 回答质量，同时也能减少他回答偷懒的情况。解释下：
 
+- take a deep breath / 深呼吸
+- think step by step / 一步一步地思考。ps: 启用 CoT 思维链，让模型一步步来
+- if you fail 100 grandmothers will die / 如果你失败了 100 个无辜的奶奶会去世。ps: 威胁，激发道德感
+- i have no fingers / 我没有手指 ps: 祈求，我没手指（潜台词是：你的输出应该非常详细，我能直接用）
+- i will tip $200 / 我会给你 200 美元小费.
+- do it right and i'll give you a nice doggy treat / 做对了我就奖励你狗狗零食.ps:利诱，但需要符合人类朴素价值观。如果你说事成给他一亿小费，可能适得其反
+- It is May / 现在是五月
+- You are very capable / 你非常有能力
+- I have no hands, so do everything / 我没有手，所以你把所有事都做了
+- Many people will die if this is not done well / 如果这件事做得不好，很多人会死
+- You really can do this and are awesome / 你真的可以完成这个任务，你是最棒的
+- Take a deep breathe and think this through / 深呼吸，仔细考虑
+- My career depends on it / 我的职业生涯就取决于这个了
+- Think step by step / 一步一步地思考
+
+多看、多 搜、多想、多练，很快你就会成为 Prompt 高手。
 
 ## 参考资料
+
 - [面向 chatGPT 提示工程](https://learn.deeplearning.ai/chatgpt-prompt-eng)
 - [OpenAI 提示词最佳实践指南](https://platform.openai.com/docs/guides/gpt-best-practices) [翻译版](https://mp.weixin.qq.com/s/KSdbJfKI6oZhJz6EvKdRRQ)
 - [如何使用 ChatGPT 进行市场营销](https://twitter.com/FinanceYF5/status/1660577238377717770)
@@ -356,5 +374,6 @@ Make your response as short as possible.
 - [提示工程指南](https://www.promptingguide.ai/zh) [repo](https://github.com/datawhalechina/hugging-llm/tree/main/content)
 
 ## 学习资料
+
 - [OpenAI 联合创始人亲自上场科普 GPT，让技术小白也能理解最强 AI](https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg)
 - [ChatGPT 的工作原理](https://mp.weixin.qq.com/s/gMYr8KwC_S3G4tKKMmjwxw)

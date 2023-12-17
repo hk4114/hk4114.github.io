@@ -16,7 +16,7 @@ vssue: false
 |        生活        |    B站、小红书、朋友圈、公众号、语雀     |
 
 ### 专栏类
-
+- [baoyu](https://baoyu.io/)
 - [dev.to](https://dev.to/)
 - [Frontend Focus](https://frontendfoc.us/)
 - [medium](https://medium.com/)

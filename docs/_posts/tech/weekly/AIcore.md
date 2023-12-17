@@ -4,53 +4,6 @@ category: 技术
 date: 2023-5-7
 vssue: true
 ---
-
-### 超级个体公开课：AI 智能体与人类，未来协作方式/合作组织/生产空间
-
-> https://mp.weixin.qq.com/s/AluYfD6BQOkLo6XpJMyQnQ
-
-面向数字游民、自由职业、远程办公等群体的一次 AI 时代的超级个体公开课分享。相对全面地介绍了人类与 AI 自动代理、AI 智能体的未来协作方式，将如何重塑未来的商业模式，有助于每个人提前洞察未来并由此做好职业进阶的准备。
-超级个体是掌握先进生产力 (AI)、生产关系 (Web3) 以及生产空间 (Metaverse)，拥有自己的 AI 团队与自动化任务工作流，基于 AI Agent 与其他超级个体建立更加「智能化」与「自动化」的协作关系。
-三大技术叙事融合趋势：提出 Web3、AGI 和元宇宙三大技术趋势正在交织影响社会，需要理解它们的交互作用。例如：人类与 AI 协同的三种方式， embedding、copilot 和 agent 三种人机协同方式。超级个体经如何经营一人公司，讨论了超级个体具有自动化核心运营的一人公司模式。自动化品牌营销公司 - AutoCorp：描绘了一个基于 AI 实现营销自动化的虚拟公司。超级个体与智能体的竞争博弈关系：分析超级个体与智能体博弈找到最优解的重要性。
-
-### 构建外脑 / 智变时代的个人知识管理
-
-> https://www.indigox.me/build-exobrain/?ref=indigos-digital-mirror-newsletter&continueFlag=8b470aa89ed5822ce6cfaf0555619e89
-
-本文将探讨在新一轮的 AI 变革之下，如何用新工具来帮助扩展大脑思维与记忆的边界，以及知识工作流的新方法，激发潜能，构建外脑
-
-### 从第一性原理看大模型 Agent 技术
-
-> https://www.bilibili.com/video/BV1mC4y1g7cT/
->
-> PPT: https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ
-
-第一性原理 (First Principles )是指从最基本的原理出发进行思考和解决问题的方法。
-
-最近，越来越多的人将目光投向 Agent「智能体」，并认为相比于仅具备单向输出能力的 GPT 语言模型，具有「感知-决策-执行」闭环能力的 Agent 更有可能成为实现 AGI 的路径。那么，让我们通过这篇长文来解答很多人灵魂深处的提问：到底啥是 Agent。
-
-### 大模型时代，程序员如何实现自我成长
-
-> https://mp.weixin.qq.com/s/Y0t8qrmU5y6H93N-Z9_efw
-
-文章作者就是一位开发者，他梳理分享了过去一年总结积累的思考、资料和经验，并借此带领大家回顾了一下过去一年大模型领域的发展情况。
-
-文章会分成了四个部分，从初次接触 ChatGPT 沉迷追 AI 新闻，到开始亲身实践并利用 LLM 进行一些有价值的工作，然后以开发者视角总结一年来大模型各个层面的发展，最后浅谈一下对 AI 未来的一些展望。
-
-尤其不错的是，作者给出了品质非常不错各类清单和链接，包括优质信息源、基础和进阶课程、标志性的开源项目、基础模型服务商、中间层、体验不错的 LLM 产品等等。值得跟着作者清单 follow 一下
-
-### OpenAI 大神 Andrej Karpathy 带你一小时入门大语言模型
-
-> https://www.bilibili.com/video/BV1kC4y1P7Lt/
-
-Andrej Karpathy 最近专门录制了一个视频「The busy person's intro to large language models (给大忙人的 LLM 入门课)」，用一小时的时间带你搞懂什么是大模型。这应该是我们能看到的最好的大模型入门讲座了。
-
-链接是视频字幕的英文文字版本，以下是整理的课程要点和时间戳。没找到很好的中文翻译和学习笔记，大家先凑活看英文吧~ 感兴趣可以对照观看并整理笔记：https://www.wisdominanutshell.academy/andrej-karpathy/1hr-talk-intro-to-large-language-models-transcription/
-
-https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/
-
-虽然 Andrej Karpathy 已经尽力在把课程讲得通俗易懂了，但是想深入理解仍然需要补充很多背景知识。上方链接就是你可能需要的补充资料 Reading List (也是英文版本) ~
-
 ## Level 1 - 享受 AI 红利、多用 AI
 
 多使用。在自己的工作流中加入 AI 产品。写代码，写周报，脑暴想法，总结文档，翻译等。生活中的问题也可以积极问。
@@ -85,30 +38,8 @@ https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-m
 ### Level 2 - Prompt Engineer
 
 > 输出：[我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461)
->
-> [OpenAI Cookbook](https://github.com/openai/openai-cookbook) 对于开发人员来说，这是使用 Open AI 的指南和代码示例的权威集合
->
-> [AI 进阶指南](https://guides.ai/how-to-get-into-ai)
->
-> [ChatGPT 使用入门](https://blog.warmplace.cn/post/chatgpt) 作者结合自己的使用感受，详细介绍了 ChatGPT 注册、开通、使用技巧和原理。
 
-好的 Prompt 能够让 GPT 学会调用工具和 API (HuggingGPT)，学会操控机器人，学会和其他 AI Agent 协同(CAMEL)
 
-掌握 Prompt Engineering 通用原则：
-
-- Few-shot prompting
-- Chain of Thoughts
-- Self-Ask
-
-Prompt Engineering 进阶技巧:
-
-- ToT
-- Automatic Prompt Engineer (APE)
-- Prefix-Tuning / P-Tuning / Prompt Tuning
-
-例如 APE 通过程序化调试 Prompt 的方式，发现了比人工试出来的 Let's think step by step 更好的零样本 CoT Prompt.
-
-多看、多 搜、多想、多练，很快你就会成为 Prompt 高手。
 
 ### Level 3 - API Developer
 
