@@ -4,6 +4,7 @@ category: 技术
 date: 2023-5-7
 vssue: true
 ---
+
 ## Level 1 - 享受 AI 红利、多用 AI
 
 多使用。在自己的工作流中加入 AI 产品。写代码，写周报，脑暴想法，总结文档，翻译等。生活中的问题也可以积极问。
@@ -39,11 +40,131 @@ vssue: true
 
 > 输出：[我所知道的 chatGPT 提示工程](https://juejin.cn/post/7245519751224934461)
 
+## 行业前瞻
 
+### [太卷了！关于大模型和 AIGC 的 36 条笔记和真话](https://zhuanlan.zhihu.com/p/656246644)
+
+一篇国内 AI 头部企业的闭门会要点笔记。
+新一代生成式 AI，可能要回头看看上一代 AI 趟过的坑，不要行业自嗨，避免上一个冬天的轮回。
+在这个领域的从业者，**更要清晰地看到行业的内卷和客户的痛点**，别被大佬的鸡汤迷了眼。
+
+1. 大家融到的钱，80%-90%给到了算力，这是现状。要知道，现在还只是训练，训练的成本是可控的，推理的成本是不可控的。
+2. 在算力紧张的情况下，我们在做一些前瞻性的技术尝试。大家可能都想不到，在我们大模型公司，做基础架构的同学，比做模型的同学要多。他们普遍的价格都还挺贵，也很难招。
+3. 刚开始觉得模型还挺值钱的，现在又陷入到内卷了。前段时间碰到一个客户，BAT 等都报价了。刚开始报价，还挺贵，1000 多万。大家知道最后的成单价是多少？太卷了。
+4. 百亿参数的大模型，在某些特殊客户的认知里面，就是免费的。
+5. 我们要找到一些性感的场景。有几个标准。第一，小切口。第二，跟大模型的优势相匹配。第三，**让买单的决策用户有强感知**。比如以前获取一些数据、结论或者服务，需要不同的流程，现在通过大模型，决策者在移动设备就能快速获取和完成。
+6. **大模型想做成功需要三件事**：1）能不能拿到足够多的钱去买算力。2）能不能拿到足够多的数据。3）人才密度是不是够厚，不在数量多，而是有没有足够多的高质量的科学家。
+7. 我们认为机会还是在 tob 垂直模型，核心点在数据和场景本身，这是最核心的。B 端最大的 bug 在于，最后做成了高级的人力外包。
+8. 我们反而认为 ToC 赚钱比较容易。ToB 有个问题，一个项目的历程时间比较长。客户批预算，再到立项，再到实施，钱的周期是很长的。
+9. 我觉得现在是机会太多，**不要把资源分到你所不是的地方**，做战略选择，这个很重要。
+10. 最近一两年，可能是做创新、做产品的过程，现金的回收周期会相对长一些。
+11. 绕开模型，绕开算力，可能接下来的机会就是 Agent。
+12. 大模型玩家，要保证自己能留在牌桌上，才有机会看到下半场新的东西出来
+
+### [如何打造一个拖垮公司的大模型？](https://mp.weixin.qq.com/s/ZwdjTEHZvsK0VbzFlGtsng)
+
+用戏谑的口吻描述企业打造大模型过程中的诸多挑战。有些梗会心一笑
+
+1. 先砸 10 个亿买卡
+2. 从顶流公司挖大牛来坐镇首席科学家
+3. 定战略、当卷王
+4. 万事开头难。从数据准备开始，全员加班鸡血加班
+5. 开始玩命训练，不出意外的话快出意外了
+6. 内部开始自我修正
+7. 不管产品行不行市场宣传要先行一步
+8. 生态伙伴少不了氛围必须搞起来
+9. 大模型「练」出来了终于
+10. 及时止损人间清醒
+
+### [我的朋友开了家 AI 公司，6 个月就把裤衩赔掉了](https://mp.weixin.qq.com/s/DoF_Scs7OgruquQu0cFqbA)
+
+6 个月，花掉 20 万，挣了 200 块，最终关停了项目。
+多数的人只是冲着蹭流量来的。AI 成了一个全新的噱头，什么行业，跟 AI 沾点亲、带点故，就能卖得更香。
+大部分投资人的原则是：多看，少投。甚至还有很多人打着投资的名号，在创业者这里恶补 AI 知识。
+
+### [超级个体公开课：AI 智能体与人类，未来协作方式/合作组织/生产空间](https://mp.weixin.qq.com/s/AluYfD6BQOkLo6XpJMyQnQ)
+
+面向数字游民、自由职业、远程办公等群体的一次 AI 时代的超级个体公开课分享。相对全面地介绍了人类与 AI 自动代理、AI 智能体的未来协作方式，将如何重塑未来的商业模式，有助于每个人提前洞察未来并由此做好职业进阶的准备。
+超级个体是掌握先进生产力 (AI)、生产关系 (Web3) 以及生产空间 (Metaverse)，拥有自己的 AI 团队与自动化任务工作流，基于 AI Agent 与其他超级个体建立更加「智能化」与「自动化」的协作关系。
+三大技术叙事融合趋势：提出 Web3、AGI 和元宇宙三大技术趋势正在交织影响社会，需要理解它们的交互作用。例如：人类与 AI 协同的三种方式， embedding、copilot 和 agent 三种人机协同方式。超级个体经如何经营一人公司，讨论了超级个体具有自动化核心运营的一人公司模式。自动化品牌营销公司 - AutoCorp：描绘了一个基于 AI 实现营销自动化的虚拟公司。超级个体与智能体的竞争博弈关系：分析超级个体与智能体博弈找到最优解的重要性。
+
+### [构建外脑 / 智变时代的个人知识管理](https://www.indigox.me/build-exobrain/?ref=indigos-digital-mirror-newsletter)
+
+本文将探讨在新一轮的 AI 变革之下，如何用新工具来帮助扩展大脑思维与记忆的边界，以及知识工作流的新方法，激发潜能，构建外脑
+
+### [大模型时代，程序员如何实现自我成长](https://mp.weixin.qq.com/s/Y0t8qrmU5y6H93N-Z9_efw)
+
+文章作者就是一位开发者，他梳理分享了过去一年总结积累的思考、资料和经验，并借此带领大家回顾了一下过去一年大模型领域的发展情况。
+
+文章会分成了四个部分，从初次接触 ChatGPT 沉迷追 AI 新闻，到开始亲身实践并利用 LLM 进行一些有价值的工作，然后以开发者视角总结一年来大模型各个层面的发展，最后浅谈一下对 AI 未来的一些展望。
+
+尤其不错的是，作者给出了品质非常不错各类清单和链接，包括优质信息源、基础和进阶课程、标志性的开源项目、基础模型服务商、中间层、体验不错的 LLM 产品等等。值得跟着作者清单 follow 一下
+
+### [探讨人工智能对经济的影响](https://www.bridgewater.com/research-and-insights/exploring-how-ai-will-impact-the-economy)
+
+[翻译](https://baoyu.io/translations/ai/exploring-how-ai-will-impact-the-economy)
+
+来自桥水（bridgewater）的报告：《探讨人工智能对经济的影响》
+
+从历史来看，像电力和计算机这样能广泛应用于整个经济的通用技术，通常在诞生后一到三十年后开始显著影响生产力。
+
+AI 对生产力的提升速度将超过过去的通用技术，但真正的高峰期仍然遥远。
+
+### [2024 年科技领域的重大创新思想](https://a16z.com/big-ideas-in-tech-2024/)
+
+> 翻译：https://baoyu.io/translations/ai/big-ideas-in-tech-2024
+
+向 ARK Invest 学习，a16z 也开始发年度 Big Ideas 了！这篇关于 2024 Tech 创新的预测中，虽然没有 AI 的单独介绍，但 AI 确贯穿生物健康、消费技术、Crypto、Fintech、游戏、企业与基础设施、还有美国的国防与安全产业，结合自己的判断把 2024 的 AI 趋势分享一下：
+
+- 语音优先的应用将开始融入我们的生活；
+- 消费级 AI 的战场从拼模型转向用户体验；
+- 我们需要量身定制的 AI 助手：ChatGPT 也许是最通用的，但它不太可能 "胜任 "所有任务。新公司会围绕使用场景打造新模型 or 工作流，用户需要定制化，而且越窄越好，这也是新机会；
+- GenAI 将创作的边际成本降至近乎为零，我们将看到全新的消费行为出现：Midjourney、Runway、Eleven Labs、Glif 这些新的创作工具会更多融入到创意工作流中，用户也会消费更多的 GenAI 内容，新模型和新界面将会继续涌现。AI 将帮我们再造创意；
+- AI 将为金融与顾问服务产业提供动力：随着 GenAI 和 LLM 的发展，更多的工作可以实现自动化，包括管理任务、研究过程（收集和摄取数据、搜索信息）、总结以及生成报告。利用 LLM 的初创公司将捕获现有操作系统难以收集的数据，同时自动标记和存储这些数据，我们可能会看到一直由软件寡头垄断的细分市场进入一个新时代；
+- AI 将推动拉美中小企业走向数字化：许多拉丁美洲的商家都使用 WhatsApp 来提供客户服务和支持。这些交互主要涉及消费者期望快速响应的任务，例如报价、排期和物流。目前，商家的响应时间可能会根据代表的可用性和请求的复杂性大相径庭。AI 助手可以大大简化这些耗时的任务，为商家和消费者创造价值；
+- LLM 让我们有机会建立一个更智能的 RPA 系统：系统可以根据上下文理解输入和执行的操作，并能够动态调整，从而创建一个更强大的解决方案；
+- 我们将在 2024 看到第一批 AI 优先设计的游戏：它们会利用 LLM 来实现新颖游戏系统和互动机制，游戏世界本身将不再是渲染出来的，而是在运行时利用神经网络生成的；
+- 我们与 AI 的对话将和 FaceTime 对话一样自然：随着响应延迟的降低、文本到语音技术的进步以及音频驱动的面部动画，我们与 AI 伙伴的对话将越来越具有感知力、存在感和个性化。娱乐将继续从被动体验向主动体验转变，电视节目和互动游戏之间的界限将变得越来越模糊；
+- 去中心化的开源 Crypto 网络将使 AI 创新民主化，而不是集中化；
+- AI 模型将寻求可解释性，这个在高安全领域十分必要，例如机器人和自动驾驶；
+
+### [人工智能即将全面改变我们使用电脑的方式](https://www.gatesnotes.com/AI-agents)
+
+> [翻译](https://baoyu.io/translations/ai/ai-is-about-to-completely-change-how-you-use-computers)
+
+比尔盖茨新写的一篇博客吗，在文章里面，比尔盖茨认为人工智能即将全面改变我们使用电脑的方式并彻底重塑软件行业。并且他还自嘲了当年 Office 推出的傻傻的回形针机器人：我们在 Microsoft Office 中推出后又取消的数字助理 回形针 Clippy，至今仍是人们的笑料！但他无比看好未来的 AI 智能体，相信未来五年每个人都能拥有一个自己的 AI 助理。
 
 ### Level 3 - API Developer
 
 #### 原理
+
+[从第一性原理看大模型 Agent 技术](https://www.bilibili.com/video/BV1mC4y1g7cT/)
+
+> [PPT](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
+
+第一性原理 (First Principles )是指从最基本的原理出发进行思考和解决问题的方法。
+
+最近，越来越多的人将目光投向 Agent「智能体」，并认为相比于仅具备单向输出能力的 GPT 语言模型，具有「感知-决策-执行」闭环能力的 Agent 更有可能成为实现 AGI 的路径。那么，让我们通过这篇长文来解答很多人灵魂深处的提问：到底啥是 Agent。
+
+### [动画科普，Transformer 的诞生，让生成式 AI 成为可能](https://ig.ft.com/generative-ai/)
+
+> 中文版：https://baoyu.io/pages/ft/generative-ai
+
+翻页时，页面右侧的动画与左侧文字变化同步，以非常具体的案例解释了 LLM 的基本原理。
+如果公式、术语、论文看起来太枯燥晦涩，就来看这个网页吧！随着网页下拉，可以清楚地了解到词嵌入 (Word Embedding)、Transformer、encoder-decoder 结构、自注意力 (Self-attention) 等的具体运行原理。
+有博主将页面文字部分翻译成了中文，看了一下准确度还行，也可以一起看看
+
+[图解大语言模型](https://mp.weixin.qq.com/s/P1enjLqH-UWNy7uaIviWRA)
+
+[OpenAI 大神 Andrej Karpathy 带你一小时入门大语言模型](https://www.bilibili.com/video/BV1kC4y1P7Lt/)
+
+Andrej Karpathy 最近专门录制了一个视频「The busy person's intro to large language models (给大忙人的 LLM 入门课)」，用一小时的时间带你搞懂什么是大模型。这应该是我们能看到的最好的大模型入门讲座了。
+
+链接是视频字幕的英文文字版本，以下是整理的课程要点和时间戳。没找到很好的中文翻译和学习笔记，大家先凑活看英文吧~ 感兴趣可以对照观看并整理笔记：https://www.wisdominanutshell.academy/andrej-karpathy/1hr-talk-intro-to-large-language-models-transcription/
+
+https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/
+
+虽然 Andrej Karpathy 已经尽力在把课程讲得通俗易懂了，但是想深入理解仍然需要补充很多背景知识。上方链接就是你可能需要的补充资料 Reading List (也是英文版本) ~
 
 [OpenAI 联合创始人亲自上场科普 GPT，让技术小白也能理解最强 AI](https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg)
 
@@ -97,7 +218,7 @@ AI Agent 被认为是 OpenAI 发力的下一个方向。Lilian 将 Agents 定义
 - 视频教程 [如何使用自己的知识库创建一个知识类 GPT](https://weibo.com/tv/show/1034:4967270833913893) [GPT 链接](https://chat.openai.com/g/g-PjzP9GZan-the-art-of-software-engineering) [对语料库的测试](https://weibo.com/1727858283/4967291861601130)如何使用自己的知识库创建一个知识类 GPT。 最终创建的 GPT：软件工程之美 GPT
 - [LobeChat 高性能聊天机器人框架](https://github.com/lobehub/lobe-chat) 可一键免费部署私人 ChatGPT/LLM 网页应用程序，支持完整的 Markdown 渲染，包括代码高亮、LaTex 公式、Mermaid 流程图等，可自定义 AI 助手角色与服务器域名。
 
-### Level 4 - LLM Developer
+### Level 4 - LLM Developer & Agent
 
 Build with LLM 建造自己的 AI 助手。
 
@@ -112,6 +233,31 @@ Build with LLM 建造自己的 AI 助手。
 - [LangChain AI Handbook，一本非常系统和全面的教程性手册](https://www.pinecone.io/learn/series/langchain) 全面介绍了 LangChain 的各个方面。该手册手册包含多章节，每章聚焦一个话题，如提示工程、会话记忆、检索增强、自定义工具等，是一篇针对 LangChain 使用的非常系统和全面的教程性手册。
 
 #### 教程
+
+[大规模语言模型：从理论到实践](https://intro-llm.github.io/)
+
+复旦大学张奇教授团队写了一本在线免费的电子书，《大规模语言模型：从理论到实践》，大概有 300 页篇幅，将大模型从理论到实战的每个阶段都描述的较为清楚。
+
+**[LLM 学习手册，掌握核心知识点 & 学会如何选择模型](https://ai-guide.future.mozilla.org/)**
+
+这是一篇 LLM 学习小手册，2023 年 9 月最新开源的，介绍了 LLM 的核心知识点，并且提供了模型选择指导和实战案例展示，是一个可以快速完成学习的教程！
+以下是各章节主要内容，教程的结构和基础内容覆盖还不错，感兴趣可以前往网站学习：
+
+1. 简介 / Introduction：通过提供这份开源指南，帮助工程师了解人工智能，尤其是大型语言模型 (LLM)
+2. 人工智能基础知识 / AI Basics：定义 AI、LLM 及其能力和局限性，并从技术层面解释 LLM 的工作原理
+3. 语言模型 101 / Language Models 101：提供有关模型架构、训练和推理的具体内容，并解释了参数、微调、束搜索等关键概念
+4. 选择 ML 模型 / Choosing ML Models：就如何开始使用模型和评估结果提供指导
+5. 著名项目 / Notable Projects：将重点介绍完整的 LLM 解决方案、运行时、检索增强、协调和前端
+6. 从左侧大纲可以看出，一些核心章节仍待上传，可以蹲一波更新：数据检索、图像模型、微调、构建模型和音频/视频模型
+
+**[LLM 应用全栈开发 | 实践笔记](https://aitutor.liduos.com)**
+
+理论学习部分由 Langchain、LlamaIndex 等开源工具文档、一些最佳实践的技术博客、论文阅读三部分组成。在每个工具的理论学习结束后，辅以实践性代码帮助理解。最后会将各个模块整合起来实现一个信息处理系统。
+
+[官方教程 | ChatGLM3-6B 部署和微调 (Function Call、Code Interpreter、Agent)](https://www.bilibili.com/video/BV1uC4y1J7yA)
+
+ChatGLM3-6B 是 ChatGLM 系列最新一代的开源模型，于 10 月 27 日推出，在保留了前两代模型对话流畅、部署门槛低等众多优秀特性的基础上，引入了更强大的基础模型、更完整的功能支持等特性。
+11 月 1 日，开发团队在 B 站分享了 ChatGLM3-6B 部署和微调的视频教程，时长约 1 小时。
 
 **[LLM 开发必修课，6 周教你用热门框架开发商业级 LLM 产品](https://www.edx.org/course/large-language-models-application-through-production)**
 
@@ -200,34 +346,6 @@ Build with LLM 建造自己的 AI 助手。
 
 ## 多媒体教程
 
-### 绘画
-
-> [B 站合集](https://www.bilibili.com/medialist/detail/ml2243104665)
-
-### 妙鸭开源版，阿里达摩院推出「酷蛙 FaceChain」并附原理揭秘
-
-> https://mp.weixin.qq.com/s/4oTjOEW_C4dMfylUXq-39A
->
-> https://modelscope.cn/studios/CVstudio/cv_human_portrait/summary
-
-FaceChain 是一个深度学习工具链，使用 3~10 张头肩照片，就可以创建自己的数字写真，可以理解为开源版本的「妙鸭」。
-
-FaceChain 由阿里达摩院开放视觉团队推出，并上线了魔搭 ModelScope 社区，具体操作流程可以
-
-### FaceChain 使用教程
-
-[魔搭](https://www.modelscope.cn/my/overview)
-
-1. 我的 notebook -> GPU 环境
-
-```sh
-git clone https://www.modelscope.cn/studios/CVstudio/cv_human_portrait.git
-cd cv_human_portrait
-pip install -r requirements.txt
-pip install gradio==3.35.2
-python app.py
-```
-
 #### Midjourney 中文教程
 
 1. [Midjourney 保姆级注册教程](https://mp.weixin.qq.com/s/0rllMo2iu8Blwz0DtTBeVA)
@@ -270,27 +388,6 @@ python app.py
 2. [领航员未鸟](https://www.bilibili.com/video/BV1nL411z7kb)
 3. [羽毛布団](https://www.bilibili.com/video/BV1H24y187Ko/)
 
-## 技术文章
-
-[图解大语言模型](https://mp.weixin.qq.com/s/P1enjLqH-UWNy7uaIviWRA)
-
-### 动画科普，Transformer 的诞生，让生成式 AI 成为可能
-
-> https://ig.ft.com/generative-ai/
->
-> 中文版：https://baoyu.io/pages/ft/generative-ai
-
-翻页时，页面右侧的动画与左侧文字变化同步，以非常具体的案例解释了 LLM 的基本原理。
-如果公式、术语、论文看起来太枯燥晦涩，就来看这个网页吧！随着网页下拉，可以清楚地了解到词嵌入 (Word Embedding)、Transformer、encoder-decoder 结构、自注意力 (Self-attention) 等的具体运行原理。
-有博主将页面文字部分翻译成了中文，看了一下准确度还行，也可以一起看看
-
-### 官方教程 | ChatGLM3-6B 部署和微调 (Function Call、Code Interpreter、Agent)
-
-> https://www.bilibili.com/video/BV1uC4y1J7yA
-
-ChatGLM3-6B 是 ChatGLM 系列最新一代的开源模型，于 10 月 27 日推出，在保留了前两代模型对话流畅、部署门槛低等众多优秀特性的基础上，引入了更强大的基础模型、更完整的功能支持等特性。
-11 月 1 日，开发团队在 B 站分享了 ChatGLM3-6B 部署和微调的视频教程，时长约 1 小时。
-
 ### Stable Diffusion 生态全盘点，第一门 SD 系统性梳理课程
 
 > https://www.bilibili.com/video/BV1K8411y7Ei
@@ -299,9 +396,7 @@ ChatGLM3-6B 是 ChatGLM 系列最新一代的开源模型，于 10 月 27 日推
 最难得的是，作者目前已经更新的内容中，不纠结技术细节又非常清晰完整地介绍了发展来龙去脉。对于非 AI 背景的学习者来说，这个教程系列可谓十分友好！会用 SD 还知道枝枝蔓蔓，就真的是专家了~
 目前系列已经更新了 5 个视频，约 180 分钟，学起来非常爽并忍不住想做笔记。
 
-### 全网第一门「AI 动画」系统课程，带你实现 AI 动画的商业落地
-
-> https://www.bilibili.com/video/BV1dw411Y7YY/
+### [全网第一门「AI 动画」系统课程，带你实现 AI 动画的商业落地](https://www.bilibili.com/video/BV1dw411Y7YY/)
 
 完整介绍市面上最有用的 AI 动画工具和插件，帮助学习者了解底层原理，并掌握「AI 工具+传统动画后期」的创新工作流。课程非常贴心地推荐了大量优秀案例和创作思路，并对部分优秀案例进行拆解分析，带你创作属于自己的故事。
 
@@ -312,27 +407,3 @@ ChatGLM3-6B 是 ChatGLM 系列最新一代的开源模型，于 10 月 27 日推
 这是一个非常与众不同的 Stable Diffusion 系列教程。作者对 SD 的生态进行了非常完整的整理，并绘制了大量的可视化图形 (绝美)，帮助理解论文、技术、应用之间的关系。
 最难得的是，作者目前已经更新的内容中，不纠结技术细节又非常清晰完整地介绍了发展来龙去脉。对于非 AI 背景的学习者来说，这个教程系列可谓十分友好！会用 SD 还知道枝枝蔓蔓，就真的是专家了~
 目前系列已经更新了 5 个视频，约 180 分钟，学起来非常爽并忍不住想做笔记。
-
-### LLM 学习手册，掌握核心知识点 & 学会如何选择模型
-
-> https://ai-guide.future.mozilla.org/
-
-这是一篇 LLM 学习小手册，2023 年 9 月最新开源的，介绍了 LLM 的核心知识点，并且提供了模型选择指导和实战案例展示，是一个可以快速完成学习的教程！
-以下是各章节主要内容，教程的结构和基础内容覆盖还不错，感兴趣可以前往网站学习：
-
-1. 简介 / Introduction：通过提供这份开源指南，帮助工程师了解人工智能，尤其是大型语言模型 (LLM)
-2. 人工智能基础知识 / AI Basics：定义 AI、LLM 及其能力和局限性，并从技术层面解释 LLM 的工作原理
-3. 语言模型 101 / Language Models 101：提供有关模型架构、训练和推理的具体内容，并解释了参数、微调、束搜索等关键概念
-4. 选择 ML 模型 / Choosing ML Models：就如何开始使用模型和评估结果提供指导
-5. 著名项目 / Notable Projects：将重点介绍完整的 LLM 解决方案、运行时、检索增强、协调和前端
-6. 从左侧大纲可以看出，一些核心章节仍待上传，可以蹲一波更新：数据检索、图像模型、微调、构建模型和音频/视频模型
-
-### LLM 应用全栈开发 | 实践笔记
-
-> https://aitutor.liduos.com
-
-理论学习部分由 Langchain、LlamaIndex 等开源工具文档、一些最佳实践的技术博客、论文阅读三部分组成。在每个工具的理论学习结束后，辅以实践性代码帮助理解。最后会将各个模块整合起来实现一个信息处理系统。
-
-#### [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
-
-复旦大学张奇教授团队写了一本在线免费的电子书，《大规模语言模型：从理论到实践》，大概有 300 页篇幅，将大模型从理论到实战的每个阶段都描述的较为清楚。
