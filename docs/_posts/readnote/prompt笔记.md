@@ -5,6 +5,8 @@ date: 2023-5-23
 vssue: true
 ---
 
+> https://learnprompting.org/zh-Hans/docs/intro
+
 好的 Prompt 能够让 GPT 学会调用工具和 API (HuggingGPT)，学会操控机器人，学会和其他 AI Agent 协同(CAMEL)掌握 Prompt Engineering 通用原则：
 
 - Few-shot prompting
