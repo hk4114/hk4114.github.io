@@ -23,6 +23,8 @@ vssue: true
 | [Claude](https://www.anthropic.com/product)  |                                                      支持长文本                                                      |
 |     [文心一言](https://yiyan.baidu.com/)     |                                                        国内版                                                        |
 |    [通义千问](https://qianwen.aliyun.com)    |                                                        国内版                                                        |
+|     [consensus](https://consensus.app/)      |                              专门做研究的 ChatGPT 平台：你的答案完全来自论文，免费使用                               |
+|       [智朴清言](https://chatglm.cn/)        |                                                        国内版                                                        |
 
 ### 云平台
 
