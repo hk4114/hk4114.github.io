@@ -5,6 +5,8 @@
 
 - [前端 monorepo 大仓权限设计的思考与实现｜得物技术](https://mp.weixin.qq.com/s/PVucy8AL5ZPsZluKliOglQ)
 
+- [企业级 npm 私有仓库部署方案](https://mp.weixin.qq.com/s/rkyK6lIXOneHGNZncIAUKQ)
+
 - 前端 [Chrome 插件开发指南和实践](https://mp.weixin.qq.com/s/qPeZZPwUGX2eRi4Q1AGfcw)
 
 - 前端 [前端代码重复度检测](https://mp.weixin.qq.com/s/H4qtFE_UkHxXDmo4_pUwpg)
