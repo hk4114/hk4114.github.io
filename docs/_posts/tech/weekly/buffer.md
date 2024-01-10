@@ -1,71 +1,5 @@
 
 ## 技术储备
-
-[被裁员了，记录下去年刚入职一个月时在组内关于前端基建的技术分享](https://juejin.cn/post/7256393626682163237)
-
-## 搭建npm私服
-[【前端工程化】巧用阿里云oss服务打造前端npm私有仓库](https://juejin.cn/post/7233250336534151227)
-[【前端工程化】使用verdaccio搭建公司npm私有库完整流程和踩坑记录](https://juejin.cn/post/7096701542408912933)
-[企业级 npm 私有仓库部署方案](https://mp.weixin.qq.com/s/rkyK6lIXOneHGNZncIAUKQ)
-[使用nexus搭建一个npm私服](https://juejin.cn/post/6971799169933508638)
-
-
-## cli
-[搭建cli脚手架下载模版](https://juejin.cn/post/7256393626682163237)
-
-[写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s/ZVG6uFy3KnsZponYwnrnkw)文章详细介绍了如何搭建基础的脚手架，涵盖了搭建工程、声明命令、处理命令参数、用户交互、文件操作等方面的内容，最终实现了一个monorepo风格的脚手架工程。
-
-> https://juejin.cn/post/7138678042238713870 自己的
-
-[自己写得 前端开发规范](https://juejin.cn/post/7184336114222628920)
-
-
-## 组件库
-[如何写一个属于自己的Vue3组件库](https://mp.weixin.qq.com/s/HKNDrF5JgAVKr70OQB_42A)
-该内容主要涵盖了使用monorepo方式搭建组件库的环境配置和组件编写的步骤。通过全局安装pnpm并初始化monorepo，可以在一个代码仓库中管理多个项目，并实现资源共享。配置pnpm的monorepo工作区，安装依赖并编写组件时，可以相互调用不同目录下的包。编写组件时，可以使用withInstall函数进行注册和按需加载。最后，使用vite的库模式进行组件打包。
-
-[从零开始搭建一个属于你自己的组件库！](https://mp.weixin.qq.com/s/79LM8og2TD27OrRJG-fuFA)
-
-[快上车！从零开始搭建一个属于自己的组件库！](https://mp.weixin.qq.com/s/UIqS-T6U1ZTw7kL7ZitDZQ)
-
-[每个前端都值得拥有自己的组件库](https://juejin.cn/post/6983854006124675108)
-
-[从零到一建立属于自己的前端组件库](https://juejin.cn/post/7124487017588588574)
-
-[是时候搭建你们团队的 UI 组件库了](https://juejin.cn/post/6844904200359378958)
-
-[如何打造一套vue组件库](https://juejin.cn/post/6844903929633849357)
-
-[【前端工程化】使用dumi2搭建React组件库和函数库详细教程和最佳实践](https://juejin.cn/post/7222804347830206525)
-
-[开发一个 npm 库应该做哪些工程配置？](https://juejin.cn/post/7240461753934889021) 
-本篇文章就围绕这些工程化工具为大家做一次入门引领，从 0 到 1 搭建一个开源项目，从整体的视角来看待这些工具，从而更好地掌握工具，而不是排斥工具、害怕工具。
-
-[基于pnpm从0搭建Monorepo工程](https://juejin.cn/post/7104545520625909774)
-
-[前端 monorepo 大仓权限设计的思考与实现｜得物技术](https://mp.weixin.qq.com/s/PVucy8AL5ZPsZluKliOglQ)
-
-
-
-
-
-
-
-
-- 前端 [50 种 ES6 模块](https://segmentfault.com/a/1190000044202083)
-
-- 前端 [聊聊前端模块化](https://mp.weixin.qq.com/s/CPUf0LtBEuwGXGkL_vgdVA) CommonJS、ES6模块化和AMD规范
-
-- 前端 [前端水印技术全解析（含盲水印）](https://mp.weixin.qq.com/s/bQm5sR_0wmkvNPhf9vkKSg)
-
-- 前端 [从后端导出文件到前端（Blob）下载过程](https://mp.weixin.qq.com/s/bSvguln5690w-kFH55mS4g)
-
-- 前端 [前端实现埋点上报是怎么实现的？](https://juejin.cn/post/7224132741997281338) `navigator.sendBeacon` or `img`
-
-- 前端 [基于模块联邦与大仓模式的商家巨石应用拆分实践｜得物技术](https://mp.weixin.qq.com/s/NuJ5uWgX2WIczQjxTxzs0g)
-
-- 前端 [得物效率前端微应用推进过程与思考](https://mp.weixin.qq.com/s/B8yfruYofex7GXc3HHjjTA)
-
 - [小林 x 图解计算机基础](https://xiaolincoding.com/) 图解计算机网络、操作系统、计算机组成、数据库，让天下没有难懂的八股文！
 
 - [效率消息中心从 0-1 搭建与思考|得物技术](https://mp.weixin.qq.com/s/SWenfaa7obt6XrSA5gZA1A)
@@ -92,27 +26,6 @@
 
 - [一文讲透主数据管理](https://mp.weixin.qq.com/s/8hS9wBiM0jh2PYYyRp_H0g)
 
-### 一个常见的代码上线流程
-
-步骤 1：首先，产品经理会根据产品需求撰写用户故事（User Story）。作为一个（As a）XXX 用户，我想要（I want） 增加/修改/移除 YYY 功能，这样的话（So that）提升/降低/改善
-
-步骤 2：开发团队会从待办事项中选取这些用户故事，为其安排一个两周的开发周期。
-
-步骤 3：开发人员会将他们的代码提交到 Git 仓库中。
-
-步骤 4：代码提交后，Jenkins 会自动进行构建。此时，代码需要通过单元测试、代码覆盖率的标准，以及 SonarQube（代码质量检测工具） 的检查门槛。
-
-步骤 5：当构建成功后，这个版本会被保存在Artifactory中，并被部署到开发环境进行测试。如果是基于Docker虚拟化技术的服务端，会build成虚拟化成 Image ，这样可以直接部署到K8s，如果不是虚拟化的服务端或者客户端的Release会有所不同，会保存打包后的文件。
-
-步骤 6：可能有多个团队同时进行开发，他们各自的功能需要独立进行测试，因此这些功能会被部署到两个测试环境，即 QA1 和 QA2。
-
-步骤 7：质量保证团队会在这些测试环境上进行功能测试、回归测试以及性能测试。
-
-步骤 8：一旦通过了 QA 团队的测试，这个版本会被部署到 UAT 环境中，由开发团队、测试团队和产品经理共同完成用户验收测试。UAT，(User Acceptance Test)，用户接受度测试即验收测试，UAT 环境主要是用来作为客户体验的环境。有时候也可以用测试环境替代。
-
-步骤 9：只有在 UAT 测试全部通过后，这个版本才会被视为正式的发布版本，按照计划上线到生产环境。为了降低风险，我们可能采取分批发布或金丝雀发布（Canary release）等策略。“为什么叫金丝雀发布呢，是因为金丝雀对矿场中的毒气比较敏感，所以在矿场开工前工人们会放一只金丝雀进去，以验证矿场是否存在毒气，这便是金丝雀发布名称的由来。”通过在线上运行的服务中，新加入少量的新版本的服务，然后从这少量的新版本中快速获得反馈，根据反馈决定最后的交付形态。
-
-步骤 10：运维团队负责生产环境的稳定性和监控。他们使用了 ELK、Prometheus 和 Skywalking 等工具来分析日志和追踪系统性能。若发现问题，他们会及时通报给 QA 和开发团队，团队会优先处理这些问题。
 
 ### 如何和小白解释 hash 表
 
@@ -132,11 +45,6 @@
 ## 扩展认知
 
 - [行业研究万字教程，真·新手友好版](https://mp.weixin.qq.com/s/QDkImJr_dlfiOkY9XG_eYA)
-
-### [“30块工资线”是很多问题的根本原因](https://mp.weixin.qq.com/s/6VJQIm3UEKJ7la3d2sHR-Q)
-事实上倒闭最多的两种创业，排第一的是饭店，排第二的就是咖啡店。今天还看到一个数据，一个饭店装修80万，倒卖的时候只能卖4500块。
-那个讲师说日本美国的外卖员收入不错，是中国的好几倍，我总觉得主要是那边人少，尤其缺乏足够多的中国人。抖音上有个华人在美国送外卖的，别的外卖员一个月赚三四千，他每月赚小一万，为啥？他以前在国内就是送外卖的，把在国内送外卖的经验拿到了美国，玩命送，一天十几个小时，别的外卖员下班回去吃饭睡觉逛酒吧了，他还在送。美国外卖平台不让送这么久，怕疲劳驾驶，时间到了就不给单了。他注册了两个账号，还很得意自己这么机智，说美国人太实在，没有人脸识别。不过又说有人脸识别也不怕，那时候他就注册到两个外卖平台下。
-大家想想，如果美国有几千万他这样的人，你们信不信会把整个外卖员产业给干到最低工资线？
 
 ### [哥哥](https://weibo.com/1716488301/zBYIXdosy)
 
@@ -176,15 +84,6 @@
 - 第二定律：实权越大，通常难做大官。实权越大，诱惑就越多。经济学的第二假定，叫资源稀缺假定。如果从经济学角度看，实权也是一种稀缺资源，实权越大，就越稀缺。市场上稀缺的东西，想得到的人就很多。用行话说，叫做供不应求。对实权越大通常难做大官的现象，经济学还有一种解释：就是民主失灵。
 - 第三定律：好人，未必就是好官。这里讲的“好人”，有特定的含义，即大家都说他“好”的人。因为当官，本身就是一种责任。履行职责就得办事，可一旦办起事来，就没有不得罪人的。那些敢做事的好官，只要做事，保不准就会得罪什么人。
 
-
-### 不要担心别人的看法，使之成为你的障碍。
-> 瑞达利欧
-
-你要敢于以自己认为最好的独特的方式行事，这样做肯定会有反馈，你必须开明地思考这些反馈。 
-
-学着做到极度透明，就像学习如何公开发言一样：一开始你会难堪，但你练得越多，你就越能应付自如。我就是这样。例如，我现在依然本能地觉得，我像现在这样极度透明是不舒服的，因为我在公开展示我的个人情况，这会引人注意，也会招致批评。但我还是这么做了，因为我知道这样做是最好的，而如果我让恐惧阻碍自己，我将对自己不满意。换言之，我在很长时间里都体会到极度透明的好处，所以现在如果不这么做，我反而会不舒服。除了让我能自由做自己之外，这样做还会让我和其他人相互理解，与彼此不理解相比，这更有效而且更让人快乐。
-
-想想看，如果人们不是隐藏看法，而是公开分享看法，这将减少多少误解，世界的运转将会变得多么高效，我们将会多么接近真相。我指的不是每个人的内心私密，而是人们对彼此和现实的看法。你们已经看到，我已经亲身体验到，这种极度探寻真相、极度透明，如何大大改善了我的决策和人际关系。所以每当我面对抉择时，我的直觉都是保持透明。我以此作为行事原则，并且建议你们也这么做。
 
 ### [你为何“研究到位，却赚不到钱”？](https://mp.weixin.qq.com/s/FBgk0PjrveVsDs8fWkPJTA)
 
@@ -248,3 +147,140 @@
 生活是发现，更是创造。
 
 贫穷是腐蚀性的。我从小在乡下看到了太多黑暗的事，你会发现，一个人在穷困之际会不顾道德，做出很多匪夷所思的事，甚至道德对他们都是奢侈。穷人未必就是好人。但如果哪天我有余力，我还是想去帮助那些穷人，没有人天生就活该过那样的生活。
+
+
+
+
+
+
+[被裁员了，记录下去年刚入职一个月时在组内关于前端基建的技术分享](https://juejin.cn/post/7256393626682163237)
+
+## 搭建npm私服
+[【前端工程化】巧用阿里云oss服务打造前端npm私有仓库](https://juejin.cn/post/7233250336534151227)
+[【前端工程化】使用verdaccio搭建公司npm私有库完整流程和踩坑记录](https://juejin.cn/post/7096701542408912933)
+[企业级 npm 私有仓库部署方案](https://mp.weixin.qq.com/s/rkyK6lIXOneHGNZncIAUKQ)
+[使用nexus搭建一个npm私服](https://juejin.cn/post/6971799169933508638)
+
+
+## cli
+[搭建cli脚手架下载模版](https://juejin.cn/post/7256393626682163237)
+
+[写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s/ZVG6uFy3KnsZponYwnrnkw)文章详细介绍了如何搭建基础的脚手架，涵盖了搭建工程、声明命令、处理命令参数、用户交互、文件操作等方面的内容，最终实现了一个monorepo风格的脚手架工程。
+
+> https://juejin.cn/post/7138678042238713870 自己的
+
+[自己写得 前端开发规范](https://juejin.cn/post/7184336114222628920)
+
+
+## 组件库
+[如何写一个属于自己的Vue3组件库](https://mp.weixin.qq.com/s/HKNDrF5JgAVKr70OQB_42A)
+该内容主要涵盖了使用monorepo方式搭建组件库的环境配置和组件编写的步骤。通过全局安装pnpm并初始化monorepo，可以在一个代码仓库中管理多个项目，并实现资源共享。配置pnpm的monorepo工作区，安装依赖并编写组件时，可以相互调用不同目录下的包。编写组件时，可以使用withInstall函数进行注册和按需加载。最后，使用vite的库模式进行组件打包。
+
+[从零开始搭建一个属于你自己的组件库！](https://mp.weixin.qq.com/s/79LM8og2TD27OrRJG-fuFA)
+
+[快上车！从零开始搭建一个属于自己的组件库！](https://mp.weixin.qq.com/s/UIqS-T6U1ZTw7kL7ZitDZQ)
+
+[每个前端都值得拥有自己的组件库](https://juejin.cn/post/6983854006124675108)
+
+[从零到一建立属于自己的前端组件库](https://juejin.cn/post/7124487017588588574)
+
+[是时候搭建你们团队的 UI 组件库了](https://juejin.cn/post/6844904200359378958)
+
+[如何打造一套vue组件库](https://juejin.cn/post/6844903929633849357)
+
+[【前端工程化】使用dumi2搭建React组件库和函数库详细教程和最佳实践](https://juejin.cn/post/7222804347830206525)
+
+[开发一个 npm 库应该做哪些工程配置？](https://juejin.cn/post/7240461753934889021) 
+本篇文章就围绕这些工程化工具为大家做一次入门引领，从 0 到 1 搭建一个开源项目，从整体的视角来看待这些工具，从而更好地掌握工具，而不是排斥工具、害怕工具。
+
+[基于pnpm从0搭建Monorepo工程](https://juejin.cn/post/7104545520625909774)
+
+[前端 monorepo 大仓权限设计的思考与实现｜得物技术](https://mp.weixin.qq.com/s/PVucy8AL5ZPsZluKliOglQ)
+
+
+### 一个常见的代码上线流程
+
+步骤 1：首先，产品经理会根据产品需求撰写用户故事（User Story）。作为一个（As a）XXX 用户，我想要（I want） 增加/修改/移除 YYY 功能，这样的话（So that）提升/降低/改善
+
+步骤 2：开发团队会从待办事项中选取这些用户故事，为其安排一个两周的开发周期。
+
+步骤 3：开发人员会将他们的代码提交到 Git 仓库中。
+
+步骤 4：代码提交后，Jenkins 会自动进行构建。此时，代码需要通过单元测试、代码覆盖率的标准，以及 SonarQube（代码质量检测工具） 的检查门槛。
+
+步骤 5：当构建成功后，这个版本会被保存在Artifactory中，并被部署到开发环境进行测试。如果是基于Docker虚拟化技术的服务端，会build成虚拟化成 Image ，这样可以直接部署到K8s，如果不是虚拟化的服务端或者客户端的Release会有所不同，会保存打包后的文件。
+
+步骤 6：可能有多个团队同时进行开发，他们各自的功能需要独立进行测试，因此这些功能会被部署到两个测试环境，即 QA1 和 QA2。
+
+步骤 7：质量保证团队会在这些测试环境上进行功能测试、回归测试以及性能测试。
+
+步骤 8：一旦通过了 QA 团队的测试，这个版本会被部署到 UAT 环境中，由开发团队、测试团队和产品经理共同完成用户验收测试。UAT，(User Acceptance Test)，用户接受度测试即验收测试，UAT 环境主要是用来作为客户体验的环境。有时候也可以用测试环境替代。
+
+步骤 9：只有在 UAT 测试全部通过后，这个版本才会被视为正式的发布版本，按照计划上线到生产环境。为了降低风险，我们可能采取分批发布或金丝雀发布（Canary release）等策略。“为什么叫金丝雀发布呢，是因为金丝雀对矿场中的毒气比较敏感，所以在矿场开工前工人们会放一只金丝雀进去，以验证矿场是否存在毒气，这便是金丝雀发布名称的由来。”通过在线上运行的服务中，新加入少量的新版本的服务，然后从这少量的新版本中快速获得反馈，根据反馈决定最后的交付形态。
+
+步骤 10：运维团队负责生产环境的稳定性和监控。他们使用了 ELK、Prometheus 和 Skywalking 等工具来分析日志和追踪系统性能。若发现问题，他们会及时通报给 QA 和开发团队，团队会优先处理这些问题。
+
+
+
+### 原理
+
+[从第一性原理看大模型 Agent 技术](https://www.bilibili.com/video/BV1mC4y1g7cT/)
+
+> [PPT](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
+
+第一性原理 (First Principles )是指从最基本的原理出发进行思考和解决问题的方法。
+
+最近，越来越多的人将目光投向 Agent「智能体」，并认为相比于仅具备单向输出能力的 GPT 语言模型，具有「感知-决策-执行」闭环能力的 Agent 更有可能成为实现 AGI 的路径。那么，让我们通过这篇长文来解答很多人灵魂深处的提问：到底啥是 Agent。
+
+[OpenAI 大神 Andrej Karpathy 带你一小时入门大语言模型](https://www.bilibili.com/video/BV1kC4y1P7Lt/)
+
+Andrej Karpathy 最近专门录制了一个视频「The busy person's intro to large language models (给大忙人的 LLM 入门课)」，用一小时的时间带你搞懂什么是大模型。这应该是我们能看到的最好的大模型入门讲座了。
+
+链接是视频字幕的英文文字版本，以下是整理的课程要点和时间戳。没找到很好的中文翻译和学习笔记，大家先凑活看英文吧~ 感兴趣可以对照观看并整理笔记：https://www.wisdominanutshell.academy/andrej-karpathy/1hr-talk-intro-to-large-language-models-transcription/
+
+https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/
+
+虽然 Andrej Karpathy 已经尽力在把课程讲得通俗易懂了，但是想深入理解仍然需要补充很多背景知识。上方链接就是你可能需要的补充资料 Reading List (也是英文版本) ~
+
+[OpenAI 联合创始人亲自上场科普 GPT，让技术小白也能理解最强 AI](https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg)
+
+详细介绍了如何从 GPT 基础模型训练出 ChatGPT 助手模型，并解释了大型语言模型的内部原理和 RLHF 训练细节。
+
+演讲中提到了预训练、有监督微调、奖励建模和强化学习等四个主要阶段，并介绍了标记化、Transformer 神经网络架构等技术细节。这场演讲非常精彩，并推荐给所有关心大型语言模型的人。
+
+[ChatGPT 的工作原理](https://mp.weixin.qq.com/s/gMYr8KwC_S3G4tKKMmjwxw)
+
+ChatGPT 通过分析数十亿个网页上的文本来预测下一个词的合理延续，并生成一个可能的词的排序列表。在选择下一个词时，模型可以采用高排名词或随机选择较低排名词的方法，以产生不同风格的文本。温度参数可以控制排名较低词被选中的频率。该文章还提到了使用简化版本的 GPT-2 模型，并给出了相关代码示例。
+
+文章还讨论了如何通过分析语料库来计算字母和 n-gram 的概率，并以此生成更真实的文本。
+
+[生成式 AI 应用路线图：多模态 AI 的应用能力演进](https://mp.weixin.qq.com/s/dSXgDrvcM8GD33RWu78gyA) / [路线图](https://github.com/SeedV/generative-ai-roadmap)
+
+随着生成式 AI「对生成内容的可控性」不断提高，其应用场景也在不断扩展和深化，这个演进过程大致分为如图所示的 6 个阶段。
+
+与简单的文本/图片生成相比，包含声音、视频、3D 场景、动画、复杂故事线的多模态系统，与人类的常识感受和本源需求更加契合，明显拥有更宽广深远的应用前景。
+
+作者认为，生成式 AI 会大致按照图示的脉络演进积累，不断催生有革命意义的新应用、新平台甚至颠覆性的新商业模式
+
+[AI Agents 绝佳综述：OpenAI 团队的 Agents 理解与发展规划](https://mp.weixin.qq.com/s/Jb8HBbaKYXXxTSQOBsP5Wg) / [原文](https://lilianweng.github.io/posts/2023-06-23-agent/)
+
+LLM Powered Autonomous Agents 是 @Lilian Weng 一篇广泛传播的博文，可以说是目前 AI Agent 领域优质论文的系统综述。Lilian 现在是 OpenAI 的 Head of Safety Systems，之前还领导过 OpenAI 的 Applied AI 团队，她的文章绝对值得一看~
+
+AI Agent 被认为是 OpenAI 发力的下一个方向。Lilian 将 Agents 定义为 LLM、Planning、Memory、Tools 的集合，并在文章中对每个组建的实现路径进行了细致说明：
+
+- LLM (大语言模型) 是核心大脑
+- Planning (任务规划) 、Memory (记忆)、Tool use (工具使用) 等则是 Agents 系统实现的三个关键组件
+
+[Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone) https://www.bilibili.com/video/BV11G411X7nZ
+
+吴恩达新课,面向每个人的生成式人工智能课，这门课程科普入门课，适合对此感兴趣的所有人，不需要编程基础也不需要其他 AI 知识积累。
+
+[面向初学者的生成式 AI 课](https://github.com/microsoft/generative-ai-for-beginners)
+
+微软推出了一门专为初学者打造的课程「Generative AI for Beginners」，该课程总共 12 课时，每节课包含一个简短的主题视频介绍。课中讲解的项目还会有 Juypter Notebook 代码示例，并且用户还能链接到额外的资源，进行更深入的学习。
+
+#### 开发应用
+- 视频教程 [如何使用自己的知识库创建一个知识类 GPT](https://weibo.com/tv/show/1034:4967270833913893) [GPT 链接](https://chat.openai.com/g/g-PjzP9GZan-the-art-of-software-engineering) [对语料库的测试](https://weibo.com/1727858283/4967291861601130)如何使用自己的知识库创建一个知识类 GPT。 最终创建的 GPT：软件工程之美 GPT
+- [一键部署自己的 Gemini Pro Chat 大模型应用，无需服务器](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) 支持一键部署各种 Github 开源AI项目，而且不需要服务器！
+- [川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)为 ChatGPT/ChatGLM/LLaMA/StableLM/MOSS 等多种 LLM 提供了一个轻快好用的 Web 图形界面
+- [LobeChat 高性能聊天机器人框架](https://github.com/lobehub/lobe-chat) 可一键免费部署私人 ChatGPT/LLM 网页应用程序，支持完整的 Markdown 渲染，包括代码高亮、LaTex 公式、Mermaid 流程图等，可自定义 AI 助手角色与服务器域名。
