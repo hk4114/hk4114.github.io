@@ -16,7 +16,7 @@
 
 - [数据分层：打造数据资产管家](https://mp.weixin.qq.com/s/wctkyNh09c-IVuKpO_pCCw)
 
-- [如何将公司的代码上线到生产环境](https://blog.bytebytego.com/p/ep81-how-companies-ship-code-to-production)
+- 
 
 - [Java/Python 的常用快捷键汇总](https://mp.weixin.qq.com/s/Zh9TllGDm9woyQ0ZYBcLnA)
 
@@ -67,23 +67,12 @@
 一个简单的时间机会成本模型会告诉你，如果一个女性的单位时间价值很低，也就是说，她们在外部劳动力市场上找不到收入丰厚的工作，那么待在家里，照顾孩子，生更多的孩子是一个很好的选择。但如果她有一份令人满意的高质量工作，那么她可能会尽量要更少的孩子。因此，仅女性受教育程度更高这一点，就会减少生育。抚养方面的情况也在强化这一点，因为在世界各地，受过高等教育的父母在孩子的教育上会给予的更多，这就意味着，养单个孩子要花更多的时间，孩子的数目就更少了。
 不过，比较好的一点是，受教育程度高的女性可能会少生几个孩子，但花更多的时间，她们会培育出所谓的高质量孩子，我们通常都是这样考虑这个问题。
 
-### 必须保卫复杂
-
-2023 是新的开始，宛若新生的春天，全新的技术革命，仿佛沉疴尽去，暂停的时间又重新启动。
-然而，并没有什么可以真正全新、洁白，正是在过去所有经验、记忆、空洞与阴影之上，未来堆叠、推拥而来，“正如一道黑烟从石油大火中升起”。——在上一个十年，人们谈论“未来”“打开”“可能性”，谈论“自由、勇气与责任”“历史、记忆与遗忘”，便是出于类似的初衷。
-面对今日世界——这个越发撕裂却也越发均质的世界：价值市场看似多元，实则别无选择，因为永远存在比正确更正确的选项；人前所未有地意识到“自我”，其存在却已被还原为无差别的情绪欲望反馈机器，被数字世界的浪花反复冲刷；而作为图文信息流涌向我们的，正是被污染的语言、被虚构的生活、被精心配比和如法炮制的叙事——我们要提出的是：
-必须保卫真实世界，保卫人的真实、生活的真实、感受与叙事的真实。
-必须保卫复杂，保卫自由而健全之人应有的视野与对景深的感知，保卫种种粗陋却又必要地彼此结构着的基本现实，保卫我们各自茧房之外有些异样的声音，以及无言以对的时刻。因为“复杂”，是一切“新”的前提，一切“未来”的开始，一切虚假与简化与生俱来的对手。
-莱姆说：“如果一个人对生存于其间的世界的真实性产生了怀疑，就必须自己行动起来。”让我们行动起来，保卫文学，从保卫复杂的构造与真实的叙事开始。
-年轻的朋友们，欢迎来到真实世界，让我们在此相遇。
-
 ### [原中央党校副校长揭密中国官场三大定律：实权越大，通常难做大官](https://mp.weixin.qq.com/s/aE8-ee4mvO1ZUcNSfbHhfw)
 
 中国官场三大定律：
 - 第一定律：地方越穷，人们越想做官。贫穷地区何以频频出现买官呢？经济学的解释是：一定局限条件下的经济人本性。经济学讲经济人，有两层含义：一是说人是理性的；二是指人是自私的。贫穷地区，人们收入低，投资没本钱，做生意没市场。所以要改善自己，就得与政府扯上关系。贫穷地区人们想当官，多半是看透了当官与国有经济的特殊关系。时下人们想发横财，无非是两个路径：一是违法经营，如走私贩毒；二是行政垄断，以权谋私。既然当官能无本生利，大家看在眼里，明在心头。尤其是贫穷地区，人们发财无门，可又穷则思变。故千军万马往官道上挤，也就在情理之中了。
 - 第二定律：实权越大，通常难做大官。实权越大，诱惑就越多。经济学的第二假定，叫资源稀缺假定。如果从经济学角度看，实权也是一种稀缺资源，实权越大，就越稀缺。市场上稀缺的东西，想得到的人就很多。用行话说，叫做供不应求。对实权越大通常难做大官的现象，经济学还有一种解释：就是民主失灵。
 - 第三定律：好人，未必就是好官。这里讲的“好人”，有特定的含义，即大家都说他“好”的人。因为当官，本身就是一种责任。履行职责就得办事，可一旦办起事来，就没有不得罪人的。那些敢做事的好官，只要做事，保不准就会得罪什么人。
-
 
 ### [你为何“研究到位，却赚不到钱”？](https://mp.weixin.qq.com/s/FBgk0PjrveVsDs8fWkPJTA)
 
@@ -146,31 +135,41 @@
 比如，怎么感受每一刻的拥有和幸运？这是幸福杠杆。
 生活是发现，更是创造。
 
-贫穷是腐蚀性的。我从小在乡下看到了太多黑暗的事，你会发现，一个人在穷困之际会不顾道德，做出很多匪夷所思的事，甚至道德对他们都是奢侈。穷人未必就是好人。但如果哪天我有余力，我还是想去帮助那些穷人，没有人天生就活该过那样的生活。
 
 
+[前端工程化](https://juejin.cn/column/7092293219064479752)
 
+1. 项目模板
+2. 脚手架
+3. 组件库
+4. 搭建npm私服 & 研发工作流程
+5. 低代码
+6. 监控系统
+7. 微前端
 
-
-
-[被裁员了，记录下去年刚入职一个月时在组内关于前端基建的技术分享](https://juejin.cn/post/7256393626682163237)
-
-## 搭建npm私服
-[【前端工程化】巧用阿里云oss服务打造前端npm私有仓库](https://juejin.cn/post/7233250336534151227)
-[【前端工程化】使用verdaccio搭建公司npm私有库完整流程和踩坑记录](https://juejin.cn/post/7096701542408912933)
-[企业级 npm 私有仓库部署方案](https://mp.weixin.qq.com/s/rkyK6lIXOneHGNZncIAUKQ)
-[使用nexus搭建一个npm私服](https://juejin.cn/post/6971799169933508638)
-
-
-## cli
-[搭建cli脚手架下载模版](https://juejin.cn/post/7256393626682163237)
-
-[写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s/ZVG6uFy3KnsZponYwnrnkw)文章详细介绍了如何搭建基础的脚手架，涵盖了搭建工程、声明命令、处理命令参数、用户交互、文件操作等方面的内容，最终实现了一个monorepo风格的脚手架工程。
-
-> https://juejin.cn/post/7138678042238713870 自己的
+## 项目模板
+- vue3/react
+- 小程序
 
 [自己写得 前端开发规范](https://juejin.cn/post/7184336114222628920)
 
+Vue
++ [pure admin](https://yiming_chang.gitee.io/pure-admin-doc/pages/introduction/)
++ [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)
++ [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)
+
+react
++ [Hooks-Admin](https://gitee.com/HalseySpicy/Hooks-Admin)
+
+[被裁员了，记录下去年刚入职一个月时在组内关于前端基建的技术分享](https://juejin.cn/post/7256393626682163237)
+[【前端工程化】配置React+ts企业级代码规范及样式格式和git提交规范](https://juejin.cn/post/7101596844181962788)
+[前端项目添加代码规范](https://juejin.cn/post/7138678042238713870)
+[前端开发代码规范](https://juejin.cn/post/7184336114222628920)
+
+## cli
+前端工程化】从入门到精通，100行代码构建你的前端CLI脚手架之路 https://juejin.cn/post/7236021829000446011
+[搭建cli脚手架下载模版](https://juejin.cn/post/7256393626682163237)
+[写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s/ZVG6uFy3KnsZponYwnrnkw)文章详细介绍了如何搭建基础的脚手架，涵盖了搭建工程、声明命令、处理命令参数、用户交互、文件操作等方面的内容，最终实现了一个monorepo风格的脚手架工程。
 
 ## 组件库
 [如何写一个属于自己的Vue3组件库](https://mp.weixin.qq.com/s/HKNDrF5JgAVKr70OQB_42A)
@@ -197,8 +196,13 @@
 
 [前端 monorepo 大仓权限设计的思考与实现｜得物技术](https://mp.weixin.qq.com/s/PVucy8AL5ZPsZluKliOglQ)
 
+## 搭建npm私服
+[【前端工程化】巧用阿里云oss服务打造前端npm私有仓库](https://juejin.cn/post/7233250336534151227)
+[【前端工程化】使用verdaccio搭建公司npm私有库完整流程和踩坑记录](https://juejin.cn/post/7096701542408912933)
+[企业级 npm 私有仓库部署方案](https://mp.weixin.qq.com/s/rkyK6lIXOneHGNZncIAUKQ)
+[使用nexus搭建一个npm私服](https://juejin.cn/post/6971799169933508638)
 
-### 一个常见的代码上线流程
+## [如何将公司的代码上线到生产环境](https://blog.bytebytego.com/p/ep81-how-companies-ship-code-to-production)
 
 步骤 1：首先，产品经理会根据产品需求撰写用户故事（User Story）。作为一个（As a）XXX 用户，我想要（I want） 增加/修改/移除 YYY 功能，这样的话（So that）提升/降低/改善
 
@@ -219,68 +223,3 @@
 步骤 9：只有在 UAT 测试全部通过后，这个版本才会被视为正式的发布版本，按照计划上线到生产环境。为了降低风险，我们可能采取分批发布或金丝雀发布（Canary release）等策略。“为什么叫金丝雀发布呢，是因为金丝雀对矿场中的毒气比较敏感，所以在矿场开工前工人们会放一只金丝雀进去，以验证矿场是否存在毒气，这便是金丝雀发布名称的由来。”通过在线上运行的服务中，新加入少量的新版本的服务，然后从这少量的新版本中快速获得反馈，根据反馈决定最后的交付形态。
 
 步骤 10：运维团队负责生产环境的稳定性和监控。他们使用了 ELK、Prometheus 和 Skywalking 等工具来分析日志和追踪系统性能。若发现问题，他们会及时通报给 QA 和开发团队，团队会优先处理这些问题。
-
-
-
-### 原理
-
-[从第一性原理看大模型 Agent 技术](https://www.bilibili.com/video/BV1mC4y1g7cT/)
-
-> [PPT](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
-
-第一性原理 (First Principles )是指从最基本的原理出发进行思考和解决问题的方法。
-
-最近，越来越多的人将目光投向 Agent「智能体」，并认为相比于仅具备单向输出能力的 GPT 语言模型，具有「感知-决策-执行」闭环能力的 Agent 更有可能成为实现 AGI 的路径。那么，让我们通过这篇长文来解答很多人灵魂深处的提问：到底啥是 Agent。
-
-[OpenAI 大神 Andrej Karpathy 带你一小时入门大语言模型](https://www.bilibili.com/video/BV1kC4y1P7Lt/)
-
-Andrej Karpathy 最近专门录制了一个视频「The busy person's intro to large language models (给大忙人的 LLM 入门课)」，用一小时的时间带你搞懂什么是大模型。这应该是我们能看到的最好的大模型入门讲座了。
-
-链接是视频字幕的英文文字版本，以下是整理的课程要点和时间戳。没找到很好的中文翻译和学习笔记，大家先凑活看英文吧~ 感兴趣可以对照观看并整理笔记：https://www.wisdominanutshell.academy/andrej-karpathy/1hr-talk-intro-to-large-language-models-transcription/
-
-https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/
-
-虽然 Andrej Karpathy 已经尽力在把课程讲得通俗易懂了，但是想深入理解仍然需要补充很多背景知识。上方链接就是你可能需要的补充资料 Reading List (也是英文版本) ~
-
-[OpenAI 联合创始人亲自上场科普 GPT，让技术小白也能理解最强 AI](https://mp.weixin.qq.com/s/zmEGzm1cdXupNoqZ65h7yg)
-
-详细介绍了如何从 GPT 基础模型训练出 ChatGPT 助手模型，并解释了大型语言模型的内部原理和 RLHF 训练细节。
-
-演讲中提到了预训练、有监督微调、奖励建模和强化学习等四个主要阶段，并介绍了标记化、Transformer 神经网络架构等技术细节。这场演讲非常精彩，并推荐给所有关心大型语言模型的人。
-
-[ChatGPT 的工作原理](https://mp.weixin.qq.com/s/gMYr8KwC_S3G4tKKMmjwxw)
-
-ChatGPT 通过分析数十亿个网页上的文本来预测下一个词的合理延续，并生成一个可能的词的排序列表。在选择下一个词时，模型可以采用高排名词或随机选择较低排名词的方法，以产生不同风格的文本。温度参数可以控制排名较低词被选中的频率。该文章还提到了使用简化版本的 GPT-2 模型，并给出了相关代码示例。
-
-文章还讨论了如何通过分析语料库来计算字母和 n-gram 的概率，并以此生成更真实的文本。
-
-[生成式 AI 应用路线图：多模态 AI 的应用能力演进](https://mp.weixin.qq.com/s/dSXgDrvcM8GD33RWu78gyA) / [路线图](https://github.com/SeedV/generative-ai-roadmap)
-
-随着生成式 AI「对生成内容的可控性」不断提高，其应用场景也在不断扩展和深化，这个演进过程大致分为如图所示的 6 个阶段。
-
-与简单的文本/图片生成相比，包含声音、视频、3D 场景、动画、复杂故事线的多模态系统，与人类的常识感受和本源需求更加契合，明显拥有更宽广深远的应用前景。
-
-作者认为，生成式 AI 会大致按照图示的脉络演进积累，不断催生有革命意义的新应用、新平台甚至颠覆性的新商业模式
-
-[AI Agents 绝佳综述：OpenAI 团队的 Agents 理解与发展规划](https://mp.weixin.qq.com/s/Jb8HBbaKYXXxTSQOBsP5Wg) / [原文](https://lilianweng.github.io/posts/2023-06-23-agent/)
-
-LLM Powered Autonomous Agents 是 @Lilian Weng 一篇广泛传播的博文，可以说是目前 AI Agent 领域优质论文的系统综述。Lilian 现在是 OpenAI 的 Head of Safety Systems，之前还领导过 OpenAI 的 Applied AI 团队，她的文章绝对值得一看~
-
-AI Agent 被认为是 OpenAI 发力的下一个方向。Lilian 将 Agents 定义为 LLM、Planning、Memory、Tools 的集合，并在文章中对每个组建的实现路径进行了细致说明：
-
-- LLM (大语言模型) 是核心大脑
-- Planning (任务规划) 、Memory (记忆)、Tool use (工具使用) 等则是 Agents 系统实现的三个关键组件
-
-[Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone) https://www.bilibili.com/video/BV11G411X7nZ
-
-吴恩达新课,面向每个人的生成式人工智能课，这门课程科普入门课，适合对此感兴趣的所有人，不需要编程基础也不需要其他 AI 知识积累。
-
-[面向初学者的生成式 AI 课](https://github.com/microsoft/generative-ai-for-beginners)
-
-微软推出了一门专为初学者打造的课程「Generative AI for Beginners」，该课程总共 12 课时，每节课包含一个简短的主题视频介绍。课中讲解的项目还会有 Juypter Notebook 代码示例，并且用户还能链接到额外的资源，进行更深入的学习。
-
-#### 开发应用
-- 视频教程 [如何使用自己的知识库创建一个知识类 GPT](https://weibo.com/tv/show/1034:4967270833913893) [GPT 链接](https://chat.openai.com/g/g-PjzP9GZan-the-art-of-software-engineering) [对语料库的测试](https://weibo.com/1727858283/4967291861601130)如何使用自己的知识库创建一个知识类 GPT。 最终创建的 GPT：软件工程之美 GPT
-- [一键部署自己的 Gemini Pro Chat 大模型应用，无需服务器](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) 支持一键部署各种 Github 开源AI项目，而且不需要服务器！
-- [川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)为 ChatGPT/ChatGLM/LLaMA/StableLM/MOSS 等多种 LLM 提供了一个轻快好用的 Web 图形界面
-- [LobeChat 高性能聊天机器人框架](https://github.com/lobehub/lobe-chat) 可一键免费部署私人 ChatGPT/LLM 网页应用程序，支持完整的 Markdown 渲染，包括代码高亮、LaTex 公式、Mermaid 流程图等，可自定义 AI 助手角色与服务器域名。
