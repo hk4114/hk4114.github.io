@@ -50,9 +50,7 @@
 
 我如今才想明白，武大即是武二，武二即是武大，咱们是一人的两极，谁也离不了谁。你在时，我可以收起脾气去做一个都头、去卖炊饼。如今你死了，菩萨似的武大死了，便只剩下罗刹一般凶恶的武二在世上游荡。
 
-为什么 996 式贪婪工作加剧男女不平等
-一个简单的时间机会成本模型会告诉你，如果一个女性的单位时间价值很低，也就是说，她们在外部劳动力市场上找不到收入丰厚的工作，那么待在家里，照顾孩子，生更多的孩子是一个很好的选择。但如果她有一份令人满意的高质量工作，那么她可能会尽量要更少的孩子。因此，仅女性受教育程度更高这一点，就会减少生育。抚养方面的情况也在强化这一点，因为在世界各地，受过高等教育的父母在孩子的教育上会给予的更多，这就意味着，养单个孩子要花更多的时间，孩子的数目就更少了。
-不过，比较好的一点是，受教育程度高的女性可能会少生几个孩子，但花更多的时间，她们会培育出所谓的高质量孩子，我们通常都是这样考虑这个问题。
+生育率、儿童得到足够好的照料和保护、超长时间无弹性的贪婪工作，这三者也是一种“不可能三角”。 996 式贪婪工作加剧男女不平等
 
 ### [原中央党校副校长揭密中国官场三大定律：实权越大，通常难做大官](https://mp.weixin.qq.com/s/aE8-ee4mvO1ZUcNSfbHhfw)
 
@@ -165,24 +163,103 @@ react
 [企业级 npm 私有仓库部署方案](https://mp.weixin.qq.com/s/rkyK6lIXOneHGNZncIAUKQ)
 [使用nexus搭建一个npm私服](https://juejin.cn/post/6971799169933508638)
 
-## [如何将公司的代码上线到生产环境](https://blog.bytebytego.com/p/ep81-how-companies-ship-code-to-production)
 
-步骤 1：首先，产品经理会根据产品需求撰写用户故事（User Story）。作为一个（As a）XXX 用户，我想要（I want） 增加/修改/移除 YYY 功能，这样的话（So that）提升/降低/改善
 
-步骤 2：开发团队会从待办事项中选取这些用户故事，为其安排一个两周的开发周期。
 
-步骤 3：开发人员会将他们的代码提交到 Git 仓库中。
+### Generative AI for Beginners 生成式人工智能入门课
+> 地址：https://microsoft.github.io/generative-ai-for-beginners/
+> 
+> [中文版学习笔记](https://app.heptabase.com/w/87c086b90e0b4d1583896a3a43a22fbdca0fd8430117c351e552989454025ad0)
 
-步骤 4：代码提交后，Jenkins 会自动进行构建。此时，代码需要通过单元测试、代码覆盖率的标准，以及 SonarQube（代码质量检测工具） 的检查门槛。
+一共12小节，每节课包含「视频介绍 + 图文讲解 + 示例代码 + 课程作业 + 更多资源链接」，是学习生成式人工智能基础知识和应用开发技能的首选入门课。
 
-步骤 5：当构建成功后，这个版本会被保存在Artifactory中，并被部署到开发环境进行测试。如果是基于Docker虚拟化技术的服务端，会build成虚拟化成 Image ，这样可以直接部署到K8s，如果不是虚拟化的服务端或者客户端的Release会有所不同，会保存打包后的文件。
+### [OpenAI 大神 Andrej Karpathy 带你一小时入门大语言模型](https://www.bilibili.com/video/BV1kC4y1P7Lt/)
+用一小时的时间带你搞懂什么是大模型
+感兴趣可以对照观看并整理笔记：https://www.wisdominanutshell.academy/andrej-karpathy/1hr-talk-intro-to-large-language-models-transcription/
+reading list https://blog.oxen.ai/reading-list-for-andrej-karpathys-intro-to-large-language-models-video/
 
-步骤 6：可能有多个团队同时进行开发，他们各自的功能需要独立进行测试，因此这些功能会被部署到两个测试环境，即 QA1 和 QA2。
+### [面向初学者的生成式 AI 课](https://github.com/microsoft/generative-ai-for-beginners)
 
-步骤 7：质量保证团队会在这些测试环境上进行功能测试、回归测试以及性能测试。
+微软推出了一门专为初学者打造的课程「Generative AI for Beginners」，该课程总共 12 课时，每节课包含一个简短的主题视频介绍。课中讲解的项目还会有 Juypter Notebook 代码示例，并且用户还能链接到额外的资源，进行更深入的学习。
 
-步骤 8：一旦通过了 QA 团队的测试，这个版本会被部署到 UAT 环境中，由开发团队、测试团队和产品经理共同完成用户验收测试。UAT，(User Acceptance Test)，用户接受度测试即验收测试，UAT 环境主要是用来作为客户体验的环境。有时候也可以用测试环境替代。
+### [从第一性原理看大模型 Agent 技术](https://www.bilibili.com/video/BV1mC4y1g7cT/)
 
-步骤 9：只有在 UAT 测试全部通过后，这个版本才会被视为正式的发布版本，按照计划上线到生产环境。为了降低风险，我们可能采取分批发布或金丝雀发布（Canary release）等策略。“为什么叫金丝雀发布呢，是因为金丝雀对矿场中的毒气比较敏感，所以在矿场开工前工人们会放一只金丝雀进去，以验证矿场是否存在毒气，这便是金丝雀发布名称的由来。”通过在线上运行的服务中，新加入少量的新版本的服务，然后从这少量的新版本中快速获得反馈，根据反馈决定最后的交付形态。
+> [PPT](https://mp.weixin.qq.com/s/PL-QjlvVugUfmRD4g0P-qQ)
 
-步骤 10：运维团队负责生产环境的稳定性和监控。他们使用了 ELK、Prometheus 和 Skywalking 等工具来分析日志和追踪系统性能。若发现问题，他们会及时通报给 QA 和开发团队，团队会优先处理这些问题。
+第一性原理 (First Principles )是指从最基本的原理出发进行思考和解决问题的方法。
+
+最近，越来越多的人将目光投向 Agent「智能体」，并认为相比于仅具备单向输出能力的 GPT 语言模型，具有「感知-决策-执行」闭环能力的 Agent 更有可能成为实现 AGI 的路径。那么，让我们通过这篇长文来解答很多人灵魂深处的提问：到底啥是 Agent。
+
+### [用 Ollama 轻松玩转本地大模型，附基础教程&进阶玩法](https://sspai.com/post/85193) https://ollama.ai/
+本地大模型和基于 llama.cpp 的应用，门槛还是比较高的，因此局限在少数极客和研究者圈子里，劝退了很多普通学习者和开发者。
+Ollama 这个简明易用的本地大模型运行框架，通过简单的安装指令，就能够帮助用户在本地快速运行开源大模型了！
+而且，围绕着 Ollama 的开发者生态，进一步简化了用户的操作难度，能够让更多人以最简单快速的方式在本地把大模型跑起来~
+
+1. 快速上手：支持macOS、Windows (通过WSL 2) 和Docker，用户可以通过简单的命令行操作来下载和运行模型，如使用 ollama pull 和 ollama run 命令
+2. 套上外壳：Ollama提供了多种用户界面 (UI) 选项，包括WebUI、oterm、Raycast插件等；提供了丰富的功能和快捷键支持，使得与大模型的交互更加直观和便捷
+3. 用户可以根据需要更换不同的模型，通过指定模型名和标签来选择特定的模型版本
+4. Ollama支持图片输入，用户可以直接将图片路径提供给模型以获取文本内容
+5. 用户可以自定义系统提示词，以改变模型的响应风格和内容
+6. Ollama的ModelFile允许用户进一步自定义模型的行为，包括对话模板、推理温度等
+
+
+### 开发应用
+- [一键部署自己的 Gemini Pro Chat 大模型应用，无需服务器](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) 支持一键部署各种 Github 开源AI项目，而且不需要服务器！
+- [川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)为 ChatGPT/ChatGLM/LLaMA/StableLM/MOSS 等多种 LLM 提供了一个轻快好用的 Web 图形界面
+- [LobeChat 高性能聊天机器人框架](https://github.com/lobehub/lobe-chat) 可一键免费部署私人 ChatGPT/LLM 网页应用程序，支持完整的 Markdown 渲染，包括代码高亮、LaTex 公式、Mermaid 流程图等，可自定义 AI 助手角色与服务器域名。
+
+**英文资料 吴恩达 AI 系列再出新课 [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data)**
+
+基于 LangChain 使用 LLM 构建私有数据的问答系统和聊天机器人。课程时常 1 小时，适合初学者入门学习。
+
+本次主要包括以下 2 个主题：
+
+- 检索增强生成 (Retrieval Augmented Generation，RAG)，这是一个常见的 LLM 应用程序，可从外部数据集检索上下文文档
+- 构建聊天机器人的指南，该机器人根据文档的内容而不是在训练中学到的信息来响应查询
+
+主要内容：
+
+1. 文档加载：了解数据加载的基本知识，并发现 LangChain 提供的 80 多个独特的加载器，用于访问各种数据源，包括音频和视频
+2. 文档拆分：了解拆分数据的最佳实践和注意事项
+3. 矢量存储和嵌入：深入了解嵌入 (emebdding) 的概念，探索 LangChain 中的矢量存储集成
+4. 检索：掌握访问和索引矢量存储中数据的高级技术，使您能够检索语义查询之外最相关的信息
+5. 答题：构建一次答题解决方案
+6. 聊天：了解如何跟踪和选择对话和数据源中的相关信息，因为您使用 LangChain 构建自己的聊天机器人
+7. 开始构建实用的应用程序，允许您使用 LangChain 和 LLM 与数据交互
+
+**[吴恩达 X HuggingFace 使用 Gradio 快速构建生成式 AI 应用](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)**
+
+教大家如何使用 Gradio 快速构建生成式 AI 的应用。Gradio 是一个开源 Python 库，可以将机器学习模型从抽象的代码转变为交互界面，大大简化了经典应用的构建过程，如草图识别、问答系统、图像分割、时序预测、基于 XGBoost 的可解释性展示等。
+
+构建生成式 AI 应用的一个重要方向，就是构建 web demo 让用户能快速体验。Gradio 正是当前最流行的快速构建 AI Web 应用的解决方案。课程还提供了非常友好的 Jupyter Notebook 练习环境，课程时长 1 小时左右，目前免费开放。
+
+本门课程包含了 5 类应用的构建：
+
+- 自然语言任务接口：主要讲述如何基于 Gradio 开发文本摘要和命名识别应用
+- 图像说明应用：基于开源的 image-to-text 模型开发一个图片说明应用，即基于上传的图片给出相关的文本描述应用
+- 图像生成应用：与上面的相反，构建的式基于 text-to-image 的应用
+- 游戏生成应用：这是一个综合应用样例，是基于前面的 2 个应用构造的一个小游戏实例
+- 大模型聊天应用：类似 ChatGPT 的应用
+
+### Level 4 - LLM Developer & Agent
+
+Build with LLM 建造自己的 AI 助手。
+
+动手实践干中学。LLM 应用层程序开发。掌握开发框架可以极大的提升实践效率，同时 Github 上有大量 GPT 开源项目可以参考实践。
+
+
+英文资料 [Full Stack LLM Bootcamp: LLM 应用开发全栈指南 免费训练营](https://fullstackdeeplearning.com/llm-bootcamp/) 
+帮助了解基于 LLM 构建 App 所需要的最佳实践和工具，掌握从提示工程到「用户中心设计」的全栈技能！以下是课程笔记要点！学习课程与查看完整笔记。
+[笔记 1 LLM 应用开发全栈指南](https://mp.weixin.qq.com/s/weH_7K2g3sBMbtei1_dTng) / [笔记 2 LLM 全栈开发指南补遗](https://mp.weixin.qq.com/s/3zijYYxIJA5rJz9fBoArPw)
+
+英文资料 [Langchain](https://python.langchain.com/en/latest/) 框架，LangChain 是目前 LLM 应用搭建最主流的框架，能给 LLM 这个“大脑”组装上“手”和“腿”，一定要了解 Agent，Memory，Chain 等核心概念
+
+
+- [大模型应用知识地图：RAG、Agent、Prompt Engineering 要点概览](https://www.mubu.com/doc/2yVWogEso5i)
+- [动画科普，Transformer 的诞生，让生成式 AI 成为可能](https://baoyu.io/pages/ft/generative-ai)
+- [图解大语言模型](https://mp.weixin.qq.com/s/P1enjLqH-UWNy7uaIviWRA)
+- [一站式 LLM 底层技术原理入门指南](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc)面向非科班出身但想要了解 AI 技术原理的受众的飞书文档。文档从浅到深，覆盖了非常多内容细节，并在持续更新 LLM 最新技术进展及相关原理！
+- [大规模语言模型：从理论到实践](https://intro-llm.github.io/)复旦大学张奇教授团队写了一本在线免费的电子书，《大规模语言模型：从理论到实践》，大概有 300 页篇幅，将大模型从理论到实战的每个阶段都描述的较为清楚。
+- [LLM 应用全栈开发 | 实践笔记](https://aitutor.liduos.com)理论学习部分由 Langchain、LlamaIndex 等开源工具文档、一些最佳实践的技术博客、论文阅读三部分组成。在每个工具的理论学习结束后，辅以实践性代码帮助理解。最后会将各个模块整合起来实现一个信息处理系统。
+- [LLM 学习手册，掌握核心知识点 & 学会如何选择模型](https://ai-guide.future.mozilla.org/)
+- [2023 年 LLM 如何入门？请看这篇综述！丨论文解读](https://juejin.cn/post/7253476306008031287)
