@@ -96,26 +96,6 @@
 比如，怎么感受每一刻的拥有和幸运？这是幸福杠杆。
 生活是发现，更是创造。
 
-### [用 Ollama 轻松玩转本地大模型，附基础教程&进阶玩法](https://sspai.com/post/85193) https://ollama.ai/
-本地大模型和基于 llama.cpp 的应用，门槛还是比较高的，因此局限在少数极客和研究者圈子里，劝退了很多普通学习者和开发者。
-Ollama 这个简明易用的本地大模型运行框架，通过简单的安装指令，就能够帮助用户在本地快速运行开源大模型了！
-而且，围绕着 Ollama 的开发者生态，进一步简化了用户的操作难度，能够让更多人以最简单快速的方式在本地把大模型跑起来~
-
-1. 快速上手：支持macOS、Windows (通过WSL 2) 和Docker，用户可以通过简单的命令行操作来下载和运行模型，如使用 ollama pull 和 ollama run 命令
-2. 套上外壳：Ollama提供了多种用户界面 (UI) 选项，包括WebUI、oterm、Raycast插件等；提供了丰富的功能和快捷键支持，使得与大模型的交互更加直观和便捷
-3. 用户可以根据需要更换不同的模型，通过指定模型名和标签来选择特定的模型版本
-4. Ollama支持图片输入，用户可以直接将图片路径提供给模型以获取文本内容
-5. 用户可以自定义系统提示词，以改变模型的响应风格和内容
-6. Ollama的ModelFile允许用户进一步自定义模型的行为，包括对话模板、推理温度等
-
-
-### Generative AI for Beginners 生成式人工智能入门课
-> 地址：https://microsoft.github.io/generative-ai-for-beginners/
-> 
-> [中文版学习笔记](https://app.heptabase.com/w/87c086b90e0b4d1583896a3a43a22fbdca0fd8430117c351e552989454025ad0)
-
-一共12小节，每节课包含「视频介绍 + 图文讲解 + 示例代码 + 课程作业 + 更多资源链接」，是学习生成式人工智能基础知识和应用开发技能的首选入门课。
-
 ### 开发应用
 - [一键部署自己的 Gemini Pro Chat 大模型应用，无需服务器](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) 支持一键部署各种 Github 开源AI项目，而且不需要服务器！
 - [川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)为 ChatGPT/ChatGLM/LLaMA/StableLM/MOSS 等多种 LLM 提供了一个轻快好用的 Web 图形界面
