@@ -95,18 +95,3 @@
 比如，怎么理解那些不变的事物？这是思考杠杆。
 比如，怎么感受每一刻的拥有和幸运？这是幸福杠杆。
 生活是发现，更是创造。
-
-### 开发应用
-- [一键部署自己的 Gemini Pro Chat 大模型应用，无需服务器](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) 支持一键部署各种 Github 开源AI项目，而且不需要服务器！
-- [川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)为 ChatGPT/ChatGLM/LLaMA/StableLM/MOSS 等多种 LLM 提供了一个轻快好用的 Web 图形界面
-- [LobeChat 高性能聊天机器人框架](https://github.com/lobehub/lobe-chat) 可一键免费部署私人 ChatGPT/LLM 网页应用程序，支持完整的 Markdown 渲染，包括代码高亮、LaTex 公式、Mermaid 流程图等，可自定义 AI 助手角色与服务器域名。
-
-
-- [大模型应用知识地图：RAG、Agent、Prompt Engineering 要点概览](https://www.mubu.com/doc/2yVWogEso5i)
-- [动画科普，Transformer 的诞生，让生成式 AI 成为可能](https://baoyu.io/pages/ft/generative-ai)
-- [图解大语言模型](https://mp.weixin.qq.com/s/P1enjLqH-UWNy7uaIviWRA)
-- [一站式 LLM 底层技术原理入门指南](https://s3tlxskbq3.feishu.cn/docx/NyPqdCKraoXz9gxNVCfcIFdnnAc)面向非科班出身但想要了解 AI 技术原理的受众的飞书文档。文档从浅到深，覆盖了非常多内容细节，并在持续更新 LLM 最新技术进展及相关原理！
-- [大规模语言模型：从理论到实践](https://intro-llm.github.io/)复旦大学张奇教授团队写了一本在线免费的电子书，《大规模语言模型：从理论到实践》，大概有 300 页篇幅，将大模型从理论到实战的每个阶段都描述的较为清楚。
-- [LLM 应用全栈开发 | 实践笔记](https://aitutor.liduos.com)理论学习部分由 Langchain、LlamaIndex 等开源工具文档、一些最佳实践的技术博客、论文阅读三部分组成。在每个工具的理论学习结束后，辅以实践性代码帮助理解。最后会将各个模块整合起来实现一个信息处理系统。
-- [LLM 学习手册，掌握核心知识点 & 学会如何选择模型](https://ai-guide.future.mozilla.org/)
-- [2023 年 LLM 如何入门？请看这篇综述！丨论文解读](https://juejin.cn/post/7253476306008031287)
