@@ -4,26 +4,6 @@ category: 生活
 date: 2023-3-25
 vssue: false
 ---
-
-### coze
-
-> https://www.coze.com/
-
-### Halo
-> https://github.com/halo-dev/halo
-
-一个强大易用的开源建站工具。
-
-## Input
-
-## Output
-|        功能        |                   平台                   |
-| :----------------: | :--------------------------------------: |
-|     资讯、观点     |             语雀(备份)、微博             |
-|     技术、意见     | github（base）、语雀(备份)、掘金、公众号 |
-| 看片、读书、读后感 |            豆瓣、公众号、语雀            |
-|        生活        |    B站、小红书、朋友圈、公众号、语雀     |
-
 ### 专栏类
 - [baoyu](https://baoyu.io/)
 - [dev.to](https://dev.to/)
