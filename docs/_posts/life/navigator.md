@@ -4,6 +4,11 @@ category: 生活
 date: 2023-3-25
 vssue: false
 ---
+[Aceternity UI](https://ui.aceternity.com/components)
+设计感极强的 UI 组件
+快速搭建设计新颖的官网。
+在组件实例中查看效果，直接复制粘贴完整代码进行使用。
+
 ### 专栏类
 - [baoyu](https://baoyu.io/)
 - [dev.to](https://dev.to/)
